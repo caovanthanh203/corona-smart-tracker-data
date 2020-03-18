@@ -4,3 +4,4 @@ cp /home/ubuntu/corona/map.json /home/ubuntu/corona-smart-tracker-data/
 cp /home/ubuntu/corona/chart.json /home/ubuntu/corona-smart-tracker-data/
 git add .
 git commit -m "Updated at $(date)"
+git push
