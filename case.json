@@ -101,7 +101,7 @@
                 "Confirmed": 1486,
                 "Country_Region": "Belgium",
                 "Recovered": 14,
-                "Deaths": 10
+                "Deaths": 14
             }
         },
         {
@@ -370,6 +370,14 @@
         },
         {
             "attributes": {
+                "Confirmed": 155,
+                "Country_Region": "Ecuador",
+                "Recovered": 0,
+                "Deaths": 2
+            }
+        },
+        {
+            "attributes": {
                 "Confirmed": 152,
                 "Country_Region": "India",
                 "Recovered": 14,
@@ -430,14 +438,6 @@
                 "Country_Region": "UAE",
                 "Recovered": 26,
                 "Deaths": 0
-            }
-        },
-        {
-            "attributes": {
-                "Confirmed": 111,
-                "Country_Region": "Ecuador",
-                "Recovered": 0,
-                "Deaths": 2
             }
         },
         {
@@ -747,15 +747,15 @@
         {
             "attributes": {
                 "Confirmed": 29,
-                "Country_Region": "Tunisia",
+                "Country_Region": "Lithuania",
                 "Recovered": 1,
                 "Deaths": 0
             }
         },
         {
             "attributes": {
-                "Confirmed": 27,
-                "Country_Region": "Lithuania",
+                "Confirmed": 29,
+                "Country_Region": "Tunisia",
                 "Recovered": 1,
                 "Deaths": 0
             }
