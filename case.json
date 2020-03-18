@@ -1171,6 +1171,14 @@
         {
             "attributes": {
                 "Confirmed": 2,
+                "Country_Region": "Mauritania",
+                "Recovered": 0,
+                "Deaths": 0
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 2,
                 "Country_Region": "Montenegro",
                 "Recovered": 0,
                 "Deaths": 0
@@ -1308,14 +1316,6 @@
             "attributes": {
                 "Confirmed": 1,
                 "Country_Region": "Vatican City",
-                "Recovered": 0,
-                "Deaths": 0
-            }
-        },
-        {
-            "attributes": {
-                "Confirmed": 1,
-                "Country_Region": "Mauritania",
                 "Recovered": 0,
                 "Deaths": 0
             }
