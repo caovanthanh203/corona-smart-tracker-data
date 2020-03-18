@@ -50,7 +50,7 @@
         },
         {
             "attributes": {
-                "Confirmed": 8438,
+                "Confirmed": 8442,
                 "Country_Region": "USA",
                 "Recovered": 106,
                 "Deaths": 149
@@ -418,18 +418,18 @@
         },
         {
             "attributes": {
-                "Confirmed": 133,
-                "Country_Region": "Lebanon",
+                "Confirmed": 140,
+                "Country_Region": "San Marino",
                 "Recovered": 4,
-                "Deaths": 4
+                "Deaths": 14
             }
         },
         {
             "attributes": {
-                "Confirmed": 119,
-                "Country_Region": "San Marino",
+                "Confirmed": 133,
+                "Country_Region": "Lebanon",
                 "Recovered": 4,
-                "Deaths": 11
+                "Deaths": 4
             }
         },
         {
@@ -602,6 +602,14 @@
         },
         {
             "attributes": {
+                "Confirmed": 58,
+                "Country_Region": "Uruguay",
+                "Recovered": 0,
+                "Deaths": 0
+            }
+        },
+        {
+            "attributes": {
                 "Confirmed": 56,
                 "Country_Region": "Jordan",
                 "Recovered": 1,
@@ -637,14 +645,6 @@
                 "Confirmed": 51,
                 "Country_Region": "Sri Lanka",
                 "Recovered": 3,
-                "Deaths": 0
-            }
-        },
-        {
-            "attributes": {
-                "Confirmed": 50,
-                "Country_Region": "Uruguay",
-                "Recovered": 0,
                 "Deaths": 0
             }
         },
@@ -1043,15 +1043,15 @@
         {
             "attributes": {
                 "Confirmed": 6,
-                "Country_Region": "Seychelles",
+                "Country_Region": "Puerto Rico",
                 "Recovered": 0,
                 "Deaths": 0
             }
         },
         {
             "attributes": {
-                "Confirmed": 5,
-                "Country_Region": "Puerto Rico",
+                "Confirmed": 6,
+                "Country_Region": "Seychelles",
                 "Recovered": 0,
                 "Deaths": 0
             }
@@ -1172,6 +1172,14 @@
             "attributes": {
                 "Confirmed": 2,
                 "Country_Region": "Benin",
+                "Recovered": 0,
+                "Deaths": 0
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 2,
+                "Country_Region": "Bermuda",
                 "Recovered": 0,
                 "Deaths": 0
             }
