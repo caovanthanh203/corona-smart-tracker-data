@@ -1,7 +1,7 @@
 # corona-smart-tracker-data
-This is shared data of Corona Smart Tracker for android
+This is shared COVID-19 data of Corona Smart Tracker for android
 Data is crawled from various source as WorldoMeter, ArcGis, Wikipedia,...
-
+Keywords for someone can findout: covid19 data, corona data, coronavirus data, json API
 ## map.json
 `
 {"features": [
