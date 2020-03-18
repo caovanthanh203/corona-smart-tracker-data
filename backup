@@ -1,7 +1,10 @@
 cd /home/ubuntu/corona-smart-tracker-data
-cp /home/ubuntu/corona/case.json /home/ubuntu/corona-smart-tracker-data/
-cp /home/ubuntu/corona/map.json /home/ubuntu/corona-smart-tracker-data/
-cp /home/ubuntu/corona/chart.json /home/ubuntu/corona-smart-tracker-data/
+cp /home/ubuntu/corona/case.json /home/ubuntu/corona-smart-tracker-data/case_origin.json
+cp /home/ubuntu/corona/map.json /home/ubuntu/corona-smart-tracker-data/map_origin_json
+cp /home/ubuntu/corona/chart.json /home/ubuntu/corona-smart-tracker-data/chart_origin.json
+json_reformat < /home/ubuntu/corona-smart-tracker-data/case_origin.json > /home/ubuntu/corona-smart-tracker-data/case.json
+json_reformat < /home/ubuntu/corona-smart-tracker-data/map_origin.json > /home/ubuntu/corona-smart-tracker-data/map.json
+json_reformat < /home/ubuntu/corona-smart-tracker-data/chart_origin.json > /home/ubuntu/corona-smart-tracker-data/chart.json
 git add .
 git commit -m "Updated at $(date)"
 git push
