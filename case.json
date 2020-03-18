@@ -362,10 +362,10 @@
         },
         {
             "attributes": {
-                "Confirmed": 154,
+                "Confirmed": 164,
                 "Country_Region": "Iraq",
                 "Recovered": 41,
-                "Deaths": 11
+                "Deaths": 12
             }
         },
         {
@@ -595,6 +595,14 @@
         {
             "attributes": {
                 "Confirmed": 50,
+                "Country_Region": "Sri Lanka",
+                "Recovered": 3,
+                "Deaths": 0
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 50,
                 "Country_Region": "Costa Rica",
                 "Recovered": 0,
                 "Deaths": 0
@@ -614,14 +622,6 @@
                 "Country_Region": "Morocco",
                 "Recovered": 1,
                 "Deaths": 2
-            }
-        },
-        {
-            "attributes": {
-                "Confirmed": 49,
-                "Country_Region": "Sri Lanka",
-                "Recovered": 3,
-                "Deaths": 0
             }
         },
         {
@@ -1252,6 +1252,14 @@
             "attributes": {
                 "Confirmed": 1,
                 "Country_Region": "Congo",
+                "Recovered": 0,
+                "Deaths": 0
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 1,
+                "Country_Region": "Djibouti",
                 "Recovered": 0,
                 "Deaths": 0
             }
