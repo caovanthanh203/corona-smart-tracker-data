@@ -4189,23 +4189,34 @@
         },
         {
             "attributes": {
-                "Confirmed": 1,
-                "Long_": "105.974808",
-                "Deaths": 0,
-                "Province_State": "Ninh Bình",
-                "Country_Region": "Ninh Bình, Việt Nam",
-                "Lat": "20.250924",
-                "Recovered": 0
-            }
-        },
-        {
-            "attributes": {
                 "Confirmed": 9,
                 "Long_": "108.141174",
                 "Deaths": 0,
                 "Province_State": "Bình Thuận",
                 "Country_Region": "Bình Thuận, Việt Nam",
                 "Lat": "11.100252",
+                "Recovered": 0
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 2,
+                "Long_": "107.58482",
+                "Deaths": 0,
+                "Province_State": "Thừa Thiên Huế",
+                "Country_Region": "Thừa Thiên Huế, Việt Nam",
+                "Lat": "16.463744",
+                "Recovered": 0
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 1,
+                "Long_": "105.974808",
+                "Deaths": 0,
+                "Province_State": "Ninh Bình",
+                "Country_Region": "Ninh Bình, Việt Nam",
+                "Lat": "20.250924",
                 "Recovered": 0
             }
         },
@@ -4223,34 +4234,12 @@
         {
             "attributes": {
                 "Confirmed": 1,
-                "Long_": "109.047768",
+                "Long_": "105.309448",
                 "Deaths": 0,
-                "Province_State": "Khánh Hòa",
-                "Country_Region": "Khánh Hòa, Việt Nam",
-                "Lat": "12.073058",
+                "Province_State": "Thanh Hóa",
+                "Country_Region": "Thanh Hóa, Việt Nam",
+                "Lat": "20.141049",
                 "Recovered": 1
-            }
-        },
-        {
-            "attributes": {
-                "Confirmed": 2,
-                "Long_": "107.58482",
-                "Deaths": 0,
-                "Province_State": "Thừa Thiên Huế",
-                "Country_Region": "Thừa Thiên Huế, Việt Nam",
-                "Lat": "16.463744",
-                "Recovered": 0
-            }
-        },
-        {
-            "attributes": {
-                "Confirmed": 2,
-                "Long_": "108.99028",
-                "Deaths": 0,
-                "Province_State": "Ninh Thuận",
-                "Country_Region": "Ninh Thuận, Việt Nam",
-                "Lat": "11.56556",
-                "Recovered": 0
             }
         },
         {
@@ -4266,13 +4255,24 @@
         },
         {
             "attributes": {
-                "Confirmed": 4,
-                "Long_": "108.220556",
+                "Confirmed": 2,
+                "Long_": "108.99028",
                 "Deaths": 0,
-                "Province_State": "Đà Nẵng",
-                "Country_Region": "Đà Nẵng, Việt Nam",
-                "Lat": "16.031944",
+                "Province_State": "Ninh Thuận",
+                "Country_Region": "Ninh Thuận, Việt Nam",
+                "Lat": "11.56556",
                 "Recovered": 0
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 1,
+                "Long_": "109.047768",
+                "Deaths": 0,
+                "Province_State": "Khánh Hòa",
+                "Country_Region": "Khánh Hòa, Việt Nam",
+                "Lat": "12.073058",
+                "Recovered": 1
             }
         },
         {
@@ -4288,13 +4288,13 @@
         },
         {
             "attributes": {
-                "Confirmed": 1,
-                "Long_": "105.309448",
+                "Confirmed": 4,
+                "Long_": "108.220556",
                 "Deaths": 0,
-                "Province_State": "Thanh Hóa",
-                "Country_Region": "Thanh Hóa, Việt Nam",
-                "Lat": "20.141049",
-                "Recovered": 1
+                "Province_State": "Đà Nẵng",
+                "Country_Region": "Đà Nẵng, Việt Nam",
+                "Lat": "16.031944",
+                "Recovered": 0
             }
         },
         {
@@ -6560,7 +6560,7 @@
         },
         {
             "attributes": {
-                "Confirmed": 3,
+                "Confirmed": 4,
                 "Long_": 20.769094354393193,
                 "Deaths": 0,
                 "Province_State": "Świętokrzyskie",
@@ -6620,7 +6620,7 @@
         },
         {
             "attributes": {
-                "Confirmed": 24,
+                "Confirmed": 26,
                 "Long_": 18.99409922612091,
                 "Deaths": 0,
                 "Province_State": "Śląskie",
@@ -6635,7 +6635,7 @@
         },
         {
             "attributes": {
-                "Confirmed": 7,
+                "Confirmed": 11,
                 "Long_": 20.82493051086983,
                 "Deaths": 0,
                 "Province_State": "Warmińsko-mazurskie",
@@ -6755,7 +6755,7 @@
         },
         {
             "attributes": {
-                "Confirmed": 11,
+                "Confirmed": 12,
                 "Long_": 22.16911626377007,
                 "Deaths": 1,
                 "Province_State": "Podkarpackie",

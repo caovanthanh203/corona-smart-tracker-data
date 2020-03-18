@@ -101,7 +101,7 @@
                 "Confirmed": 1471,
                 "Country_Region": "Norway",
                 "Recovered": 1,
-                "Deaths": 3
+                "Deaths": 4
             }
         },
         {
@@ -274,6 +274,14 @@
         },
         {
             "attributes": {
+                "Confirmed": 246,
+                "Country_Region": "Romania",
+                "Recovered": 19,
+                "Deaths": 0
+            }
+        },
+        {
+            "attributes": {
                 "Confirmed": 241,
                 "Country_Region": "Bahrain",
                 "Recovered": 88,
@@ -285,14 +293,6 @@
                 "Confirmed": 225,
                 "Country_Region": "Estonia",
                 "Recovered": 1,
-                "Deaths": 0
-            }
-        },
-        {
-            "attributes": {
-                "Confirmed": 217,
-                "Country_Region": "Romania",
-                "Recovered": 19,
                 "Deaths": 0
             }
         },
@@ -506,6 +506,14 @@
         },
         {
             "attributes": {
+                "Confirmed": 81,
+                "Country_Region": "Croatia",
+                "Recovered": 5,
+                "Deaths": 0
+            }
+        },
+        {
+            "attributes": {
                 "Confirmed": 79,
                 "Country_Region": "Argentina",
                 "Recovered": 3,
@@ -517,14 +525,6 @@
                 "Confirmed": 75,
                 "Country_Region": "Colombia",
                 "Recovered": 1,
-                "Deaths": 0
-            }
-        },
-        {
-            "attributes": {
-                "Confirmed": 69,
-                "Country_Region": "Croatia",
-                "Recovered": 5,
                 "Deaths": 0
             }
         },
@@ -620,7 +620,7 @@
             "attributes": {
                 "Confirmed": 45,
                 "Country_Region": "Sri Lanka",
-                "Recovered": 1,
+                "Recovered": 3,
                 "Deaths": 0
             }
         },
