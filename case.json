@@ -156,7 +156,7 @@
             "attributes": {
                 "Confirmed": 642,
                 "Country_Region": "Portugal",
-                "Recovered": 3,
+                "Recovered": 4,
                 "Deaths": 2
             }
         },
@@ -947,6 +947,14 @@
         {
             "attributes": {
                 "Confirmed": 8,
+                "Country_Region": "Gibraltar",
+                "Recovered": 2,
+                "Deaths": 0
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 8,
                 "Country_Region": "Guam",
                 "Recovered": 0,
                 "Deaths": 0
@@ -1077,14 +1085,6 @@
                 "Confirmed": 3,
                 "Country_Region": "Gabon",
                 "Recovered": 0,
-                "Deaths": 0
-            }
-        },
-        {
-            "attributes": {
-                "Confirmed": 3,
-                "Country_Region": "Gibraltar",
-                "Recovered": 2,
                 "Deaths": 0
             }
         },
