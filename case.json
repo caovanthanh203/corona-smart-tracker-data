@@ -90,7 +90,7 @@
         },
         {
             "attributes": {
-                "Confirmed": 1521,
+                "Confirmed": 1522,
                 "Country_Region": "Norway",
                 "Recovered": 1,
                 "Deaths": 4
@@ -642,6 +642,14 @@
         },
         {
             "attributes": {
+                "Confirmed": 48,
+                "Country_Region": "Malta",
+                "Recovered": 2,
+                "Deaths": 0
+            }
+        },
+        {
+            "attributes": {
                 "Confirmed": 44,
                 "Country_Region": "Palestine",
                 "Recovered": 0,
@@ -668,14 +676,6 @@
             "attributes": {
                 "Confirmed": 38,
                 "Country_Region": "Bosnia and Herzegovina",
-                "Recovered": 2,
-                "Deaths": 0
-            }
-        },
-        {
-            "attributes": {
-                "Confirmed": 38,
-                "Country_Region": "Malta",
                 "Recovered": 2,
                 "Deaths": 0
             }
@@ -1164,6 +1164,14 @@
             "attributes": {
                 "Confirmed": 2,
                 "Country_Region": "Namibia",
+                "Recovered": 0,
+                "Deaths": 0
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 2,
+                "Country_Region": "New Caledonia",
                 "Recovered": 0,
                 "Deaths": 0
             }
