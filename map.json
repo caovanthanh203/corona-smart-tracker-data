@@ -4223,23 +4223,34 @@
         },
         {
             "attributes": {
+                "Confirmed": 2,
+                "Long_": "104.15786",
+                "Deaths": 0,
+                "Province_State": "Lào Cai",
+                "Country_Region": "Lào Cai, Việt Nam",
+                "Lat": "22.379997",
+                "Recovered": 0
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 2,
+                "Long_": "108.99028",
+                "Deaths": 0,
+                "Province_State": "Ninh Thuận",
+                "Country_Region": "Ninh Thuận, Việt Nam",
+                "Lat": "11.56556",
+                "Recovered": 0
+            }
+        },
+        {
+            "attributes": {
                 "Confirmed": 9,
                 "Long_": "108.141174",
                 "Deaths": 0,
                 "Province_State": "Bình Thuận",
                 "Country_Region": "Bình Thuận, Việt Nam",
                 "Lat": "11.100252",
-                "Recovered": 0
-            }
-        },
-        {
-            "attributes": {
-                "Confirmed": 1,
-                "Long_": "105.974808",
-                "Deaths": 0,
-                "Province_State": "Ninh Bình",
-                "Country_Region": "Ninh Bình, Việt Nam",
-                "Lat": "20.250924",
                 "Recovered": 0
             }
         },
@@ -4256,39 +4267,6 @@
         },
         {
             "attributes": {
-                "Confirmed": 2,
-                "Long_": "108.99028",
-                "Deaths": 0,
-                "Province_State": "Ninh Thuận",
-                "Country_Region": "Ninh Thuận, Việt Nam",
-                "Lat": "11.56556",
-                "Recovered": 0
-            }
-        },
-        {
-            "attributes": {
-                "Confirmed": 2,
-                "Long_": "104.15786",
-                "Deaths": 0,
-                "Province_State": "Lào Cai",
-                "Country_Region": "Lào Cai, Việt Nam",
-                "Lat": "22.379997",
-                "Recovered": 0
-            }
-        },
-        {
-            "attributes": {
-                "Confirmed": 11,
-                "Long_": "106.681944",
-                "Deaths": 0,
-                "Province_State": "TP. Hồ Chí Minh",
-                "Country_Region": "TP. Hồ Chí Minh, Việt Nam",
-                "Lat": "10.769444",
-                "Recovered": 3
-            }
-        },
-        {
-            "attributes": {
                 "Confirmed": 1,
                 "Long_": "109.047768",
                 "Deaths": 0,
@@ -4300,12 +4278,12 @@
         },
         {
             "attributes": {
-                "Confirmed": 4,
-                "Long_": "108.220556",
+                "Confirmed": 1,
+                "Long_": "105.974808",
                 "Deaths": 0,
-                "Province_State": "Đà Nẵng",
-                "Country_Region": "Đà Nẵng, Việt Nam",
-                "Lat": "16.031944",
+                "Province_State": "Ninh Bình",
+                "Country_Region": "Ninh Bình, Việt Nam",
+                "Lat": "20.250924",
                 "Recovered": 0
             }
         },
@@ -4329,6 +4307,28 @@
                 "Country_Region": "Vĩnh Phúc, Việt Nam",
                 "Lat": "21.363571",
                 "Recovered": 11
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 11,
+                "Long_": "106.681944",
+                "Deaths": 0,
+                "Province_State": "TP. Hồ Chí Minh",
+                "Country_Region": "TP. Hồ Chí Minh, Việt Nam",
+                "Lat": "10.769444",
+                "Recovered": 3
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 4,
+                "Long_": "108.220556",
+                "Deaths": 0,
+                "Province_State": "Đà Nẵng",
+                "Country_Region": "Đà Nẵng, Việt Nam",
+                "Lat": "16.031944",
+                "Recovered": 0
             }
         },
         {
@@ -7389,7 +7389,7 @@
         },
         {
             "attributes": {
-                "Confirmed": 1023,
+                "Confirmed": 1074,
                 "Long_": 50.8764,
                 "Deaths": -1,
                 "Province_State": "Qom",
@@ -7400,7 +7400,7 @@
         },
         {
             "attributes": {
-                "Confirmed": 3774,
+                "Confirmed": 4260,
                 "Long_": 51.42151,
                 "Deaths": -1,
                 "Province_State": "Tehran",
@@ -7411,7 +7411,7 @@
         },
         {
             "attributes": {
-                "Confirmed": 1374,
+                "Confirmed": 1494,
                 "Long_": 52.517056,
                 "Deaths": -1,
                 "Province_State": "Mazandaran",
@@ -7422,7 +7422,7 @@
         },
         {
             "attributes": {
-                "Confirmed": 714,
+                "Confirmed": 906,
                 "Long_": 50.58,
                 "Deaths": -1,
                 "Province_State": "Alburz",
@@ -7433,7 +7433,7 @@
         },
         {
             "attributes": {
-                "Confirmed": 484,
+                "Confirmed": 577,
                 "Long_": 54.723075,
                 "Deaths": -1,
                 "Province_State": "Semnan",
@@ -7444,7 +7444,7 @@
         },
         {
             "attributes": {
-                "Confirmed": 301,
+                "Confirmed": 351,
                 "Long_": 55.18126,
                 "Deaths": -1,
                 "Province_State": "Golestan",
@@ -7455,7 +7455,7 @@
         },
         {
             "attributes": {
-                "Confirmed": 447,
+                "Confirmed": 526,
                 "Long_": 50.903877,
                 "Deaths": -1,
                 "Province_State": "Qazvin",
@@ -7466,7 +7466,7 @@
         },
         {
             "attributes": {
-                "Confirmed": 1301,
+                "Confirmed": 1538,
                 "Long_": 51.67761,
                 "Deaths": -1,
                 "Province_State": "Esfahan",
@@ -7477,7 +7477,7 @@
         },
         {
             "attributes": {
-                "Confirmed": 295,
+                "Confirmed": 386,
                 "Long_": 53.222766,
                 "Deaths": -1,
                 "Province_State": "Fars",
@@ -7488,7 +7488,7 @@
         },
         {
             "attributes": {
-                "Confirmed": 106,
+                "Confirmed": 124,
                 "Long_": 57.852122,
                 "Deaths": -1,
                 "Province_State": "Hormozgan",
@@ -7499,7 +7499,7 @@
         },
         {
             "attributes": {
-                "Confirmed": 32,
+                "Confirmed": 45,
                 "Long_": 51.538184,
                 "Deaths": -1,
                 "Province_State": "Kohgiluyeh and Boyer-Ahmad",
@@ -7510,7 +7510,7 @@
         },
         {
             "attributes": {
-                "Confirmed": 52,
+                "Confirmed": 58,
                 "Long_": 50.818164,
                 "Deaths": -1,
                 "Province_State": "Chaharmahal and Bakhtiari",
@@ -7521,7 +7521,7 @@
         },
         {
             "attributes": {
-                "Confirmed": 38,
+                "Confirmed": 46,
                 "Long_": 51.53051,
                 "Deaths": -1,
                 "Province_State": "Bushehr",
@@ -7532,7 +7532,7 @@
         },
         {
             "attributes": {
-                "Confirmed": 858,
+                "Confirmed": 924,
                 "Long_": 49.663809,
                 "Deaths": -1,
                 "Province_State": "Gilan",
@@ -7543,7 +7543,7 @@
         },
         {
             "attributes": {
-                "Confirmed": 184,
+                "Confirmed": 213,
                 "Long_": 48.227679,
                 "Deaths": -1,
                 "Province_State": "Ardebil",
@@ -7554,7 +7554,7 @@
         },
         {
             "attributes": {
-                "Confirmed": 409,
+                "Confirmed": 571,
                 "Long_": 46.476048,
                 "Deaths": -1,
                 "Province_State": "East Azerbaijan",
@@ -7565,7 +7565,7 @@
         },
         {
             "attributes": {
-                "Confirmed": 224,
+                "Confirmed": 300,
                 "Long_": 44.783185,
                 "Deaths": -1,
                 "Province_State": "West Azerbaijan",
@@ -7576,7 +7576,7 @@
         },
         {
             "attributes": {
-                "Confirmed": 165,
+                "Confirmed": 189,
                 "Long_": 47.007743,
                 "Deaths": -1,
                 "Province_State": "Kurdistan",
@@ -7587,7 +7587,7 @@
         },
         {
             "attributes": {
-                "Confirmed": 216,
+                "Confirmed": 261,
                 "Long_": 48.402154,
                 "Deaths": -1,
                 "Province_State": "Zanjan",
@@ -7598,7 +7598,7 @@
         },
         {
             "attributes": {
-                "Confirmed": 712,
+                "Confirmed": 782,
                 "Long_": 49.663993,
                 "Deaths": -1,
                 "Province_State": "Markazi",
@@ -7609,7 +7609,7 @@
         },
         {
             "attributes": {
-                "Confirmed": 136,
+                "Confirmed": 155,
                 "Long_": 48.51456,
                 "Deaths": -1,
                 "Province_State": "Hamedan",
@@ -7620,7 +7620,7 @@
         },
         {
             "attributes": {
-                "Confirmed": 306,
+                "Confirmed": 359,
                 "Long_": 48.694,
                 "Deaths": -1,
                 "Province_State": "Khuzistan",
@@ -7631,7 +7631,7 @@
         },
         {
             "attributes": {
-                "Confirmed": 131,
+                "Confirmed": 152,
                 "Long_": 47.065,
                 "Deaths": -1,
                 "Province_State": "Kermanshah",
@@ -7642,7 +7642,7 @@
         },
         {
             "attributes": {
-                "Confirmed": 289,
+                "Confirmed": 363,
                 "Long_": 48.459986,
                 "Deaths": -1,
                 "Province_State": "Lorestan",
@@ -7653,7 +7653,7 @@
         },
         {
             "attributes": {
-                "Confirmed": 103,
+                "Confirmed": 120,
                 "Long_": 46.840458,
                 "Deaths": -1,
                 "Province_State": "Ilam",
@@ -7664,7 +7664,7 @@
         },
         {
             "attributes": {
-                "Confirmed": 568,
+                "Confirmed": 661,
                 "Long_": 59.099818,
                 "Deaths": -1,
                 "Province_State": "Razavi Khorasan",
@@ -7675,7 +7675,7 @@
         },
         {
             "attributes": {
-                "Confirmed": 71,
+                "Confirmed": 88,
                 "Long_": 60.763203,
                 "Deaths": -1,
                 "Province_State": "Sistan and Baluchestan",
@@ -7686,7 +7686,7 @@
         },
         {
             "attributes": {
-                "Confirmed": 377,
+                "Confirmed": 471,
                 "Long_": 54.3675,
                 "Deaths": -1,
                 "Province_State": "Yazd",
@@ -7697,7 +7697,7 @@
         },
         {
             "attributes": {
-                "Confirmed": 107,
+                "Confirmed": 140,
                 "Long_": 58.371785,
                 "Deaths": -1,
                 "Province_State": "South Khorasan",
@@ -7708,7 +7708,7 @@
         },
         {
             "attributes": {
-                "Confirmed": 97,
+                "Confirmed": 127,
                 "Long_": 57.07879,
                 "Deaths": -1,
                 "Province_State": "Kerman",
@@ -7719,7 +7719,7 @@
         },
         {
             "attributes": {
-                "Confirmed": 97,
+                "Confirmed": 100,
                 "Long_": 56.861297,
                 "Deaths": -1,
                 "Province_State": "North Khorasan",
