@@ -58,7 +58,7 @@
         },
         {
             "attributes": {
-                "Confirmed": 8042,
+                "Confirmed": 8055,
                 "Country_Region": "USA",
                 "Recovered": 106,
                 "Deaths": 127
@@ -354,6 +354,14 @@
         },
         {
             "attributes": {
+                "Confirmed": 191,
+                "Country_Region": "Turkey",
+                "Recovered": 0,
+                "Deaths": 2
+            }
+        },
+        {
+            "attributes": {
                 "Confirmed": 181,
                 "Country_Region": "Hong Kong",
                 "Recovered": 92,
@@ -461,14 +469,6 @@
                 "Confirmed": 100,
                 "Country_Region": "Taiwan",
                 "Recovered": 20,
-                "Deaths": 1
-            }
-        },
-        {
-            "attributes": {
-                "Confirmed": 98,
-                "Country_Region": "Turkey",
-                "Recovered": 0,
                 "Deaths": 1
             }
         },
