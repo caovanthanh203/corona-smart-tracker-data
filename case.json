@@ -66,10 +66,18 @@
         },
         {
             "attributes": {
-                "Confirmed": 2742,
+                "Confirmed": 2772,
                 "Country_Region": "Switzerland",
                 "Recovered": 15,
                 "Deaths": 27
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 2626,
+                "Country_Region": "UK",
+                "Recovered": 65,
+                "Deaths": 71
             }
         },
         {
@@ -78,14 +86,6 @@
                 "Country_Region": "Netherlands",
                 "Recovered": 2,
                 "Deaths": 58
-            }
-        },
-        {
-            "attributes": {
-                "Confirmed": 1950,
-                "Country_Region": "UK",
-                "Recovered": 65,
-                "Deaths": 71
             }
         },
         {
@@ -445,7 +445,7 @@
                 "Confirmed": 105,
                 "Country_Region": "Slovakia",
                 "Recovered": 0,
-                "Deaths": 1
+                "Deaths": 0
             }
         },
         {
