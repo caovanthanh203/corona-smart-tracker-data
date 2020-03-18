@@ -58,10 +58,10 @@
         },
         {
             "attributes": {
-                "Confirmed": 8020,
+                "Confirmed": 8042,
                 "Country_Region": "USA",
                 "Recovered": 106,
-                "Deaths": 125
+                "Deaths": 127
             }
         },
         {
@@ -618,6 +618,14 @@
         },
         {
             "attributes": {
+                "Confirmed": 53,
+                "Country_Region": "Andorra",
+                "Recovered": 1,
+                "Deaths": 0
+            }
+        },
+        {
+            "attributes": {
                 "Confirmed": 51,
                 "Country_Region": "Belarus",
                 "Recovered": 5,
@@ -653,14 +661,6 @@
                 "Confirmed": 44,
                 "Country_Region": "Palestine",
                 "Recovered": 0,
-                "Deaths": 0
-            }
-        },
-        {
-            "attributes": {
-                "Confirmed": 39,
-                "Country_Region": "Andorra",
-                "Recovered": 1,
                 "Deaths": 0
             }
         },
