@@ -77,7 +77,7 @@
                 "Confirmed": 2689,
                 "Country_Region": "UK",
                 "Recovered": 65,
-                "Deaths": 108
+                "Deaths": 128
             }
         },
         {
@@ -1292,6 +1292,14 @@
             "attributes": {
                 "Confirmed": 1,
                 "Country_Region": "CAR",
+                "Recovered": 0,
+                "Deaths": 0
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 1,
+                "Country_Region": "Chad",
                 "Recovered": 0,
                 "Deaths": 0
             }
