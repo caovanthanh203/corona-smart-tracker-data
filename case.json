@@ -26,10 +26,10 @@
         },
         {
             "attributes": {
-                "Confirmed": 17395,
+                "Confirmed": 17963,
                 "Country_Region": "Spain",
                 "Recovered": 1107,
-                "Deaths": 803
+                "Deaths": 830
             }
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "attributes": {
-                "Confirmed": 11432,
+                "Confirmed": 11597,
                 "Country_Region": "USA",
                 "Recovered": 108,
                 "Deaths": 171
@@ -939,6 +939,14 @@
         {
             "attributes": {
                 "Confirmed": 11,
+                "Country_Region": "Channel Islands",
+                "Recovered": 0,
+                "Deaths": 0
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 11,
                 "Country_Region": "Ghana",
                 "Recovered": 0,
                 "Deaths": 0
@@ -1004,14 +1012,6 @@
             "attributes": {
                 "Confirmed": 9,
                 "Country_Region": "Trinidad and Tobago",
-                "Recovered": 0,
-                "Deaths": 0
-            }
-        },
-        {
-            "attributes": {
-                "Confirmed": 7,
-                "Country_Region": "Channel Islands",
                 "Recovered": 0,
                 "Deaths": 0
             }
