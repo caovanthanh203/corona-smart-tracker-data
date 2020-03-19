@@ -26,10 +26,10 @@
         },
         {
             "attributes": {
-                "Confirmed": 17147,
+                "Confirmed": 17395,
                 "Country_Region": "Spain",
                 "Recovered": 1107,
-                "Deaths": 767
+                "Deaths": 803
             }
         },
         {
@@ -45,7 +45,7 @@
                 "Confirmed": 9521,
                 "Country_Region": "USA",
                 "Recovered": 108,
-                "Deaths": 159
+                "Deaths": 160
             }
         },
         {
@@ -106,7 +106,7 @@
         },
         {
             "attributes": {
-                "Confirmed": 1716,
+                "Confirmed": 1718,
                 "Country_Region": "Norway",
                 "Recovered": 1,
                 "Deaths": 7
@@ -827,6 +827,14 @@
         {
             "attributes": {
                 "Confirmed": 18,
+                "Country_Region": "Ukraine",
+                "Recovered": 0,
+                "Deaths": 2
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 18,
                 "Country_Region": "Bangladesh",
                 "Recovered": 3,
                 "Deaths": 1
@@ -838,14 +846,6 @@
                 "Country_Region": "Macao",
                 "Recovered": 10,
                 "Deaths": 0
-            }
-        },
-        {
-            "attributes": {
-                "Confirmed": 16,
-                "Country_Region": "Ukraine",
-                "Recovered": 0,
-                "Deaths": 2
             }
         },
         {
@@ -1019,15 +1019,15 @@
         {
             "attributes": {
                 "Confirmed": 7,
-                "Country_Region": "Kenya",
+                "Country_Region": "Ethiopia",
                 "Recovered": 0,
                 "Deaths": 0
             }
         },
         {
             "attributes": {
-                "Confirmed": 6,
-                "Country_Region": "Ethiopia",
+                "Confirmed": 7,
+                "Country_Region": "Kenya",
                 "Recovered": 0,
                 "Deaths": 0
             }
