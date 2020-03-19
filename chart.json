@@ -840,13 +840,26 @@
             "attributes": {
                 "Report_Date": 1584504000000,
                 "Mainland_China": 81102,
-                "Other_Locations": 133792,
-                "Total_Confirmed": 214894,
+                "Other_Locations": 133813,
+                "Total_Confirmed": 214915,
                 "Total_Recovered": 83313,
                 "Report_Date_String": "2020/03/18",
-                "Delta_Confirmed": 17726,
+                "Delta_Confirmed": 17747,
                 "Delta_Recovered": 2473,
                 "ObjectId": 59
+            }
+        },
+        {
+            "attributes": {
+                "Report_Date": 1584590400000,
+                "Mainland_China": 81128,
+                "Other_Locations": 134819,
+                "Total_Confirmed": 215947,
+                "Total_Recovered": 83323,
+                "Report_Date_String": "2020/03/19",
+                "Delta_Confirmed": 1032,
+                "Delta_Recovered": 10,
+                "ObjectId": 60
             }
         }
     ]
