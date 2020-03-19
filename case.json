@@ -501,7 +501,7 @@
                 "Confirmed": 97,
                 "Country_Region": "Argentina",
                 "Recovered": 3,
-                "Deaths": 2
+                "Deaths": 3
             }
         },
         {
@@ -1035,6 +1035,14 @@
         {
             "attributes": {
                 "Confirmed": 6,
+                "Country_Region": "French Polynesia",
+                "Recovered": 0,
+                "Deaths": 0
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 6,
                 "Country_Region": "Mongolia",
                 "Recovered": 0,
                 "Deaths": 0
@@ -1052,14 +1060,6 @@
             "attributes": {
                 "Confirmed": 6,
                 "Country_Region": "Seychelles",
-                "Recovered": 0,
-                "Deaths": 0
-            }
-        },
-        {
-            "attributes": {
-                "Confirmed": 5,
-                "Country_Region": "French Polynesia",
                 "Recovered": 0,
                 "Deaths": 0
             }
