@@ -4286,56 +4286,23 @@
         },
         {
             "attributes": {
-                "Confirmed": 4,
-                "Long_": "108.220556",
-                "Deaths": 0,
-                "Province_State": "Đà Nẵng",
-                "Country_Region": "Đà Nẵng, Việt Nam",
-                "Lat": "16.031944",
-                "Recovered": 0
-            }
-        },
-        {
-            "attributes": {
-                "Confirmed": 6,
-                "Long_": "107.193604",
-                "Deaths": 0,
-                "Province_State": "Quảng Ninh",
-                "Country_Region": "Quảng Ninh, Việt Nam",
-                "Lat": "21.250982",
-                "Recovered": 0
-            }
-        },
-        {
-            "attributes": {
-                "Confirmed": 2,
-                "Long_": "104.15786",
-                "Deaths": 0,
-                "Province_State": "Lào Cai",
-                "Country_Region": "Lào Cai, Việt Nam",
-                "Lat": "22.379997",
-                "Recovered": 0
-            }
-        },
-        {
-            "attributes": {
-                "Confirmed": 1,
-                "Long_": "106.073406",
-                "Deaths": 0,
-                "Province_State": "Bắc Ninh",
-                "Country_Region": "Bắc Ninh, Việt Nam",
-                "Lat": "21.187548",
-                "Recovered": 0
-            }
-        },
-        {
-            "attributes": {
                 "Confirmed": 3,
                 "Long_": "108.03680",
                 "Deaths": 0,
                 "Province_State": "Quảng Nam",
                 "Country_Region": "Quảng Nam, Việt Nam",
                 "Lat": "15.556898",
+                "Recovered": 0
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 4,
+                "Long_": "108.220556",
+                "Deaths": 0,
+                "Province_State": "Đà Nẵng",
+                "Country_Region": "Đà Nẵng, Việt Nam",
+                "Lat": "16.031944",
                 "Recovered": 0
             }
         },
@@ -4352,12 +4319,23 @@
         },
         {
             "attributes": {
-                "Confirmed": 9,
-                "Long_": "108.141174",
+                "Confirmed": 1,
+                "Long_": "106.316670",
                 "Deaths": 0,
-                "Province_State": "Bình Thuận",
-                "Country_Region": "Bình Thuận, Việt Nam",
-                "Lat": "11.100252",
+                "Province_State": "Hải Dương",
+                "Country_Region": "Hải Dương, Việt Nam",
+                "Lat": "20.933330",
+                "Recovered": 0
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 2,
+                "Long_": "104.15786",
+                "Deaths": 0,
+                "Province_State": "Lào Cai",
+                "Country_Region": "Lào Cai, Việt Nam",
+                "Lat": "22.379997",
                 "Recovered": 0
             }
         },
@@ -4375,6 +4353,17 @@
         {
             "attributes": {
                 "Confirmed": 1,
+                "Long_": "106.073406",
+                "Deaths": 0,
+                "Province_State": "Bắc Ninh",
+                "Country_Region": "Bắc Ninh, Việt Nam",
+                "Lat": "21.187548",
+                "Recovered": 0
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 1,
                 "Long_": "105.974808",
                 "Deaths": 0,
                 "Province_State": "Ninh Bình",
@@ -4385,12 +4374,12 @@
         },
         {
             "attributes": {
-                "Confirmed": 1,
-                "Long_": "106.316670",
+                "Confirmed": 6,
+                "Long_": "107.193604",
                 "Deaths": 0,
-                "Province_State": "Hải Dương",
-                "Country_Region": "Hải Dương, Việt Nam",
-                "Lat": "20.933330",
+                "Province_State": "Quảng Ninh",
+                "Country_Region": "Quảng Ninh, Việt Nam",
+                "Lat": "21.250982",
                 "Recovered": 0
             }
         },
@@ -4407,13 +4396,13 @@
         },
         {
             "attributes": {
-                "Confirmed": 17,
-                "Long_": "106.681944",
+                "Confirmed": 9,
+                "Long_": "108.141174",
                 "Deaths": 0,
-                "Province_State": "TP. Hồ Chí Minh",
-                "Country_Region": "TP. Hồ Chí Minh, Việt Nam",
-                "Lat": "10.769444",
-                "Recovered": 3
+                "Province_State": "Bình Thuận",
+                "Country_Region": "Bình Thuận, Việt Nam",
+                "Lat": "11.100252",
+                "Recovered": 0
             }
         },
         {
@@ -4436,6 +4425,17 @@
                 "Country_Region": "Khánh Hòa, Việt Nam",
                 "Lat": "12.073058",
                 "Recovered": 1
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 17,
+                "Long_": "106.681944",
+                "Deaths": 0,
+                "Province_State": "TP. Hồ Chí Minh",
+                "Country_Region": "TP. Hồ Chí Minh, Việt Nam",
+                "Lat": "10.769444",
+                "Recovered": 3
             }
         },
         {
@@ -5411,36 +5411,6 @@
         },
         {
             "geometry": {
-                "y": 8996262.887564942,
-                "x": 862466.1934360641
-            },
-            "attributes": {
-                "Confirmed": 34,
-                "Long_": 7.747665636,
-                "Deaths": 0,
-                "Province_State": "More and Romsdal",
-                "Country_Region": "More and Romsdal, Norway",
-                "Lat": 62.57281782,
-                "Recovered": -1
-            }
-        },
-        {
-            "geometry": {
-                "y": 10818049.24968512,
-                "x": 2203320.949770967
-            },
-            "attributes": {
-                "Confirmed": 28,
-                "Long_": 19.79276885,
-                "Deaths": 0,
-                "Province_State": "Troms",
-                "Country_Region": "Troms, Norway",
-                "Lat": 69.21547415,
-                "Recovered": -1
-            }
-        },
-        {
-            "geometry": {
                 "y": 8468115.214035567,
                 "x": 1010727.8123291915
             },
@@ -5501,21 +5471,6 @@
         },
         {
             "geometry": {
-                "y": 8723748.37764571,
-                "x": 1040336.6958361331
-            },
-            "attributes": {
-                "Confirmed": 114,
-                "Long_": 9.345503545,
-                "Deaths": 0,
-                "Province_State": "Innlandet",
-                "Country_Region": "Innlandet, Norway",
-                "Lat": 61.42362128,
-                "Recovered": -1
-            }
-        },
-        {
-            "geometry": {
                 "y": 10108840.164980212,
                 "x": 1653137.7059397942
             },
@@ -5526,6 +5481,21 @@
                 "Province_State": "Nordland",
                 "Country_Region": "Nordland, Norway",
                 "Lat": 66.83369721,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 8723748.37764571,
+                "x": 1040336.6958361331
+            },
+            "attributes": {
+                "Confirmed": 114,
+                "Long_": 9.345503545,
+                "Deaths": 0,
+                "Province_State": "Innlandet",
+                "Country_Region": "Innlandet, Norway",
+                "Lat": 61.42362128,
                 "Recovered": -1
             }
         },
@@ -5571,6 +5541,36 @@
                 "Province_State": "Vestfold and Telemark",
                 "Country_Region": "Vestfold and Telemark, Norway",
                 "Lat": 59.33030822,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 8996262.887564942,
+                "x": 862466.1934360641
+            },
+            "attributes": {
+                "Confirmed": 34,
+                "Long_": 7.747665636,
+                "Deaths": 0,
+                "Province_State": "More and Romsdal",
+                "Country_Region": "More and Romsdal, Norway",
+                "Lat": 62.57281782,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 10818049.24968512,
+                "x": 2203320.949770967
+            },
+            "attributes": {
+                "Confirmed": 28,
+                "Long_": 19.79276885,
+                "Deaths": 0,
+                "Province_State": "Troms",
+                "Country_Region": "Troms, Norway",
+                "Lat": 69.21547415,
                 "Recovered": -1
             }
         },
