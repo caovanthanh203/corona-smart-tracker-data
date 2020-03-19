@@ -42,7 +42,7 @@
         },
         {
             "attributes": {
-                "Confirmed": 9416,
+                "Confirmed": 9417,
                 "Country_Region": "USA",
                 "Recovered": 108,
                 "Deaths": 154
@@ -434,6 +434,14 @@
         },
         {
             "attributes": {
+                "Confirmed": 118,
+                "Country_Region": "Mexico",
+                "Recovered": 4,
+                "Deaths": 0
+            }
+        },
+        {
+            "attributes": {
                 "Confirmed": 116,
                 "Country_Region": "South Africa",
                 "Recovered": 0,
@@ -474,6 +482,14 @@
         },
         {
             "attributes": {
+                "Confirmed": 102,
+                "Country_Region": "Colombia",
+                "Recovered": 1,
+                "Deaths": 0
+            }
+        },
+        {
+            "attributes": {
                 "Confirmed": 100,
                 "Country_Region": "Taiwan",
                 "Recovered": 22,
@@ -486,22 +502,6 @@
                 "Country_Region": "Argentina",
                 "Recovered": 3,
                 "Deaths": 2
-            }
-        },
-        {
-            "attributes": {
-                "Confirmed": 93,
-                "Country_Region": "Mexico",
-                "Recovered": 4,
-                "Deaths": 0
-            }
-        },
-        {
-            "attributes": {
-                "Confirmed": 93,
-                "Country_Region": "Colombia",
-                "Recovered": 1,
-                "Deaths": 0
             }
         },
         {
@@ -1093,7 +1093,7 @@
                 "Confirmed": 3,
                 "Country_Region": "Curaçao",
                 "Recovered": 0,
-                "Deaths": 0
+                "Deaths": 1
             }
         },
         {
@@ -1308,6 +1308,14 @@
             "attributes": {
                 "Confirmed": 1,
                 "Country_Region": "Djibouti",
+                "Recovered": 0,
+                "Deaths": 0
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 1,
+                "Country_Region": "El Salvador",
                 "Recovered": 0,
                 "Deaths": 0
             }
