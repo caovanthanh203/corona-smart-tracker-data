@@ -867,6 +867,14 @@
         {
             "attributes": {
                 "Confirmed": 14,
+                "Country_Region": "DRC",
+                "Recovered": 0,
+                "Deaths": 0
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 14,
                 "Country_Region": "Réunion",
                 "Recovered": 0,
                 "Deaths": 0
@@ -996,14 +1004,6 @@
             "attributes": {
                 "Confirmed": 7,
                 "Country_Region": "Channel Islands",
-                "Recovered": 0,
-                "Deaths": 0
-            }
-        },
-        {
-            "attributes": {
-                "Confirmed": 7,
-                "Country_Region": "DRC",
                 "Recovered": 0,
                 "Deaths": 0
             }
