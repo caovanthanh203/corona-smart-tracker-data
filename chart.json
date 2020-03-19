@@ -18,7 +18,7 @@
         {
             "name": "Mainland_China",
             "type": "esriFieldTypeInteger",
-            "alias": "China",
+            "alias": "Mainland China",
             "sqlType": "sqlTypeInteger",
             "domain": null,
             "defaultValue": null
@@ -853,12 +853,12 @@
             "attributes": {
                 "Report_Date": 1584590400000,
                 "Mainland_China": 81137,
-                "Other_Locations": 136840,
-                "Total_Confirmed": 217977,
-                "Total_Recovered": 84100,
+                "Other_Locations": 137040,
+                "Total_Confirmed": 218177,
+                "Total_Recovered": 84112,
                 "Report_Date_String": "2020/03/19",
-                "Delta_Confirmed": 3062,
-                "Delta_Recovered": 787,
+                "Delta_Confirmed": 3262,
+                "Delta_Recovered": 799,
                 "ObjectId": 60
             }
         }
