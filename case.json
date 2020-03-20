@@ -42,7 +42,7 @@
         },
         {
             "attributes": {
-                "Confirmed": 19285,
+                "Confirmed": 19286,
                 "Country_Region": "USA",
                 "Recovered": 147,
                 "Deaths": 250
@@ -866,8 +866,24 @@
         },
         {
             "attributes": {
+                "Confirmed": 19,
+                "Country_Region": "Jamaica",
+                "Recovered": 2,
+                "Deaths": 1
+            }
+        },
+        {
+            "attributes": {
                 "Confirmed": 18,
                 "Country_Region": "DRC",
+                "Recovered": 0,
+                "Deaths": 0
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 18,
+                "Country_Region": "Paraguay",
                 "Recovered": 0,
                 "Deaths": 0
             }
@@ -893,14 +909,6 @@
                 "Confirmed": 16,
                 "Country_Region": "Cuba",
                 "Recovered": 0,
-                "Deaths": 1
-            }
-        },
-        {
-            "attributes": {
-                "Confirmed": 16,
-                "Country_Region": "Jamaica",
-                "Recovered": 2,
                 "Deaths": 1
             }
         },
@@ -965,14 +973,6 @@
                 "Confirmed": 13,
                 "Country_Region": "Maldives",
                 "Recovered": 2,
-                "Deaths": 0
-            }
-        },
-        {
-            "attributes": {
-                "Confirmed": 13,
-                "Country_Region": "Paraguay",
-                "Recovered": 0,
                 "Deaths": 0
             }
         },
