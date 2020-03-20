@@ -10,7 +10,7 @@
         },
         {
             "attributes": {
-                "Confirmed": 47021,
+                "Confirmed": 56182,
                 "Country_Region": "Italy",
                 "Recovered": 5129,
                 "Deaths": 4032
@@ -21,7 +21,7 @@
                 "Confirmed": 20412,
                 "Country_Region": "Spain",
                 "Recovered": 1588,
-                "Deaths": 1041
+                "Deaths": 1043
             }
         },
         {
@@ -42,10 +42,10 @@
         },
         {
             "attributes": {
-                "Confirmed": 16489,
+                "Confirmed": 16491,
                 "Country_Region": "USA",
                 "Recovered": 125,
-                "Deaths": 223
+                "Deaths": 224
             }
         },
         {
@@ -66,10 +66,10 @@
         },
         {
             "attributes": {
-                "Confirmed": 5164,
+                "Confirmed": 5166,
                 "Country_Region": "Switzerland",
                 "Recovered": 15,
-                "Deaths": 54
+                "Deaths": 56
             }
         },
         {
@@ -106,7 +106,7 @@
         },
         {
             "attributes": {
-                "Confirmed": 1912,
+                "Confirmed": 1914,
                 "Country_Region": "Norway",
                 "Recovered": 1,
                 "Deaths": 7
@@ -306,6 +306,14 @@
         },
         {
             "attributes": {
+                "Confirmed": 344,
+                "Country_Region": "Saudi Arabia",
+                "Recovered": 8,
+                "Deaths": 0
+            }
+        },
+        {
+            "attributes": {
                 "Confirmed": 341,
                 "Country_Region": "Slovenia",
                 "Recovered": 0,
@@ -341,14 +349,6 @@
                 "Confirmed": 283,
                 "Country_Region": "Estonia",
                 "Recovered": 1,
-                "Deaths": 0
-            }
-        },
-        {
-            "attributes": {
-                "Confirmed": 274,
-                "Country_Region": "Saudi Arabia",
-                "Recovered": 8,
                 "Deaths": 0
             }
         },
@@ -578,6 +578,14 @@
         },
         {
             "attributes": {
+                "Confirmed": 83,
+                "Country_Region": "Bosnia and Herzegovina",
+                "Recovered": 2,
+                "Deaths": 0
+            }
+        },
+        {
+            "attributes": {
                 "Confirmed": 80,
                 "Country_Region": "Faeroe Islands",
                 "Recovered": 3,
@@ -666,14 +674,6 @@
         },
         {
             "attributes": {
-                "Confirmed": 69,
-                "Country_Region": "Bosnia and Herzegovina",
-                "Recovered": 2,
-                "Deaths": 0
-            }
-        },
-        {
-            "attributes": {
                 "Confirmed": 66,
                 "Country_Region": "Moldova",
                 "Recovered": 1,
@@ -685,6 +685,14 @@
                 "Confirmed": 64,
                 "Country_Region": "Malta",
                 "Recovered": 2,
+                "Deaths": 0
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 63,
+                "Country_Region": "Lithuania",
+                "Recovered": 1,
                 "Deaths": 0
             }
         },
@@ -708,14 +716,6 @@
             "attributes": {
                 "Confirmed": 51,
                 "Country_Region": "Cambodia",
-                "Recovered": 1,
-                "Deaths": 0
-            }
-        },
-        {
-            "attributes": {
-                "Confirmed": 51,
-                "Country_Region": "Lithuania",
                 "Recovered": 1,
                 "Deaths": 0
             }
@@ -938,8 +938,16 @@
         },
         {
             "attributes": {
-                "Confirmed": 13,
-                "Country_Region": "Maldives",
+                "Confirmed": 14,
+                "Country_Region": "Montenegro",
+                "Recovered": 0,
+                "Deaths": 0
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 14,
+                "Country_Region": "Puerto Rico",
                 "Recovered": 0,
                 "Deaths": 0
             }
@@ -947,7 +955,7 @@
         {
             "attributes": {
                 "Confirmed": 13,
-                "Country_Region": "Montenegro",
+                "Country_Region": "Maldives",
                 "Recovered": 0,
                 "Deaths": 0
             }
@@ -1052,14 +1060,6 @@
             "attributes": {
                 "Confirmed": 9,
                 "Country_Region": "Trinidad and Tobago",
-                "Recovered": 0,
-                "Deaths": 0
-            }
-        },
-        {
-            "attributes": {
-                "Confirmed": 8,
-                "Country_Region": "Puerto Rico",
                 "Recovered": 0,
                 "Deaths": 0
             }
