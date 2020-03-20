@@ -466,6 +466,14 @@
         },
         {
             "attributes": {
+                "Confirmed": 136,
+                "Country_Region": "Armenia",
+                "Recovered": 1,
+                "Deaths": 0
+            }
+        },
+        {
+            "attributes": {
                 "Confirmed": 128,
                 "Country_Region": "Argentina",
                 "Recovered": 3,
@@ -485,14 +493,6 @@
                 "Confirmed": 124,
                 "Country_Region": "Slovakia",
                 "Recovered": 0,
-                "Deaths": 0
-            }
-        },
-        {
-            "attributes": {
-                "Confirmed": 122,
-                "Country_Region": "Armenia",
-                "Recovered": 1,
                 "Deaths": 0
             }
         },
@@ -660,7 +660,7 @@
             "attributes": {
                 "Confirmed": 51,
                 "Country_Region": "Belarus",
-                "Recovered": 5,
+                "Recovered": 15,
                 "Deaths": 0
             }
         },
@@ -1243,6 +1243,14 @@
         {
             "attributes": {
                 "Confirmed": 2,
+                "Country_Region": "CAR",
+                "Recovered": 0,
+                "Deaths": 0
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 2,
                 "Country_Region": "Greenland",
                 "Recovered": 0,
                 "Deaths": 0
@@ -1324,14 +1332,6 @@
             "attributes": {
                 "Confirmed": 1,
                 "Country_Region": "Cabo Verde",
-                "Recovered": 0,
-                "Deaths": 0
-            }
-        },
-        {
-            "attributes": {
-                "Confirmed": 1,
-                "Country_Region": "CAR",
                 "Recovered": 0,
                 "Deaths": 0
             }
