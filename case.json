@@ -42,7 +42,7 @@
         },
         {
             "attributes": {
-                "Confirmed": 18839,
+                "Confirmed": 18845,
                 "Country_Region": "USA",
                 "Recovered": 125,
                 "Deaths": 237
@@ -1139,6 +1139,14 @@
         {
             "attributes": {
                 "Confirmed": 4,
+                "Country_Region": "Gabon",
+                "Recovered": 0,
+                "Deaths": 1
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 4,
                 "Country_Region": "Bahamas",
                 "Recovered": 0,
                 "Deaths": 0
@@ -1172,14 +1180,6 @@
             "attributes": {
                 "Confirmed": 3,
                 "Country_Region": "Curaçao",
-                "Recovered": 0,
-                "Deaths": 1
-            }
-        },
-        {
-            "attributes": {
-                "Confirmed": 3,
-                "Country_Region": "Gabon",
                 "Recovered": 0,
                 "Deaths": 1
             }
