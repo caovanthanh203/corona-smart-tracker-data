@@ -500,7 +500,7 @@
             "attributes": {
                 "Confirmed": 118,
                 "Country_Region": "Serbia",
-                "Recovered": 1,
+                "Recovered": 2,
                 "Deaths": 0
             }
         },
@@ -564,7 +564,7 @@
             "attributes": {
                 "Confirmed": 85,
                 "Country_Region": "Hungary",
-                "Recovered": 2,
+                "Recovered": 7,
                 "Deaths": 1
             }
         },
@@ -1027,6 +1027,14 @@
         {
             "attributes": {
                 "Confirmed": 9,
+                "Country_Region": "Togo",
+                "Recovered": 0,
+                "Deaths": 0
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 9,
                 "Country_Region": "Trinidad and Tobago",
                 "Recovered": 0,
                 "Deaths": 0
@@ -1299,6 +1307,14 @@
         {
             "attributes": {
                 "Confirmed": 1,
+                "Country_Region": "Angola",
+                "Recovered": 0,
+                "Deaths": 0
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 1,
                 "Country_Region": "Antigua and Barbuda",
                 "Recovered": 0,
                 "Deaths": 0
@@ -1444,14 +1460,6 @@
             "attributes": {
                 "Confirmed": 1,
                 "Country_Region": "Eswatini",
-                "Recovered": 0,
-                "Deaths": 0
-            }
-        },
-        {
-            "attributes": {
-                "Confirmed": 1,
-                "Country_Region": "Togo",
                 "Recovered": 0,
                 "Deaths": 0
             }
