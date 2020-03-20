@@ -1163,6 +1163,14 @@
         {
             "attributes": {
                 "Confirmed": 3,
+                "Country_Region": "Gabon",
+                "Recovered": 0,
+                "Deaths": 1
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 3,
                 "Country_Region": "Bahamas",
                 "Recovered": 0,
                 "Deaths": 0
@@ -1172,14 +1180,6 @@
             "attributes": {
                 "Confirmed": 3,
                 "Country_Region": "Congo",
-                "Recovered": 0,
-                "Deaths": 0
-            }
-        },
-        {
-            "attributes": {
-                "Confirmed": 3,
-                "Country_Region": "Gabon",
                 "Recovered": 0,
                 "Deaths": 0
             }
