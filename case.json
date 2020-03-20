@@ -138,6 +138,14 @@
         },
         {
             "attributes": {
+                "Confirmed": 1020,
+                "Country_Region": "Portugal",
+                "Recovered": 4,
+                "Deaths": 6
+            }
+        },
+        {
+            "attributes": {
                 "Confirmed": 963,
                 "Country_Region": "Japan",
                 "Recovered": 215,
@@ -158,14 +166,6 @@
                 "Country_Region": "Canada",
                 "Recovered": 11,
                 "Deaths": 12
-            }
-        },
-        {
-            "attributes": {
-                "Confirmed": 786,
-                "Country_Region": "Portugal",
-                "Recovered": 4,
-                "Deaths": 5
             }
         },
         {
@@ -698,7 +698,7 @@
         },
         {
             "attributes": {
-                "Confirmed": 48,
+                "Confirmed": 49,
                 "Country_Region": "Lithuania",
                 "Recovered": 1,
                 "Deaths": 0
