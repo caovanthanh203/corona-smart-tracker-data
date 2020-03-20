@@ -105,26 +105,9 @@
         {
             "attributes": {
                 "Combined_Key": null,
-                "Confirmed": 18,
-                "Long_": -107.30249,
-                "OBJECTID": 9,
-                "Deaths": 0,
-                "Province_State": "Wyoming",
-                "Last_Update": 1584592398000,
-                "Lat": 42.755966,
-                "Country_Region": "Wyoming, US",
-                "FIPS": null,
-                "Active": 18,
-                "Admin2": null,
-                "Recovered": 0
-            }
-        },
-        {
-            "attributes": {
-                "Combined_Key": null,
                 "Confirmed": 43,
                 "Long_": 43.3569,
-                "OBJECTID": 10,
+                "OBJECTID": 9,
                 "Deaths": 0,
                 "Province_State": null,
                 "Last_Update": 1584715384000,
@@ -141,7 +124,7 @@
                 "Combined_Key": null,
                 "Confirmed": 47,
                 "Long_": -84.670067,
-                "OBJECTID": 11,
+                "OBJECTID": 10,
                 "Deaths": 2,
                 "Province_State": "Kentucky",
                 "Last_Update": 1584720802000,
@@ -158,7 +141,7 @@
                 "Combined_Key": null,
                 "Confirmed": 96,
                 "Long_": -117.055374,
-                "OBJECTID": 12,
+                "OBJECTID": 11,
                 "Deaths": 1,
                 "Province_State": "Nevada",
                 "Last_Update": 1584731610000,
@@ -175,7 +158,7 @@
                 "Combined_Key": null,
                 "Confirmed": 49,
                 "Long_": -96.928917,
-                "OBJECTID": 14,
+                "OBJECTID": 13,
                 "Deaths": 1,
                 "Province_State": "Oklahoma",
                 "Last_Update": 1584733383000,
@@ -192,7 +175,7 @@
                 "Combined_Key": null,
                 "Confirmed": 62,
                 "Long_": -92.373123,
-                "OBJECTID": 15,
+                "OBJECTID": 14,
                 "Deaths": 0,
                 "Province_State": "Arkansas",
                 "Last_Update": 1584654183000,
@@ -200,6 +183,23 @@
                 "Country_Region": "Arkansas, US",
                 "FIPS": null,
                 "Active": 62,
+                "Admin2": null,
+                "Recovered": 0
+            }
+        },
+        {
+            "attributes": {
+                "Combined_Key": null,
+                "Confirmed": 2,
+                "Long_": 90.4336,
+                "OBJECTID": 15,
+                "Deaths": 0,
+                "Province_State": null,
+                "Last_Update": 1584713617000,
+                "Lat": 27.5142,
+                "Country_Region": "Bhutan",
+                "FIPS": null,
+                "Active": 2,
                 "Admin2": null,
                 "Recovered": 0
             }
@@ -462,16 +462,16 @@
         {
             "attributes": {
                 "Combined_Key": null,
-                "Confirmed": 343,
+                "Confirmed": 365,
                 "Long_": -97.563461,
                 "OBJECTID": 32,
                 "Deaths": 5,
                 "Province_State": "Texas",
-                "Last_Update": 1584731610000,
+                "Last_Update": 1584738809000,
                 "Lat": 31.054487,
                 "Country_Region": "Texas, US",
                 "FIPS": null,
-                "Active": 338,
+                "Active": 360,
                 "Admin2": null,
                 "Recovered": 0
             }
@@ -632,16 +632,16 @@
         {
             "attributes": {
                 "Combined_Key": null,
-                "Confirmed": 1,
+                "Confirmed": 3,
                 "Long_": 130.8456,
                 "OBJECTID": 46,
                 "Deaths": 0,
                 "Province_State": "Northern Territory",
-                "Last_Update": 1584150783000,
+                "Last_Update": 1584738809000,
                 "Lat": -12.4634,
                 "Country_Region": "Northern Territory, Australia",
                 "FIPS": null,
-                "Active": 1,
+                "Active": 3,
                 "Admin2": null,
                 "Recovered": 0
             }
@@ -989,16 +989,16 @@
         {
             "attributes": {
                 "Combined_Key": null,
-                "Confirmed": 81,
+                "Confirmed": 125,
                 "Long_": -80.945007,
                 "OBJECTID": 67,
                 "Deaths": 1,
                 "Province_State": "South Carolina",
-                "Last_Update": 1584661384000,
+                "Last_Update": 1584738809000,
                 "Lat": 33.856892,
                 "Country_Region": "South Carolina, US",
                 "FIPS": null,
-                "Active": 80,
+                "Active": 124,
                 "Admin2": null,
                 "Recovered": 0
             }
@@ -1295,16 +1295,16 @@
         {
             "attributes": {
                 "Combined_Key": null,
-                "Confirmed": 159,
+                "Confirmed": 194,
                 "Long_": -72.755371,
                 "OBJECTID": 85,
                 "Deaths": 3,
                 "Province_State": "Connecticut",
-                "Last_Update": 1584670436000,
+                "Last_Update": 1584738809000,
                 "Lat": 41.597782,
                 "Country_Region": "Connecticut, US",
                 "FIPS": null,
-                "Active": 156,
+                "Active": 191,
                 "Admin2": null,
                 "Recovered": 0
             }
@@ -1346,16 +1346,16 @@
         {
             "attributes": {
                 "Combined_Key": null,
-                "Confirmed": 479,
+                "Confirmed": 585,
                 "Long_": -88.986137,
                 "OBJECTID": 89,
-                "Deaths": 4,
+                "Deaths": 5,
                 "Province_State": "Illinois",
-                "Last_Update": 1584731610000,
+                "Last_Update": 1584738812000,
                 "Lat": 40.349457,
                 "Country_Region": "Illinois, US",
                 "FIPS": null,
-                "Active": 475,
+                "Active": 580,
                 "Admin2": null,
                 "Recovered": 0
             }
@@ -1363,16 +1363,16 @@
         {
             "attributes": {
                 "Combined_Key": null,
-                "Confirmed": 193,
+                "Confirmed": 207,
                 "Long_": -89.616508,
                 "OBJECTID": 90,
                 "Deaths": 3,
                 "Province_State": "Wisconsin",
-                "Last_Update": 1584731610000,
+                "Last_Update": 1584738809000,
                 "Lat": 44.268543,
                 "Country_Region": "Wisconsin, US",
                 "FIPS": null,
-                "Active": 190,
+                "Active": 204,
                 "Admin2": null,
                 "Recovered": 0
             }
@@ -1431,9 +1431,26 @@
         {
             "attributes": {
                 "Combined_Key": null,
+                "Confirmed": 14,
+                "Long_": 144.7937,
+                "OBJECTID": 95,
+                "Deaths": 0,
+                "Province_State": "Guam",
+                "Last_Update": 1584722590000,
+                "Lat": 13.4443,
+                "Country_Region": "Guam, US",
+                "FIPS": null,
+                "Active": 14,
+                "Admin2": null,
+                "Recovered": 0
+            }
+        },
+        {
+            "attributes": {
+                "Combined_Key": null,
                 "Confirmed": 1,
                 "Long_": 42.5903,
-                "OBJECTID": 95,
+                "OBJECTID": 96,
                 "Deaths": 0,
                 "Province_State": null,
                 "Last_Update": 1584629586000,
@@ -1450,7 +1467,7 @@
                 "Combined_Key": null,
                 "Confirmed": 15,
                 "Long_": -63.5887,
-                "OBJECTID": 96,
+                "OBJECTID": 97,
                 "Deaths": 0,
                 "Province_State": null,
                 "Last_Update": 1584672190000,
@@ -1467,7 +1484,7 @@
                 "Combined_Key": null,
                 "Confirmed": 128,
                 "Long_": -74.2973,
-                "OBJECTID": 97,
+                "OBJECTID": 98,
                 "Deaths": 0,
                 "Province_State": null,
                 "Last_Update": 1584713588000,
@@ -1484,7 +1501,7 @@
                 "Combined_Key": null,
                 "Confirmed": 470,
                 "Long_": 51.1839,
-                "OBJECTID": 98,
+                "OBJECTID": 99,
                 "Deaths": 0,
                 "Province_State": null,
                 "Last_Update": 1584735196000,
@@ -1501,7 +1518,7 @@
                 "Combined_Key": null,
                 "Confirmed": 20,
                 "Long_": -106.4509,
-                "OBJECTID": 99,
+                "OBJECTID": 100,
                 "Deaths": 0,
                 "Province_State": "Saskatchewan",
                 "Last_Update": 1584673998000,
@@ -1518,7 +1535,7 @@
                 "Combined_Key": null,
                 "Confirmed": 1,
                 "Long_": -15.3101,
-                "OBJECTID": 101,
+                "OBJECTID": 102,
                 "Deaths": 0,
                 "Province_State": null,
                 "Last_Update": 1584540836000,
@@ -1535,7 +1552,7 @@
                 "Combined_Key": null,
                 "Confirmed": 369,
                 "Long_": 113.9213,
-                "OBJECTID": 102,
+                "OBJECTID": 103,
                 "Deaths": 32,
                 "Province_State": null,
                 "Last_Update": 1584715384000,
@@ -1550,35 +1567,18 @@
         {
             "attributes": {
                 "Combined_Key": null,
-                "Confirmed": 121,
+                "Confirmed": 139,
                 "Long_": -73.5491,
-                "OBJECTID": 103,
+                "OBJECTID": 104,
                 "Deaths": 1,
                 "Province_State": "Quebec",
-                "Last_Update": 1584639784000,
+                "Last_Update": 1584738809000,
                 "Lat": 52.9399,
                 "Country_Region": "Quebec, Canada",
                 "FIPS": null,
-                "Active": 120,
+                "Active": 138,
                 "Admin2": null,
                 "Recovered": 0
-            }
-        },
-        {
-            "attributes": {
-                "Combined_Key": null,
-                "Confirmed": 12,
-                "Long_": 8.6753,
-                "OBJECTID": 104,
-                "Deaths": 0,
-                "Province_State": null,
-                "Last_Update": 1584670430000,
-                "Lat": 9.082,
-                "Country_Region": "Nigeria",
-                "FIPS": null,
-                "Active": 11,
-                "Admin2": null,
-                "Recovered": 1
             }
         },
         {
@@ -1686,26 +1686,9 @@
         {
             "attributes": {
                 "Combined_Key": null,
-                "Confirmed": 155,
-                "Long_": -86.692345,
-                "OBJECTID": 111,
-                "Deaths": 0,
-                "Province_State": "Tennessee",
-                "Last_Update": 1584720805000,
-                "Lat": 35.747845,
-                "Country_Region": "Tennessee, US",
-                "FIPS": null,
-                "Active": 155,
-                "Admin2": null,
-                "Recovered": 0
-            }
-        },
-        {
-            "attributes": {
-                "Combined_Key": null,
                 "Confirmed": 149,
                 "Long_": -76.802101,
-                "OBJECTID": 112,
+                "OBJECTID": 111,
                 "Deaths": 1,
                 "Province_State": "Maryland",
                 "Last_Update": 1584722590000,
@@ -1722,7 +1705,7 @@
                 "Combined_Key": null,
                 "Confirmed": 1,
                 "Long_": -85.2072,
-                "OBJECTID": 113,
+                "OBJECTID": 112,
                 "Deaths": 0,
                 "Province_State": null,
                 "Last_Update": 1584606788000,
@@ -1739,7 +1722,7 @@
                 "Combined_Key": null,
                 "Confirmed": 19,
                 "Long_": -99.784012,
-                "OBJECTID": 114,
+                "OBJECTID": 113,
                 "Deaths": 0,
                 "Province_State": "North Dakota",
                 "Last_Update": 1584672190000,
@@ -1756,7 +1739,7 @@
                 "Combined_Key": null,
                 "Confirmed": 16,
                 "Long_": -77.7812,
-                "OBJECTID": 115,
+                "OBJECTID": 114,
                 "Deaths": 1,
                 "Province_State": null,
                 "Last_Update": 1584672190000,
@@ -1773,7 +1756,7 @@
                 "Combined_Key": null,
                 "Confirmed": 371,
                 "Long_": 121.449111848821,
-                "OBJECTID": 117,
+                "OBJECTID": 116,
                 "Deaths": 3,
                 "Province_State": "Shanghai",
                 "Last_Update": 1584664982000,
@@ -1790,7 +1773,7 @@
                 "Combined_Key": null,
                 "Confirmed": 12,
                 "Long_": -90.2308,
-                "OBJECTID": 118,
+                "OBJECTID": 117,
                 "Deaths": 1,
                 "Province_State": null,
                 "Last_Update": 1584720799000,
@@ -1807,7 +1790,7 @@
                 "Combined_Key": null,
                 "Confirmed": 15,
                 "Long_": -110.454353,
-                "OBJECTID": 119,
+                "OBJECTID": 118,
                 "Deaths": 0,
                 "Province_State": "Montana",
                 "Last_Update": 1584722590000,
@@ -1824,7 +1807,7 @@
                 "Combined_Key": null,
                 "Confirmed": 935,
                 "Long_": 115.722093542185,
-                "OBJECTID": 120,
+                "OBJECTID": 119,
                 "Deaths": 1,
                 "Province_State": "Jiangxi",
                 "Last_Update": 1583979184000,
@@ -1841,7 +1824,7 @@
                 "Combined_Key": null,
                 "Confirmed": 24,
                 "Long_": 67.71,
-                "OBJECTID": 122,
+                "OBJECTID": 121,
                 "Deaths": 0,
                 "Province_State": null,
                 "Last_Update": 1584715384000,
@@ -1858,7 +1841,7 @@
                 "Combined_Key": null,
                 "Confirmed": 75,
                 "Long_": 1.5218,
-                "OBJECTID": 123,
+                "OBJECTID": 122,
                 "Deaths": 0,
                 "Province_State": null,
                 "Last_Update": 1584717201000,
@@ -1875,7 +1858,7 @@
                 "Combined_Key": null,
                 "Confirmed": 1,
                 "Long_": 88.0924318966888,
-                "OBJECTID": 124,
+                "OBJECTID": 123,
                 "Deaths": 0,
                 "Province_State": "Tibet",
                 "Last_Update": 1583893094000,
@@ -1892,7 +1875,7 @@
                 "Combined_Key": null,
                 "Confirmed": 6,
                 "Long_": 10.2679,
-                "OBJECTID": 126,
+                "OBJECTID": 125,
                 "Deaths": 0,
                 "Province_State": null,
                 "Last_Update": 1584650583000,
@@ -1909,7 +1892,7 @@
                 "Combined_Key": null,
                 "Confirmed": 88,
                 "Long_": -122.070938,
-                "OBJECTID": 127,
+                "OBJECTID": 126,
                 "Deaths": 3,
                 "Province_State": "Oregon",
                 "Last_Update": 1584654183000,
@@ -1926,7 +1909,7 @@
                 "Combined_Key": null,
                 "Confirmed": 137,
                 "Long_": 117.322972903268,
-                "OBJECTID": 128,
+                "OBJECTID": 127,
                 "Deaths": 3,
                 "Province_State": "Tianjin",
                 "Last_Update": 1584661383000,
@@ -1943,7 +1926,7 @@
                 "Combined_Key": null,
                 "Confirmed": 1,
                 "Long_": 46.1996,
-                "OBJECTID": 129,
+                "OBJECTID": 128,
                 "Deaths": 0,
                 "Province_State": null,
                 "Last_Update": 1584492783000,
@@ -1960,7 +1943,7 @@
                 "Combined_Key": null,
                 "Confirmed": 80,
                 "Long_": -6.9118,
-                "OBJECTID": 130,
+                "OBJECTID": 129,
                 "Deaths": 0,
                 "Province_State": "Faroe Islands",
                 "Last_Update": 1584717201000,
@@ -1977,7 +1960,7 @@
                 "Combined_Key": null,
                 "Confirmed": 1395,
                 "Long_": 113.424401710676,
-                "OBJECTID": 131,
+                "OBJECTID": 130,
                 "Deaths": 8,
                 "Province_State": "Guangdong",
                 "Last_Update": 1584695610000,
@@ -1994,7 +1977,7 @@
                 "Combined_Key": null,
                 "Confirmed": 409,
                 "Long_": -19.0208,
-                "OBJECTID": 132,
+                "OBJECTID": 131,
                 "Deaths": 0,
                 "Province_State": null,
                 "Last_Update": 1584717201000,
@@ -2011,7 +1994,7 @@
                 "Combined_Key": null,
                 "Confirmed": 133,
                 "Long_": 112.292191181538,
-                "OBJECTID": 133,
+                "OBJECTID": 132,
                 "Deaths": 0,
                 "Province_State": "Shanxi",
                 "Last_Update": 1584097743000,
@@ -2028,7 +2011,7 @@
                 "Combined_Key": null,
                 "Confirmed": 793,
                 "Long_": -51.9253,
-                "OBJECTID": 134,
+                "OBJECTID": 133,
                 "Deaths": 11,
                 "Province_State": null,
                 "Last_Update": 1584735196000,
@@ -2045,7 +2028,7 @@
                 "Combined_Key": null,
                 "Confirmed": 833,
                 "Long_": 15.473,
-                "OBJECTID": 135,
+                "OBJECTID": 134,
                 "Deaths": 0,
                 "Province_State": null,
                 "Last_Update": 1584735195000,
@@ -2062,7 +2045,7 @@
                 "Combined_Key": null,
                 "Confirmed": 126,
                 "Long_": 122.60854186375,
-                "OBJECTID": 136,
+                "OBJECTID": 135,
                 "Deaths": 2,
                 "Province_State": "Liaoning",
                 "Last_Update": 1584668583000,
@@ -2079,7 +2062,7 @@
                 "Combined_Key": null,
                 "Confirmed": 341,
                 "Long_": 14.9955,
-                "OBJECTID": 137,
+                "OBJECTID": 136,
                 "Deaths": 1,
                 "Province_State": null,
                 "Last_Update": 1584719004000,
@@ -2094,16 +2077,16 @@
         {
             "attributes": {
                 "Combined_Key": null,
-                "Confirmed": 3,
+                "Confirmed": 4,
                 "Long_": -57.6604,
-                "OBJECTID": 138,
+                "OBJECTID": 137,
                 "Deaths": 0,
                 "Province_State": "Newfoundland and Labrador",
-                "Last_Update": 1584467583000,
+                "Last_Update": 1584738809000,
                 "Lat": 53.1355,
                 "Country_Region": "Newfoundland and Labrador, Canada",
                 "FIPS": null,
-                "Active": 3,
+                "Active": 4,
                 "Admin2": null,
                 "Recovered": 0
             }
@@ -2113,7 +2096,7 @@
                 "Combined_Key": null,
                 "Confirmed": 38,
                 "Long_": -75.507141,
-                "OBJECTID": 139,
+                "OBJECTID": 138,
                 "Deaths": 0,
                 "Province_State": "Delaware",
                 "Last_Update": 1584733383000,
@@ -2123,6 +2106,23 @@
                 "Active": 38,
                 "Admin2": null,
                 "Recovered": 0
+            }
+        },
+        {
+            "attributes": {
+                "Combined_Key": null,
+                "Confirmed": 491,
+                "Long_": 116.414172956705,
+                "OBJECTID": 139,
+                "Deaths": 8,
+                "Province_State": "Beijing",
+                "Last_Update": 1584686585000,
+                "Lat": 40.1823809324133,
+                "Country_Region": "Beijing, China",
+                "FIPS": null,
+                "Active": 93,
+                "Admin2": null,
+                "Recovered": 390
             }
         },
         {
@@ -2196,16 +2196,16 @@
         {
             "attributes": {
                 "Combined_Key": null,
-                "Confirmed": 307,
+                "Confirmed": 353,
                 "Long_": 151.2093,
                 "OBJECTID": 145,
-                "Deaths": 5,
+                "Deaths": 6,
                 "Province_State": "New South Wales",
-                "Last_Update": 1584616434000,
+                "Last_Update": 1584738810000,
                 "Lat": -33.8688,
                 "Country_Region": "New South Wales, Australia",
                 "FIPS": null,
-                "Active": 298,
+                "Active": 343,
                 "Admin2": null,
                 "Recovered": 4
             }
@@ -2281,16 +2281,16 @@
         {
             "attributes": {
                 "Combined_Key": null,
-                "Confirmed": 4,
+                "Confirmed": 6,
                 "Long_": 149.0124,
                 "OBJECTID": 151,
                 "Deaths": 0,
                 "Province_State": "Australian Capital Territory",
-                "Last_Update": 1584616434000,
+                "Last_Update": 1584738810000,
                 "Lat": -35.4735,
                 "Country_Region": "Australian Capital Territory, Australia",
                 "FIPS": null,
-                "Active": 4,
+                "Active": 6,
                 "Admin2": null,
                 "Recovered": 0
             }
@@ -2434,16 +2434,16 @@
         {
             "attributes": {
                 "Combined_Key": null,
-                "Confirmed": 52,
+                "Confirmed": 64,
                 "Long_": 115.8605,
                 "OBJECTID": 161,
                 "Deaths": 1,
                 "Province_State": "Western Australia",
-                "Last_Update": 1584616434000,
+                "Last_Update": 1584738810000,
                 "Lat": -31.9505,
                 "Country_Region": "Western Australia, Australia",
                 "FIPS": null,
-                "Active": 51,
+                "Active": 63,
                 "Admin2": null,
                 "Recovered": 0
             }
@@ -2451,16 +2451,16 @@
         {
             "attributes": {
                 "Combined_Key": null,
-                "Confirmed": 42,
+                "Confirmed": 50,
                 "Long_": 138.6007,
                 "OBJECTID": 162,
                 "Deaths": 0,
                 "Province_State": "South Australia",
-                "Last_Update": 1584616434000,
+                "Last_Update": 1584738810000,
                 "Lat": -34.9285,
                 "Country_Region": "South Australia, Australia",
                 "FIPS": null,
-                "Active": 39,
+                "Active": 47,
                 "Admin2": null,
                 "Recovered": 3
             }
@@ -2672,18 +2672,18 @@
         {
             "attributes": {
                 "Combined_Key": null,
-                "Confirmed": 9,
-                "Long_": -5.5471,
+                "Confirmed": 247,
+                "Long_": 108.870143735105,
                 "OBJECTID": 177,
-                "Deaths": 0,
-                "Province_State": null,
-                "Last_Update": 1584579826000,
-                "Lat": 7.54,
-                "Country_Region": "Cote d'Ivoire",
+                "Deaths": 3,
+                "Province_State": "Shaanxi",
+                "Last_Update": 1584666796000,
+                "Lat": 35.1916533064219,
+                "Country_Region": "Shaanxi, China",
                 "FIPS": null,
-                "Active": 8,
+                "Active": 7,
                 "Admin2": null,
-                "Recovered": 1
+                "Recovered": 237
             }
         },
         {
@@ -2740,33 +2740,16 @@
         {
             "attributes": {
                 "Combined_Key": null,
-                "Confirmed": 3,
-                "Long_": 46.8691,
+                "Confirmed": 15,
+                "Long_": -63.7443,
                 "OBJECTID": 181,
                 "Deaths": 0,
-                "Province_State": null,
-                "Last_Update": 1584736983000,
-                "Lat": -18.7669,
-                "Country_Region": "Madagascar",
-                "FIPS": null,
-                "Active": 3,
-                "Admin2": null,
-                "Recovered": 0
-            }
-        },
-        {
-            "attributes": {
-                "Combined_Key": null,
-                "Confirmed": 14,
-                "Long_": -63.7443,
-                "OBJECTID": 182,
-                "Deaths": 0,
                 "Province_State": "Nova Scotia",
-                "Last_Update": 1584650583000,
+                "Last_Update": 1584738809000,
                 "Lat": 44.682,
                 "Country_Region": "Nova Scotia, Canada",
                 "FIPS": null,
-                "Active": 14,
+                "Active": 15,
                 "Admin2": null,
                 "Recovered": 0
             }
@@ -2776,7 +2759,7 @@
                 "Combined_Key": null,
                 "Confirmed": 89,
                 "Long_": -83.7534,
-                "OBJECTID": 183,
+                "OBJECTID": 182,
                 "Deaths": 1,
                 "Province_State": null,
                 "Last_Update": 1584713588000,
@@ -2791,26 +2774,9 @@
         {
             "attributes": {
                 "Combined_Key": null,
-                "Confirmed": 299,
-                "Long_": 117.987371739429,
-                "OBJECTID": 184,
-                "Deaths": 1,
-                "Province_State": "Fujian",
-                "Last_Update": 1584672189000,
-                "Lat": 26.0788658351203,
-                "Country_Region": "Fujian, China",
-                "FIPS": null,
-                "Active": 3,
-                "Admin2": null,
-                "Recovered": 295
-            }
-        },
-        {
-            "attributes": {
-                "Combined_Key": null,
                 "Confirmed": 28,
                 "Long_": 9.5554,
-                "OBJECTID": 185,
+                "OBJECTID": 184,
                 "Deaths": 0,
                 "Province_State": null,
                 "Last_Update": 1584558873000,
@@ -2827,16 +2793,33 @@
                 "Combined_Key": null,
                 "Confirmed": 520,
                 "Long_": -81.686783,
-                "OBJECTID": 186,
-                "Deaths": 9,
+                "OBJECTID": 185,
+                "Deaths": 10,
                 "Province_State": "Florida",
-                "Last_Update": 1584722590000,
+                "Last_Update": 1584738810000,
                 "Lat": 27.766279,
                 "Country_Region": "Florida, US",
                 "FIPS": null,
-                "Active": 511,
+                "Active": 510,
                 "Admin2": null,
                 "Recovered": 0
+            }
+        },
+        {
+            "attributes": {
+                "Combined_Key": null,
+                "Confirmed": 434,
+                "Long_": -71.543,
+                "OBJECTID": 186,
+                "Deaths": 0,
+                "Province_State": null,
+                "Last_Update": 1584735197000,
+                "Lat": -35.6751,
+                "Country_Region": "Chile",
+                "FIPS": null,
+                "Active": 428,
+                "Admin2": null,
+                "Recovered": 6
             }
         },
         {
@@ -2910,18 +2893,18 @@
         {
             "attributes": {
                 "Combined_Key": null,
-                "Confirmed": 247,
-                "Long_": 108.870143735105,
+                "Confirmed": 9,
+                "Long_": -5.5471,
                 "OBJECTID": 191,
-                "Deaths": 3,
-                "Province_State": "Shaanxi",
-                "Last_Update": 1584666796000,
-                "Lat": 35.1916533064219,
-                "Country_Region": "Shaanxi, China",
+                "Deaths": 0,
+                "Province_State": null,
+                "Last_Update": 1584579826000,
+                "Lat": 7.54,
+                "Country_Region": "Cote d'Ivoire",
                 "FIPS": null,
-                "Active": 7,
+                "Active": 8,
                 "Admin2": null,
-                "Recovered": 237
+                "Recovered": 1
             }
         },
         {
@@ -3165,16 +3148,16 @@
         {
             "attributes": {
                 "Combined_Key": null,
-                "Confirmed": 144,
+                "Confirmed": 184,
                 "Long_": 153.4,
                 "OBJECTID": 209,
                 "Deaths": 0,
                 "Province_State": "Queensland",
-                "Last_Update": 1584616434000,
+                "Last_Update": 1584738810000,
                 "Lat": -28.0167,
                 "Country_Region": "Queensland, Australia",
                 "FIPS": null,
-                "Active": 136,
+                "Active": 176,
                 "Admin2": null,
                 "Recovered": 8
             }
@@ -3233,35 +3216,35 @@
         {
             "attributes": {
                 "Combined_Key": null,
-                "Confirmed": 434,
-                "Long_": -71.543,
+                "Confirmed": 12,
+                "Long_": 8.6753,
                 "OBJECTID": 213,
                 "Deaths": 0,
                 "Province_State": null,
-                "Last_Update": 1584735197000,
-                "Lat": -35.6751,
-                "Country_Region": "Chile",
+                "Last_Update": 1584670430000,
+                "Lat": 9.082,
+                "Country_Region": "Nigeria",
                 "FIPS": null,
-                "Active": 428,
+                "Active": 11,
                 "Admin2": null,
-                "Recovered": 6
+                "Recovered": 1
             }
         },
         {
             "attributes": {
                 "Combined_Key": null,
-                "Confirmed": 2,
-                "Long_": 90.4336,
+                "Confirmed": 2257,
+                "Long_": 4.4699,
                 "OBJECTID": 214,
-                "Deaths": 0,
+                "Deaths": 37,
                 "Province_State": null,
-                "Last_Update": 1584713617000,
-                "Lat": 27.5142,
-                "Country_Region": "Bhutan",
+                "Last_Update": 1584715384000,
+                "Lat": 50.5039,
+                "Country_Region": "Belgium",
                 "FIPS": null,
-                "Active": 2,
+                "Active": 2219,
                 "Admin2": null,
-                "Recovered": 0
+                "Recovered": 1
             }
         },
         {
@@ -3301,18 +3284,18 @@
         {
             "attributes": {
                 "Combined_Key": null,
-                "Confirmed": 2257,
-                "Long_": 4.4699,
+                "Confirmed": 299,
+                "Long_": 117.987371739429,
                 "OBJECTID": 218,
-                "Deaths": 37,
-                "Province_State": null,
-                "Last_Update": 1584715384000,
-                "Lat": 50.5039,
-                "Country_Region": "Belgium",
+                "Deaths": 1,
+                "Province_State": "Fujian",
+                "Last_Update": 1584672189000,
+                "Lat": 26.0788658351203,
+                "Country_Region": "Fujian, China",
                 "FIPS": null,
-                "Active": 2219,
+                "Active": 3,
                 "Admin2": null,
-                "Recovered": 1
+                "Recovered": 295
             }
         },
         {
@@ -3471,18 +3454,18 @@
         {
             "attributes": {
                 "Combined_Key": null,
-                "Confirmed": 491,
-                "Long_": 116.414172956705,
+                "Confirmed": 232,
+                "Long_": -86.692345,
                 "OBJECTID": 229,
-                "Deaths": 8,
-                "Province_State": "Beijing",
-                "Last_Update": 1584686585000,
-                "Lat": 40.1823809324133,
-                "Country_Region": "Beijing, China",
+                "Deaths": 0,
+                "Province_State": "Tennessee",
+                "Last_Update": 1584738811000,
+                "Lat": 35.747845,
+                "Country_Region": "Tennessee, US",
                 "FIPS": null,
-                "Active": 93,
+                "Active": 232,
                 "Admin2": null,
-                "Recovered": 390
+                "Recovered": 0
             }
         },
         {
@@ -3658,16 +3641,16 @@
         {
             "attributes": {
                 "Combined_Key": null,
-                "Confirmed": 338,
+                "Confirmed": 552,
                 "Long_": -84.536095,
                 "OBJECTID": 240,
                 "Deaths": 3,
                 "Province_State": "Michigan",
-                "Last_Update": 1584731610000,
+                "Last_Update": 1584738812000,
                 "Lat": 43.326618,
                 "Country_Region": "Michigan, US",
                 "FIPS": null,
-                "Active": 335,
+                "Active": 549,
                 "Admin2": null,
                 "Recovered": 0
             }
@@ -3794,16 +3777,16 @@
         {
             "attributes": {
                 "Combined_Key": null,
-                "Confirmed": 14,
-                "Long_": 144.7937,
+                "Confirmed": 3,
+                "Long_": 46.8691,
                 "OBJECTID": 248,
                 "Deaths": 0,
-                "Province_State": "Guam",
-                "Last_Update": 1584722590000,
-                "Lat": 13.4443,
-                "Country_Region": "Guam, US",
+                "Province_State": null,
+                "Last_Update": 1584736983000,
+                "Lat": -18.7669,
+                "Country_Region": "Madagascar",
                 "FIPS": null,
-                "Active": 14,
+                "Active": 3,
                 "Admin2": null,
                 "Recovered": 0
             }
@@ -4168,16 +4151,16 @@
         {
             "attributes": {
                 "Combined_Key": null,
-                "Confirmed": 169,
+                "Confirmed": 171,
                 "Long_": -79.806419,
                 "OBJECTID": 272,
                 "Deaths": 0,
                 "Province_State": "North Carolina",
-                "Last_Update": 1584731610000,
+                "Last_Update": 1584738811000,
                 "Lat": 35.630066,
                 "Country_Region": "North Carolina, US",
                 "FIPS": null,
-                "Active": 169,
+                "Active": 171,
                 "Admin2": null,
                 "Recovered": 0
             }
@@ -4287,16 +4270,33 @@
         {
             "attributes": {
                 "Combined_Key": null,
-                "Confirmed": 169,
-                "Long_": -82.764915,
+                "Confirmed": 18,
+                "Long_": -107.30249,
                 "OBJECTID": 281,
-                "Deaths": 1,
+                "Deaths": 0,
+                "Province_State": "Wyoming",
+                "Last_Update": 1584592398000,
+                "Lat": 42.755966,
+                "Country_Region": "Wyoming, US",
+                "FIPS": null,
+                "Active": 18,
+                "Admin2": null,
+                "Recovered": 0
+            }
+        },
+        {
+            "attributes": {
+                "Combined_Key": null,
+                "Confirmed": 172,
+                "Long_": -82.764915,
+                "OBJECTID": 282,
+                "Deaths": 2,
                 "Province_State": "Ohio",
-                "Last_Update": 1584731610000,
+                "Last_Update": 1584738812000,
                 "Lat": 40.388783,
                 "Country_Region": "Ohio, US",
                 "FIPS": null,
-                "Active": 168,
+                "Active": 170,
                 "Admin2": null,
                 "Recovered": 0
             }
@@ -4306,7 +4306,7 @@
                 "Combined_Key": null,
                 "Confirmed": 115,
                 "Long_": -93.900192,
-                "OBJECTID": 282,
+                "OBJECTID": 283,
                 "Deaths": 0,
                 "Province_State": "Minnesota",
                 "Last_Update": 1584731610000,
@@ -4321,16 +4321,16 @@
         {
             "attributes": {
                 "Combined_Key": null,
-                "Confirmed": 742,
+                "Confirmed": 890,
                 "Long_": -74.521011,
-                "OBJECTID": 283,
-                "Deaths": 9,
+                "OBJECTID": 284,
+                "Deaths": 11,
                 "Province_State": "New Jersey",
-                "Last_Update": 1584661384000,
+                "Last_Update": 1584738812000,
                 "Lat": 40.298904,
                 "Country_Region": "New Jersey, US",
                 "FIPS": null,
-                "Active": 733,
+                "Active": 879,
                 "Admin2": null,
                 "Recovered": 0
             }
@@ -4340,7 +4340,7 @@
                 "Combined_Key": null,
                 "Confirmed": 163,
                 "Long_": 35.8623,
-                "OBJECTID": 284,
+                "OBJECTID": 285,
                 "Deaths": 4,
                 "Province_State": null,
                 "Last_Update": 1584715384000,
@@ -4350,6 +4350,17 @@
                 "Active": 155,
                 "Admin2": null,
                 "Recovered": 4
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 3,
+                "Long_": "108.03680",
+                "Deaths": 0,
+                "Province_State": "Quảng Nam",
+                "Country_Region": "Quảng Nam, Việt Nam",
+                "Lat": "15.556898",
+                "Recovered": 0
             }
         },
         {
@@ -4376,13 +4387,13 @@
         },
         {
             "attributes": {
-                "Confirmed": 2,
-                "Long_": "108.99028",
+                "Confirmed": 1,
+                "Long_": "105.974808",
                 "Deaths": 0,
-                "Province_State": "Ninh Thuận",
-                "Country_Region": "Ninh Thuận, Việt Nam",
-                "Lat": "11.56556",
-                "Recovered": 0
+                "Province_State": "Ninh Bình",
+                "Country_Region": "Ninh Bình, Việt Nam",
+                "Lat": "20.250924",
+                "Recovered": 1
             }
         },
         {
@@ -4399,34 +4410,23 @@
         {
             "attributes": {
                 "Confirmed": 1,
-                "Long_": "105.974808",
+                "Long_": "106.073406",
                 "Deaths": 0,
-                "Province_State": "Ninh Bình",
-                "Country_Region": "Ninh Bình, Việt Nam",
-                "Lat": "20.250924",
+                "Province_State": "Bắc Ninh",
+                "Country_Region": "Bắc Ninh, Việt Nam",
+                "Lat": "21.187548",
+                "Recovered": 0
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 1,
+                "Long_": "109.047768",
+                "Deaths": 0,
+                "Province_State": "Khánh Hòa",
+                "Country_Region": "Khánh Hòa, Việt Nam",
+                "Lat": "12.073058",
                 "Recovered": 1
-            }
-        },
-        {
-            "attributes": {
-                "Confirmed": 2,
-                "Long_": "104.15786",
-                "Deaths": 0,
-                "Province_State": "Lào Cai",
-                "Country_Region": "Lào Cai, Việt Nam",
-                "Lat": "22.379997",
-                "Recovered": 0
-            }
-        },
-        {
-            "attributes": {
-                "Confirmed": 3,
-                "Long_": "108.03680",
-                "Deaths": 0,
-                "Province_State": "Quảng Nam",
-                "Country_Region": "Quảng Nam, Việt Nam",
-                "Lat": "15.556898",
-                "Recovered": 0
             }
         },
         {
@@ -4453,12 +4453,23 @@
         },
         {
             "attributes": {
-                "Confirmed": 1,
-                "Long_": "106.073406",
+                "Confirmed": 2,
+                "Long_": "104.15786",
                 "Deaths": 0,
-                "Province_State": "Bắc Ninh",
-                "Country_Region": "Bắc Ninh, Việt Nam",
-                "Lat": "21.187548",
+                "Province_State": "Lào Cai",
+                "Country_Region": "Lào Cai, Việt Nam",
+                "Lat": "22.379997",
+                "Recovered": 0
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 2,
+                "Long_": "108.99028",
+                "Deaths": 0,
+                "Province_State": "Ninh Thuận",
+                "Country_Region": "Ninh Thuận, Việt Nam",
+                "Lat": "11.56556",
                 "Recovered": 0
             }
         },
@@ -4475,17 +4486,6 @@
         },
         {
             "attributes": {
-                "Confirmed": 1,
-                "Long_": "105.309448",
-                "Deaths": 0,
-                "Province_State": "Thanh Hóa",
-                "Country_Region": "Thanh Hóa, Việt Nam",
-                "Lat": "20.141049",
-                "Recovered": 1
-            }
-        },
-        {
-            "attributes": {
                 "Confirmed": 20,
                 "Long_": "106.681944",
                 "Deaths": 0,
@@ -4498,11 +4498,11 @@
         {
             "attributes": {
                 "Confirmed": 1,
-                "Long_": "109.047768",
+                "Long_": "105.309448",
                 "Deaths": 0,
-                "Province_State": "Khánh Hòa",
-                "Country_Region": "Khánh Hòa, Việt Nam",
-                "Lat": "12.073058",
+                "Province_State": "Thanh Hóa",
+                "Country_Region": "Thanh Hóa, Việt Nam",
+                "Lat": "20.141049",
                 "Recovered": 1
             }
         },
