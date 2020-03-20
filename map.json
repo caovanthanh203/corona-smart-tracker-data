@@ -4342,56 +4342,12 @@
         },
         {
             "attributes": {
-                "Confirmed": 6,
-                "Long_": "107.193604",
-                "Deaths": 0,
-                "Province_State": "Quảng Ninh",
-                "Country_Region": "Quảng Ninh, Việt Nam",
-                "Lat": "21.250982",
-                "Recovered": 0
-            }
-        },
-        {
-            "attributes": {
-                "Confirmed": 1,
-                "Long_": "106.316670",
-                "Deaths": 0,
-                "Province_State": "Hải Dương",
-                "Country_Region": "Hải Dương, Việt Nam",
-                "Lat": "20.933330",
-                "Recovered": 0
-            }
-        },
-        {
-            "attributes": {
                 "Confirmed": 2,
                 "Long_": "104.15786",
                 "Deaths": 0,
                 "Province_State": "Lào Cai",
                 "Country_Region": "Lào Cai, Việt Nam",
                 "Lat": "22.379997",
-                "Recovered": 0
-            }
-        },
-        {
-            "attributes": {
-                "Confirmed": 9,
-                "Long_": "108.141174",
-                "Deaths": 0,
-                "Province_State": "Bình Thuận",
-                "Country_Region": "Bình Thuận, Việt Nam",
-                "Lat": "11.100252",
-                "Recovered": 0
-            }
-        },
-        {
-            "attributes": {
-                "Confirmed": 1,
-                "Long_": "106.073406",
-                "Deaths": 0,
-                "Province_State": "Bắc Ninh",
-                "Country_Region": "Bắc Ninh, Việt Nam",
-                "Lat": "21.187548",
                 "Recovered": 0
             }
         },
@@ -4408,23 +4364,23 @@
         },
         {
             "attributes": {
-                "Confirmed": 1,
-                "Long_": "105.974808",
-                "Deaths": 0,
-                "Province_State": "Ninh Bình",
-                "Country_Region": "Ninh Bình, Việt Nam",
-                "Lat": "20.250924",
-                "Recovered": 1
-            }
-        },
-        {
-            "attributes": {
                 "Confirmed": 2,
                 "Long_": "107.58482",
                 "Deaths": 0,
                 "Province_State": "Thừa Thiên Huế",
                 "Country_Region": "Thừa Thiên Huế, Việt Nam",
                 "Lat": "16.463744",
+                "Recovered": 0
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 1,
+                "Long_": "106.316670",
+                "Deaths": 0,
+                "Province_State": "Hải Dương",
+                "Country_Region": "Hải Dương, Việt Nam",
+                "Lat": "20.933330",
                 "Recovered": 0
             }
         },
@@ -4441,6 +4397,50 @@
         },
         {
             "attributes": {
+                "Confirmed": 6,
+                "Long_": "107.193604",
+                "Deaths": 0,
+                "Province_State": "Quảng Ninh",
+                "Country_Region": "Quảng Ninh, Việt Nam",
+                "Lat": "21.250982",
+                "Recovered": 0
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 1,
+                "Long_": "105.974808",
+                "Deaths": 0,
+                "Province_State": "Ninh Bình",
+                "Country_Region": "Ninh Bình, Việt Nam",
+                "Lat": "20.250924",
+                "Recovered": 1
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 1,
+                "Long_": "106.073406",
+                "Deaths": 0,
+                "Province_State": "Bắc Ninh",
+                "Country_Region": "Bắc Ninh, Việt Nam",
+                "Lat": "21.187548",
+                "Recovered": 0
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 9,
+                "Long_": "108.141174",
+                "Deaths": 0,
+                "Province_State": "Bình Thuận",
+                "Country_Region": "Bình Thuận, Việt Nam",
+                "Lat": "11.100252",
+                "Recovered": 0
+            }
+        },
+        {
+            "attributes": {
                 "Confirmed": 11,
                 "Long_": "105.548401",
                 "Deaths": 0,
@@ -4448,6 +4448,17 @@
                 "Country_Region": "Vĩnh Phúc, Việt Nam",
                 "Lat": "21.363571",
                 "Recovered": 11
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 1,
+                "Long_": "105.309448",
+                "Deaths": 0,
+                "Province_State": "Thanh Hóa",
+                "Country_Region": "Thanh Hóa, Việt Nam",
+                "Lat": "20.141049",
+                "Recovered": 1
             }
         },
         {
@@ -4473,28 +4484,17 @@
             }
         },
         {
-            "attributes": {
-                "Confirmed": 1,
-                "Long_": "105.309448",
-                "Deaths": 0,
-                "Province_State": "Thanh Hóa",
-                "Country_Region": "Thanh Hóa, Việt Nam",
-                "Lat": "20.141049",
-                "Recovered": 1
-            }
-        },
-        {
             "geometry": {
-                "y": 5012341.663847516,
-                "x": -880379.1269956571
+                "y": 4721920.964689797,
+                "x": -1020807.1786274891
             },
             "attributes": {
-                "Confirmed": 381,
-                "Long_": -7.908580256,
+                "Confirmed": 278,
+                "Long_": -9.170066907,
                 "Deaths": 0,
-                "Province_State": "Viseu",
-                "Country_Region": "Viseu, Portugal",
-                "Lat": 41,
+                "Province_State": "Lisboa",
+                "Country_Region": "Lisboa, Portugal",
+                "Lat": 39.00174104,
                 "Recovered": -1
             }
         },
@@ -4515,36 +4515,6 @@
         },
         {
             "geometry": {
-                "y": 4473576.570480719,
-                "x": -905739.2317414302
-            },
-            "attributes": {
-                "Confirmed": 9,
-                "Long_": -8.136393953,
-                "Deaths": 0,
-                "Province_State": "Faro",
-                "Country_Region": "Faro, Portugal",
-                "Lat": 37.24689287,
-                "Recovered": -1
-            }
-        },
-        {
-            "geometry": {
-                "y": 4971511.051534578,
-                "x": -942615.3692018639
-            },
-            "attributes": {
-                "Confirmed": 2,
-                "Long_": -8.467657932,
-                "Deaths": 0,
-                "Province_State": "Aveiro",
-                "Country_Region": "Aveiro, Portugal",
-                "Lat": 40.72260083,
-                "Recovered": -1
-            }
-        },
-        {
-            "geometry": {
                 "y": 4963779.204124267,
                 "x": -806235.0934058444
             },
@@ -4555,6 +4525,51 @@
                 "Province_State": "Guarda",
                 "Country_Region": "Guarda, Portugal",
                 "Lat": 40.66994063,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 4555472.195923405,
+                "x": -884241.076426252
+            },
+            "attributes": {
+                "Confirmed": 3,
+                "Long_": -7.943272738,
+                "Deaths": 0,
+                "Province_State": "Beja",
+                "Country_Region": "Beja, Portugal",
+                "Lat": 37.8302407,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 5012341.663847516,
+                "x": -880379.1269956571
+            },
+            "attributes": {
+                "Confirmed": 381,
+                "Long_": -7.908580256,
+                "Deaths": 0,
+                "Province_State": "Viseu",
+                "Country_Region": "Viseu, Portugal",
+                "Lat": 41,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 4473576.570480719,
+                "x": -905739.2317414302
+            },
+            "attributes": {
+                "Confirmed": 9,
+                "Long_": -8.136393953,
+                "Deaths": 0,
+                "Province_State": "Faro",
+                "Country_Region": "Faro, Portugal",
+                "Lat": 37.24689287,
                 "Recovered": -1
             }
         },
@@ -4575,31 +4590,121 @@
         },
         {
             "geometry": {
-                "y": 4721920.964689797,
-                "x": -1020807.1786274891
+                "y": 4971511.051534578,
+                "x": -942615.3692018639
             },
             "attributes": {
-                "Confirmed": 278,
-                "Long_": -9.170066907,
+                "Confirmed": 2,
+                "Long_": -8.467657932,
                 "Deaths": 0,
-                "Province_State": "Lisboa",
-                "Country_Region": "Lisboa, Portugal",
-                "Lat": 39.00174104,
+                "Province_State": "Aveiro",
+                "Country_Region": "Aveiro, Portugal",
+                "Lat": 40.72260083,
                 "Recovered": -1
             }
         },
         {
             "geometry": {
-                "y": 4555472.195923405,
-                "x": -884241.076426252
+                "y": 5356640.869383856,
+                "x": -667109.0904207148
             },
             "attributes": {
-                "Confirmed": 3,
-                "Long_": -7.943272738,
+                "Confirmed": 344,
+                "Long_": -5.992742921,
+                "Deaths": 3,
+                "Province_State": "Asturias",
+                "Country_Region": "Asturias, Spain",
+                "Lat": 43.2927683,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 5091088.4465391375,
+                "x": -73147.72180950368
+            },
+            "attributes": {
+                "Confirmed": 360,
+                "Long_": -0.657097165,
+                "Deaths": 17,
+                "Province_State": "Aragon",
+                "Country_Region": "Aragon, Spain",
+                "Lat": 41.53171331,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 4750264.607795729,
+                "x": -684530.4343259776
+            },
+            "attributes": {
+                "Confirmed": 397,
+                "Long_": -6.149241516,
+                "Deaths": 10,
+                "Province_State": "Extremadura",
+                "Country_Region": "Extremadura, Spain",
+                "Lat": 39.19933258,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 4806756.347765732,
+                "x": 327227.89703852934
+            },
+            "attributes": {
+                "Confirmed": 203,
+                "Long_": 2.939538213,
+                "Deaths": 4,
+                "Province_State": "Illes Balears",
+                "Country_Region": "Illes Balears, Spain",
+                "Lat": 39.5914987,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 4580013.959986648,
+                "x": -165271.70774514673
+            },
+            "attributes": {
+                "Confirmed": 215,
+                "Long_": -1.484661011,
                 "Deaths": 0,
-                "Province_State": "Beja",
-                "Country_Region": "Beja, Portugal",
-                "Lat": 37.8302407,
+                "Province_State": "Murcia",
+                "Country_Region": "Murcia, Spain",
+                "Lat": 38.00416327,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 5342241.452345074,
+                "x": -448902.5942548102
+            },
+            "attributes": {
+                "Confirmed": 144,
+                "Long_": -4.032560615,
+                "Deaths": 1,
+                "Province_State": "Cantabria",
+                "Country_Region": "Cantabria, Spain",
+                "Lat": 43.19854525,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 4285986.742936448,
+                "x": -594628.6291049336
+            },
+            "attributes": {
+                "Confirmed": 5,
+                "Long_": -5.341639859,
+                "Deaths": 0,
+                "Province_State": "Ceuta",
+                "Country_Region": "Ceuta, Spain",
+                "Lat": 35.8935708,
                 "Recovered": -1
             }
         },
@@ -4755,21 +4860,6 @@
         },
         {
             "geometry": {
-                "y": 5342241.452345074,
-                "x": -448902.5942548102
-            },
-            "attributes": {
-                "Confirmed": 144,
-                "Long_": -4.032560615,
-                "Deaths": 1,
-                "Province_State": "Cantabria",
-                "Country_Region": "Cantabria, Spain",
-                "Lat": 43.19854525,
-                "Recovered": -1
-            }
-        },
-        {
-            "geometry": {
                 "y": 4203481.994144422,
                 "x": -328457.60571601527
             },
@@ -4780,96 +4870,6 @@
                 "Province_State": "Melilla",
                 "Country_Region": "Melilla, Spain",
                 "Lat": 35.29088603,
-                "Recovered": -1
-            }
-        },
-        {
-            "geometry": {
-                "y": 5356640.869383856,
-                "x": -667109.0904207148
-            },
-            "attributes": {
-                "Confirmed": 344,
-                "Long_": -5.992742921,
-                "Deaths": 3,
-                "Province_State": "Asturias",
-                "Country_Region": "Asturias, Spain",
-                "Lat": 43.2927683,
-                "Recovered": -1
-            }
-        },
-        {
-            "geometry": {
-                "y": 5091088.4465391375,
-                "x": -73147.72180950368
-            },
-            "attributes": {
-                "Confirmed": 360,
-                "Long_": -0.657097165,
-                "Deaths": 17,
-                "Province_State": "Aragon",
-                "Country_Region": "Aragon, Spain",
-                "Lat": 41.53171331,
-                "Recovered": -1
-            }
-        },
-        {
-            "geometry": {
-                "y": 4750264.607795729,
-                "x": -684530.4343259776
-            },
-            "attributes": {
-                "Confirmed": 397,
-                "Long_": -6.149241516,
-                "Deaths": 10,
-                "Province_State": "Extremadura",
-                "Country_Region": "Extremadura, Spain",
-                "Lat": 39.19933258,
-                "Recovered": -1
-            }
-        },
-        {
-            "geometry": {
-                "y": 4806756.347765732,
-                "x": 327227.89703852934
-            },
-            "attributes": {
-                "Confirmed": 203,
-                "Long_": 2.939538213,
-                "Deaths": 4,
-                "Province_State": "Illes Balears",
-                "Country_Region": "Illes Balears, Spain",
-                "Lat": 39.5914987,
-                "Recovered": -1
-            }
-        },
-        {
-            "geometry": {
-                "y": 4580013.959986648,
-                "x": -165271.70774514673
-            },
-            "attributes": {
-                "Confirmed": 215,
-                "Long_": -1.484661011,
-                "Deaths": 0,
-                "Province_State": "Murcia",
-                "Country_Region": "Murcia, Spain",
-                "Lat": 38.00416327,
-                "Recovered": -1
-            }
-        },
-        {
-            "geometry": {
-                "y": 4285986.742936448,
-                "x": -594628.6291049336
-            },
-            "attributes": {
-                "Confirmed": 5,
-                "Long_": -5.341639859,
-                "Deaths": 0,
-                "Province_State": "Ceuta",
-                "Country_Region": "Ceuta, Spain",
-                "Lat": 35.8935708,
                 "Recovered": -1
             }
         },
@@ -5119,13 +5119,13 @@
                 "x": 1491507.3211887297
             },
             "attributes": {
-                "Confirmed": 385,
+                "Confirmed": 449,
                 "Long_": 13.39843823,
-                "Deaths": 11,
+                "Deaths": 17,
                 "Province_State": "Abruzzo",
                 "Country_Region": "Abruzzo, Italy",
                 "Lat": 42.35122196,
-                "Recovered": 8
+                "Recovered": 10
             }
         },
         {
@@ -5134,7 +5134,7 @@
                 "x": 1759421.0651209531
             },
             "attributes": {
-                "Confirmed": 37,
+                "Confirmed": 52,
                 "Long_": 15.80514834,
                 "Deaths": 0,
                 "Province_State": "Basilicata",
@@ -5149,9 +5149,9 @@
                 "x": 1264213.6253009576
             },
             "attributes": {
-                "Confirmed": 436,
+                "Confirmed": 548,
                 "Long_": 11.35662422,
-                "Deaths": 14,
+                "Deaths": 17,
                 "Province_State": "P.A. Bolzano",
                 "Country_Region": "P.A. Bolzano, Italy",
                 "Lat": 46.49933453,
@@ -5164,9 +5164,9 @@
                 "x": 1847235.6302235818
             },
             "attributes": {
-                "Confirmed": 169,
+                "Confirmed": 207,
                 "Long_": 16.594,
-                "Deaths": 3,
+                "Deaths": 4,
                 "Province_State": "Calabria",
                 "Country_Region": "Calabria, Italy",
                 "Lat": 38.906,
@@ -5179,7 +5179,7 @@
                 "x": 1586397.347560204
             },
             "attributes": {
-                "Confirmed": 652,
+                "Confirmed": 749,
                 "Long_": 14.25084984,
                 "Deaths": 17,
                 "Province_State": "Campania",
@@ -5194,13 +5194,13 @@
                 "x": 1262554.5841754791
             },
             "attributes": {
-                "Confirmed": 5214,
+                "Confirmed": 5968,
                 "Long_": 11.3417208,
-                "Deaths": 531,
+                "Deaths": 640,
                 "Province_State": "Emilia Romagna",
                 "Country_Region": "Emilia Romagna, Italy",
                 "Lat": 44.49436681,
-                "Recovered": 177
+                "Recovered": 239
             }
         },
         {
@@ -5209,13 +5209,13 @@
                 "x": 1532661.9432390889
             },
             "attributes": {
-                "Confirmed": 599,
+                "Confirmed": 656,
                 "Long_": 13.76813649,
-                "Deaths": 36,
+                "Deaths": 38,
                 "Province_State": "Friuli Venezia Giulia ",
                 "Country_Region": "Friuli Venezia Giulia , Italy",
                 "Lat": 45.6494354,
-                "Recovered": 41
+                "Recovered": 63
             }
         },
         {
@@ -5224,13 +5224,13 @@
                 "x": 1389675.478163081
             },
             "attributes": {
-                "Confirmed": 823,
+                "Confirmed": 1008,
                 "Long_": 12.48366722,
-                "Deaths": 38,
+                "Deaths": 43,
                 "Province_State": "Lazio",
                 "Country_Region": "Lazio, Italy",
                 "Lat": 41.89277044,
-                "Recovered": 44
+                "Recovered": 53
             }
         },
         {
@@ -5239,13 +5239,13 @@
                 "x": 994383.5263534822
             },
             "attributes": {
-                "Confirmed": 1059,
+                "Confirmed": 1221,
                 "Long_": 8.9326992,
-                "Deaths": 91,
+                "Deaths": 119,
                 "Province_State": "Liguria",
                 "Country_Region": "Liguria, Italy",
                 "Lat": 44.41149315,
-                "Recovered": 85
+                "Recovered": 101
             }
         },
         {
@@ -5254,13 +5254,13 @@
                 "x": 1023064.7932265637
             },
             "attributes": {
-                "Confirmed": 19884,
+                "Confirmed": 22264,
                 "Long_": 9.190347404,
-                "Deaths": 2168,
+                "Deaths": 2549,
                 "Province_State": "Lombardia",
                 "Country_Region": "Lombardia, Italy",
                 "Lat": 45.46679409,
-                "Recovered": 3778
+                "Recovered": 4295
             }
         },
         {
@@ -5269,9 +5269,9 @@
                 "x": 1504914.3144937635
             },
             "attributes": {
-                "Confirmed": 1737,
+                "Confirmed": 1981,
                 "Long_": 13.5188753,
-                "Deaths": 115,
+                "Deaths": 137,
                 "Province_State": "Marche",
                 "Country_Region": "Marche, Italy",
                 "Lat": 43.61675973,
@@ -5284,9 +5284,9 @@
                 "x": 1631850.2834300646
             },
             "attributes": {
-                "Confirmed": 46,
+                "Confirmed": 50,
                 "Long_": 14.65916051,
-                "Deaths": 2,
+                "Deaths": 5,
                 "Province_State": "Molise",
                 "Country_Region": "Molise, Italy",
                 "Lat": 41.55774754,
@@ -5299,13 +5299,13 @@
                 "x": 855010.2195498301
             },
             "attributes": {
-                "Confirmed": 2932,
+                "Confirmed": 3461,
                 "Long_": 7.680687483,
-                "Deaths": 175,
+                "Deaths": 209,
                 "Province_State": "Piemonte",
                 "Country_Region": "Piemonte, Italy",
                 "Lat": 45.0732745,
-                "Recovered": 3
+                "Recovered": 8
             }
         },
         {
@@ -5314,9 +5314,9 @@
                 "x": 1877666.6932181225
             },
             "attributes": {
-                "Confirmed": 478,
+                "Confirmed": 581,
                 "Long_": 16.86736689,
-                "Deaths": 25,
+                "Deaths": 26,
                 "Province_State": "Puglia",
                 "Country_Region": "Puglia, Italy",
                 "Lat": 41.12559576,
@@ -5329,13 +5329,13 @@
                 "x": 1014189.1679968152
             },
             "attributes": {
-                "Confirmed": 206,
+                "Confirmed": 293,
                 "Long_": 9.110616306,
                 "Deaths": 2,
                 "Province_State": "Sardegna",
                 "Country_Region": "Sardegna, Italy",
                 "Lat": 39.21531192,
-                "Recovered": 0
+                "Recovered": 3
             }
         },
         {
@@ -5344,13 +5344,13 @@
                 "x": 1487490.7436420873
             },
             "attributes": {
-                "Confirmed": 340,
+                "Confirmed": 408,
                 "Long_": 13.3623567,
                 "Deaths": 4,
                 "Province_State": "Sicilia",
                 "Country_Region": "Sicilia, Italy",
                 "Lat": 38.11569725,
-                "Recovered": 15
+                "Recovered": 25
             }
         },
         {
@@ -5359,13 +5359,13 @@
                 "x": 1252999.8152076856
             },
             "attributes": {
-                "Confirmed": 1482,
+                "Confirmed": 1793,
                 "Long_": 11.25588885,
-                "Deaths": 38,
+                "Deaths": 47,
                 "Province_State": "Toscana",
                 "Country_Region": "Toscana, Italy",
                 "Lat": 43.76923077,
-                "Recovered": 22
+                "Recovered": 33
             }
         },
         {
@@ -5374,13 +5374,13 @@
                 "x": 1238009.7685747838
             },
             "attributes": {
-                "Confirmed": 523,
+                "Confirmed": 642,
                 "Long_": 11.12123097,
-                "Deaths": 12,
+                "Deaths": 13,
                 "Province_State": "P.A. Trento",
                 "Country_Region": "P.A. Trento, Italy",
                 "Lat": 46.06893511,
-                "Recovered": 20
+                "Recovered": 29
             }
         },
         {
@@ -5389,9 +5389,9 @@
                 "x": 1379053.345634909
             },
             "attributes": {
-                "Confirmed": 334,
+                "Confirmed": 395,
                 "Long_": 12.38824698,
-                "Deaths": 2,
+                "Deaths": 7,
                 "Province_State": "Umbria",
                 "Country_Region": "Umbria, Italy",
                 "Lat": 43.10675841,
@@ -5404,9 +5404,9 @@
                 "x": 814875.2999538244
             },
             "attributes": {
-                "Confirmed": 215,
+                "Confirmed": 264,
                 "Long_": 7.320149366,
-                "Deaths": 6,
+                "Deaths": 7,
                 "Province_State": "Valle d'Aosta",
                 "Country_Region": "Valle d'Aosta, Italy",
                 "Lat": 45.73750286,
@@ -5419,13 +5419,13 @@
                 "x": 1373510.2082887816
             },
             "attributes": {
-                "Confirmed": 3484,
+                "Confirmed": 4031,
                 "Long_": 12.33845213,
-                "Deaths": 115,
+                "Deaths": 131,
                 "Province_State": "Veneto",
                 "Country_Region": "Veneto, Italy",
                 "Lat": 45.43490485,
-                "Recovered": 200
+                "Recovered": 223
             }
         },
         {
