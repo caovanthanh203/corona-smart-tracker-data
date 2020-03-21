@@ -26,18 +26,18 @@
         },
         {
             "attributes": {
-                "Confirmed": 20193,
-                "Country_Region": "USA",
-                "Recovered": 147,
-                "Deaths": 280
-            }
-        },
-        {
-            "attributes": {
                 "Confirmed": 19848,
                 "Country_Region": "Germany",
                 "Recovered": 180,
                 "Deaths": 68
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 19773,
+                "Country_Region": "USA",
+                "Recovered": 147,
+                "Deaths": 275
             }
         },
         {
@@ -362,6 +362,14 @@
         },
         {
             "attributes": {
+                "Confirmed": 270,
+                "Country_Region": "India",
+                "Recovered": 23,
+                "Deaths": 5
+            }
+        },
+        {
+            "attributes": {
                 "Confirmed": 263,
                 "Country_Region": "Peru",
                 "Recovered": 1,
@@ -374,14 +382,6 @@
                 "Country_Region": "Philippines",
                 "Recovered": 8,
                 "Deaths": 18
-            }
-        },
-        {
-            "attributes": {
-                "Confirmed": 258,
-                "Country_Region": "India",
-                "Recovered": 23,
-                "Deaths": 5
             }
         },
         {
@@ -524,7 +524,7 @@
             "attributes": {
                 "Confirmed": 127,
                 "Country_Region": "Bulgaria",
-                "Recovered": 1,
+                "Recovered": 3,
                 "Deaths": 3
             }
         },
@@ -1275,6 +1275,14 @@
         {
             "attributes": {
                 "Confirmed": 2,
+                "Country_Region": "Fiji",
+                "Recovered": 0,
+                "Deaths": 0
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 2,
                 "Country_Region": "Greenland",
                 "Recovered": 0,
                 "Deaths": 0
@@ -1396,14 +1404,6 @@
             "attributes": {
                 "Confirmed": 1,
                 "Country_Region": "Djibouti",
-                "Recovered": 0,
-                "Deaths": 0
-            }
-        },
-        {
-            "attributes": {
-                "Confirmed": 1,
-                "Country_Region": "Fiji",
                 "Recovered": 0,
                 "Deaths": 0
             }
