@@ -34,7 +34,7 @@
         },
         {
             "attributes": {
-                "Confirmed": 20099,
+                "Confirmed": 20142,
                 "Country_Region": "Germany",
                 "Recovered": 180,
                 "Deaths": 70
@@ -92,7 +92,7 @@
             "attributes": {
                 "Confirmed": 2815,
                 "Country_Region": "Belgium",
-                "Recovered": 204,
+                "Recovered": 263,
                 "Deaths": 67
             }
         },
@@ -1163,6 +1163,14 @@
         {
             "attributes": {
                 "Confirmed": 4,
+                "Country_Region": "New Caledonia",
+                "Recovered": 0,
+                "Deaths": 0
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 4,
                 "Country_Region": "Saint Martin",
                 "Recovered": 0,
                 "Deaths": 0
@@ -1340,14 +1348,6 @@
             "attributes": {
                 "Confirmed": 2,
                 "Country_Region": "Mauritania",
-                "Recovered": 0,
-                "Deaths": 0
-            }
-        },
-        {
-            "attributes": {
-                "Confirmed": 2,
-                "Country_Region": "New Caledonia",
                 "Recovered": 0,
                 "Deaths": 0
             }
