@@ -146,6 +146,14 @@
         },
         {
             "attributes": {
+                "Confirmed": 1023,
+                "Country_Region": "Australia",
+                "Recovered": 46,
+                "Deaths": 7
+            }
+        },
+        {
+            "attributes": {
                 "Confirmed": 1020,
                 "Country_Region": "Portugal",
                 "Recovered": 5,
@@ -166,14 +174,6 @@
                 "Country_Region": "Brazil",
                 "Recovered": 2,
                 "Deaths": 11
-            }
-        },
-        {
-            "attributes": {
-                "Confirmed": 928,
-                "Country_Region": "Australia",
-                "Recovered": 46,
-                "Deaths": 7
             }
         },
         {
@@ -458,18 +458,18 @@
         },
         {
             "attributes": {
-                "Confirmed": 151,
-                "Country_Region": "San Marino",
-                "Recovered": 4,
-                "Deaths": 14
+                "Confirmed": 158,
+                "Country_Region": "Colombia",
+                "Recovered": 1,
+                "Deaths": 0
             }
         },
         {
             "attributes": {
-                "Confirmed": 145,
-                "Country_Region": "Colombia",
-                "Recovered": 1,
-                "Deaths": 0
+                "Confirmed": 151,
+                "Country_Region": "San Marino",
+                "Recovered": 4,
+                "Deaths": 14
             }
         },
         {
@@ -714,8 +714,8 @@
         },
         {
             "attributes": {
-                "Confirmed": 53,
-                "Country_Region": "New Zealand",
+                "Confirmed": 52,
+                "Country_Region": "Kazakhstan",
                 "Recovered": 0,
                 "Deaths": 0
             }
@@ -723,7 +723,7 @@
         {
             "attributes": {
                 "Confirmed": 52,
-                "Country_Region": "Kazakhstan",
+                "Country_Region": "New Zealand",
                 "Recovered": 0,
                 "Deaths": 0
             }
