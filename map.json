@@ -4404,6 +4404,17 @@
         },
         {
             "attributes": {
+                "Confirmed": 2,
+                "Long_": "107.58482",
+                "Deaths": 0,
+                "Province_State": "Thừa Thiên Huế",
+                "Country_Region": "Thừa Thiên Huế, Việt Nam",
+                "Lat": "16.463744",
+                "Recovered": 0
+            }
+        },
+        {
+            "attributes": {
                 "Confirmed": 11,
                 "Long_": "105.548401",
                 "Deaths": 0,
@@ -4415,12 +4426,45 @@
         },
         {
             "attributes": {
+                "Confirmed": 2,
+                "Long_": "108.99028",
+                "Deaths": 0,
+                "Province_State": "Ninh Thuận",
+                "Country_Region": "Ninh Thuận, Việt Nam",
+                "Lat": "11.56556",
+                "Recovered": 0
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 1,
+                "Long_": "105.974808",
+                "Deaths": 0,
+                "Province_State": "Ninh Bình",
+                "Country_Region": "Ninh Bình, Việt Nam",
+                "Lat": "20.250924",
+                "Recovered": 1
+            }
+        },
+        {
+            "attributes": {
                 "Confirmed": 3,
                 "Long_": "108.03680",
                 "Deaths": 0,
                 "Province_State": "Quảng Nam",
                 "Country_Region": "Quảng Nam, Việt Nam",
                 "Lat": "15.556898",
+                "Recovered": 0
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 1,
+                "Long_": "106.073406",
+                "Deaths": 0,
+                "Province_State": "Bắc Ninh",
+                "Country_Region": "Bắc Ninh, Việt Nam",
+                "Lat": "21.187548",
                 "Recovered": 0
             }
         },
@@ -4444,50 +4488,6 @@
                 "Country_Region": "Hải Dương, Việt Nam",
                 "Lat": "20.933330",
                 "Recovered": 0
-            }
-        },
-        {
-            "attributes": {
-                "Confirmed": 2,
-                "Long_": "107.58482",
-                "Deaths": 0,
-                "Province_State": "Thừa Thiên Huế",
-                "Country_Region": "Thừa Thiên Huế, Việt Nam",
-                "Lat": "16.463744",
-                "Recovered": 0
-            }
-        },
-        {
-            "attributes": {
-                "Confirmed": 2,
-                "Long_": "108.99028",
-                "Deaths": 0,
-                "Province_State": "Ninh Thuận",
-                "Country_Region": "Ninh Thuận, Việt Nam",
-                "Lat": "11.56556",
-                "Recovered": 0
-            }
-        },
-        {
-            "attributes": {
-                "Confirmed": 1,
-                "Long_": "106.073406",
-                "Deaths": 0,
-                "Province_State": "Bắc Ninh",
-                "Country_Region": "Bắc Ninh, Việt Nam",
-                "Lat": "21.187548",
-                "Recovered": 0
-            }
-        },
-        {
-            "attributes": {
-                "Confirmed": 1,
-                "Long_": "105.974808",
-                "Deaths": 0,
-                "Province_State": "Ninh Bình",
-                "Country_Region": "Ninh Bình, Việt Nam",
-                "Lat": "20.250924",
-                "Recovered": 1
             }
         },
         {
@@ -4536,91 +4536,31 @@
         },
         {
             "geometry": {
+                "y": 5045365.067524811,
+                "x": -929364.4746546702
+            },
+            "attributes": {
+                "Confirmed": 86,
+                "Long_": -8.348623121,
+                "Deaths": 0,
+                "Province_State": "Porto",
+                "Country_Region": "Porto, Portugal",
+                "Lat": 41.22350744,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
                 "y": 5012341.663847516,
                 "x": -880379.1269956571
             },
             "attributes": {
-                "Confirmed": 506,
+                "Confirmed": 381,
                 "Long_": -7.908580256,
-                "Deaths": 4,
+                "Deaths": 0,
                 "Province_State": "Viseu",
                 "Country_Region": "Viseu, Portugal",
                 "Lat": 41,
-                "Recovered": -1
-            }
-        },
-        {
-            "geometry": {
-                "y": 4895773.201893851,
-                "x": -927480.7427067511
-            },
-            "attributes": {
-                "Confirmed": 29,
-                "Long_": -8.331701269,
-                "Deaths": 0,
-                "Province_State": "Coimbra",
-                "Country_Region": "Coimbra, Portugal",
-                "Lat": 40.20497262,
-                "Recovered": -1
-            }
-        },
-        {
-            "geometry": {
-                "y": 4721920.964689797,
-                "x": -1020807.1786274891
-            },
-            "attributes": {
-                "Confirmed": 361,
-                "Long_": -9.170066907,
-                "Deaths": 2,
-                "Province_State": "Lisboa",
-                "Country_Region": "Lisboa, Portugal",
-                "Lat": 39.00174104,
-                "Recovered": -1
-            }
-        },
-        {
-            "geometry": {
-                "y": 4963779.204124267,
-                "x": -806235.0934058444
-            },
-            "attributes": {
-                "Confirmed": 1,
-                "Long_": -7.24253307,
-                "Deaths": 0,
-                "Province_State": "Guarda",
-                "Country_Region": "Guarda, Portugal",
-                "Lat": 40.66994063,
-                "Recovered": -1
-            }
-        },
-        {
-            "geometry": {
-                "y": 4555472.195923405,
-                "x": -884241.076426252
-            },
-            "attributes": {
-                "Confirmed": 3,
-                "Long_": -7.943272738,
-                "Deaths": 0,
-                "Province_State": "Beja",
-                "Country_Region": "Beja, Portugal",
-                "Lat": 37.8302407,
-                "Recovered": -1
-            }
-        },
-        {
-            "geometry": {
-                "y": 4971511.051534578,
-                "x": -942615.3692018639
-            },
-            "attributes": {
-                "Confirmed": 2,
-                "Long_": -8.467657932,
-                "Deaths": 0,
-                "Province_State": "Aveiro",
-                "Country_Region": "Aveiro, Portugal",
-                "Lat": 40.72260083,
                 "Recovered": -1
             }
         },
@@ -4641,16 +4581,76 @@
         },
         {
             "geometry": {
-                "y": 5045365.067524811,
-                "x": -929364.4746546702
+                "y": 4963779.204124267,
+                "x": -806235.0934058444
             },
             "attributes": {
-                "Confirmed": 106,
-                "Long_": -8.348623121,
+                "Confirmed": 1,
+                "Long_": -7.24253307,
                 "Deaths": 0,
-                "Province_State": "Porto",
-                "Country_Region": "Porto, Portugal",
-                "Lat": 41.22350744,
+                "Province_State": "Guarda",
+                "Country_Region": "Guarda, Portugal",
+                "Lat": 40.66994063,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 4721920.964689797,
+                "x": -1020807.1786274891
+            },
+            "attributes": {
+                "Confirmed": 278,
+                "Long_": -9.170066907,
+                "Deaths": 0,
+                "Province_State": "Lisboa",
+                "Country_Region": "Lisboa, Portugal",
+                "Lat": 39.00174104,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 4971511.051534578,
+                "x": -942615.3692018639
+            },
+            "attributes": {
+                "Confirmed": 2,
+                "Long_": -8.467657932,
+                "Deaths": 0,
+                "Province_State": "Aveiro",
+                "Country_Region": "Aveiro, Portugal",
+                "Lat": 40.72260083,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 4555472.195923405,
+                "x": -884241.076426252
+            },
+            "attributes": {
+                "Confirmed": 3,
+                "Long_": -7.943272738,
+                "Deaths": 0,
+                "Province_State": "Beja",
+                "Country_Region": "Beja, Portugal",
+                "Lat": 37.8302407,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 4895773.201893851,
+                "x": -927480.7427067511
+            },
+            "attributes": {
+                "Confirmed": 25,
+                "Long_": -8.331701269,
+                "Deaths": 0,
+                "Province_State": "Coimbra",
+                "Country_Region": "Coimbra, Portugal",
+                "Lat": 40.20497262,
                 "Recovered": -1
             }
         },
