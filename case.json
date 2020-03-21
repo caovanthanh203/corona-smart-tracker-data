@@ -34,10 +34,10 @@
         },
         {
             "attributes": {
-                "Confirmed": 19910,
+                "Confirmed": 20046,
                 "Country_Region": "Germany",
                 "Recovered": 180,
-                "Deaths": 68
+                "Deaths": 69
             }
         },
         {
@@ -90,6 +90,14 @@
         },
         {
             "attributes": {
+                "Confirmed": 2815,
+                "Country_Region": "Belgium",
+                "Recovered": 204,
+                "Deaths": 67
+            }
+        },
+        {
+            "attributes": {
                 "Confirmed": 2695,
                 "Country_Region": "Austria",
                 "Recovered": 9,
@@ -98,15 +106,7 @@
         },
         {
             "attributes": {
-                "Confirmed": 2257,
-                "Country_Region": "Belgium",
-                "Recovered": 204,
-                "Deaths": 37
-            }
-        },
-        {
-            "attributes": {
-                "Confirmed": 1994,
+                "Confirmed": 1995,
                 "Country_Region": "Norway",
                 "Recovered": 1,
                 "Deaths": 7
@@ -618,10 +618,18 @@
         },
         {
             "attributes": {
-                "Confirmed": 76,
+                "Confirmed": 77,
                 "Country_Region": "North Macedonia",
                 "Recovered": 1,
                 "Deaths": 0
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 76,
+                "Country_Region": "Albania",
+                "Recovered": 2,
+                "Deaths": 2
             }
         },
         {
@@ -653,14 +661,6 @@
                 "Confirmed": 72,
                 "Country_Region": "Dominican Republic",
                 "Recovered": 0,
-                "Deaths": 2
-            }
-        },
-        {
-            "attributes": {
-                "Confirmed": 70,
-                "Country_Region": "Albania",
-                "Recovered": 2,
                 "Deaths": 2
             }
         },
