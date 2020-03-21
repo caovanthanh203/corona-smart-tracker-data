@@ -1034,6 +1034,14 @@
         },
         {
             "attributes": {
+                "Confirmed": 10,
+                "Country_Region": "Mongolia",
+                "Recovered": 0,
+                "Deaths": 0
+            }
+        },
+        {
+            "attributes": {
                 "Confirmed": 9,
                 "Country_Region": "Ivory Coast",
                 "Recovered": 1,
@@ -1108,14 +1116,6 @@
             "attributes": {
                 "Confirmed": 6,
                 "Country_Region": "Kyrgyzstan",
-                "Recovered": 0,
-                "Deaths": 0
-            }
-        },
-        {
-            "attributes": {
-                "Confirmed": 6,
-                "Country_Region": "Mongolia",
                 "Recovered": 0,
                 "Deaths": 0
             }
