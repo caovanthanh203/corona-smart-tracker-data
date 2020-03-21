@@ -1130,6 +1130,14 @@
         },
         {
             "attributes": {
+                "Confirmed": 6,
+                "Country_Region": "U.S. Virgin Islands",
+                "Recovered": 0,
+                "Deaths": 0
+            }
+        },
+        {
+            "attributes": {
                 "Confirmed": 5,
                 "Country_Region": "Aruba",
                 "Recovered": 1,
@@ -1220,14 +1228,6 @@
             "attributes": {
                 "Confirmed": 3,
                 "Country_Region": "St. Barth",
-                "Recovered": 0,
-                "Deaths": 0
-            }
-        },
-        {
-            "attributes": {
-                "Confirmed": 3,
-                "Country_Region": "U.S. Virgin Islands",
                 "Recovered": 0,
                 "Deaths": 0
             }
