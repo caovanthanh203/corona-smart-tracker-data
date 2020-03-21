@@ -106,7 +106,7 @@
         },
         {
             "attributes": {
-                "Confirmed": 1975,
+                "Confirmed": 1976,
                 "Country_Region": "Norway",
                 "Recovered": 1,
                 "Deaths": 7
@@ -843,6 +843,14 @@
         {
             "attributes": {
                 "Confirmed": 24,
+                "Country_Region": "Bangladesh",
+                "Recovered": 3,
+                "Deaths": 2
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 24,
                 "Country_Region": "Afghanistan",
                 "Recovered": 1,
                 "Deaths": 0
@@ -869,14 +877,6 @@
                 "Confirmed": 21,
                 "Country_Region": "Cuba",
                 "Recovered": 0,
-                "Deaths": 1
-            }
-        },
-        {
-            "attributes": {
-                "Confirmed": 20,
-                "Country_Region": "Bangladesh",
-                "Recovered": 3,
                 "Deaths": 1
             }
         },
@@ -1219,6 +1219,14 @@
         {
             "attributes": {
                 "Confirmed": 3,
+                "Country_Region": "Liberia",
+                "Recovered": 0,
+                "Deaths": 0
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 3,
                 "Country_Region": "Madagascar",
                 "Recovered": 0,
                 "Deaths": 0
@@ -1308,14 +1316,6 @@
             "attributes": {
                 "Confirmed": 2,
                 "Country_Region": "Isle of Man",
-                "Recovered": 0,
-                "Deaths": 0
-            }
-        },
-        {
-            "attributes": {
-                "Confirmed": 2,
-                "Country_Region": "Liberia",
                 "Recovered": 0,
                 "Deaths": 0
             }
