@@ -26,7 +26,7 @@
         },
         {
             "attributes": {
-                "Confirmed": 24786,
+                "Confirmed": 23513,
                 "Country_Region": "USA",
                 "Recovered": 171,
                 "Deaths": 290
@@ -66,9 +66,9 @@
         },
         {
             "attributes": {
-                "Confirmed": 6747,
+                "Confirmed": 6863,
                 "Country_Region": "Switzerland",
-                "Recovered": 15,
+                "Recovered": 131,
                 "Deaths": 80
             }
         },
@@ -810,7 +810,7 @@
         },
         {
             "attributes": {
-                "Confirmed": 45,
+                "Confirmed": 47,
                 "Country_Region": "Réunion",
                 "Recovered": 0,
                 "Deaths": 0
@@ -835,17 +835,17 @@
         {
             "attributes": {
                 "Confirmed": 37,
-                "Country_Region": "Liechtenstein",
+                "Country_Region": "Martinique",
                 "Recovered": 0,
-                "Deaths": 0
+                "Deaths": 1
             }
         },
         {
             "attributes": {
-                "Confirmed": 32,
-                "Country_Region": "Martinique",
+                "Confirmed": 37,
+                "Country_Region": "Liechtenstein",
                 "Recovered": 0,
-                "Deaths": 1
+                "Deaths": 0
             }
         },
         {
@@ -934,6 +934,14 @@
                 "Country_Region": "Bolivia",
                 "Recovered": 0,
                 "Deaths": 0
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 18,
+                "Country_Region": "Guyana",
+                "Recovered": 0,
+                "Deaths": 1
             }
         },
         {
@@ -1058,6 +1066,14 @@
         },
         {
             "attributes": {
+                "Confirmed": 11,
+                "Country_Region": "Mayotte",
+                "Recovered": 0,
+                "Deaths": 0
+            }
+        },
+        {
+            "attributes": {
                 "Confirmed": 10,
                 "Country_Region": "Gibraltar",
                 "Recovered": 2,
@@ -1084,14 +1100,6 @@
             "attributes": {
                 "Confirmed": 7,
                 "Country_Region": "Kenya",
-                "Recovered": 0,
-                "Deaths": 0
-            }
-        },
-        {
-            "attributes": {
-                "Confirmed": 7,
-                "Country_Region": "Mayotte",
                 "Recovered": 0,
                 "Deaths": 0
             }
@@ -1132,14 +1140,6 @@
             "attributes": {
                 "Confirmed": 5,
                 "Country_Region": "Gabon",
-                "Recovered": 0,
-                "Deaths": 1
-            }
-        },
-        {
-            "attributes": {
-                "Confirmed": 5,
-                "Country_Region": "Guyana",
                 "Recovered": 0,
                 "Deaths": 1
             }
