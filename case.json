@@ -93,7 +93,7 @@
                 "Confirmed": 2672,
                 "Country_Region": "Austria",
                 "Recovered": 9,
-                "Deaths": 6
+                "Deaths": 7
             }
         },
         {
@@ -251,6 +251,14 @@
         {
             "attributes": {
                 "Confirmed": 450,
+                "Country_Region": "Indonesia",
+                "Recovered": 17,
+                "Deaths": 32
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 450,
                 "Country_Region": "Finland",
                 "Recovered": 10,
                 "Deaths": 0
@@ -306,14 +314,6 @@
         },
         {
             "attributes": {
-                "Confirmed": 369,
-                "Country_Region": "Indonesia",
-                "Recovered": 17,
-                "Deaths": 32
-            }
-        },
-        {
-            "attributes": {
                 "Confirmed": 344,
                 "Country_Region": "Saudi Arabia",
                 "Recovered": 8,
@@ -334,6 +334,14 @@
                 "Country_Region": "Romania",
                 "Recovered": 31,
                 "Deaths": 0
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 307,
+                "Country_Region": "Philippines",
+                "Recovered": 13,
+                "Deaths": 19
             }
         },
         {
@@ -370,25 +378,17 @@
         },
         {
             "attributes": {
-                "Confirmed": 263,
-                "Country_Region": "Peru",
-                "Recovered": 1,
+                "Confirmed": 273,
+                "Country_Region": "Hong Kong",
+                "Recovered": 98,
                 "Deaths": 4
             }
         },
         {
             "attributes": {
-                "Confirmed": 262,
-                "Country_Region": "Philippines",
-                "Recovered": 13,
-                "Deaths": 19
-            }
-        },
-        {
-            "attributes": {
-                "Confirmed": 256,
-                "Country_Region": "Hong Kong",
-                "Recovered": 98,
+                "Confirmed": 263,
+                "Country_Region": "Peru",
+                "Recovered": 1,
                 "Deaths": 4
             }
         },
