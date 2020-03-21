@@ -154,7 +154,7 @@
         },
         {
             "attributes": {
-                "Confirmed": 1128,
+                "Confirmed": 1178,
                 "Country_Region": "Brazil",
                 "Recovered": 2,
                 "Deaths": 18
@@ -402,6 +402,14 @@
         },
         {
             "attributes": {
+                "Confirmed": 245,
+                "Country_Region": "Panama",
+                "Recovered": 1,
+                "Deaths": 3
+            }
+        },
+        {
+            "attributes": {
                 "Confirmed": 240,
                 "Country_Region": "South Africa",
                 "Recovered": 2,
@@ -438,14 +446,6 @@
                 "Country_Region": "Mexico",
                 "Recovered": 4,
                 "Deaths": 2
-            }
-        },
-        {
-            "attributes": {
-                "Confirmed": 200,
-                "Country_Region": "Panama",
-                "Recovered": 1,
-                "Deaths": 1
             }
         },
         {
@@ -891,6 +891,14 @@
         {
             "attributes": {
                 "Confirmed": 22,
+                "Country_Region": "Paraguay",
+                "Recovered": 0,
+                "Deaths": 1
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 22,
                 "Country_Region": "Nigeria",
                 "Recovered": 1,
                 "Deaths": 0
@@ -940,14 +948,6 @@
             "attributes": {
                 "Confirmed": 18,
                 "Country_Region": "Guyana",
-                "Recovered": 0,
-                "Deaths": 1
-            }
-        },
-        {
-            "attributes": {
-                "Confirmed": 18,
-                "Country_Region": "Paraguay",
                 "Recovered": 0,
                 "Deaths": 1
             }
