@@ -98,7 +98,7 @@
         },
         {
             "attributes": {
-                "Confirmed": 2719,
+                "Confirmed": 2785,
                 "Country_Region": "Austria",
                 "Recovered": 9,
                 "Deaths": 7
@@ -237,7 +237,7 @@
                 "Confirmed": 521,
                 "Country_Region": "Finland",
                 "Recovered": 10,
-                "Deaths": 0
+                "Deaths": 1
             }
         },
         {
@@ -930,6 +930,14 @@
         },
         {
             "attributes": {
+                "Confirmed": 16,
+                "Country_Region": "Togo",
+                "Recovered": 0,
+                "Deaths": 0
+            }
+        },
+        {
+            "attributes": {
                 "Confirmed": 15,
                 "Country_Region": "French Guiana",
                 "Recovered": 0,
@@ -1052,14 +1060,6 @@
             "attributes": {
                 "Confirmed": 9,
                 "Country_Region": "Ethiopia",
-                "Recovered": 0,
-                "Deaths": 0
-            }
-        },
-        {
-            "attributes": {
-                "Confirmed": 9,
-                "Country_Region": "Togo",
                 "Recovered": 0,
                 "Deaths": 0
             }
