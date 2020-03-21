@@ -290,6 +290,14 @@
         },
         {
             "attributes": {
+                "Confirmed": 432,
+                "Country_Region": "Singapore",
+                "Recovered": 140,
+                "Deaths": 2
+            }
+        },
+        {
+            "attributes": {
                 "Confirmed": 426,
                 "Country_Region": "Ecuador",
                 "Recovered": 3,
@@ -302,14 +310,6 @@
                 "Country_Region": "Thailand",
                 "Recovered": 44,
                 "Deaths": 1
-            }
-        },
-        {
-            "attributes": {
-                "Confirmed": 385,
-                "Country_Region": "Singapore",
-                "Recovered": 140,
-                "Deaths": 2
             }
         },
         {
@@ -404,7 +404,7 @@
             "attributes": {
                 "Confirmed": 240,
                 "Country_Region": "South Africa",
-                "Recovered": 1,
+                "Recovered": 2,
                 "Deaths": 0
             }
         },
@@ -586,7 +586,7 @@
         },
         {
             "attributes": {
-                "Confirmed": 90,
+                "Confirmed": 91,
                 "Country_Region": "Bosnia and Herzegovina",
                 "Recovered": 2,
                 "Deaths": 0
