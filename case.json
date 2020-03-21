@@ -34,7 +34,7 @@
         },
         {
             "attributes": {
-                "Confirmed": 19648,
+                "Confirmed": 19650,
                 "Country_Region": "USA",
                 "Recovered": 147,
                 "Deaths": 263
@@ -731,6 +731,14 @@
         {
             "attributes": {
                 "Confirmed": 51,
+                "Country_Region": "Guadeloupe",
+                "Recovered": 0,
+                "Deaths": 1
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 51,
                 "Country_Region": "Cambodia",
                 "Recovered": 1,
                 "Deaths": 0
@@ -757,14 +765,6 @@
                 "Confirmed": 47,
                 "Country_Region": "Senegal",
                 "Recovered": 5,
-                "Deaths": 0
-            }
-        },
-        {
-            "attributes": {
-                "Confirmed": 45,
-                "Country_Region": "Guadeloupe",
-                "Recovered": 0,
                 "Deaths": 0
             }
         },
