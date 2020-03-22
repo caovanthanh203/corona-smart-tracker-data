@@ -466,6 +466,14 @@
         },
         {
             "attributes": {
+                "Confirmed": 202,
+                "Country_Region": "Dominican Republic",
+                "Recovered": 0,
+                "Deaths": 3
+            }
+        },
+        {
+            "attributes": {
                 "Confirmed": 190,
                 "Country_Region": "Armenia",
                 "Recovered": 2,
@@ -598,14 +606,6 @@
                 "Country_Region": "Andorra",
                 "Recovered": 1,
                 "Deaths": 1
-            }
-        },
-        {
-            "attributes": {
-                "Confirmed": 112,
-                "Country_Region": "Dominican Republic",
-                "Recovered": 0,
-                "Deaths": 3
             }
         },
         {
@@ -882,9 +882,9 @@
         },
         {
             "attributes": {
-                "Confirmed": 26,
+                "Confirmed": 27,
                 "Country_Region": "Nigeria",
-                "Recovered": 1,
+                "Recovered": 2,
                 "Deaths": 0
             }
         },
@@ -892,6 +892,14 @@
             "attributes": {
                 "Confirmed": 26,
                 "Country_Region": "Honduras",
+                "Recovered": 0,
+                "Deaths": 0
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 24,
+                "Country_Region": "Bolivia",
                 "Recovered": 0,
                 "Deaths": 0
             }
@@ -941,14 +949,6 @@
                 "Confirmed": 20,
                 "Country_Region": "Macao",
                 "Recovered": 10,
-                "Deaths": 0
-            }
-        },
-        {
-            "attributes": {
-                "Confirmed": 20,
-                "Country_Region": "Bolivia",
-                "Recovered": 0,
                 "Deaths": 0
             }
         },
