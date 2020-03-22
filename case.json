@@ -36,7 +36,7 @@
             "attributes": {
                 "Confirmed": 23129,
                 "Country_Region": "Germany",
-                "Recovered": 209,
+                "Recovered": 266,
                 "Deaths": 93
             }
         },
@@ -1387,6 +1387,14 @@
         {
             "attributes": {
                 "Confirmed": 2,
+                "Country_Region": "Niger",
+                "Recovered": 0,
+                "Deaths": 0
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 2,
                 "Country_Region": "Saint Lucia",
                 "Recovered": 0,
                 "Deaths": 0
@@ -1452,14 +1460,6 @@
             "attributes": {
                 "Confirmed": 1,
                 "Country_Region": "Montserrat",
-                "Recovered": 0,
-                "Deaths": 0
-            }
-        },
-        {
-            "attributes": {
-                "Confirmed": 1,
-                "Country_Region": "Niger",
                 "Recovered": 0,
                 "Deaths": 0
             }
