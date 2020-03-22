@@ -162,6 +162,14 @@
         },
         {
             "attributes": {
+                "Confirmed": 1256,
+                "Country_Region": "Turkey",
+                "Recovered": 0,
+                "Deaths": 30
+            }
+        },
+        {
+            "attributes": {
                 "Confirmed": 1209,
                 "Country_Region": "Brazil",
                 "Recovered": 2,
@@ -186,15 +194,7 @@
         },
         {
             "attributes": {
-                "Confirmed": 947,
-                "Country_Region": "Turkey",
-                "Recovered": 0,
-                "Deaths": 30
-            }
-        },
-        {
-            "attributes": {
-                "Confirmed": 945,
+                "Confirmed": 1071,
                 "Country_Region": "Israel",
                 "Recovered": 37,
                 "Deaths": 1
@@ -500,7 +500,7 @@
             "attributes": {
                 "Confirmed": 188,
                 "Country_Region": "Kuwait",
-                "Recovered": 27,
+                "Recovered": 30,
                 "Deaths": 0
             }
         },
