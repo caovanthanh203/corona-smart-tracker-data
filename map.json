@@ -4473,12 +4473,56 @@
         },
         {
             "attributes": {
-                "Confirmed": 4,
-                "Long_": "108.220556",
+                "Confirmed": 6,
+                "Long_": "107.193604",
                 "Deaths": 0,
-                "Province_State": "Đà Nẵng",
-                "Country_Region": "Đà Nẵng, Việt Nam",
-                "Lat": "16.031944",
+                "Province_State": "Quảng Ninh",
+                "Country_Region": "Quảng Ninh, Việt Nam",
+                "Lat": "21.250982",
+                "Recovered": 0
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 9,
+                "Long_": "108.141174",
+                "Deaths": 0,
+                "Province_State": "Bình Thuận",
+                "Country_Region": "Bình Thuận, Việt Nam",
+                "Lat": "11.100252",
+                "Recovered": 0
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 11,
+                "Long_": "105.548401",
+                "Deaths": 0,
+                "Province_State": "Vĩnh Phúc",
+                "Country_Region": "Vĩnh Phúc, Việt Nam",
+                "Lat": "21.363571",
+                "Recovered": 11
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 2,
+                "Long_": "108.99028",
+                "Deaths": 0,
+                "Province_State": "Ninh Thuận",
+                "Country_Region": "Ninh Thuận, Việt Nam",
+                "Lat": "11.56556",
+                "Recovered": 0
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 2,
+                "Long_": "107.58482",
+                "Deaths": 0,
+                "Province_State": "Thừa Thiên Huế",
+                "Country_Region": "Thừa Thiên Huế, Việt Nam",
+                "Lat": "16.463744",
                 "Recovered": 0
             }
         },
@@ -4490,17 +4534,6 @@
                 "Province_State": "Bắc Ninh",
                 "Country_Region": "Bắc Ninh, Việt Nam",
                 "Lat": "21.187548",
-                "Recovered": 0
-            }
-        },
-        {
-            "attributes": {
-                "Confirmed": 6,
-                "Long_": "107.193604",
-                "Deaths": 0,
-                "Province_State": "Quảng Ninh",
-                "Country_Region": "Quảng Ninh, Việt Nam",
-                "Lat": "21.250982",
                 "Recovered": 0
             }
         },
@@ -4518,33 +4551,11 @@
         {
             "attributes": {
                 "Confirmed": 1,
-                "Long_": "105.974808",
+                "Long_": "106.316670",
                 "Deaths": 0,
-                "Province_State": "Ninh Bình",
-                "Country_Region": "Ninh Bình, Việt Nam",
-                "Lat": "20.250924",
-                "Recovered": 1
-            }
-        },
-        {
-            "attributes": {
-                "Confirmed": 2,
-                "Long_": "107.58482",
-                "Deaths": 0,
-                "Province_State": "Thừa Thiên Huế",
-                "Country_Region": "Thừa Thiên Huế, Việt Nam",
-                "Lat": "16.463744",
-                "Recovered": 0
-            }
-        },
-        {
-            "attributes": {
-                "Confirmed": 2,
-                "Long_": "108.99028",
-                "Deaths": 0,
-                "Province_State": "Ninh Thuận",
-                "Country_Region": "Ninh Thuận, Việt Nam",
-                "Lat": "11.56556",
+                "Province_State": "Hải Dương",
+                "Country_Region": "Hải Dương, Việt Nam",
+                "Lat": "20.933330",
                 "Recovered": 0
             }
         },
@@ -4561,39 +4572,6 @@
         },
         {
             "attributes": {
-                "Confirmed": 11,
-                "Long_": "105.548401",
-                "Deaths": 0,
-                "Province_State": "Vĩnh Phúc",
-                "Country_Region": "Vĩnh Phúc, Việt Nam",
-                "Lat": "21.363571",
-                "Recovered": 11
-            }
-        },
-        {
-            "attributes": {
-                "Confirmed": 1,
-                "Long_": "106.316670",
-                "Deaths": 0,
-                "Province_State": "Hải Dương",
-                "Country_Region": "Hải Dương, Việt Nam",
-                "Lat": "20.933330",
-                "Recovered": 0
-            }
-        },
-        {
-            "attributes": {
-                "Confirmed": 9,
-                "Long_": "108.141174",
-                "Deaths": 0,
-                "Province_State": "Bình Thuận",
-                "Country_Region": "Bình Thuận, Việt Nam",
-                "Lat": "11.100252",
-                "Recovered": 0
-            }
-        },
-        {
-            "attributes": {
                 "Confirmed": 21,
                 "Long_": "106.681944",
                 "Deaths": 0,
@@ -4601,6 +4579,28 @@
                 "Country_Region": "TP. Hồ Chí Minh, Việt Nam",
                 "Lat": "10.769444",
                 "Recovered": 3
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 4,
+                "Long_": "108.220556",
+                "Deaths": 0,
+                "Province_State": "Đà Nẵng",
+                "Country_Region": "Đà Nẵng, Việt Nam",
+                "Lat": "16.031944",
+                "Recovered": 0
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 29,
+                "Long_": "105.853333",
+                "Deaths": 0,
+                "Province_State": "Hà Nội",
+                "Country_Region": "Hà Nội, Việt Nam",
+                "Lat": "21.028333",
+                "Recovered": 0
             }
         },
         {
@@ -4627,13 +4627,13 @@
         },
         {
             "attributes": {
-                "Confirmed": 29,
-                "Long_": "105.853333",
+                "Confirmed": 1,
+                "Long_": "105.974808",
                 "Deaths": 0,
-                "Province_State": "Hà Nội",
-                "Country_Region": "Hà Nội, Việt Nam",
-                "Lat": "21.028333",
-                "Recovered": 0
+                "Province_State": "Ninh Bình",
+                "Country_Region": "Ninh Bình, Việt Nam",
+                "Lat": "20.250924",
+                "Recovered": 1
             }
         },
         {
@@ -5257,13 +5257,13 @@
                 "x": 1491507.3211887297
             },
             "attributes": {
-                "Confirmed": 529,
+                "Confirmed": 449,
                 "Long_": 13.39843823,
-                "Deaths": 22,
+                "Deaths": 17,
                 "Province_State": "Abruzzo",
                 "Country_Region": "Abruzzo, Italy",
                 "Lat": 42.35122196,
-                "Recovered": 13
+                "Recovered": 10
             }
         },
         {
@@ -5272,7 +5272,7 @@
                 "x": 1759421.0651209531
             },
             "attributes": {
-                "Confirmed": 66,
+                "Confirmed": 52,
                 "Long_": 15.80514834,
                 "Deaths": 0,
                 "Province_State": "Basilicata",
@@ -5287,9 +5287,9 @@
                 "x": 1264213.6253009576
             },
             "attributes": {
-                "Confirmed": 621,
+                "Confirmed": 548,
                 "Long_": 11.35662422,
-                "Deaths": 20,
+                "Deaths": 17,
                 "Province_State": "P.A. Bolzano",
                 "Country_Region": "P.A. Bolzano, Italy",
                 "Lat": 46.49933453,
@@ -5302,13 +5302,13 @@
                 "x": 1847235.6302235818
             },
             "attributes": {
-                "Confirmed": 235,
+                "Confirmed": 207,
                 "Long_": 16.594,
-                "Deaths": 5,
+                "Deaths": 4,
                 "Province_State": "Calabria",
                 "Country_Region": "Calabria, Italy",
                 "Lat": 38.906,
-                "Recovered": 5
+                "Recovered": 2
             }
         },
         {
@@ -5317,13 +5317,13 @@
                 "x": 1586397.347560204
             },
             "attributes": {
-                "Confirmed": 844,
+                "Confirmed": 749,
                 "Long_": 14.25084984,
-                "Deaths": 22,
+                "Deaths": 17,
                 "Province_State": "Campania",
                 "Country_Region": "Campania, Italy",
                 "Lat": 40.83956555,
-                "Recovered": 29
+                "Recovered": 30
             }
         },
         {
@@ -5332,13 +5332,13 @@
                 "x": 1262554.5841754791
             },
             "attributes": {
-                "Confirmed": 6705,
+                "Confirmed": 5968,
                 "Long_": 11.3417208,
-                "Deaths": 715,
+                "Deaths": 640,
                 "Province_State": "Emilia Romagna",
                 "Country_Region": "Emilia Romagna, Italy",
                 "Lat": 44.49436681,
-                "Recovered": 329
+                "Recovered": 239
             }
         },
         {
@@ -5347,13 +5347,13 @@
                 "x": 1532661.9432390889
             },
             "attributes": {
-                "Confirmed": 790,
+                "Confirmed": 656,
                 "Long_": 13.76813649,
-                "Deaths": 42,
+                "Deaths": 38,
                 "Province_State": "Friuli Venezia Giulia ",
                 "Country_Region": "Friuli Venezia Giulia , Italy",
                 "Lat": 45.6494354,
-                "Recovered": 82
+                "Recovered": 63
             }
         },
         {
@@ -5362,13 +5362,13 @@
                 "x": 1389675.478163081
             },
             "attributes": {
-                "Confirmed": 1190,
+                "Confirmed": 1008,
                 "Long_": 12.48366722,
-                "Deaths": 50,
+                "Deaths": 43,
                 "Province_State": "Lazio",
                 "Country_Region": "Lazio, Italy",
                 "Lat": 41.89277044,
-                "Recovered": 54
+                "Recovered": 53
             }
         },
         {
@@ -5377,13 +5377,13 @@
                 "x": 994383.5263534822
             },
             "attributes": {
-                "Confirmed": 1436,
+                "Confirmed": 1221,
                 "Long_": 8.9326992,
-                "Deaths": 152,
+                "Deaths": 119,
                 "Province_State": "Liguria",
                 "Country_Region": "Liguria, Italy",
                 "Lat": 44.41149315,
-                "Recovered": 125
+                "Recovered": 101
             }
         },
         {
@@ -5392,13 +5392,13 @@
                 "x": 1023064.7932265637
             },
             "attributes": {
-                "Confirmed": 25515,
+                "Confirmed": 22264,
                 "Long_": 9.190347404,
-                "Deaths": 3095,
+                "Deaths": 2549,
                 "Province_State": "Lombardia",
                 "Country_Region": "Lombardia, Italy",
                 "Lat": 45.46679409,
-                "Recovered": 5050
+                "Recovered": 4295
             }
         },
         {
@@ -5407,13 +5407,13 @@
                 "x": 1504914.3144937635
             },
             "attributes": {
-                "Confirmed": 2153,
+                "Confirmed": 1981,
                 "Long_": 13.5188753,
-                "Deaths": 154,
+                "Deaths": 137,
                 "Province_State": "Marche",
                 "Country_Region": "Marche, Italy",
                 "Lat": 43.61675973,
-                "Recovered": 2
+                "Recovered": 0
             }
         },
         {
@@ -5422,13 +5422,13 @@
                 "x": 1631850.2834300646
             },
             "attributes": {
-                "Confirmed": 61,
+                "Confirmed": 50,
                 "Long_": 14.65916051,
-                "Deaths": 7,
+                "Deaths": 5,
                 "Province_State": "Molise",
                 "Country_Region": "Molise, Italy",
                 "Lat": 41.55774754,
-                "Recovered": 7
+                "Recovered": 6
             }
         },
         {
@@ -5437,9 +5437,9 @@
                 "x": 855010.2195498301
             },
             "attributes": {
-                "Confirmed": 3752,
+                "Confirmed": 3461,
                 "Long_": 7.680687483,
-                "Deaths": 238,
+                "Deaths": 209,
                 "Province_State": "Piemonte",
                 "Country_Region": "Piemonte, Italy",
                 "Lat": 45.0732745,
@@ -5452,9 +5452,9 @@
                 "x": 1877666.6932181225
             },
             "attributes": {
-                "Confirmed": 675,
+                "Confirmed": 581,
                 "Long_": 16.86736689,
-                "Deaths": 29,
+                "Deaths": 26,
                 "Province_State": "Puglia",
                 "Country_Region": "Puglia, Italy",
                 "Lat": 41.12559576,
@@ -5467,13 +5467,13 @@
                 "x": 1014189.1679968152
             },
             "attributes": {
-                "Confirmed": 330,
+                "Confirmed": 293,
                 "Long_": 9.110616306,
-                "Deaths": 4,
+                "Deaths": 2,
                 "Province_State": "Sardegna",
                 "Country_Region": "Sardegna, Italy",
                 "Lat": 39.21531192,
-                "Recovered": 5
+                "Recovered": 3
             }
         },
         {
@@ -5482,13 +5482,13 @@
                 "x": 1487490.7436420873
             },
             "attributes": {
-                "Confirmed": 490,
+                "Confirmed": 408,
                 "Long_": 13.3623567,
-                "Deaths": 6,
+                "Deaths": 4,
                 "Province_State": "Sicilia",
                 "Country_Region": "Sicilia, Italy",
                 "Lat": 38.11569725,
-                "Recovered": 26
+                "Recovered": 25
             }
         },
         {
@@ -5497,13 +5497,13 @@
                 "x": 1252999.8152076856
             },
             "attributes": {
-                "Confirmed": 2012,
+                "Confirmed": 1793,
                 "Long_": 11.25588885,
-                "Deaths": 72,
+                "Deaths": 47,
                 "Province_State": "Toscana",
                 "Country_Region": "Toscana, Italy",
                 "Lat": 43.76923077,
-                "Recovered": 35
+                "Recovered": 33
             }
         },
         {
@@ -5512,13 +5512,13 @@
                 "x": 1238009.7685747838
             },
             "attributes": {
-                "Confirmed": 782,
+                "Confirmed": 642,
                 "Long_": 11.12123097,
-                "Deaths": 28,
+                "Deaths": 13,
                 "Province_State": "P.A. Trento",
                 "Country_Region": "P.A. Trento, Italy",
                 "Lat": 46.06893511,
-                "Recovered": 34
+                "Recovered": 29
             }
         },
         {
@@ -5527,13 +5527,13 @@
                 "x": 1379053.345634909
             },
             "attributes": {
-                "Confirmed": 462,
+                "Confirmed": 395,
                 "Long_": 12.38824698,
-                "Deaths": 10,
+                "Deaths": 7,
                 "Province_State": "Umbria",
                 "Country_Region": "Umbria, Italy",
                 "Lat": 43.10675841,
-                "Recovered": 5
+                "Recovered": 4
             }
         },
         {
@@ -5542,13 +5542,13 @@
                 "x": 814875.2999538244
             },
             "attributes": {
-                "Confirmed": 313,
+                "Confirmed": 264,
                 "Long_": 7.320149366,
-                "Deaths": 8,
+                "Deaths": 7,
                 "Province_State": "Valle d'Aosta",
                 "Country_Region": "Valle d'Aosta, Italy",
                 "Lat": 45.73750286,
-                "Recovered": 1
+                "Recovered": 0
             }
         },
         {
@@ -5557,13 +5557,13 @@
                 "x": 1373510.2082887816
             },
             "attributes": {
-                "Confirmed": 4617,
+                "Confirmed": 4031,
                 "Long_": 12.33845213,
-                "Deaths": 146,
+                "Deaths": 131,
                 "Province_State": "Veneto",
                 "Country_Region": "Veneto, Italy",
                 "Lat": 45.43490485,
-                "Recovered": 257
+                "Recovered": 223
             }
         },
         {
