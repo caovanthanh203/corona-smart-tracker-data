@@ -4439,17 +4439,6 @@
         },
         {
             "attributes": {
-                "Confirmed": 3,
-                "Long_": "108.03680",
-                "Deaths": 0,
-                "Province_State": "Quảng Nam",
-                "Country_Region": "Quảng Nam, Việt Nam",
-                "Lat": "15.556898",
-                "Recovered": 0
-            }
-        },
-        {
-            "attributes": {
                 "Confirmed": 4,
                 "Long_": "108.220556",
                 "Deaths": 0,
@@ -4457,17 +4446,6 @@
                 "Country_Region": "Đà Nẵng, Việt Nam",
                 "Lat": "16.031944",
                 "Recovered": 0
-            }
-        },
-        {
-            "attributes": {
-                "Confirmed": 1,
-                "Long_": "105.974808",
-                "Deaths": 0,
-                "Province_State": "Ninh Bình",
-                "Country_Region": "Ninh Bình, Việt Nam",
-                "Lat": "20.250924",
-                "Recovered": 1
             }
         },
         {
@@ -4483,23 +4461,12 @@
         },
         {
             "attributes": {
-                "Confirmed": 1,
-                "Long_": "106.073406",
+                "Confirmed": 9,
+                "Long_": "108.141174",
                 "Deaths": 0,
-                "Province_State": "Bắc Ninh",
-                "Country_Region": "Bắc Ninh, Việt Nam",
-                "Lat": "21.187548",
-                "Recovered": 0
-            }
-        },
-        {
-            "attributes": {
-                "Confirmed": 2,
-                "Long_": "108.99028",
-                "Deaths": 0,
-                "Province_State": "Ninh Thuận",
-                "Country_Region": "Ninh Thuận, Việt Nam",
-                "Lat": "11.56556",
+                "Province_State": "Bình Thuận",
+                "Country_Region": "Bình Thuận, Việt Nam",
+                "Lat": "11.100252",
                 "Recovered": 0
             }
         },
@@ -4516,34 +4483,12 @@
         },
         {
             "attributes": {
-                "Confirmed": 1,
-                "Long_": "109.047768",
+                "Confirmed": 3,
+                "Long_": "108.03680",
                 "Deaths": 0,
-                "Province_State": "Khánh Hòa",
-                "Country_Region": "Khánh Hòa, Việt Nam",
-                "Lat": "12.073058",
-                "Recovered": 1
-            }
-        },
-        {
-            "attributes": {
-                "Confirmed": 9,
-                "Long_": "108.141174",
-                "Deaths": 0,
-                "Province_State": "Bình Thuận",
-                "Country_Region": "Bình Thuận, Việt Nam",
-                "Lat": "11.100252",
-                "Recovered": 0
-            }
-        },
-        {
-            "attributes": {
-                "Confirmed": 2,
-                "Long_": "104.15786",
-                "Deaths": 0,
-                "Province_State": "Lào Cai",
-                "Country_Region": "Lào Cai, Việt Nam",
-                "Lat": "22.379997",
+                "Province_State": "Quảng Nam",
+                "Country_Region": "Quảng Nam, Việt Nam",
+                "Lat": "15.556898",
                 "Recovered": 0
             }
         },
@@ -4555,6 +4500,50 @@
                 "Province_State": "Thừa Thiên Huế",
                 "Country_Region": "Thừa Thiên Huế, Việt Nam",
                 "Lat": "16.463744",
+                "Recovered": 0
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 1,
+                "Long_": "106.073406",
+                "Deaths": 0,
+                "Province_State": "Bắc Ninh",
+                "Country_Region": "Bắc Ninh, Việt Nam",
+                "Lat": "21.187548",
+                "Recovered": 0
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 1,
+                "Long_": "105.974808",
+                "Deaths": 0,
+                "Province_State": "Ninh Bình",
+                "Country_Region": "Ninh Bình, Việt Nam",
+                "Lat": "20.250924",
+                "Recovered": 1
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 2,
+                "Long_": "108.99028",
+                "Deaths": 0,
+                "Province_State": "Ninh Thuận",
+                "Country_Region": "Ninh Thuận, Việt Nam",
+                "Lat": "11.56556",
+                "Recovered": 0
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 2,
+                "Long_": "104.15786",
+                "Deaths": 0,
+                "Province_State": "Lào Cai",
+                "Country_Region": "Lào Cai, Việt Nam",
+                "Lat": "22.379997",
                 "Recovered": 0
             }
         },
@@ -4588,6 +4577,17 @@
                 "Province_State": "Thanh Hóa",
                 "Country_Region": "Thanh Hóa, Việt Nam",
                 "Lat": "20.141049",
+                "Recovered": 1
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 1,
+                "Long_": "109.047768",
+                "Deaths": 0,
+                "Province_State": "Khánh Hòa",
+                "Country_Region": "Khánh Hòa, Việt Nam",
+                "Lat": "12.073058",
                 "Recovered": 1
             }
         },
@@ -8504,7 +8504,7 @@
                 "x": 4.9045431181182
             },
             "attributes": {
-                "Confirmed": 161,
+                "Confirmed": 188,
                 "Long_": 4.9045431181182,
                 "Deaths": -1,
                 "Province_State": "Amsterdam",
@@ -8519,7 +8519,7 @@
                 "x": 4.881582513266674
             },
             "attributes": {
-                "Confirmed": 7,
+                "Confirmed": 8,
                 "Long_": 4.881582513266674,
                 "Deaths": -1,
                 "Province_State": "Geertruidenberg",
@@ -8549,7 +8549,7 @@
                 "x": 5.35192546294509
             },
             "attributes": {
-                "Confirmed": 45,
+                "Confirmed": 55,
                 "Long_": 5.35192546294509,
                 "Deaths": -1,
                 "Province_State": "'s-hertogenbosch",
@@ -8564,7 +8564,7 @@
                 "x": 5.994847732853951
             },
             "attributes": {
-                "Confirmed": 63,
+                "Confirmed": 64,
                 "Long_": 5.994847732853951,
                 "Deaths": -1,
                 "Province_State": "Peel en maas",
@@ -8609,7 +8609,7 @@
                 "x": 4.766091163283259
             },
             "attributes": {
-                "Confirmed": 3,
+                "Confirmed": 5,
                 "Long_": 4.766091163283259,
                 "Deaths": -1,
                 "Province_State": "Bodegraven-reeuwijk",
@@ -8624,7 +8624,7 @@
                 "x": 5.567237241644921
             },
             "attributes": {
-                "Confirmed": 4,
+                "Confirmed": 7,
                 "Long_": 5.567237241644921,
                 "Deaths": -1,
                 "Province_State": "Heeze-leende",
@@ -8639,7 +8639,7 @@
                 "x": 5.218107963427195
             },
             "attributes": {
-                "Confirmed": 10,
+                "Confirmed": 12,
                 "Long_": 5.218107963427195,
                 "Deaths": -1,
                 "Province_State": "Haaren",
@@ -8654,7 +8654,7 @@
                 "x": 6.62063540088836
             },
             "attributes": {
-                "Confirmed": 39,
+                "Confirmed": 46,
                 "Long_": 6.62063540088836,
                 "Deaths": -1,
                 "Province_State": "Groningen",
@@ -8669,7 +8669,7 @@
                 "x": 5.011821189283406
             },
             "attributes": {
-                "Confirmed": 16,
+                "Confirmed": 22,
                 "Long_": 5.011821189283406,
                 "Deaths": -1,
                 "Province_State": "Waalwijk",
@@ -8684,7 +8684,7 @@
                 "x": 5.826975012088004
             },
             "attributes": {
-                "Confirmed": 19,
+                "Confirmed": 22,
                 "Long_": 5.826975012088004,
                 "Deaths": -1,
                 "Province_State": "Deurne",
@@ -8699,7 +8699,7 @@
                 "x": 5.056754912328776
             },
             "attributes": {
-                "Confirmed": 9,
+                "Confirmed": 11,
                 "Long_": 5.056754912328776,
                 "Deaths": -1,
                 "Province_State": "Vijfheerenlanden",
@@ -8714,7 +8714,7 @@
                 "x": 5.5494630311595206
             },
             "attributes": {
-                "Confirmed": 1,
+                "Confirmed": 3,
                 "Long_": 5.5494630311595206,
                 "Deaths": -1,
                 "Province_State": "Nuenen, gerwen en nederwetten",
@@ -8729,7 +8729,7 @@
                 "x": 5.174312093451769
             },
             "attributes": {
-                "Confirmed": 19,
+                "Confirmed": 20,
                 "Long_": 5.174312093451769,
                 "Deaths": -1,
                 "Province_State": "De bilt",
@@ -8744,7 +8744,7 @@
                 "x": 4.7794689862647495
             },
             "attributes": {
-                "Confirmed": 2,
+                "Confirmed": 3,
                 "Long_": 4.7794689862647495,
                 "Deaths": -1,
                 "Province_State": "Nieuwkoop",
@@ -8759,7 +8759,7 @@
                 "x": 5.520663335832836
             },
             "attributes": {
-                "Confirmed": 41,
+                "Confirmed": 57,
                 "Long_": 5.520663335832836,
                 "Deaths": -1,
                 "Province_State": "Bernheze",
@@ -8774,7 +8774,7 @@
                 "x": 4.602102467946246
             },
             "attributes": {
-                "Confirmed": 2,
+                "Confirmed": 3,
                 "Long_": 4.602102467946246,
                 "Deaths": -1,
                 "Province_State": "Krimpen aan den ijssel",
@@ -8804,7 +8804,7 @@
                 "x": 6.041087911955243
             },
             "attributes": {
-                "Confirmed": 4,
+                "Confirmed": 6,
                 "Long_": 6.041087911955243,
                 "Deaths": -1,
                 "Province_State": "Roerdalen",
@@ -8834,7 +8834,7 @@
                 "x": 4.844584101792333
             },
             "attributes": {
-                "Confirmed": 5,
+                "Confirmed": 8,
                 "Long_": 4.844584101792333,
                 "Deaths": -1,
                 "Province_State": "Heerhugowaard",
@@ -8864,7 +8864,7 @@
                 "x": 5.169311782268824
             },
             "attributes": {
-                "Confirmed": 19,
+                "Confirmed": 23,
                 "Long_": 5.169311782268824,
                 "Deaths": -1,
                 "Province_State": "Houten",
@@ -8909,7 +8909,7 @@
                 "x": 5.482463763070632
             },
             "attributes": {
-                "Confirmed": 8,
+                "Confirmed": 10,
                 "Long_": 5.482463763070632,
                 "Deaths": -1,
                 "Province_State": "Son en breugel",
@@ -8969,7 +8969,7 @@
                 "x": 4.613524916685804
             },
             "attributes": {
-                "Confirmed": 8,
+                "Confirmed": 10,
                 "Long_": 4.613524916685804,
                 "Deaths": -1,
                 "Province_State": "Velsen",
@@ -8984,7 +8984,7 @@
                 "x": 5.65184429181085
             },
             "attributes": {
-                "Confirmed": 76,
+                "Confirmed": 82,
                 "Long_": 5.65184429181085,
                 "Deaths": -1,
                 "Province_State": "Uden",
@@ -9014,7 +9014,7 @@
                 "x": 5.699528355238878
             },
             "attributes": {
-                "Confirmed": 57,
+                "Confirmed": 59,
                 "Long_": 5.699528355238878,
                 "Deaths": -1,
                 "Province_State": "Maastricht",
@@ -9029,7 +9029,7 @@
                 "x": 4.36310564663688
             },
             "attributes": {
-                "Confirmed": 11,
+                "Confirmed": 12,
                 "Long_": 4.36310564663688,
                 "Deaths": -1,
                 "Province_State": "Delft",
@@ -9059,7 +9059,7 @@
                 "x": 4.282054959367934
             },
             "attributes": {
-                "Confirmed": 12,
+                "Confirmed": 15,
                 "Long_": 4.282054959367934,
                 "Deaths": -1,
                 "Province_State": "Nissewaard",
@@ -9074,7 +9074,7 @@
                 "x": 6.9141402734755815
             },
             "attributes": {
-                "Confirmed": 13,
+                "Confirmed": 14,
                 "Long_": 6.9141402734755815,
                 "Deaths": -1,
                 "Province_State": "Dinkelland",
@@ -9149,7 +9149,7 @@
                 "x": 5.396465790109257
             },
             "attributes": {
-                "Confirmed": 11,
+                "Confirmed": 14,
                 "Long_": 5.396465790109257,
                 "Deaths": -1,
                 "Province_State": "Best",
@@ -9185,6 +9185,21 @@
                 "Province_State": "Eemnes",
                 "Country_Region": "Eemnes, Netherlands",
                 "Lat": 52.251894638398504,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 51.84179464489934,
+                "x": 4.638790784468608
+            },
+            "attributes": {
+                "Confirmed": 1,
+                "Long_": 4.638790784468608,
+                "Deaths": -1,
+                "Province_State": "Hendrik-ido-ambacht",
+                "Country_Region": "Hendrik-ido-ambacht, Netherlands",
+                "Lat": 51.84179464489934,
                 "Recovered": -1
             }
         },
@@ -9284,7 +9299,7 @@
                 "x": 6.03298438942512
             },
             "attributes": {
-                "Confirmed": 9,
+                "Confirmed": 10,
                 "Long_": 6.03298438942512,
                 "Deaths": -1,
                 "Province_State": "Landgraaf",
@@ -9299,7 +9314,7 @@
                 "x": 5.666164645605468
             },
             "attributes": {
-                "Confirmed": 11,
+                "Confirmed": 13,
                 "Long_": 5.666164645605468,
                 "Deaths": -1,
                 "Province_State": "Ermelo",
@@ -9329,7 +9344,7 @@
                 "x": 3.523105723507704
             },
             "attributes": {
-                "Confirmed": 3,
+                "Confirmed": 4,
                 "Long_": 3.523105723507704,
                 "Deaths": -1,
                 "Province_State": "Sluis",
@@ -9344,7 +9359,7 @@
                 "x": 4.640959276515659
             },
             "attributes": {
-                "Confirmed": 15,
+                "Confirmed": 17,
                 "Long_": 4.640959276515659,
                 "Deaths": -1,
                 "Province_State": "Alphen aan den rijn",
@@ -9374,7 +9389,7 @@
                 "x": 5.160190716109357
             },
             "attributes": {
-                "Confirmed": 11,
+                "Confirmed": 15,
                 "Long_": 5.160190716109357,
                 "Deaths": -1,
                 "Province_State": "Heusden",
@@ -9389,7 +9404,7 @@
                 "x": 5.596177094705612
             },
             "attributes": {
-                "Confirmed": 11,
+                "Confirmed": 13,
                 "Long_": 5.596177094705612,
                 "Deaths": -1,
                 "Province_State": "Cranendonck",
@@ -9400,11 +9415,26 @@
         },
         {
             "geometry": {
+                "y": 51.37825527137121,
+                "x": 5.147752804001076
+            },
+            "attributes": {
+                "Confirmed": 1,
+                "Long_": 5.147752804001076,
+                "Deaths": -1,
+                "Province_State": "Reusel-de mierden",
+                "Country_Region": "Reusel-de mierden, Netherlands",
+                "Lat": 51.37825527137121,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
                 "y": 51.41185625349273,
                 "x": 5.383213072963209
             },
             "attributes": {
-                "Confirmed": 9,
+                "Confirmed": 11,
                 "Long_": 5.383213072963209,
                 "Deaths": -1,
                 "Province_State": "Veldhoven",
@@ -9419,7 +9449,7 @@
                 "x": 5.068323761881753
             },
             "attributes": {
-                "Confirmed": 154,
+                "Confirmed": 178,
                 "Long_": 5.068323761881753,
                 "Deaths": -1,
                 "Province_State": "Tilburg",
@@ -9449,7 +9479,7 @@
                 "x": 5.506395678781527
             },
             "attributes": {
-                "Confirmed": 95,
+                "Confirmed": 119,
                 "Long_": 5.506395678781527,
                 "Deaths": -1,
                 "Province_State": "Meierijstad",
@@ -9494,7 +9524,7 @@
                 "x": 4.644966222362082
             },
             "attributes": {
-                "Confirmed": 18,
+                "Confirmed": 20,
                 "Long_": 4.644966222362082,
                 "Deaths": -1,
                 "Province_State": "Etten-leur",
@@ -9509,7 +9539,7 @@
                 "x": 4.4222941521572
             },
             "attributes": {
-                "Confirmed": 9,
+                "Confirmed": 10,
                 "Long_": 4.4222941521572,
                 "Deaths": -1,
                 "Province_State": "Leidschendam-voorburg",
@@ -9539,7 +9569,7 @@
                 "x": 6.743564980698
             },
             "attributes": {
-                "Confirmed": 4,
+                "Confirmed": 5,
                 "Long_": 6.743564980698,
                 "Deaths": -1,
                 "Province_State": "Borne",
@@ -9569,7 +9599,7 @@
                 "x": 5.693724937475554
             },
             "attributes": {
-                "Confirmed": 32,
+                "Confirmed": 37,
                 "Long_": 5.693724937475554,
                 "Deaths": -1,
                 "Province_State": "Boekel",
@@ -9584,7 +9614,7 @@
                 "x": 4.918574382539203
             },
             "attributes": {
-                "Confirmed": 7,
+                "Confirmed": 12,
                 "Long_": 4.918574382539203,
                 "Deaths": -1,
                 "Province_State": "Gilze en rijen",
@@ -9689,7 +9719,7 @@
                 "x": 4.945930394442009
             },
             "attributes": {
-                "Confirmed": 22,
+                "Confirmed": 23,
                 "Long_": 4.945930394442009,
                 "Deaths": -1,
                 "Province_State": "Altena",
@@ -9704,7 +9734,7 @@
                 "x": 5.611771256761055
             },
             "attributes": {
-                "Confirmed": 8,
+                "Confirmed": 11,
                 "Long_": 5.611771256761055,
                 "Deaths": -1,
                 "Province_State": "Laarbeek",
@@ -9719,7 +9749,7 @@
                 "x": 4.7085719187810735
             },
             "attributes": {
-                "Confirmed": 4,
+                "Confirmed": 6,
                 "Long_": 4.7085719187810735,
                 "Deaths": -1,
                 "Province_State": "Heiloo",
@@ -9734,7 +9764,7 @@
                 "x": 5.937143689085412
             },
             "attributes": {
-                "Confirmed": 6,
+                "Confirmed": 7,
                 "Long_": 5.937143689085412,
                 "Deaths": -1,
                 "Province_State": "Oldebroek",
@@ -9749,7 +9779,7 @@
                 "x": 5.656969051284621
             },
             "attributes": {
-                "Confirmed": 32,
+                "Confirmed": 38,
                 "Long_": 5.656969051284621,
                 "Deaths": -1,
                 "Province_State": "Helmond",
@@ -9764,7 +9794,7 @@
                 "x": 5.0311979633759245
             },
             "attributes": {
-                "Confirmed": 4,
+                "Confirmed": 5,
                 "Long_": 5.0311979633759245,
                 "Deaths": -1,
                 "Province_State": "Edam-volendam",
@@ -9809,7 +9839,7 @@
                 "x": 5.7542896599996105
             },
             "attributes": {
-                "Confirmed": 42,
+                "Confirmed": 50,
                 "Long_": 5.7542896599996105,
                 "Deaths": -1,
                 "Province_State": "Gemert-bakel",
@@ -9824,7 +9854,7 @@
                 "x": 4.489773419930813
             },
             "attributes": {
-                "Confirmed": 4,
+                "Confirmed": 5,
                 "Long_": 4.489773419930813,
                 "Deaths": -1,
                 "Province_State": "Zoetermeer",
@@ -9839,7 +9869,7 @@
                 "x": 5.908198496168206
             },
             "attributes": {
-                "Confirmed": 11,
+                "Confirmed": 12,
                 "Long_": 5.908198496168206,
                 "Deaths": -1,
                 "Province_State": "Echt-susteren",
@@ -9869,7 +9899,7 @@
                 "x": 5.695354307483455
             },
             "attributes": {
-                "Confirmed": 11,
+                "Confirmed": 10,
                 "Long_": 5.695354307483455,
                 "Deaths": -1,
                 "Province_State": "Dronten",
@@ -9884,7 +9914,7 @@
                 "x": 4.479290768177833
             },
             "attributes": {
-                "Confirmed": 120,
+                "Confirmed": 139,
                 "Long_": 4.479290768177833,
                 "Deaths": -1,
                 "Province_State": "Rotterdam",
@@ -9914,7 +9944,7 @@
                 "x": 5.658959968858293
             },
             "attributes": {
-                "Confirmed": 20,
+                "Confirmed": 22,
                 "Long_": 5.658959968858293,
                 "Deaths": -1,
                 "Province_State": "Landerd",
@@ -9944,7 +9974,7 @@
                 "x": 4.8642398107713545
             },
             "attributes": {
-                "Confirmed": 3,
+                "Confirmed": 4,
                 "Long_": 4.8642398107713545,
                 "Deaths": -1,
                 "Province_State": "Oudewater",
@@ -9974,7 +10004,7 @@
                 "x": 5.486882993820762
             },
             "attributes": {
-                "Confirmed": 15,
+                "Confirmed": 19,
                 "Long_": 5.486882993820762,
                 "Deaths": -1,
                 "Province_State": "Lelystad",
@@ -9989,7 +10019,7 @@
                 "x": 5.075731413729851
             },
             "attributes": {
-                "Confirmed": 14,
+                "Confirmed": 16,
                 "Long_": 5.075731413729851,
                 "Deaths": -1,
                 "Province_State": "Loon op zand",
@@ -10004,7 +10034,7 @@
                 "x": 5.641854658419888
             },
             "attributes": {
-                "Confirmed": 8,
+                "Confirmed": 9,
                 "Long_": 5.641854658419888,
                 "Deaths": -1,
                 "Province_State": "Barneveld",
@@ -10019,7 +10049,7 @@
                 "x": 4.647529932281659
             },
             "attributes": {
-                "Confirmed": 25,
+                "Confirmed": 27,
                 "Long_": 4.647529932281659,
                 "Deaths": -1,
                 "Province_State": "Haarlem",
@@ -10049,7 +10079,7 @@
                 "x": 5.012587116968821
             },
             "attributes": {
-                "Confirmed": 10,
+                "Confirmed": 12,
                 "Long_": 5.012587116968821,
                 "Deaths": -1,
                 "Province_State": "Stichtse vecht",
@@ -10064,7 +10094,7 @@
                 "x": 4.703343932391688
             },
             "attributes": {
-                "Confirmed": 2,
+                "Confirmed": 4,
                 "Long_": 4.703343932391688,
                 "Deaths": -1,
                 "Province_State": "Papendrecht",
@@ -10094,7 +10124,7 @@
                 "x": 5.526400857467948
             },
             "attributes": {
-                "Confirmed": 44,
+                "Confirmed": 59,
                 "Long_": 5.526400857467948,
                 "Deaths": -1,
                 "Province_State": "Oss",
@@ -10109,7 +10139,7 @@
                 "x": 5.238734435918181
             },
             "attributes": {
-                "Confirmed": 7,
+                "Confirmed": 11,
                 "Long_": 5.238734435918181,
                 "Deaths": -1,
                 "Province_State": "Bladel",
@@ -10124,7 +10154,7 @@
                 "x": 6.33802978340437
             },
             "attributes": {
-                "Confirmed": 3,
+                "Confirmed": 6,
                 "Long_": 6.33802978340437,
                 "Deaths": -1,
                 "Province_State": "Westerkwartier",
@@ -10184,7 +10214,7 @@
                 "x": 5.954968387628502
             },
             "attributes": {
-                "Confirmed": 6,
+                "Confirmed": 8,
                 "Long_": 5.954968387628502,
                 "Deaths": -1,
                 "Province_State": "Epe",
@@ -10244,7 +10274,7 @@
                 "x": 6.433968622990088
             },
             "attributes": {
-                "Confirmed": 3,
+                "Confirmed": 4,
                 "Long_": 6.433968622990088,
                 "Deaths": -1,
                 "Province_State": "Rijssen-holten",
@@ -10285,11 +10315,26 @@
         },
         {
             "geometry": {
+                "y": 52.99299852362716,
+                "x": 6.727262414029068
+            },
+            "attributes": {
+                "Confirmed": 1,
+                "Long_": 6.727262414029068,
+                "Deaths": -1,
+                "Province_State": "Aa en hunze",
+                "Country_Region": "Aa en hunze, Netherlands",
+                "Lat": 52.99299852362716,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
                 "y": 51.81673498108275,
                 "x": 5.701912801691881
             },
             "attributes": {
-                "Confirmed": 17,
+                "Confirmed": 20,
                 "Long_": 5.701912801691881,
                 "Deaths": -1,
                 "Province_State": "Wijchen",
@@ -10304,7 +10349,7 @@
                 "x": 5.884815315341314
             },
             "attributes": {
-                "Confirmed": 20,
+                "Confirmed": 22,
                 "Long_": 5.884815315341314,
                 "Deaths": -1,
                 "Province_State": "Leudal",
@@ -10319,7 +10364,7 @@
                 "x": 5.644152903553344
             },
             "attributes": {
-                "Confirmed": 5,
+                "Confirmed": 6,
                 "Long_": 5.644152903553344,
                 "Deaths": -1,
                 "Province_State": "Harderwijk",
@@ -10334,7 +10379,7 @@
                 "x": 5.882383322182832
             },
             "attributes": {
-                "Confirmed": 7,
+                "Confirmed": 8,
                 "Long_": 5.882383322182832,
                 "Deaths": -1,
                 "Province_State": "Maasgouw",
@@ -10349,7 +10394,7 @@
                 "x": 5.586867046189507
             },
             "attributes": {
-                "Confirmed": 5,
+                "Confirmed": 9,
                 "Long_": 5.586867046189507,
                 "Deaths": -1,
                 "Province_State": "Neder-betuwe",
@@ -10364,7 +10409,7 @@
                 "x": 5.073156196785141
             },
             "attributes": {
-                "Confirmed": 8,
+                "Confirmed": 9,
                 "Long_": 5.073156196785141,
                 "Deaths": -1,
                 "Province_State": "Hoorn",
@@ -10484,7 +10529,7 @@
                 "x": 5.121701427227338
             },
             "attributes": {
-                "Confirmed": 121,
+                "Confirmed": 131,
                 "Long_": 5.121701427227338,
                 "Deaths": -1,
                 "Province_State": "Utrecht",
@@ -10529,7 +10574,7 @@
                 "x": 5.92063817369574
             },
             "attributes": {
-                "Confirmed": 25,
+                "Confirmed": 30,
                 "Long_": 5.92063817369574,
                 "Deaths": -1,
                 "Province_State": "Berg en dal",
@@ -10619,7 +10664,7 @@
                 "x": 6.658196128055379
             },
             "attributes": {
-                "Confirmed": 4,
+                "Confirmed": 5,
                 "Long_": 6.658196128055379,
                 "Deaths": -1,
                 "Province_State": "Almelo",
@@ -10634,7 +10679,7 @@
                 "x": 4.248866359613492
             },
             "attributes": {
-                "Confirmed": 3,
+                "Confirmed": 5,
                 "Long_": 4.248866359613492,
                 "Deaths": -1,
                 "Province_State": "Maassluis",
@@ -10649,7 +10694,7 @@
                 "x": 6.450860417335076
             },
             "attributes": {
-                "Confirmed": 3,
+                "Confirmed": 4,
                 "Long_": 6.450860417335076,
                 "Deaths": -1,
                 "Province_State": "Hellendoorn",
@@ -10664,7 +10709,7 @@
                 "x": 4.293009612623209
             },
             "attributes": {
-                "Confirmed": 44,
+                "Confirmed": 47,
                 "Long_": 4.293009612623209,
                 "Deaths": -1,
                 "Province_State": "'s-gravenhage",
@@ -10679,7 +10724,7 @@
                 "x": 4.525438391674741
             },
             "attributes": {
-                "Confirmed": 9,
+                "Confirmed": 10,
                 "Long_": 4.525438391674741,
                 "Deaths": -1,
                 "Province_State": "Barendrecht",
@@ -10709,7 +10754,7 @@
                 "x": 6.011474623271368
             },
             "attributes": {
-                "Confirmed": 18,
+                "Confirmed": 21,
                 "Long_": 6.011474623271368,
                 "Deaths": -1,
                 "Province_State": "Roermond",
@@ -10724,7 +10769,7 @@
                 "x": 6.068955108237413
             },
             "attributes": {
-                "Confirmed": 3,
+                "Confirmed": 5,
                 "Long_": 6.068955108237413,
                 "Deaths": -1,
                 "Province_State": "Beesel",
@@ -10739,7 +10784,7 @@
                 "x": 6.604371626115252
             },
             "attributes": {
-                "Confirmed": 7,
+                "Confirmed": 8,
                 "Long_": 6.604371626115252,
                 "Deaths": -1,
                 "Province_State": "Tynaarlo",
@@ -10754,7 +10799,7 @@
                 "x": 5.388320999390698
             },
             "attributes": {
-                "Confirmed": 8,
+                "Confirmed": 11,
                 "Long_": 5.388320999390698,
                 "Deaths": -1,
                 "Province_State": "Utrechtse heuvelrug",
@@ -10769,7 +10814,7 @@
                 "x": 5.033069324304215
             },
             "attributes": {
-                "Confirmed": 12,
+                "Confirmed": 13,
                 "Long_": 5.033069324304215,
                 "Deaths": -1,
                 "Province_State": "Goirle",
@@ -10784,7 +10829,7 @@
                 "x": 4.773012108395927
             },
             "attributes": {
-                "Confirmed": 9,
+                "Confirmed": 11,
                 "Long_": 4.773012108395927,
                 "Deaths": -1,
                 "Province_State": "Zaanstad",
@@ -10799,7 +10844,7 @@
                 "x": 4.580137948904914
             },
             "attributes": {
-                "Confirmed": 3,
+                "Confirmed": 7,
                 "Long_": 4.580137948904914,
                 "Deaths": -1,
                 "Province_State": "Capelle aan den ijssel",
@@ -10844,7 +10889,7 @@
                 "x": 5.616089475086255
             },
             "attributes": {
-                "Confirmed": 6,
+                "Confirmed": 7,
                 "Long_": 5.616089475086255,
                 "Deaths": -1,
                 "Province_State": "Urk",
@@ -10889,7 +10934,7 @@
                 "x": 4.952886891957053
             },
             "attributes": {
-                "Confirmed": 6,
+                "Confirmed": 7,
                 "Long_": 4.952886891957053,
                 "Deaths": -1,
                 "Province_State": "Hollands kroon",
@@ -10904,7 +10949,7 @@
                 "x": 4.948845303104945
             },
             "attributes": {
-                "Confirmed": 1,
+                "Confirmed": 2,
                 "Long_": 4.948845303104945,
                 "Deaths": -1,
                 "Province_State": "Koggenland",
@@ -10919,7 +10964,7 @@
                 "x": 5.727999353490182
             },
             "attributes": {
-                "Confirmed": 13,
+                "Confirmed": 16,
                 "Long_": 5.727999353490182,
                 "Deaths": -1,
                 "Province_State": "Ede",
@@ -10934,7 +10979,7 @@
                 "x": 4.416290436987485
             },
             "attributes": {
-                "Confirmed": 5,
+                "Confirmed": 6,
                 "Long_": 4.416290436987485,
                 "Deaths": -1,
                 "Province_State": "Katwijk",
@@ -10964,7 +11009,7 @@
                 "x": 4.665729278313191
             },
             "attributes": {
-                "Confirmed": 3,
+                "Confirmed": 4,
                 "Long_": 4.665729278313191,
                 "Deaths": -1,
                 "Province_State": "Alblasserdam",
@@ -10994,7 +11039,7 @@
                 "x": 5.378120585783425
             },
             "attributes": {
-                "Confirmed": 12,
+                "Confirmed": 14,
                 "Long_": 5.378120585783425,
                 "Deaths": -1,
                 "Province_State": "Sint-michielsgestel",
@@ -11024,7 +11069,7 @@
                 "x": 5.691425066956922
             },
             "attributes": {
-                "Confirmed": 5,
+                "Confirmed": 6,
                 "Long_": 5.691425066956922,
                 "Deaths": -1,
                 "Province_State": "Someren",
@@ -11054,7 +11099,7 @@
                 "x": 5.773319772371112
             },
             "attributes": {
-                "Confirmed": 7,
+                "Confirmed": 8,
                 "Long_": 5.773319772371112,
                 "Deaths": -1,
                 "Province_State": "Nederweert",
@@ -11099,7 +11144,7 @@
                 "x": 4.898899283938207
             },
             "attributes": {
-                "Confirmed": 6,
+                "Confirmed": 7,
                 "Long_": 4.898899283938207,
                 "Deaths": -1,
                 "Province_State": "Woerden",
@@ -11114,7 +11159,7 @@
                 "x": 5.091964547028871
             },
             "attributes": {
-                "Confirmed": 1,
+                "Confirmed": 2,
                 "Long_": 5.091964547028871,
                 "Deaths": -1,
                 "Province_State": "Medemblik",
@@ -11144,7 +11189,7 @@
                 "x": 4.476189406011241
             },
             "attributes": {
-                "Confirmed": 3,
+                "Confirmed": 6,
                 "Long_": 4.476189406011241,
                 "Deaths": -1,
                 "Province_State": "Noordwijk",
@@ -11174,7 +11219,7 @@
                 "x": 5.962882661843977
             },
             "attributes": {
-                "Confirmed": 8,
+                "Confirmed": 9,
                 "Long_": 5.962882661843977,
                 "Deaths": -1,
                 "Province_State": "Venray",
@@ -11189,7 +11234,7 @@
                 "x": 5.496592357022778
             },
             "attributes": {
-                "Confirmed": 4,
+                "Confirmed": 6,
                 "Long_": 5.496592357022778,
                 "Deaths": -1,
                 "Province_State": "West maas en waal",
@@ -11204,7 +11249,7 @@
                 "x": 4.7371816813655165
             },
             "attributes": {
-                "Confirmed": 9,
+                "Confirmed": 11,
                 "Long_": 4.7371816813655165,
                 "Deaths": -1,
                 "Province_State": "Krimpenerwaard",
@@ -11219,7 +11264,7 @@
                 "x": 4.887359896941509
             },
             "attributes": {
-                "Confirmed": 7,
+                "Confirmed": 9,
                 "Long_": 4.887359896941509,
                 "Deaths": -1,
                 "Province_State": "Alphen-chaam",
@@ -11234,7 +11279,7 @@
                 "x": 4.211064016182961
             },
             "attributes": {
-                "Confirmed": 11,
+                "Confirmed": 15,
                 "Long_": 4.211064016182961,
                 "Deaths": -1,
                 "Province_State": "Westland",
@@ -11279,7 +11324,7 @@
                 "x": 4.448705330389185
             },
             "attributes": {
-                "Confirmed": 17,
+                "Confirmed": 21,
                 "Long_": 4.448705330389185,
                 "Deaths": -1,
                 "Province_State": "Hoeksche waard",
@@ -11294,7 +11339,7 @@
                 "x": 5.778330026696913
             },
             "attributes": {
-                "Confirmed": 20,
+                "Confirmed": 22,
                 "Long_": 5.778330026696913,
                 "Deaths": -1,
                 "Province_State": "Overbetuwe",
@@ -11309,7 +11354,7 @@
                 "x": 4.7062032913736935
             },
             "attributes": {
-                "Confirmed": 12,
+                "Confirmed": 15,
                 "Long_": 4.7062032913736935,
                 "Deaths": -1,
                 "Province_State": "Gouda",
@@ -11324,7 +11369,7 @@
                 "x": 6.146900391849377
             },
             "attributes": {
-                "Confirmed": 3,
+                "Confirmed": 4,
                 "Long_": 6.146900391849377,
                 "Deaths": -1,
                 "Province_State": "Doesburg",
@@ -11354,7 +11399,7 @@
                 "x": 4.670574018347805
             },
             "attributes": {
-                "Confirmed": 12,
+                "Confirmed": 13,
                 "Long_": 4.670574018347805,
                 "Deaths": -1,
                 "Province_State": "Dordrecht",
@@ -11369,7 +11414,7 @@
                 "x": 6.877789280525157
             },
             "attributes": {
-                "Confirmed": 16,
+                "Confirmed": 18,
                 "Long_": 6.877789280525157,
                 "Deaths": -1,
                 "Province_State": "Enschede",
@@ -11380,11 +11425,26 @@
         },
         {
             "geometry": {
+                "y": 52.25555203618555,
+                "x": 4.545836741920595
+            },
+            "attributes": {
+                "Confirmed": 1,
+                "Long_": 4.545836741920595,
+                "Deaths": -1,
+                "Province_State": "Lisse",
+                "Country_Region": "Lisse, Netherlands",
+                "Lat": 52.25555203618555,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
                 "y": 50.89352512105086,
                 "x": 5.743536291844816
             },
             "attributes": {
-                "Confirmed": 2,
+                "Confirmed": 3,
                 "Long_": 5.743536291844816,
                 "Deaths": -1,
                 "Province_State": "Meerssen",
@@ -11399,7 +11459,7 @@
                 "x": 6.08523493492395
             },
             "attributes": {
-                "Confirmed": 6,
+                "Confirmed": 8,
                 "Long_": 6.08523493492395,
                 "Deaths": -1,
                 "Province_State": "Zevenaar",
@@ -11414,7 +11474,7 @@
                 "x": 5.1454553430339915
             },
             "attributes": {
-                "Confirmed": 5,
+                "Confirmed": 6,
                 "Long_": 5.1454553430339915,
                 "Deaths": -1,
                 "Province_State": "Hilvarenbeek",
@@ -11429,7 +11489,7 @@
                 "x": 4.607070882669209
             },
             "attributes": {
-                "Confirmed": 1,
+                "Confirmed": 3,
                 "Long_": 4.607070882669209,
                 "Deaths": -1,
                 "Province_State": "Zuidplas",
@@ -11459,7 +11519,7 @@
                 "x": 4.917283485176568
             },
             "attributes": {
-                "Confirmed": 3,
+                "Confirmed": 4,
                 "Long_": 4.917283485176568,
                 "Deaths": -1,
                 "Province_State": "De ronde venen",
@@ -11489,7 +11549,7 @@
                 "x": 5.589951146067003
             },
             "attributes": {
-                "Confirmed": 4,
+                "Confirmed": 5,
                 "Long_": 5.589951146067003,
                 "Deaths": -1,
                 "Province_State": "Súdwest-fryslân",
@@ -11504,7 +11564,7 @@
                 "x": 4.323626674199766
             },
             "attributes": {
-                "Confirmed": 5,
+                "Confirmed": 8,
                 "Long_": 4.323626674199766,
                 "Deaths": -1,
                 "Province_State": "Steenbergen",
@@ -11534,7 +11594,7 @@
                 "x": 4.8514866958408565
             },
             "attributes": {
-                "Confirmed": 26,
+                "Confirmed": 27,
                 "Long_": 4.8514866958408565,
                 "Deaths": -1,
                 "Province_State": "Amstelveen",
@@ -11549,7 +11609,7 @@
                 "x": 6.051251948135589
             },
             "attributes": {
-                "Confirmed": 7,
+                "Confirmed": 10,
                 "Long_": 6.051251948135589,
                 "Deaths": -1,
                 "Province_State": "Rheden",
@@ -11564,7 +11624,7 @@
                 "x": 4.09998865595099
             },
             "attributes": {
-                "Confirmed": 16,
+                "Confirmed": 25,
                 "Long_": 4.09998865595099,
                 "Deaths": -1,
                 "Province_State": "Goeree-overflakkee",
@@ -11594,12 +11654,27 @@
                 "x": 4.596109000830874
             },
             "attributes": {
-                "Confirmed": 4,
+                "Confirmed": 5,
                 "Long_": 4.596109000830874,
                 "Deaths": -1,
                 "Province_State": "Ridderkerk",
                 "Country_Region": "Ridderkerk, Netherlands",
                 "Lat": 51.86879419491932,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 51.83846028894814,
+                "x": 4.977081949248382
+            },
+            "attributes": {
+                "Confirmed": 2,
+                "Long_": 4.977081949248382,
+                "Deaths": -1,
+                "Province_State": "Gorinchem",
+                "Country_Region": "Gorinchem, Netherlands",
+                "Lat": 51.83846028894814,
                 "Recovered": -1
             }
         },
@@ -11639,7 +11714,7 @@
                 "x": 5.921909387329988
             },
             "attributes": {
-                "Confirmed": 16,
+                "Confirmed": 17,
                 "Long_": 5.921909387329988,
                 "Deaths": -1,
                 "Province_State": "Apeldoorn",
@@ -11669,7 +11744,7 @@
                 "x": 4.058622849064703
             },
             "attributes": {
-                "Confirmed": 3,
+                "Confirmed": 5,
                 "Long_": 4.058622849064703,
                 "Deaths": -1,
                 "Province_State": "Westvoorne",
@@ -11684,7 +11759,7 @@
                 "x": 4.686455480737068
             },
             "attributes": {
-                "Confirmed": 12,
+                "Confirmed": 16,
                 "Long_": 4.686455480737068,
                 "Deaths": -1,
                 "Province_State": "Haarlemmermeer",
@@ -11699,7 +11774,7 @@
                 "x": 5.957568117233741
             },
             "attributes": {
-                "Confirmed": 6,
+                "Confirmed": 7,
                 "Long_": 5.957568117233741,
                 "Deaths": -1,
                 "Province_State": "Boxmeer",
@@ -11714,7 +11789,7 @@
                 "x": 5.892592471161352
             },
             "attributes": {
-                "Confirmed": 15,
+                "Confirmed": 16,
                 "Long_": 5.892592471161352,
                 "Deaths": -1,
                 "Province_State": "Arnhem",
@@ -11729,7 +11804,7 @@
                 "x": 4.649105631511747
             },
             "attributes": {
-                "Confirmed": 6,
+                "Confirmed": 7,
                 "Long_": 4.649105631511747,
                 "Deaths": -1,
                 "Province_State": "Beverwijk",
@@ -11744,7 +11819,7 @@
                 "x": 4.9711375286310355
             },
             "attributes": {
-                "Confirmed": 14,
+                "Confirmed": 20,
                 "Long_": 4.9711375286310355,
                 "Deaths": -1,
                 "Province_State": "Purmerend",
@@ -11759,7 +11834,7 @@
                 "x": 4.755022785616358
             },
             "attributes": {
-                "Confirmed": 5,
+                "Confirmed": 7,
                 "Long_": 4.755022785616358,
                 "Deaths": -1,
                 "Province_State": "Aalsmeer",
@@ -11774,7 +11849,7 @@
                 "x": 6.7558651314990374
             },
             "attributes": {
-                "Confirmed": 1,
+                "Confirmed": 3,
                 "Long_": 6.7558651314990374,
                 "Deaths": -1,
                 "Province_State": "Haaksbergen",
@@ -11789,7 +11864,7 @@
                 "x": 6.552466700944418
             },
             "attributes": {
-                "Confirmed": 1,
+                "Confirmed": 2,
                 "Long_": 6.552466700944418,
                 "Deaths": -1,
                 "Province_State": "Assen",
@@ -11819,7 +11894,7 @@
                 "x": 6.118364317720505
             },
             "attributes": {
-                "Confirmed": 23,
+                "Confirmed": 28,
                 "Long_": 6.118364317720505,
                 "Deaths": -1,
                 "Province_State": "Zwolle",
@@ -11879,7 +11954,7 @@
                 "x": 5.7636647831058605
             },
             "attributes": {
-                "Confirmed": 5,
+                "Confirmed": 6,
                 "Long_": 5.7636647831058605,
                 "Deaths": -1,
                 "Province_State": "Stein",
@@ -11939,7 +12014,7 @@
                 "x": 4.3852619323324316
             },
             "attributes": {
-                "Confirmed": 6,
+                "Confirmed": 8,
                 "Long_": 4.3852619323324316,
                 "Deaths": -1,
                 "Province_State": "Schiedam",
@@ -11969,7 +12044,7 @@
                 "x": 4.728607214831081
             },
             "attributes": {
-                "Confirmed": 2,
+                "Confirmed": 4,
                 "Long_": 4.728607214831081,
                 "Deaths": -1,
                 "Province_State": "Uitgeest",
@@ -12014,7 +12089,7 @@
                 "x": 5.555656829201993
             },
             "attributes": {
-                "Confirmed": 2,
+                "Confirmed": 3,
                 "Long_": 5.555656829201993,
                 "Deaths": -1,
                 "Province_State": "Veenendaal",
@@ -12029,7 +12104,7 @@
                 "x": 6.063714897255667
             },
             "attributes": {
-                "Confirmed": 15,
+                "Confirmed": 17,
                 "Long_": 6.063714897255667,
                 "Deaths": -1,
                 "Province_State": "Zwartewaterland",
@@ -12059,7 +12134,7 @@
                 "x": 5.786247274157053
             },
             "attributes": {
-                "Confirmed": 9,
+                "Confirmed": 13,
                 "Long_": 5.786247274157053,
                 "Deaths": -1,
                 "Province_State": "Nunspeet",
@@ -12074,7 +12149,7 @@
                 "x": 4.435715197330676
             },
             "attributes": {
-                "Confirmed": 8,
+                "Confirmed": 12,
                 "Long_": 4.435715197330676,
                 "Deaths": -1,
                 "Province_State": "Albrandswaard",
@@ -12089,7 +12164,7 @@
                 "x": 4.3278584637807
             },
             "attributes": {
-                "Confirmed": 12,
+                "Confirmed": 15,
                 "Long_": 4.3278584637807,
                 "Deaths": -1,
                 "Province_State": "Vlaardingen",
@@ -12119,7 +12194,7 @@
                 "x": 6.778194930668734
             },
             "attributes": {
-                "Confirmed": 13,
+                "Confirmed": 15,
                 "Long_": 6.778194930668734,
                 "Deaths": -1,
                 "Province_State": "Hengelo (o)",
@@ -12134,7 +12209,7 @@
                 "x": 5.7848454252355594
             },
             "attributes": {
-                "Confirmed": 9,
+                "Confirmed": 10,
                 "Long_": 5.7848454252355594,
                 "Deaths": -1,
                 "Province_State": "Renkum",
@@ -12164,7 +12239,7 @@
                 "x": 5.923328082337303
             },
             "attributes": {
-                "Confirmed": 12,
+                "Confirmed": 14,
                 "Long_": 5.923328082337303,
                 "Deaths": -1,
                 "Province_State": "Kampen",
@@ -12179,7 +12254,7 @@
                 "x": 4.523114053008807
             },
             "attributes": {
-                "Confirmed": 5,
+                "Confirmed": 7,
                 "Long_": 4.523114053008807,
                 "Deaths": -1,
                 "Province_State": "Halderberge",
@@ -12209,7 +12284,7 @@
                 "x": 5.2962886609215944
             },
             "attributes": {
-                "Confirmed": 15,
+                "Confirmed": 16,
                 "Long_": 5.2962886609215944,
                 "Deaths": -1,
                 "Province_State": "Soest",
@@ -12224,7 +12299,7 @@
                 "x": 4.876109040156742
             },
             "attributes": {
-                "Confirmed": 3,
+                "Confirmed": 4,
                 "Long_": 4.876109040156742,
                 "Deaths": -1,
                 "Province_State": "Oostzaan",
@@ -12254,7 +12329,7 @@
                 "x": 5.942228139349588
             },
             "attributes": {
-                "Confirmed": 6,
+                "Confirmed": 9,
                 "Long_": 5.942228139349588,
                 "Deaths": -1,
                 "Province_State": "Lingewaard",
@@ -12269,7 +12344,7 @@
                 "x": 5.841997671141597
             },
             "attributes": {
-                "Confirmed": 12,
+                "Confirmed": 13,
                 "Long_": 5.841997671141597,
                 "Deaths": -1,
                 "Province_State": "Sint anthonis",
@@ -12299,7 +12374,7 @@
                 "x": 5.740275197577425
             },
             "attributes": {
-                "Confirmed": 9,
+                "Confirmed": 11,
                 "Long_": 5.740275197577425,
                 "Deaths": -1,
                 "Province_State": "Beuningen",
@@ -12314,7 +12389,7 @@
                 "x": 5.289779322152447
             },
             "attributes": {
-                "Confirmed": 1,
+                "Confirmed": 3,
                 "Long_": 5.289779322152447,
                 "Deaths": -1,
                 "Province_State": "Oirschot",
@@ -12359,7 +12434,7 @@
                 "x": 3.6508377816550017
             },
             "attributes": {
-                "Confirmed": 4,
+                "Confirmed": 5,
                 "Long_": 3.6508377816550017,
                 "Deaths": -1,
                 "Province_State": "Middelburg",
@@ -12374,7 +12449,7 @@
                 "x": 4.94552279763384
             },
             "attributes": {
-                "Confirmed": 4,
+                "Confirmed": 6,
                 "Long_": 4.94552279763384,
                 "Deaths": -1,
                 "Province_State": "Lopik",
@@ -12389,12 +12464,27 @@
                 "x": 4.924554814968995
             },
             "attributes": {
-                "Confirmed": 4,
+                "Confirmed": 5,
                 "Long_": 4.924554814968995,
                 "Deaths": -1,
                 "Province_State": "Landsmeer",
                 "Country_Region": "Landsmeer, Netherlands",
                 "Lat": 52.45058336288495,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 51.40828980368532,
+                "x": 4.342270560662603
+            },
+            "attributes": {
+                "Confirmed": 2,
+                "Long_": 4.342270560662603,
+                "Deaths": -1,
+                "Province_State": "Woensdrecht",
+                "Country_Region": "Woensdrecht, Netherlands",
+                "Lat": 51.40828980368532,
                 "Recovered": -1
             }
         },
@@ -12434,7 +12524,7 @@
                 "x": 5.028790788855549
             },
             "attributes": {
-                "Confirmed": 11,
+                "Confirmed": 13,
                 "Long_": 5.028790788855549,
                 "Deaths": -1,
                 "Province_State": "Ijsselstein",
@@ -12449,7 +12539,7 @@
                 "x": 5.197525682739497
             },
             "attributes": {
-                "Confirmed": 15,
+                "Confirmed": 16,
                 "Long_": 5.197525682739497,
                 "Deaths": -1,
                 "Province_State": "Oisterwijk",
@@ -12464,7 +12554,7 @@
                 "x": 5.970718310656348
             },
             "attributes": {
-                "Confirmed": 1,
+                "Confirmed": 2,
                 "Long_": 5.970718310656348,
                 "Deaths": -1,
                 "Province_State": "Westervoort",
@@ -12479,7 +12569,7 @@
                 "x": 4.8640673825620055
             },
             "attributes": {
-                "Confirmed": 13,
+                "Confirmed": 16,
                 "Long_": 4.8640673825620055,
                 "Deaths": -1,
                 "Province_State": "Oosterhout",
@@ -12524,7 +12614,7 @@
                 "x": 4.4245095877240335
             },
             "attributes": {
-                "Confirmed": 8,
+                "Confirmed": 11,
                 "Long_": 4.4245095877240335,
                 "Deaths": -1,
                 "Province_State": "Roosendaal",
@@ -12554,7 +12644,7 @@
                 "x": 5.849035643164387
             },
             "attributes": {
-                "Confirmed": 2,
+                "Confirmed": 3,
                 "Long_": 5.849035643164387,
                 "Deaths": -1,
                 "Province_State": "Elburg",
@@ -12565,11 +12655,26 @@
         },
         {
             "geometry": {
+                "y": 52.08932354572887,
+                "x": 5.500490767975932
+            },
+            "attributes": {
+                "Confirmed": 1,
+                "Long_": 5.500490767975932,
+                "Deaths": -1,
+                "Province_State": "Scherpenzeel",
+                "Country_Region": "Scherpenzeel, Netherlands",
+                "Lat": 52.08932354572887,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
                 "y": 51.91689356086314,
                 "x": 6.213779686176441
             },
             "attributes": {
-                "Confirmed": 1,
+                "Confirmed": 2,
                 "Long_": 6.213779686176441,
                 "Deaths": -1,
                 "Province_State": "Montferland",
@@ -12614,7 +12719,7 @@
                 "x": 4.66138529571761
             },
             "attributes": {
-                "Confirmed": 6,
+                "Confirmed": 8,
                 "Long_": 4.66138529571761,
                 "Deaths": -1,
                 "Province_State": "Bergen (nh)",
@@ -12644,7 +12749,7 @@
                 "x": 5.326580544137324
             },
             "attributes": {
-                "Confirmed": 11,
+                "Confirmed": 12,
                 "Long_": 5.326580544137324,
                 "Deaths": -1,
                 "Province_State": "Boxtel",
@@ -12659,7 +12764,7 @@
                 "x": 4.326015670092864
             },
             "attributes": {
-                "Confirmed": 4,
+                "Confirmed": 5,
                 "Long_": 4.326015670092864,
                 "Deaths": -1,
                 "Province_State": "Rijswijk",
@@ -12674,7 +12779,7 @@
                 "x": 4.629193320676418
             },
             "attributes": {
-                "Confirmed": 1,
+                "Confirmed": 2,
                 "Long_": 4.629193320676418,
                 "Deaths": -1,
                 "Province_State": "Kaag en braassem",
@@ -12689,7 +12794,7 @@
                 "x": 4.747698260414622
             },
             "attributes": {
-                "Confirmed": 11,
+                "Confirmed": 15,
                 "Long_": 4.747698260414622,
                 "Deaths": -1,
                 "Province_State": "Alkmaar",
@@ -12734,7 +12839,7 @@
                 "x": 4.761441273447802
             },
             "attributes": {
-                "Confirmed": 133,
+                "Confirmed": 140,
                 "Long_": 4.761441273447802,
                 "Deaths": -1,
                 "Province_State": "Breda",
@@ -12809,7 +12914,7 @@
                 "x": 5.283700973285569
             },
             "attributes": {
-                "Confirmed": 6,
+                "Confirmed": 7,
                 "Long_": 5.283700973285569,
                 "Deaths": -1,
                 "Province_State": "Enkhuizen",
@@ -12824,7 +12929,7 @@
                 "x": 4.990495443075885
             },
             "attributes": {
-                "Confirmed": 3,
+                "Confirmed": 4,
                 "Long_": 4.990495443075885,
                 "Deaths": -1,
                 "Province_State": "Diemen",
@@ -12839,7 +12944,7 @@
                 "x": 5.406859433527253
             },
             "attributes": {
-                "Confirmed": 4,
+                "Confirmed": 5,
                 "Long_": 5.406859433527253,
                 "Deaths": -1,
                 "Province_State": "Tiel",
@@ -12854,7 +12959,7 @@
                 "x": 4.438628006616013
             },
             "attributes": {
-                "Confirmed": 2,
+                "Confirmed": 3,
                 "Long_": 4.438628006616013,
                 "Deaths": -1,
                 "Province_State": "Voorschoten",
@@ -12884,7 +12989,7 @@
                 "x": 5.3324083171412635
             },
             "attributes": {
-                "Confirmed": 7,
+                "Confirmed": 9,
                 "Long_": 5.3324083171412635,
                 "Deaths": -1,
                 "Province_State": "Eersel",
@@ -12914,7 +13019,7 @@
                 "x": 6.725861347526099
             },
             "attributes": {
-                "Confirmed": 1,
+                "Confirmed": 2,
                 "Long_": 6.725861347526099,
                 "Deaths": -1,
                 "Province_State": "Winterswijk",
@@ -12944,7 +13049,7 @@
                 "x": 5.158440019272138
             },
             "attributes": {
-                "Confirmed": 5,
+                "Confirmed": 6,
                 "Long_": 5.158440019272138,
                 "Deaths": -1,
                 "Province_State": "Zaltbommel",
@@ -12959,7 +13064,7 @@
                 "x": 4.6753929696675405
             },
             "attributes": {
-                "Confirmed": 7,
+                "Confirmed": 8,
                 "Long_": 4.6753929696675405,
                 "Deaths": -1,
                 "Province_State": "Castricum",
@@ -12974,7 +13079,7 @@
                 "x": 5.2688118196293265
             },
             "attributes": {
-                "Confirmed": 11,
+                "Confirmed": 15,
                 "Long_": 5.2688118196293265,
                 "Deaths": -1,
                 "Province_State": "Vught",
@@ -13004,7 +13109,7 @@
                 "x": 4.5119000656772315
             },
             "attributes": {
-                "Confirmed": 5,
+                "Confirmed": 7,
                 "Long_": 4.5119000656772315,
                 "Deaths": -1,
                 "Province_State": "Teylingen",
@@ -13019,7 +13124,7 @@
                 "x": 5.743016940619128
             },
             "attributes": {
-                "Confirmed": 6,
+                "Confirmed": 10,
                 "Long_": 5.743016940619128,
                 "Deaths": -1,
                 "Province_State": "Grave",
@@ -13049,7 +13154,7 @@
                 "x": 6.0509723547793755
             },
             "attributes": {
-                "Confirmed": 6,
+                "Confirmed": 8,
                 "Long_": 6.0509723547793755,
                 "Deaths": -1,
                 "Province_State": "Kerkrade",
@@ -13064,7 +13169,7 @@
                 "x": 4.506106742025003
             },
             "attributes": {
-                "Confirmed": 16,
+                "Confirmed": 20,
                 "Long_": 4.506106742025003,
                 "Deaths": -1,
                 "Province_State": "Lansingerland",
@@ -13079,7 +13184,7 @@
                 "x": 5.828202251867558
             },
             "attributes": {
-                "Confirmed": 58,
+                "Confirmed": 59,
                 "Long_": 5.828202251867558,
                 "Deaths": -1,
                 "Province_State": "Sittard-geleen",
@@ -13094,7 +13199,7 @@
                 "x": 5.458869406577307
             },
             "attributes": {
-                "Confirmed": 35,
+                "Confirmed": 46,
                 "Long_": 5.458869406577307,
                 "Deaths": -1,
                 "Province_State": "Eindhoven",
@@ -13109,7 +13214,7 @@
                 "x": 6.279050173549389
             },
             "attributes": {
-                "Confirmed": 3,
+                "Confirmed": 5,
                 "Long_": 6.279050173549389,
                 "Deaths": -1,
                 "Province_State": "Raalte",
@@ -13124,7 +13229,7 @@
                 "x": 5.969432265098883
             },
             "attributes": {
-                "Confirmed": 19,
+                "Confirmed": 24,
                 "Long_": 5.969432265098883,
                 "Deaths": -1,
                 "Province_State": "Heerlen",
@@ -13139,7 +13244,7 @@
                 "x": 4.288302874737702
             },
             "attributes": {
-                "Confirmed": 9,
+                "Confirmed": 10,
                 "Long_": 4.288302874737702,
                 "Deaths": -1,
                 "Province_State": "Bergen op zoom",
@@ -13169,7 +13274,7 @@
                 "x": 5.987104717839275
             },
             "attributes": {
-                "Confirmed": 5,
+                "Confirmed": 7,
                 "Long_": 5.987104717839275,
                 "Deaths": -1,
                 "Province_State": "Gennep",
@@ -13214,7 +13319,7 @@
                 "x": 6.276669346621206
             },
             "attributes": {
-                "Confirmed": 5,
+                "Confirmed": 8,
                 "Long_": 6.276669346621206,
                 "Deaths": -1,
                 "Province_State": "Dalfsen",
@@ -13229,7 +13334,7 @@
                 "x": 6.589959089101874
             },
             "attributes": {
-                "Confirmed": 4,
+                "Confirmed": 5,
                 "Long_": 6.589959089101874,
                 "Deaths": -1,
                 "Province_State": "Hof van twente",
@@ -13259,7 +13364,7 @@
                 "x": 5.205649842024522
             },
             "attributes": {
-                "Confirmed": 11,
+                "Confirmed": 14,
                 "Long_": 5.205649842024522,
                 "Deaths": -1,
                 "Province_State": "Almere",
@@ -13274,7 +13379,7 @@
                 "x": 5.836792287955367
             },
             "attributes": {
-                "Confirmed": 60,
+                "Confirmed": 68,
                 "Long_": 5.836792287955367,
                 "Deaths": -1,
                 "Province_State": "Nijmegen",
