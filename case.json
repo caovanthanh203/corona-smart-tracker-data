@@ -218,18 +218,18 @@
         },
         {
             "attributes": {
-                "Confirmed": 730,
-                "Country_Region": "Pakistan",
-                "Recovered": 13,
-                "Deaths": 3
-            }
-        },
-        {
-            "attributes": {
                 "Confirmed": 712,
                 "Country_Region": "Diamond Princess",
                 "Recovered": 567,
                 "Deaths": 8
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 646,
+                "Country_Region": "Pakistan",
+                "Recovered": 13,
+                "Deaths": 3
             }
         },
         {
@@ -899,6 +899,14 @@
         {
             "attributes": {
                 "Confirmed": 24,
+                "Country_Region": "Mauritius",
+                "Recovered": 0,
+                "Deaths": 2
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 24,
                 "Country_Region": "Bolivia",
                 "Recovered": 0,
                 "Deaths": 0
@@ -964,14 +972,6 @@
             "attributes": {
                 "Confirmed": 18,
                 "Country_Region": "Guyana",
-                "Recovered": 0,
-                "Deaths": 1
-            }
-        },
-        {
-            "attributes": {
-                "Confirmed": 18,
-                "Country_Region": "Mauritius",
                 "Recovered": 0,
                 "Deaths": 1
             }
