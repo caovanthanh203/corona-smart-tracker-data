@@ -1187,6 +1187,14 @@
         {
             "attributes": {
                 "Confirmed": 4,
+                "Country_Region": "Greenland",
+                "Recovered": 0,
+                "Deaths": 0
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 4,
                 "Country_Region": "New Caledonia",
                 "Recovered": 0,
                 "Deaths": 0
@@ -1340,14 +1348,6 @@
             "attributes": {
                 "Confirmed": 2,
                 "Country_Region": "Fiji",
-                "Recovered": 0,
-                "Deaths": 0
-            }
-        },
-        {
-            "attributes": {
-                "Confirmed": 2,
-                "Country_Region": "Greenland",
                 "Recovered": 0,
                 "Deaths": 0
             }
