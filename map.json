@@ -4440,17 +4440,6 @@
         {
             "attributes": {
                 "Confirmed": 4,
-                "Long_": "105.682983",
-                "Deaths": 0,
-                "Province_State": "Đồng Tháp",
-                "Country_Region": "Đồng Tháp, Việt Nam",
-                "Lat": "10.575572",
-                "Recovered": 0
-            }
-        },
-        {
-            "attributes": {
-                "Confirmed": 4,
                 "Long_": "108.220556",
                 "Deaths": 0,
                 "Province_State": "Đà Nẵng",
@@ -4472,28 +4461,6 @@
         },
         {
             "attributes": {
-                "Confirmed": 2,
-                "Long_": "107.58482",
-                "Deaths": 0,
-                "Province_State": "Thừa Thiên Huế",
-                "Country_Region": "Thừa Thiên Huế, Việt Nam",
-                "Lat": "16.463744",
-                "Recovered": 0
-            }
-        },
-        {
-            "attributes": {
-                "Confirmed": 2,
-                "Long_": "108.99028",
-                "Deaths": 0,
-                "Province_State": "Ninh Thuận",
-                "Country_Region": "Ninh Thuận, Việt Nam",
-                "Lat": "11.56556",
-                "Recovered": 0
-            }
-        },
-        {
-            "attributes": {
                 "Confirmed": 9,
                 "Long_": "108.141174",
                 "Deaths": 0,
@@ -4505,12 +4472,34 @@
         },
         {
             "attributes": {
-                "Confirmed": 1,
-                "Long_": "106.316670",
+                "Confirmed": 2,
+                "Long_": "104.15786",
                 "Deaths": 0,
-                "Province_State": "Hải Dương",
-                "Country_Region": "Hải Dương, Việt Nam",
-                "Lat": "20.933330",
+                "Province_State": "Lào Cai",
+                "Country_Region": "Lào Cai, Việt Nam",
+                "Lat": "22.379997",
+                "Recovered": 0
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 1,
+                "Long_": "106.073406",
+                "Deaths": 0,
+                "Province_State": "Bắc Ninh",
+                "Country_Region": "Bắc Ninh, Việt Nam",
+                "Lat": "21.187548",
+                "Recovered": 0
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 2,
+                "Long_": "108.99028",
+                "Deaths": 0,
+                "Province_State": "Ninh Thuận",
+                "Country_Region": "Ninh Thuận, Việt Nam",
+                "Lat": "11.56556",
                 "Recovered": 0
             }
         },
@@ -4539,11 +4528,22 @@
         {
             "attributes": {
                 "Confirmed": 2,
-                "Long_": "104.15786",
+                "Long_": "107.58482",
                 "Deaths": 0,
-                "Province_State": "Lào Cai",
-                "Country_Region": "Lào Cai, Việt Nam",
-                "Lat": "22.379997",
+                "Province_State": "Thừa Thiên Huế",
+                "Country_Region": "Thừa Thiên Huế, Việt Nam",
+                "Lat": "16.463744",
+                "Recovered": 0
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 4,
+                "Long_": "105.682983",
+                "Deaths": 0,
+                "Province_State": "Đồng Tháp",
+                "Country_Region": "Đồng Tháp, Việt Nam",
+                "Lat": "10.575572",
                 "Recovered": 0
             }
         },
@@ -4560,28 +4560,6 @@
         },
         {
             "attributes": {
-                "Confirmed": 1,
-                "Long_": "106.073406",
-                "Deaths": 0,
-                "Province_State": "Bắc Ninh",
-                "Country_Region": "Bắc Ninh, Việt Nam",
-                "Lat": "21.187548",
-                "Recovered": 0
-            }
-        },
-        {
-            "attributes": {
-                "Confirmed": 1,
-                "Long_": "105.974808",
-                "Deaths": 0,
-                "Province_State": "Ninh Bình",
-                "Country_Region": "Ninh Bình, Việt Nam",
-                "Lat": "20.250924",
-                "Recovered": 1
-            }
-        },
-        {
-            "attributes": {
                 "Confirmed": 27,
                 "Long_": "106.681944",
                 "Deaths": 0,
@@ -4589,6 +4567,17 @@
                 "Country_Region": "TP. Hồ Chí Minh, Việt Nam",
                 "Lat": "10.769444",
                 "Recovered": 3
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 1,
+                "Long_": "106.316670",
+                "Deaths": 0,
+                "Province_State": "Hải Dương",
+                "Country_Region": "Hải Dương, Việt Nam",
+                "Lat": "20.933330",
+                "Recovered": 0
             }
         },
         {
@@ -4621,6 +4610,17 @@
                 "Province_State": "Khánh Hòa",
                 "Country_Region": "Khánh Hòa, Việt Nam",
                 "Lat": "12.073058",
+                "Recovered": 1
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 1,
+                "Long_": "105.974808",
+                "Deaths": 0,
+                "Province_State": "Ninh Bình",
+                "Country_Region": "Ninh Bình, Việt Nam",
+                "Lat": "20.250924",
                 "Recovered": 1
             }
         },
@@ -5721,7 +5721,7 @@
         },
         {
             "attributes": {
-                "Confirmed": 1965,
+                "Confirmed": 2189,
                 "Long_": -0.11132105881782318,
                 "Deaths": -1,
                 "Province_State": "London",
@@ -5736,7 +5736,7 @@
         },
         {
             "attributes": {
-                "Confirmed": 492,
+                "Confirmed": 536,
                 "Long_": -0.5292085190248275,
                 "Deaths": -1,
                 "Province_State": "South East",
@@ -5751,7 +5751,7 @@
         },
         {
             "attributes": {
-                "Confirmed": 216,
+                "Confirmed": 242,
                 "Long_": -3.1220313968817024,
                 "Deaths": -1,
                 "Province_State": "South West",
@@ -5766,7 +5766,7 @@
         },
         {
             "attributes": {
-                "Confirmed": 312,
+                "Confirmed": 390,
                 "Long_": -2.609190082875038,
                 "Deaths": -1,
                 "Province_State": "North West",
@@ -5781,7 +5781,7 @@
         },
         {
             "attributes": {
-                "Confirmed": 221,
+                "Confirmed": 274,
                 "Long_": 0.5037660121038433,
                 "Deaths": -1,
                 "Province_State": "East of England",
@@ -5796,7 +5796,7 @@
         },
         {
             "attributes": {
-                "Confirmed": 491,
+                "Confirmed": 624,
                 "Long_": -1.4825901296528927,
                 "Deaths": -1,
                 "Province_State": "Midlands",
@@ -5811,7 +5811,7 @@
         },
         {
             "attributes": {
-                "Confirmed": 298,
+                "Confirmed": 368,
                 "Long_": -1.7115066995975043,
                 "Deaths": -1,
                 "Province_State": "North East and Yorkshire",
@@ -5826,7 +5826,7 @@
         },
         {
             "attributes": {
-                "Confirmed": 373,
+                "Confirmed": 416,
                 "Long_": -4.181728223318043,
                 "Deaths": -1,
                 "Province_State": "Scotland",
@@ -5841,7 +5841,7 @@
         },
         {
             "attributes": {
-                "Confirmed": 280,
+                "Confirmed": 347,
                 "Long_": -3.764245735557665,
                 "Deaths": -1,
                 "Province_State": "Wales",
@@ -5856,7 +5856,7 @@
         },
         {
             "attributes": {
-                "Confirmed": 108,
+                "Confirmed": 128,
                 "Long_": -6.681567064204259,
                 "Deaths": -1,
                 "Province_State": "Northern Ireland",
