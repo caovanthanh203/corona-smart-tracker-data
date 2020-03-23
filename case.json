@@ -1259,6 +1259,14 @@
         {
             "attributes": {
                 "Confirmed": 3,
+                "Country_Region": "Zimbabwe",
+                "Recovered": 0,
+                "Deaths": 1
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 3,
                 "Country_Region": "Cabo Verde",
                 "Recovered": 0,
                 "Deaths": 0
@@ -1324,14 +1332,6 @@
             "attributes": {
                 "Confirmed": 3,
                 "Country_Region": "Zambia",
-                "Recovered": 0,
-                "Deaths": 0
-            }
-        },
-        {
-            "attributes": {
-                "Confirmed": 3,
-                "Country_Region": "Zimbabwe",
                 "Recovered": 0,
                 "Deaths": 0
             }
