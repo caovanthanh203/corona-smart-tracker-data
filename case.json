@@ -293,7 +293,7 @@
                 "Confirmed": 576,
                 "Country_Region": "Romania",
                 "Recovered": 73,
-                "Deaths": 4
+                "Deaths": 5
             }
         },
         {
@@ -314,6 +314,14 @@
         },
         {
             "attributes": {
+                "Confirmed": 509,
+                "Country_Region": "Singapore",
+                "Recovered": 144,
+                "Deaths": 2
+            }
+        },
+        {
+            "attributes": {
                 "Confirmed": 494,
                 "Country_Region": "Qatar",
                 "Recovered": 33,
@@ -326,14 +334,6 @@
                 "Country_Region": "Philippines",
                 "Recovered": 18,
                 "Deaths": 33
-            }
-        },
-        {
-            "attributes": {
-                "Confirmed": 455,
-                "Country_Region": "Singapore",
-                "Recovered": 144,
-                "Deaths": 2
             }
         },
         {
@@ -610,7 +610,7 @@
         },
         {
             "attributes": {
-                "Confirmed": 121,
+                "Confirmed": 122,
                 "Country_Region": "Vietnam",
                 "Recovered": 17,
                 "Deaths": 0
@@ -1058,6 +1058,14 @@
         },
         {
             "attributes": {
+                "Confirmed": 16,
+                "Country_Region": "Kyrgyzstan",
+                "Recovered": 0,
+                "Deaths": 0
+            }
+        },
+        {
+            "attributes": {
                 "Confirmed": 15,
                 "Country_Region": "Gibraltar",
                 "Recovered": 2,
@@ -1068,14 +1076,6 @@
             "attributes": {
                 "Confirmed": 15,
                 "Country_Region": "Kenya",
-                "Recovered": 0,
-                "Deaths": 0
-            }
-        },
-        {
-            "attributes": {
-                "Confirmed": 14,
-                "Country_Region": "Kyrgyzstan",
                 "Recovered": 0,
                 "Deaths": 0
             }
