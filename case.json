@@ -1131,6 +1131,14 @@
         {
             "attributes": {
                 "Confirmed": 6,
+                "Country_Region": "Bermuda",
+                "Recovered": 0,
+                "Deaths": 0
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 6,
                 "Country_Region": "Equatorial Guinea",
                 "Recovered": 0,
                 "Deaths": 0
@@ -1324,14 +1332,6 @@
             "attributes": {
                 "Confirmed": 2,
                 "Country_Region": "Benin",
-                "Recovered": 0,
-                "Deaths": 0
-            }
-        },
-        {
-            "attributes": {
-                "Confirmed": 2,
-                "Country_Region": "Bermuda",
                 "Recovered": 0,
                 "Deaths": 0
             }
