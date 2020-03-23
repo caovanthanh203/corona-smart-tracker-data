@@ -4546,39 +4546,6 @@
         },
         {
             "attributes": {
-                "Confirmed": 2,
-                "Long_": "108.99028",
-                "Deaths": 0,
-                "Province_State": "Ninh Thuận",
-                "Country_Region": "Ninh Thuận, Việt Nam",
-                "Lat": "11.56556",
-                "Recovered": 0
-            }
-        },
-        {
-            "attributes": {
-                "Confirmed": 2,
-                "Long_": "106.119003",
-                "Deaths": 0,
-                "Province_State": "Tây Ninh",
-                "Country_Region": "Tây Ninh, Việt Nam",
-                "Lat": "11.367795",
-                "Recovered": 0
-            }
-        },
-        {
-            "attributes": {
-                "Confirmed": 4,
-                "Long_": "105.682983",
-                "Deaths": 0,
-                "Province_State": "Đồng Tháp",
-                "Country_Region": "Đồng Tháp, Việt Nam",
-                "Lat": "10.575572",
-                "Recovered": 0
-            }
-        },
-        {
-            "attributes": {
                 "Confirmed": 9,
                 "Long_": "108.141174",
                 "Deaths": 0,
@@ -4586,6 +4553,17 @@
                 "Country_Region": "Bình Thuận, Việt Nam",
                 "Lat": "11.100252",
                 "Recovered": 0
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 11,
+                "Long_": "105.548401",
+                "Deaths": 0,
+                "Province_State": "Vĩnh Phúc",
+                "Country_Region": "Vĩnh Phúc, Việt Nam",
+                "Lat": "21.363571",
+                "Recovered": 11
             }
         },
         {
@@ -4602,11 +4580,11 @@
         {
             "attributes": {
                 "Confirmed": 2,
-                "Long_": "107.58482",
+                "Long_": "108.99028",
                 "Deaths": 0,
-                "Province_State": "Thừa Thiên Huế",
-                "Country_Region": "Thừa Thiên Huế, Việt Nam",
-                "Lat": "16.463744",
+                "Province_State": "Ninh Thuận",
+                "Country_Region": "Ninh Thuận, Việt Nam",
+                "Lat": "11.56556",
                 "Recovered": 0
             }
         },
@@ -4634,13 +4612,35 @@
         },
         {
             "attributes": {
-                "Confirmed": 11,
-                "Long_": "105.548401",
+                "Confirmed": 2,
+                "Long_": "107.58482",
                 "Deaths": 0,
-                "Province_State": "Vĩnh Phúc",
-                "Country_Region": "Vĩnh Phúc, Việt Nam",
-                "Lat": "21.363571",
-                "Recovered": 11
+                "Province_State": "Thừa Thiên Huế",
+                "Country_Region": "Thừa Thiên Huế, Việt Nam",
+                "Lat": "16.463744",
+                "Recovered": 0
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 4,
+                "Long_": "105.682983",
+                "Deaths": 0,
+                "Province_State": "Đồng Tháp",
+                "Country_Region": "Đồng Tháp, Việt Nam",
+                "Lat": "10.575572",
+                "Recovered": 0
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 2,
+                "Long_": "106.119003",
+                "Deaths": 0,
+                "Province_State": "Tây Ninh",
+                "Country_Region": "Tây Ninh, Việt Nam",
+                "Lat": "11.367795",
+                "Recovered": 0
             }
         },
         {
@@ -4652,17 +4652,6 @@
                 "Country_Region": "TP. Hồ Chí Minh, Việt Nam",
                 "Lat": "10.769444",
                 "Recovered": 3
-            }
-        },
-        {
-            "attributes": {
-                "Confirmed": 39,
-                "Long_": "105.853333",
-                "Deaths": 0,
-                "Province_State": "Hà Nội",
-                "Country_Region": "Hà Nội, Việt Nam",
-                "Lat": "21.028333",
-                "Recovered": 0
             }
         },
         {
@@ -4701,22 +4690,33 @@
         {
             "attributes": {
                 "Confirmed": 1,
-                "Long_": "106.073406",
+                "Long_": "106.316670",
                 "Deaths": 0,
-                "Province_State": "Bắc Ninh",
-                "Country_Region": "Bắc Ninh, Việt Nam",
-                "Lat": "21.187548",
+                "Province_State": "Hải Dương",
+                "Country_Region": "Hải Dương, Việt Nam",
+                "Lat": "20.933330",
+                "Recovered": 0
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 39,
+                "Long_": "105.853333",
+                "Deaths": 0,
+                "Province_State": "Hà Nội",
+                "Country_Region": "Hà Nội, Việt Nam",
+                "Lat": "21.028333",
                 "Recovered": 0
             }
         },
         {
             "attributes": {
                 "Confirmed": 1,
-                "Long_": "106.316670",
+                "Long_": "106.073406",
                 "Deaths": 0,
-                "Province_State": "Hải Dương",
-                "Country_Region": "Hải Dương, Việt Nam",
-                "Lat": "20.933330",
+                "Province_State": "Bắc Ninh",
+                "Country_Region": "Bắc Ninh, Việt Nam",
+                "Lat": "21.187548",
                 "Recovered": 0
             }
         },
