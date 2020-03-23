@@ -1227,6 +1227,14 @@
         {
             "attributes": {
                 "Confirmed": 4,
+                "Country_Region": "Congo",
+                "Recovered": 0,
+                "Deaths": 0
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 4,
                 "Country_Region": "Greenland",
                 "Recovered": 0,
                 "Deaths": 0
@@ -1300,14 +1308,6 @@
             "attributes": {
                 "Confirmed": 3,
                 "Country_Region": "CAR",
-                "Recovered": 0,
-                "Deaths": 0
-            }
-        },
-        {
-            "attributes": {
-                "Confirmed": 3,
-                "Country_Region": "Congo",
                 "Recovered": 0,
                 "Deaths": 0
             }
