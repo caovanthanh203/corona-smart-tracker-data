@@ -1411,6 +1411,14 @@
         {
             "attributes": {
                 "Confirmed": 1,
+                "Country_Region": "Gambia",
+                "Recovered": 0,
+                "Deaths": 1
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 1,
                 "Country_Region": "Antigua and Barbuda",
                 "Recovered": 0,
                 "Deaths": 0
@@ -1444,14 +1452,6 @@
             "attributes": {
                 "Confirmed": 1,
                 "Country_Region": "Eritrea",
-                "Recovered": 0,
-                "Deaths": 0
-            }
-        },
-        {
-            "attributes": {
-                "Confirmed": 1,
-                "Country_Region": "Gambia",
                 "Recovered": 0,
                 "Deaths": 0
             }
