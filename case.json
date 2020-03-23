@@ -1091,6 +1091,14 @@
         {
             "attributes": {
                 "Confirmed": 13,
+                "Country_Region": "Isle of Man",
+                "Recovered": 0,
+                "Deaths": 0
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 13,
                 "Country_Region": "Maldives",
                 "Recovered": 5,
                 "Deaths": 0
@@ -1180,14 +1188,6 @@
             "attributes": {
                 "Confirmed": 5,
                 "Country_Region": "Haiti",
-                "Recovered": 0,
-                "Deaths": 0
-            }
-        },
-        {
-            "attributes": {
-                "Confirmed": 5,
-                "Country_Region": "Isle of Man",
                 "Recovered": 0,
                 "Deaths": 0
             }
