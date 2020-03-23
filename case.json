@@ -18,10 +18,10 @@
         },
         {
             "attributes": {
-                "Confirmed": 41901,
+                "Confirmed": 42032,
                 "Country_Region": "USA",
                 "Recovered": 187,
-                "Deaths": 507
+                "Deaths": 508
             }
         },
         {
@@ -1315,6 +1315,14 @@
         {
             "attributes": {
                 "Confirmed": 3,
+                "Country_Region": "Djibouti",
+                "Recovered": 0,
+                "Deaths": 0
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 3,
                 "Country_Region": "El Salvador",
                 "Recovered": 0,
                 "Deaths": 0
@@ -1452,14 +1460,6 @@
             "attributes": {
                 "Confirmed": 1,
                 "Country_Region": "Chad",
-                "Recovered": 0,
-                "Deaths": 0
-            }
-        },
-        {
-            "attributes": {
-                "Confirmed": 1,
-                "Country_Region": "Djibouti",
                 "Recovered": 0,
                 "Deaths": 0
             }
