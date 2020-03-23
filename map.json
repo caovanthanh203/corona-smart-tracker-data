@@ -4547,6 +4547,28 @@
         {
             "attributes": {
                 "Confirmed": 2,
+                "Long_": "108.99028",
+                "Deaths": 0,
+                "Province_State": "Ninh Thuận",
+                "Country_Region": "Ninh Thuận, Việt Nam",
+                "Lat": "11.56556",
+                "Recovered": 0
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 6,
+                "Long_": "107.193604",
+                "Deaths": 0,
+                "Province_State": "Quảng Ninh",
+                "Country_Region": "Quảng Ninh, Việt Nam",
+                "Lat": "21.250982",
+                "Recovered": 0
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 2,
                 "Long_": "106.119003",
                 "Deaths": 0,
                 "Province_State": "Tây Ninh",
@@ -4569,44 +4591,22 @@
         {
             "attributes": {
                 "Confirmed": 2,
-                "Long_": "104.15786",
-                "Deaths": 0,
-                "Province_State": "Lào Cai",
-                "Country_Region": "Lào Cai, Việt Nam",
-                "Lat": "22.379997",
-                "Recovered": 0
-            }
-        },
-        {
-            "attributes": {
-                "Confirmed": 2,
-                "Long_": "108.99028",
-                "Deaths": 0,
-                "Province_State": "Ninh Thuận",
-                "Country_Region": "Ninh Thuận, Việt Nam",
-                "Lat": "11.56556",
-                "Recovered": 0
-            }
-        },
-        {
-            "attributes": {
-                "Confirmed": 3,
-                "Long_": "108.03680",
-                "Deaths": 0,
-                "Province_State": "Quảng Nam",
-                "Country_Region": "Quảng Nam, Việt Nam",
-                "Lat": "15.556898",
-                "Recovered": 0
-            }
-        },
-        {
-            "attributes": {
-                "Confirmed": 2,
                 "Long_": "107.58482",
                 "Deaths": 0,
                 "Province_State": "Thừa Thiên Huế",
                 "Country_Region": "Thừa Thiên Huế, Việt Nam",
                 "Lat": "16.463744",
+                "Recovered": 0
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 2,
+                "Long_": "104.15786",
+                "Deaths": 0,
+                "Province_State": "Lào Cai",
+                "Country_Region": "Lào Cai, Việt Nam",
+                "Lat": "22.379997",
                 "Recovered": 0
             }
         },
@@ -4623,23 +4623,12 @@
         },
         {
             "attributes": {
-                "Confirmed": 6,
-                "Long_": "107.193604",
+                "Confirmed": 3,
+                "Long_": "108.03680",
                 "Deaths": 0,
-                "Province_State": "Quảng Ninh",
-                "Country_Region": "Quảng Ninh, Việt Nam",
-                "Lat": "21.250982",
-                "Recovered": 0
-            }
-        },
-        {
-            "attributes": {
-                "Confirmed": 9,
-                "Long_": "108.141174",
-                "Deaths": 0,
-                "Province_State": "Bình Thuận",
-                "Country_Region": "Bình Thuận, Việt Nam",
-                "Lat": "11.100252",
+                "Province_State": "Quảng Nam",
+                "Country_Region": "Quảng Nam, Việt Nam",
+                "Lat": "15.556898",
                 "Recovered": 0
             }
         },
@@ -4656,12 +4645,23 @@
         },
         {
             "attributes": {
-                "Confirmed": 1,
-                "Long_": "109.047768",
+                "Confirmed": 9,
+                "Long_": "108.141174",
                 "Deaths": 0,
-                "Province_State": "Khánh Hòa",
-                "Country_Region": "Khánh Hòa, Việt Nam",
-                "Lat": "12.073058",
+                "Province_State": "Bình Thuận",
+                "Country_Region": "Bình Thuận, Việt Nam",
+                "Lat": "11.100252",
+                "Recovered": 0
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 1,
+                "Long_": "105.974808",
+                "Deaths": 0,
+                "Province_State": "Ninh Bình",
+                "Country_Region": "Ninh Bình, Việt Nam",
+                "Lat": "20.250924",
                 "Recovered": 1
             }
         },
@@ -4673,6 +4673,17 @@
                 "Province_State": "Thanh Hóa",
                 "Country_Region": "Thanh Hóa, Việt Nam",
                 "Lat": "20.141049",
+                "Recovered": 1
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 1,
+                "Long_": "109.047768",
+                "Deaths": 0,
+                "Province_State": "Khánh Hòa",
+                "Country_Region": "Khánh Hòa, Việt Nam",
+                "Lat": "12.073058",
                 "Recovered": 1
             }
         },
@@ -4696,17 +4707,6 @@
                 "Country_Region": "Hà Nội, Việt Nam",
                 "Lat": "21.028333",
                 "Recovered": 0
-            }
-        },
-        {
-            "attributes": {
-                "Confirmed": 1,
-                "Long_": "105.974808",
-                "Deaths": 0,
-                "Province_State": "Ninh Bình",
-                "Country_Region": "Ninh Bình, Việt Nam",
-                "Lat": "20.250924",
-                "Recovered": 1
             }
         },
         {
@@ -6252,21 +6252,6 @@
         },
         {
             "geometry": {
-                "y": 4220637.231324075,
-                "x": 15510468.458361628
-            },
-            "attributes": {
-                "Confirmed": 712,
-                "Long_": 139.3329088,
-                "Deaths": 7,
-                "Province_State": "Diamond Princess Cases",
-                "Country_Region": "Diamond Princess Cases, Japan",
-                "Lat": 35.41657584,
-                "Recovered": -1
-            }
-        },
-        {
-            "geometry": {
                 "y": 3952101.3244644077,
                 "x": 14846505.370407932
             },
@@ -6447,46 +6432,166 @@
         },
         {
             "geometry": {
-                "y": 4507228.763696432,
-                "x": 15468728.291336915
+                "y": 5372593.558797135,
+                "x": 15870535.837507948
             },
             "attributes": {
-                "Confirmed": 24,
-                "Long_": 138.9579505,
-                "Deaths": 0,
-                "Province_State": "Niigata",
-                "Country_Region": "Niigata, Japan",
-                "Lat": 37.48715189,
+                "Confirmed": 157,
+                "Long_": 142.5674491,
+                "Deaths": 4,
+                "Province_State": "Hokkaido",
+                "Country_Region": "Hokkaido, Japan",
+                "Lat": 43.39698505,
                 "Recovered": -1
             }
         },
         {
             "geometry": {
-                "y": 4198972.566890626,
-                "x": 15077077.090227894
+                "y": 4169066.467856522,
+                "x": 15274335.662059592
             },
             "attributes": {
-                "Confirmed": 21,
-                "Long_": 135.4396879,
+                "Confirmed": 139,
+                "Long_": 137.2116918,
                 "Deaths": 0,
-                "Province_State": "Kyoto",
-                "Country_Region": "Kyoto, Japan",
-                "Lat": 35.25781474,
+                "Province_State": "Aichi",
+                "Country_Region": "Aichi, Japan",
+                "Lat": 35.03814766,
                 "Recovered": -1
             }
         },
         {
             "geometry": {
-                "y": 4017314.8106722827,
-                "x": 15084238.996647317
+                "y": 4261613.765638444,
+                "x": 15520903.525164688
             },
             "attributes": {
-                "Confirmed": 16,
-                "Long_": 135.5040244,
+                "Confirmed": 136,
+                "Long_": 139.4266486,
                 "Deaths": 1,
-                "Province_State": "Wakayama",
-                "Country_Region": "Wakayama, Japan",
-                "Lat": 33.91440738,
+                "Province_State": "Tokyo",
+                "Country_Region": "Tokyo, Japan",
+                "Lat": 35.71600232,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 4113431.8146250905,
+                "x": 15084778.773726225
+            },
+            "attributes": {
+                "Confirmed": 125,
+                "Long_": 135.5088733,
+                "Deaths": 0,
+                "Province_State": "Osaka",
+                "Country_Region": "Osaka, Japan",
+                "Lat": 34.6279244,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 4176860.7937518163,
+                "x": 15008512.321166473
+            },
+            "attributes": {
+                "Confirmed": 107,
+                "Long_": 134.8237601,
+                "Deaths": 0,
+                "Province_State": "Hyogo",
+                "Country_Region": "Hyogo, Japan",
+                "Lat": 35.09545587,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 4220637.231324075,
+                "x": 15510468.458361628
+            },
+            "attributes": {
+                "Confirmed": 70,
+                "Long_": 139.3329088,
+                "Deaths": null,
+                "Province_State": "Kanagawa",
+                "Country_Region": "Kanagawa, Japan",
+                "Lat": 35.41657584,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 4300653.253653789,
+                "x": 15511728.327830628
+            },
+            "attributes": {
+                "Confirmed": 45,
+                "Long_": 139.3442264,
+                "Deaths": 0,
+                "Province_State": "Saitama",
+                "Country_Region": "Saitama, Japan",
+                "Lat": 36.0002317,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 4112822.8461003606,
+                "x": 14781547.820390072
+            },
+            "attributes": {
+                "Confirmed": 1,
+                "Long_": 132.7849033,
+                "Deaths": 0,
+                "Province_State": "Hirosima",
+                "Country_Region": "Hirosima, Japan",
+                "Lat": 34.62342286,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 4018133.9679716364,
+                "x": 14943268.167987622
+            },
+            "attributes": {
+                "Confirmed": 1,
+                "Long_": 134.2376619,
+                "Deaths": 0,
+                "Province_State": "Tokusima",
+                "Country_Region": "Tokusima, Japan",
+                "Lat": 33.92051387,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 3933545.6556300493,
+                "x": 14484054.451720588
+            },
+            "attributes": {
+                "Confirmed": 1,
+                "Long_": 130.1124749,
+                "Deaths": 0,
+                "Province_State": "Saga",
+                "Country_Region": "Saga, Japan",
+                "Lat": 33.2876382,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 4057867.2962291073,
+                "x": 14913827.201694898
+            },
+            "attributes": {
+                "Confirmed": 1,
+                "Long_": 133.9731892,
+                "Deaths": 0,
+                "Province_State": "Kagawa",
+                "Country_Region": "Kagawa, Japan",
+                "Lat": 34.21618378,
                 "Recovered": -1
             }
         },
@@ -6537,81 +6642,6 @@
         },
         {
             "geometry": {
-                "y": 4112822.8461003606,
-                "x": 14781547.820390072
-            },
-            "attributes": {
-                "Confirmed": 1,
-                "Long_": 132.7849033,
-                "Deaths": 0,
-                "Province_State": "Hirosima",
-                "Country_Region": "Hirosima, Japan",
-                "Lat": 34.62342286,
-                "Recovered": -1
-            }
-        },
-        {
-            "geometry": {
-                "y": 4018133.9679716364,
-                "x": 14943268.167987622
-            },
-            "attributes": {
-                "Confirmed": 1,
-                "Long_": 134.2376619,
-                "Deaths": 0,
-                "Province_State": "Tokusima",
-                "Country_Region": "Tokusima, Japan",
-                "Lat": 33.92051387,
-                "Recovered": -1
-            }
-        },
-        {
-            "geometry": {
-                "y": 4220637.231324075,
-                "x": 15510468.458361628
-            },
-            "attributes": {
-                "Confirmed": 66,
-                "Long_": 139.3329088,
-                "Deaths": null,
-                "Province_State": "Kanagawa",
-                "Country_Region": "Kanagawa, Japan",
-                "Lat": 35.41657584,
-                "Recovered": -1
-            }
-        },
-        {
-            "geometry": {
-                "y": 3933545.6556300493,
-                "x": 14484054.451720588
-            },
-            "attributes": {
-                "Confirmed": 1,
-                "Long_": 130.1124749,
-                "Deaths": 0,
-                "Province_State": "Saga",
-                "Country_Region": "Saga, Japan",
-                "Lat": 33.2876382,
-                "Recovered": -1
-            }
-        },
-        {
-            "geometry": {
-                "y": 4057867.2962291073,
-                "x": 14913827.201694898
-            },
-            "attributes": {
-                "Confirmed": 1,
-                "Long_": 133.9731892,
-                "Deaths": 0,
-                "Province_State": "Kagawa",
-                "Country_Region": "Kagawa, Japan",
-                "Lat": 34.21618378,
-                "Recovered": -1
-            }
-        },
-        {
-            "geometry": {
                 "y": 3888357.836778676,
                 "x": 14396579.273028709
             },
@@ -6622,96 +6652,6 @@
                 "Province_State": "Nagasaki",
                 "Country_Region": "Nagasaki, Japan",
                 "Lat": 32.94765302,
-                "Recovered": -1
-            }
-        },
-        {
-            "geometry": {
-                "y": 5372593.558797135,
-                "x": 15870535.837507948
-            },
-            "attributes": {
-                "Confirmed": 157,
-                "Long_": 142.5674491,
-                "Deaths": 4,
-                "Province_State": "Hokkaido",
-                "Country_Region": "Hokkaido, Japan",
-                "Lat": 43.39698505,
-                "Recovered": -1
-            }
-        },
-        {
-            "geometry": {
-                "y": 4169066.467856522,
-                "x": 15274335.662059592
-            },
-            "attributes": {
-                "Confirmed": 132,
-                "Long_": 137.2116918,
-                "Deaths": 0,
-                "Province_State": "Aichi",
-                "Country_Region": "Aichi, Japan",
-                "Lat": 35.03814766,
-                "Recovered": -1
-            }
-        },
-        {
-            "geometry": {
-                "y": 4113431.8146250905,
-                "x": 15084778.773726225
-            },
-            "attributes": {
-                "Confirmed": 119,
-                "Long_": 135.5088733,
-                "Deaths": 0,
-                "Province_State": "Osaka",
-                "Country_Region": "Osaka, Japan",
-                "Lat": 34.6279244,
-                "Recovered": -1
-            }
-        },
-        {
-            "geometry": {
-                "y": 4261613.765638444,
-                "x": 15520903.525164688
-            },
-            "attributes": {
-                "Confirmed": 118,
-                "Long_": 139.4266486,
-                "Deaths": 1,
-                "Province_State": "Tokyo",
-                "Country_Region": "Tokyo, Japan",
-                "Lat": 35.71600232,
-                "Recovered": -1
-            }
-        },
-        {
-            "geometry": {
-                "y": 4176860.7937518163,
-                "x": 15008512.321166473
-            },
-            "attributes": {
-                "Confirmed": 92,
-                "Long_": 134.8237601,
-                "Deaths": 0,
-                "Province_State": "Hyogo",
-                "Country_Region": "Hyogo, Japan",
-                "Lat": 35.09545587,
-                "Recovered": -1
-            }
-        },
-        {
-            "geometry": {
-                "y": 4300653.253653789,
-                "x": 15511728.327830628
-            },
-            "attributes": {
-                "Confirmed": 39,
-                "Long_": 139.3442264,
-                "Deaths": 0,
-                "Province_State": "Saitama",
-                "Country_Region": "Saitama, Japan",
-                "Lat": 36.0002317,
                 "Recovered": -1
             }
         },
@@ -6732,6 +6672,21 @@
         },
         {
             "geometry": {
+                "y": 4220637.231324075,
+                "x": 15510468.458361628
+            },
+            "attributes": {
+                "Confirmed": 712,
+                "Long_": 139.3329088,
+                "Deaths": 7,
+                "Province_State": "Diamond Princess Cases",
+                "Country_Region": "Diamond Princess Cases, Japan",
+                "Lat": 35.41657584,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
                 "y": 4407437.010629207,
                 "x": 15225139.604972221
             },
@@ -6742,6 +6697,51 @@
                 "Province_State": "Ishikawa",
                 "Country_Region": "Ishikawa, Japan",
                 "Lat": 36.77245342,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 4507228.763696432,
+                "x": 15468728.291336915
+            },
+            "attributes": {
+                "Confirmed": 24,
+                "Long_": 138.9579505,
+                "Deaths": 0,
+                "Province_State": "Niigata",
+                "Country_Region": "Niigata, Japan",
+                "Lat": 37.48715189,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 4198972.566890626,
+                "x": 15077077.090227894
+            },
+            "attributes": {
+                "Confirmed": 21,
+                "Long_": 135.4396879,
+                "Deaths": 0,
+                "Province_State": "Kyoto",
+                "Country_Region": "Kyoto, Japan",
+                "Lat": 35.25781474,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 4017314.8106722827,
+                "x": 15084238.996647317
+            },
+            "attributes": {
+                "Confirmed": 16,
+                "Long_": 135.5040244,
+                "Deaths": 1,
+                "Province_State": "Wakayama",
+                "Country_Region": "Wakayama, Japan",
+                "Lat": 33.91440738,
                 "Recovered": -1
             }
         },
