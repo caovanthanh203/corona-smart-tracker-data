@@ -165,7 +165,7 @@
                 "Confirmed": 1450,
                 "Country_Region": "Denmark",
                 "Recovered": 1,
-                "Deaths": 13
+                "Deaths": 24
             }
         },
         {
@@ -338,6 +338,14 @@
         },
         {
             "attributes": {
+                "Confirmed": 442,
+                "Country_Region": "Slovenia",
+                "Recovered": 0,
+                "Deaths": 3
+            }
+        },
+        {
+            "attributes": {
                 "Confirmed": 438,
                 "Country_Region": "Russia",
                 "Recovered": 17,
@@ -350,14 +358,6 @@
                 "Country_Region": "India",
                 "Recovered": 24,
                 "Deaths": 8
-            }
-        },
-        {
-            "attributes": {
-                "Confirmed": 414,
-                "Country_Region": "Slovenia",
-                "Recovered": 0,
-                "Deaths": 3
             }
         },
         {
@@ -492,7 +492,7 @@
             "attributes": {
                 "Confirmed": 198,
                 "Country_Region": "UAE",
-                "Recovered": 38,
+                "Recovered": 41,
                 "Deaths": 2
             }
         },
