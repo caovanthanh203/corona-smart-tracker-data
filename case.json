@@ -316,7 +316,7 @@
             "attributes": {
                 "Confirmed": 509,
                 "Country_Region": "Singapore",
-                "Recovered": 144,
+                "Recovered": 152,
                 "Deaths": 2
             }
         },
@@ -1211,6 +1211,14 @@
         {
             "attributes": {
                 "Confirmed": 4,
+                "Country_Region": "Curaçao",
+                "Recovered": 0,
+                "Deaths": 1
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 4,
                 "Country_Region": "Bahamas",
                 "Recovered": 0,
                 "Deaths": 0
@@ -1244,14 +1252,6 @@
             "attributes": {
                 "Confirmed": 3,
                 "Country_Region": "Cayman Islands",
-                "Recovered": 0,
-                "Deaths": 1
-            }
-        },
-        {
-            "attributes": {
-                "Confirmed": 3,
-                "Country_Region": "Curaçao",
                 "Recovered": 0,
                 "Deaths": 1
             }
