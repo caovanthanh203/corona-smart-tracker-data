@@ -1002,6 +1002,14 @@
         },
         {
             "attributes": {
+                "Confirmed": 25,
+                "Country_Region": "Kenya",
+                "Recovered": 0,
+                "Deaths": 0
+            }
+        },
+        {
+            "attributes": {
                 "Confirmed": 23,
                 "Country_Region": "Monaco",
                 "Recovered": 1,
@@ -1084,14 +1092,6 @@
             "attributes": {
                 "Confirmed": 17,
                 "Country_Region": "U.S. Virgin Islands",
-                "Recovered": 0,
-                "Deaths": 0
-            }
-        },
-        {
-            "attributes": {
-                "Confirmed": 16,
-                "Country_Region": "Kenya",
                 "Recovered": 0,
                 "Deaths": 0
             }
