@@ -20,7 +20,7 @@
             "attributes": {
                 "Confirmed": 53443,
                 "Country_Region": "USA",
-                "Recovered": 370,
+                "Recovered": 375,
                 "Deaths": 696
             }
         },
@@ -130,6 +130,14 @@
         },
         {
             "attributes": {
+                "Confirmed": 2317,
+                "Country_Region": "Australia",
+                "Recovered": 118,
+                "Deaths": 8
+            }
+        },
+        {
+            "attributes": {
                 "Confirmed": 2286,
                 "Country_Region": "Sweden",
                 "Recovered": 16,
@@ -142,14 +150,6 @@
                 "Country_Region": "Brazil",
                 "Recovered": 2,
                 "Deaths": 46
-            }
-        },
-        {
-            "attributes": {
-                "Confirmed": 2144,
-                "Country_Region": "Australia",
-                "Recovered": 118,
-                "Deaths": 8
             }
         },
         {
@@ -554,6 +554,14 @@
         },
         {
             "attributes": {
+                "Confirmed": 189,
+                "Country_Region": "Uruguay",
+                "Recovered": 0,
+                "Deaths": 0
+            }
+        },
+        {
+            "attributes": {
                 "Confirmed": 187,
                 "Country_Region": "San Marino",
                 "Recovered": 4,
@@ -598,14 +606,6 @@
                 "Country_Region": "Andorra",
                 "Recovered": 1,
                 "Deaths": 1
-            }
-        },
-        {
-            "attributes": {
-                "Confirmed": 162,
-                "Country_Region": "Uruguay",
-                "Recovered": 0,
-                "Deaths": 0
             }
         },
         {
@@ -707,17 +707,17 @@
         {
             "attributes": {
                 "Confirmed": 102,
-                "Country_Region": "Sri Lanka",
-                "Recovered": 2,
-                "Deaths": 0
+                "Country_Region": "Ukraine",
+                "Recovered": 1,
+                "Deaths": 3
             }
         },
         {
             "attributes": {
-                "Confirmed": 97,
-                "Country_Region": "Ukraine",
-                "Recovered": 1,
-                "Deaths": 3
+                "Confirmed": 102,
+                "Country_Region": "Sri Lanka",
+                "Recovered": 2,
+                "Deaths": 0
             }
         },
         {
@@ -979,16 +979,16 @@
         {
             "attributes": {
                 "Confirmed": 29,
-                "Country_Region": "Bolivia",
-                "Recovered": 0,
+                "Country_Region": "Macao",
+                "Recovered": 10,
                 "Deaths": 0
             }
         },
         {
             "attributes": {
-                "Confirmed": 28,
-                "Country_Region": "Macao",
-                "Recovered": 10,
+                "Confirmed": 29,
+                "Country_Region": "Bolivia",
+                "Recovered": 0,
                 "Deaths": 0
             }
         },
