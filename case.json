@@ -636,8 +636,8 @@
             "attributes": {
                 "Confirmed": 123,
                 "Country_Region": "Albania",
-                "Recovered": 2,
-                "Deaths": 4
+                "Recovered": 10,
+                "Deaths": 5
             }
         },
         {
@@ -650,7 +650,7 @@
         },
         {
             "attributes": {
-                "Confirmed": 118,
+                "Confirmed": 122,
                 "Country_Region": "Faeroe Islands",
                 "Recovered": 23,
                 "Deaths": 0
@@ -722,6 +722,14 @@
         },
         {
             "attributes": {
+                "Confirmed": 86,
+                "Country_Region": "Senegal",
+                "Recovered": 8,
+                "Deaths": 0
+            }
+        },
+        {
+            "attributes": {
                 "Confirmed": 84,
                 "Country_Region": "Ukraine",
                 "Recovered": 1,
@@ -749,14 +757,6 @@
                 "Confirmed": 81,
                 "Country_Region": "Belarus",
                 "Recovered": 22,
-                "Deaths": 0
-            }
-        },
-        {
-            "attributes": {
-                "Confirmed": 79,
-                "Country_Region": "Senegal",
-                "Recovered": 8,
                 "Deaths": 0
             }
         },
