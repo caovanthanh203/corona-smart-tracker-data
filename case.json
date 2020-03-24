@@ -210,6 +210,14 @@
         },
         {
             "attributes": {
+                "Confirmed": 1099,
+                "Country_Region": "Luxembourg",
+                "Recovered": 6,
+                "Deaths": 8
+            }
+        },
+        {
+            "attributes": {
                 "Confirmed": 1049,
                 "Country_Region": "Ecuador",
                 "Recovered": 3,
@@ -230,14 +238,6 @@
                 "Country_Region": "Chile",
                 "Recovered": 17,
                 "Deaths": 2
-            }
-        },
-        {
-            "attributes": {
-                "Confirmed": 875,
-                "Country_Region": "Luxembourg",
-                "Recovered": 6,
-                "Deaths": 8
             }
         },
         {
@@ -602,7 +602,7 @@
         },
         {
             "attributes": {
-                "Confirmed": 153,
+                "Confirmed": 154,
                 "Country_Region": "Bosnia and Herzegovina",
                 "Recovered": 2,
                 "Deaths": 2
