@@ -146,7 +146,7 @@
         },
         {
             "attributes": {
-                "Confirmed": 1980,
+                "Confirmed": 2018,
                 "Country_Region": "Brazil",
                 "Recovered": 2,
                 "Deaths": 34
@@ -835,6 +835,14 @@
         {
             "attributes": {
                 "Confirmed": 53,
+                "Country_Region": "Ghana",
+                "Recovered": 0,
+                "Deaths": 2
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 53,
                 "Country_Region": "Martinique",
                 "Recovered": 0,
                 "Deaths": 1
@@ -846,14 +854,6 @@
                 "Country_Region": "Trinidad and Tobago",
                 "Recovered": 0,
                 "Deaths": 0
-            }
-        },
-        {
-            "attributes": {
-                "Confirmed": 52,
-                "Country_Region": "Ghana",
-                "Recovered": 0,
-                "Deaths": 2
             }
         },
         {
@@ -876,7 +876,7 @@
             "attributes": {
                 "Confirmed": 48,
                 "Country_Region": "Cuba",
-                "Recovered": 0,
+                "Recovered": 1,
                 "Deaths": 1
             }
         },
