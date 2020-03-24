@@ -1059,6 +1059,14 @@
         {
             "attributes": {
                 "Confirmed": 17,
+                "Country_Region": "Madagascar",
+                "Recovered": 0,
+                "Deaths": 0
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 17,
                 "Country_Region": "U.S. Virgin Islands",
                 "Recovered": 0,
                 "Deaths": 0
@@ -1109,14 +1117,6 @@
                 "Confirmed": 12,
                 "Country_Region": "Aruba",
                 "Recovered": 1,
-                "Deaths": 0
-            }
-        },
-        {
-            "attributes": {
-                "Confirmed": 12,
-                "Country_Region": "Madagascar",
-                "Recovered": 0,
                 "Deaths": 0
             }
         },
