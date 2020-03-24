@@ -260,8 +260,8 @@
             "attributes": {
                 "Confirmed": 712,
                 "Country_Region": "Diamond Princess",
-                "Recovered": 567,
-                "Deaths": 8
+                "Recovered": 587,
+                "Deaths": 10
             }
         },
         {
@@ -301,7 +301,7 @@
                 "Confirmed": 576,
                 "Country_Region": "Romania",
                 "Recovered": 73,
-                "Deaths": 7
+                "Deaths": 8
             }
         },
         {
@@ -858,6 +858,14 @@
         },
         {
             "attributes": {
+                "Confirmed": 42,
+                "Country_Region": "Kyrgyzstan",
+                "Recovered": 0,
+                "Deaths": 0
+            }
+        },
+        {
+            "attributes": {
                 "Confirmed": 40,
                 "Country_Region": "Cuba",
                 "Recovered": 0,
@@ -1076,14 +1084,6 @@
             "attributes": {
                 "Confirmed": 16,
                 "Country_Region": "Kenya",
-                "Recovered": 0,
-                "Deaths": 0
-            }
-        },
-        {
-            "attributes": {
-                "Confirmed": 16,
-                "Country_Region": "Kyrgyzstan",
                 "Recovered": 0,
                 "Deaths": 0
             }
