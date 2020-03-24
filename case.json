@@ -58,10 +58,10 @@
         },
         {
             "attributes": {
-                "Confirmed": 8961,
+                "Confirmed": 9037,
                 "Country_Region": "S. Korea",
-                "Recovered": 3166,
-                "Deaths": 111
+                "Recovered": 3507,
+                "Deaths": 120
             }
         },
         {
@@ -323,6 +323,14 @@
         {
             "attributes": {
                 "Confirmed": 501,
+                "Country_Region": "Philippines",
+                "Recovered": 19,
+                "Deaths": 33
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 501,
                 "Country_Region": "Qatar",
                 "Recovered": 33,
                 "Deaths": 0
@@ -334,14 +342,6 @@
                 "Country_Region": "India",
                 "Recovered": 34,
                 "Deaths": 10
-            }
-        },
-        {
-            "attributes": {
-                "Confirmed": 462,
-                "Country_Region": "Philippines",
-                "Recovered": 18,
-                "Deaths": 33
             }
         },
         {
@@ -588,7 +588,7 @@
             "attributes": {
                 "Confirmed": 155,
                 "Country_Region": "New Zealand",
-                "Recovered": 0,
+                "Recovered": 12,
                 "Deaths": 0
             }
         },
