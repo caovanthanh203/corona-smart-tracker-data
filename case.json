@@ -106,7 +106,7 @@
         },
         {
             "attributes": {
-                "Confirmed": 2760,
+                "Confirmed": 2766,
                 "Country_Region": "Norway",
                 "Recovered": 6,
                 "Deaths": 12
@@ -130,7 +130,7 @@
         },
         {
             "attributes": {
-                "Confirmed": 2176,
+                "Confirmed": 2177,
                 "Country_Region": "Canada",
                 "Recovered": 112,
                 "Deaths": 24
@@ -490,10 +490,18 @@
         },
         {
             "attributes": {
-                "Confirmed": 235,
+                "Confirmed": 249,
                 "Country_Region": "Armenia",
                 "Recovered": 2,
                 "Deaths": 0
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 218,
+                "Country_Region": "Bulgaria",
+                "Recovered": 3,
+                "Deaths": 3
             }
         },
         {
@@ -518,14 +526,6 @@
                 "Country_Region": "Lithuania",
                 "Recovered": 1,
                 "Deaths": 1
-            }
-        },
-        {
-            "attributes": {
-                "Confirmed": 202,
-                "Country_Region": "Bulgaria",
-                "Recovered": 3,
-                "Deaths": 3
             }
         },
         {
@@ -1250,6 +1250,14 @@
         },
         {
             "attributes": {
+                "Confirmed": 5,
+                "Country_Region": "Greenland",
+                "Recovered": 2,
+                "Deaths": 0
+            }
+        },
+        {
+            "attributes": {
                 "Confirmed": 4,
                 "Country_Region": "Curaçao",
                 "Recovered": 0,
@@ -1277,14 +1285,6 @@
                 "Confirmed": 4,
                 "Country_Region": "Fiji",
                 "Recovered": 0,
-                "Deaths": 0
-            }
-        },
-        {
-            "attributes": {
-                "Confirmed": 4,
-                "Country_Region": "Greenland",
-                "Recovered": 2,
                 "Deaths": 0
             }
         },
