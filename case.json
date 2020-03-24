@@ -338,7 +338,7 @@
         },
         {
             "attributes": {
-                "Confirmed": 499,
+                "Confirmed": 500,
                 "Country_Region": "India",
                 "Recovered": 37,
                 "Deaths": 10
@@ -1107,6 +1107,14 @@
         {
             "attributes": {
                 "Confirmed": 12,
+                "Country_Region": "Aruba",
+                "Recovered": 1,
+                "Deaths": 0
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 12,
                 "Country_Region": "Madagascar",
                 "Recovered": 0,
                 "Deaths": 0
@@ -1133,14 +1141,6 @@
                 "Confirmed": 10,
                 "Country_Region": "Mongolia",
                 "Recovered": 0,
-                "Deaths": 0
-            }
-        },
-        {
-            "attributes": {
-                "Confirmed": 9,
-                "Country_Region": "Aruba",
-                "Recovered": 1,
                 "Deaths": 0
             }
         },
@@ -1218,6 +1218,14 @@
         },
         {
             "attributes": {
+                "Confirmed": 6,
+                "Country_Region": "Suriname",
+                "Recovered": 0,
+                "Deaths": 0
+            }
+        },
+        {
+            "attributes": {
                 "Confirmed": 5,
                 "Country_Region": "Cayman Islands",
                 "Recovered": 0,
@@ -1228,14 +1236,6 @@
             "attributes": {
                 "Confirmed": 5,
                 "Country_Region": "El Salvador",
-                "Recovered": 0,
-                "Deaths": 0
-            }
-        },
-        {
-            "attributes": {
-                "Confirmed": 5,
-                "Country_Region": "Suriname",
                 "Recovered": 0,
                 "Deaths": 0
             }
