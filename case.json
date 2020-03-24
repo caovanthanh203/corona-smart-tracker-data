@@ -875,6 +875,14 @@
         {
             "attributes": {
                 "Confirmed": 42,
+                "Country_Region": "Nigeria",
+                "Recovered": 2,
+                "Deaths": 1
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 42,
                 "Country_Region": "Kyrgyzstan",
                 "Recovered": 0,
                 "Deaths": 0
@@ -885,14 +893,6 @@
                 "Confirmed": 40,
                 "Country_Region": "Cuba",
                 "Recovered": 0,
-                "Deaths": 1
-            }
-        },
-        {
-            "attributes": {
-                "Confirmed": 40,
-                "Country_Region": "Nigeria",
-                "Recovered": 2,
                 "Deaths": 1
             }
         },
@@ -1058,9 +1058,9 @@
         },
         {
             "attributes": {
-                "Confirmed": 18,
+                "Confirmed": 20,
                 "Country_Region": "Togo",
-                "Recovered": 0,
+                "Recovered": 1,
                 "Deaths": 0
             }
         },
