@@ -58,7 +58,7 @@
         },
         {
             "attributes": {
-                "Confirmed": 9117,
+                "Confirmed": 9877,
                 "Country_Region": "Switzerland",
                 "Recovered": 131,
                 "Deaths": 122
@@ -434,6 +434,14 @@
         },
         {
             "attributes": {
+                "Confirmed": 318,
+                "Country_Region": "Lebanon",
+                "Recovered": 8,
+                "Deaths": 4
+            }
+        },
+        {
+            "attributes": {
                 "Confirmed": 316,
                 "Country_Region": "Iraq",
                 "Recovered": 75,
@@ -454,14 +462,6 @@
                 "Country_Region": "Colombia",
                 "Recovered": 6,
                 "Deaths": 3
-            }
-        },
-        {
-            "attributes": {
-                "Confirmed": 304,
-                "Country_Region": "Lebanon",
-                "Recovered": 8,
-                "Deaths": 4
             }
         },
         {
@@ -1299,6 +1299,14 @@
         {
             "attributes": {
                 "Confirmed": 4,
+                "Country_Region": "Vatican City",
+                "Recovered": 0,
+                "Deaths": 0
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 4,
                 "Country_Region": "Eswatini",
                 "Recovered": 0,
                 "Deaths": 0
@@ -1508,14 +1516,6 @@
             "attributes": {
                 "Confirmed": 1,
                 "Country_Region": "Grenada",
-                "Recovered": 0,
-                "Deaths": 0
-            }
-        },
-        {
-            "attributes": {
-                "Confirmed": 1,
-                "Country_Region": "Vatican City",
                 "Recovered": 0,
                 "Deaths": 0
             }
