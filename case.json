@@ -1315,6 +1315,14 @@
         {
             "attributes": {
                 "Confirmed": 3,
+                "Country_Region": "Sudan",
+                "Recovered": 0,
+                "Deaths": 1
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 3,
                 "Country_Region": "Zimbabwe",
                 "Recovered": 0,
                 "Deaths": 1
@@ -1404,14 +1412,6 @@
             "attributes": {
                 "Confirmed": 2,
                 "Country_Region": "Gambia",
-                "Recovered": 0,
-                "Deaths": 1
-            }
-        },
-        {
-            "attributes": {
-                "Confirmed": 2,
-                "Country_Region": "Sudan",
                 "Recovered": 0,
                 "Deaths": 1
             }
