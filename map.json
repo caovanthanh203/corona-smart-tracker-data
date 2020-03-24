@@ -4591,6 +4591,17 @@
         },
         {
             "attributes": {
+                "Confirmed": 2,
+                "Long_": "106.119003",
+                "Deaths": 0,
+                "Province_State": "Tây Ninh",
+                "Country_Region": "Tây Ninh, Việt Nam",
+                "Lat": "11.367795",
+                "Recovered": 0
+            }
+        },
+        {
+            "attributes": {
                 "Confirmed": 9,
                 "Long_": "108.141174",
                 "Deaths": 0,
@@ -4603,11 +4614,33 @@
         {
             "attributes": {
                 "Confirmed": 2,
+                "Long_": "108.99028",
+                "Deaths": 0,
+                "Province_State": "Ninh Thuận",
+                "Country_Region": "Ninh Thuận, Việt Nam",
+                "Lat": "11.56556",
+                "Recovered": 0
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 2,
                 "Long_": "104.15786",
                 "Deaths": 0,
                 "Province_State": "Lào Cai",
                 "Country_Region": "Lào Cai, Việt Nam",
                 "Lat": "22.379997",
+                "Recovered": 0
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 2,
+                "Long_": "107.58482",
+                "Deaths": 0,
+                "Province_State": "Thừa Thiên Huế",
+                "Country_Region": "Thừa Thiên Huế, Việt Nam",
+                "Lat": "16.463744",
                 "Recovered": 0
             }
         },
@@ -4630,39 +4663,6 @@
                 "Province_State": "Quảng Nam",
                 "Country_Region": "Quảng Nam, Việt Nam",
                 "Lat": "15.556898",
-                "Recovered": 0
-            }
-        },
-        {
-            "attributes": {
-                "Confirmed": 2,
-                "Long_": "107.58482",
-                "Deaths": 0,
-                "Province_State": "Thừa Thiên Huế",
-                "Country_Region": "Thừa Thiên Huế, Việt Nam",
-                "Lat": "16.463744",
-                "Recovered": 0
-            }
-        },
-        {
-            "attributes": {
-                "Confirmed": 2,
-                "Long_": "108.99028",
-                "Deaths": 0,
-                "Province_State": "Ninh Thuận",
-                "Country_Region": "Ninh Thuận, Việt Nam",
-                "Lat": "11.56556",
-                "Recovered": 0
-            }
-        },
-        {
-            "attributes": {
-                "Confirmed": 2,
-                "Long_": "106.119003",
-                "Deaths": 0,
-                "Province_State": "Tây Ninh",
-                "Country_Region": "Tây Ninh, Việt Nam",
-                "Lat": "11.367795",
                 "Recovered": 0
             }
         },
@@ -4723,6 +4723,17 @@
         },
         {
             "attributes": {
+                "Confirmed": 1,
+                "Long_": "106.073406",
+                "Deaths": 0,
+                "Province_State": "Bắc Ninh",
+                "Country_Region": "Bắc Ninh, Việt Nam",
+                "Lat": "21.187548",
+                "Recovered": 0
+            }
+        },
+        {
+            "attributes": {
                 "Confirmed": 42,
                 "Long_": "105.853333",
                 "Deaths": 0,
@@ -4734,13 +4745,13 @@
         },
         {
             "attributes": {
-                "Confirmed": 1,
-                "Long_": "106.376152",
+                "Confirmed": 2,
+                "Long_": "105.309448",
                 "Deaths": 0,
-                "Province_State": "Bến Tre",
-                "Country_Region": "Bến Tre, Việt Nam",
-                "Lat": "10.248371",
-                "Recovered": 0
+                "Province_State": "Thanh Hóa",
+                "Country_Region": "Thanh Hóa, Việt Nam",
+                "Lat": "20.141049",
+                "Recovered": 1
             }
         },
         {
@@ -4757,23 +4768,12 @@
         {
             "attributes": {
                 "Confirmed": 1,
-                "Long_": "106.073406",
+                "Long_": "106.376152",
                 "Deaths": 0,
-                "Province_State": "Bắc Ninh",
-                "Country_Region": "Bắc Ninh, Việt Nam",
-                "Lat": "21.187548",
+                "Province_State": "Bến Tre",
+                "Country_Region": "Bến Tre, Việt Nam",
+                "Lat": "10.248371",
                 "Recovered": 0
-            }
-        },
-        {
-            "attributes": {
-                "Confirmed": 2,
-                "Long_": "105.309448",
-                "Deaths": 0,
-                "Province_State": "Thanh Hóa",
-                "Country_Region": "Thanh Hóa, Việt Nam",
-                "Lat": "20.141049",
-                "Recovered": 1
             }
         },
         {
@@ -8398,7 +8398,7 @@
         },
         {
             "attributes": {
-                "Confirmed": 71,
+                "Confirmed": 83,
                 "Long_": 55.532554472063275,
                 "Deaths": -1,
                 "Province_State": "La Réunion",
@@ -8413,7 +8413,7 @@
         },
         {
             "attributes": {
-                "Confirmed": 194,
+                "Confirmed": 217,
                 "Long_": 9.106392629116186,
                 "Deaths": -1,
                 "Province_State": "Corse",
@@ -8428,7 +8428,7 @@
         },
         {
             "attributes": {
-                "Confirmed": 53,
+                "Confirmed": 57,
                 "Long_": -61.018966286945776,
                 "Deaths": -1,
                 "Province_State": "Martinique",
@@ -8443,7 +8443,7 @@
         },
         {
             "attributes": {
-                "Confirmed": 6211,
+                "Confirmed": 6798,
                 "Long_": 2.502729134427724,
                 "Deaths": -1,
                 "Province_State": "Île-de-France",
@@ -8458,7 +8458,7 @@
         },
         {
             "attributes": {
-                "Confirmed": 1269,
+                "Confirmed": 1532,
                 "Long_": 2.7697582698168497,
                 "Deaths": -1,
                 "Province_State": "Hauts-de-France",
@@ -8473,7 +8473,7 @@
         },
         {
             "attributes": {
-                "Confirmed": 676,
+                "Confirmed": 789,
                 "Long_": 0.2199569488763051,
                 "Deaths": -1,
                 "Province_State": "Nouvelle-Aquitaine",
@@ -8488,7 +8488,7 @@
         },
         {
             "attributes": {
-                "Confirmed": 511,
+                "Confirmed": 586,
                 "Long_": 0.11171572997913744,
                 "Deaths": -1,
                 "Province_State": "Normandie",
@@ -8503,7 +8503,7 @@
         },
         {
             "attributes": {
-                "Confirmed": 62,
+                "Confirmed": 73,
                 "Long_": -61.53981996525553,
                 "Deaths": -1,
                 "Province_State": "Guadeloupe",
@@ -8518,7 +8518,7 @@
         },
         {
             "attributes": {
-                "Confirmed": 293,
+                "Confirmed": 343,
                 "Long_": -0.8130039303883775,
                 "Deaths": -1,
                 "Province_State": "Pays de la Loire",
@@ -8533,7 +8533,7 @@
         },
         {
             "attributes": {
-                "Confirmed": 361,
+                "Confirmed": 450,
                 "Long_": 1.6839442497397212,
                 "Deaths": -1,
                 "Province_State": "Centre-Val de Loire",
@@ -8548,7 +8548,7 @@
         },
         {
             "attributes": {
-                "Confirmed": 4256,
+                "Confirmed": 4922,
                 "Long_": 5.609973433201592,
                 "Deaths": -1,
                 "Province_State": "Grand Est",
@@ -8563,7 +8563,7 @@
         },
         {
             "attributes": {
-                "Confirmed": 20,
+                "Confirmed": 23,
                 "Long_": -53.23918288900268,
                 "Deaths": -1,
                 "Province_State": "Guyane",
@@ -8578,7 +8578,7 @@
         },
         {
             "attributes": {
-                "Confirmed": 1510,
+                "Confirmed": 1595,
                 "Long_": 6.0577243270842684,
                 "Deaths": -1,
                 "Province_State": "Provence-Alpes-Côte d'Azur",
@@ -8593,7 +8593,7 @@
         },
         {
             "attributes": {
-                "Confirmed": 24,
+                "Confirmed": 30,
                 "Long_": 45.147465161670546,
                 "Deaths": -1,
                 "Province_State": "Mayotte",
@@ -8608,7 +8608,7 @@
         },
         {
             "attributes": {
-                "Confirmed": 490,
+                "Confirmed": 526,
                 "Long_": -2.8437871453493475,
                 "Deaths": -1,
                 "Province_State": "Bretagne",
@@ -8623,7 +8623,7 @@
         },
         {
             "attributes": {
-                "Confirmed": 1347,
+                "Confirmed": 1510,
                 "Long_": 4.805672646331917,
                 "Deaths": -1,
                 "Province_State": "Bourgogne-Franche-Comté",
@@ -8638,7 +8638,7 @@
         },
         {
             "attributes": {
-                "Confirmed": 767,
+                "Confirmed": 900,
                 "Long_": 2.147526110466355,
                 "Deaths": -1,
                 "Province_State": "Occitanie",
@@ -8653,7 +8653,7 @@
         },
         {
             "attributes": {
-                "Confirmed": 1730,
+                "Confirmed": 1857,
                 "Long_": 4.541757806039853,
                 "Deaths": -1,
                 "Province_State": "Auvergne-Rhône-Alpes",
