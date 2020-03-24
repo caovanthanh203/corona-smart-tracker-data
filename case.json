@@ -106,7 +106,7 @@
         },
         {
             "attributes": {
-                "Confirmed": 2753,
+                "Confirmed": 2760,
                 "Country_Region": "Norway",
                 "Recovered": 6,
                 "Deaths": 12
@@ -130,6 +130,14 @@
         },
         {
             "attributes": {
+                "Confirmed": 2176,
+                "Country_Region": "Canada",
+                "Recovered": 112,
+                "Deaths": 24
+            }
+        },
+        {
+            "attributes": {
                 "Confirmed": 2144,
                 "Country_Region": "Australia",
                 "Recovered": 118,
@@ -138,15 +146,7 @@
         },
         {
             "attributes": {
-                "Confirmed": 2091,
-                "Country_Region": "Canada",
-                "Recovered": 112,
-                "Deaths": 24
-            }
-        },
-        {
-            "attributes": {
-                "Confirmed": 1967,
+                "Confirmed": 1980,
                 "Country_Region": "Brazil",
                 "Recovered": 2,
                 "Deaths": 34
@@ -883,6 +883,14 @@
         {
             "attributes": {
                 "Confirmed": 42,
+                "Country_Region": "Mauritius",
+                "Recovered": 0,
+                "Deaths": 2
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 42,
                 "Country_Region": "Nigeria",
                 "Recovered": 2,
                 "Deaths": 1
@@ -909,14 +917,6 @@
                 "Confirmed": 39,
                 "Country_Region": "Puerto Rico",
                 "Recovered": 1,
-                "Deaths": 2
-            }
-        },
-        {
-            "attributes": {
-                "Confirmed": 36,
-                "Country_Region": "Mauritius",
-                "Recovered": 0,
                 "Deaths": 2
             }
         },
@@ -1219,6 +1219,14 @@
         {
             "attributes": {
                 "Confirmed": 6,
+                "Country_Region": "Namibia",
+                "Recovered": 0,
+                "Deaths": 0
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 6,
                 "Country_Region": "Suriname",
                 "Recovered": 0,
                 "Deaths": 0
@@ -1284,14 +1292,6 @@
             "attributes": {
                 "Confirmed": 4,
                 "Country_Region": "Guinea",
-                "Recovered": 0,
-                "Deaths": 0
-            }
-        },
-        {
-            "attributes": {
-                "Confirmed": 4,
-                "Country_Region": "Namibia",
                 "Recovered": 0,
                 "Deaths": 0
             }
