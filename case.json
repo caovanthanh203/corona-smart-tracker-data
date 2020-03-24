@@ -34,10 +34,10 @@
         },
         {
             "attributes": {
-                "Confirmed": 29056,
+                "Confirmed": 29560,
                 "Country_Region": "Germany",
                 "Recovered": 453,
-                "Deaths": 123
+                "Deaths": 126
             }
         },
         {
@@ -69,7 +69,7 @@
                 "Confirmed": 8795,
                 "Country_Region": "Switzerland",
                 "Recovered": 131,
-                "Deaths": 120
+                "Deaths": 117
             }
         },
         {
@@ -90,7 +90,7 @@
         },
         {
             "attributes": {
-                "Confirmed": 4628,
+                "Confirmed": 4668,
                 "Country_Region": "Austria",
                 "Recovered": 9,
                 "Deaths": 25
@@ -1347,6 +1347,14 @@
         {
             "attributes": {
                 "Confirmed": 3,
+                "Country_Region": "Chad",
+                "Recovered": 0,
+                "Deaths": 0
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 3,
                 "Country_Region": "Djibouti",
                 "Recovered": 0,
                 "Deaths": 0
@@ -1420,14 +1428,6 @@
             "attributes": {
                 "Confirmed": 2,
                 "Country_Region": "Bhutan",
-                "Recovered": 0,
-                "Deaths": 0
-            }
-        },
-        {
-            "attributes": {
-                "Confirmed": 2,
-                "Country_Region": "Chad",
                 "Recovered": 0,
                 "Deaths": 0
             }
