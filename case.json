@@ -106,7 +106,7 @@
         },
         {
             "attributes": {
-                "Confirmed": 2779,
+                "Confirmed": 2863,
                 "Country_Region": "Norway",
                 "Recovered": 6,
                 "Deaths": 12
@@ -138,7 +138,7 @@
         },
         {
             "attributes": {
-                "Confirmed": 2201,
+                "Confirmed": 2247,
                 "Country_Region": "Brazil",
                 "Recovered": 2,
                 "Deaths": 46
@@ -410,6 +410,14 @@
         },
         {
             "attributes": {
+                "Confirmed": 378,
+                "Country_Region": "Colombia",
+                "Recovered": 6,
+                "Deaths": 3
+            }
+        },
+        {
+            "attributes": {
                 "Confirmed": 369,
                 "Country_Region": "Estonia",
                 "Recovered": 7,
@@ -454,14 +462,6 @@
                 "Country_Region": "Dominican Republic",
                 "Recovered": 3,
                 "Deaths": 6
-            }
-        },
-        {
-            "attributes": {
-                "Confirmed": 306,
-                "Country_Region": "Colombia",
-                "Recovered": 6,
-                "Deaths": 3
             }
         },
         {
@@ -1251,6 +1251,14 @@
         {
             "attributes": {
                 "Confirmed": 5,
+                "Country_Region": "Bahamas",
+                "Recovered": 1,
+                "Deaths": 0
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 5,
                 "Country_Region": "El Salvador",
                 "Recovered": 0,
                 "Deaths": 0
@@ -1261,14 +1269,6 @@
                 "Confirmed": 5,
                 "Country_Region": "Greenland",
                 "Recovered": 2,
-                "Deaths": 0
-            }
-        },
-        {
-            "attributes": {
-                "Confirmed": 4,
-                "Country_Region": "Bahamas",
-                "Recovered": 0,
                 "Deaths": 0
             }
         },
@@ -1516,6 +1516,14 @@
             "attributes": {
                 "Confirmed": 1,
                 "Country_Region": "Grenada",
+                "Recovered": 0,
+                "Deaths": 0
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 1,
+                "Country_Region": "Libya",
                 "Recovered": 0,
                 "Deaths": 0
             }
