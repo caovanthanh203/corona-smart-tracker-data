@@ -181,7 +181,7 @@
                 "Confirmed": 1715,
                 "Country_Region": "Denmark",
                 "Recovered": 1,
-                "Deaths": 32
+                "Deaths": 34
             }
         },
         {
@@ -1291,6 +1291,14 @@
         {
             "attributes": {
                 "Confirmed": 4,
+                "Country_Region": "Cabo Verde",
+                "Recovered": 0,
+                "Deaths": 1
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 4,
                 "Country_Region": "Congo",
                 "Recovered": 0,
                 "Deaths": 0
@@ -1318,14 +1326,6 @@
                 "Country_Region": "Eswatini",
                 "Recovered": 0,
                 "Deaths": 0
-            }
-        },
-        {
-            "attributes": {
-                "Confirmed": 3,
-                "Country_Region": "Cabo Verde",
-                "Recovered": 0,
-                "Deaths": 1
             }
         },
         {
@@ -1444,6 +1444,14 @@
             "attributes": {
                 "Confirmed": 2,
                 "Country_Region": "Bhutan",
+                "Recovered": 0,
+                "Deaths": 0
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 2,
+                "Country_Region": "Guinea-Bissau",
                 "Recovered": 0,
                 "Deaths": 0
             }
