@@ -138,6 +138,14 @@
         },
         {
             "attributes": {
+                "Confirmed": 2433,
+                "Country_Region": "Brazil",
+                "Recovered": 2,
+                "Deaths": 57
+            }
+        },
+        {
+            "attributes": {
                 "Confirmed": 2431,
                 "Country_Region": "Australia",
                 "Recovered": 118,
@@ -150,14 +158,6 @@
                 "Country_Region": "Israel",
                 "Recovered": 58,
                 "Deaths": 5
-            }
-        },
-        {
-            "attributes": {
-                "Confirmed": 2297,
-                "Country_Region": "Brazil",
-                "Recovered": 2,
-                "Deaths": 48
             }
         },
         {
@@ -330,7 +330,7 @@
         },
         {
             "attributes": {
-                "Confirmed": 653,
+                "Confirmed": 657,
                 "Country_Region": "India",
                 "Recovered": 43,
                 "Deaths": 12
@@ -1323,6 +1323,14 @@
         {
             "attributes": {
                 "Confirmed": 4,
+                "Country_Region": "Eritrea",
+                "Recovered": 0,
+                "Deaths": 0
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 4,
                 "Country_Region": "Guinea",
                 "Recovered": 0,
                 "Deaths": 0
@@ -1500,14 +1508,6 @@
             "attributes": {
                 "Confirmed": 1,
                 "Country_Region": "Belize",
-                "Recovered": 0,
-                "Deaths": 0
-            }
-        },
-        {
-            "attributes": {
-                "Confirmed": 1,
-                "Country_Region": "Eritrea",
                 "Recovered": 0,
                 "Deaths": 0
             }
