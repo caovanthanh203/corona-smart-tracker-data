@@ -1,917 +1,570 @@
 {
-    "objectIdFieldName": "ObjectId",
-    "uniqueIdField": {
-        "name": "ObjectId",
-        "isSystemMaintained": true
-    },
-    "globalIdFieldName": "",
-    "fields": [
-        {
-            "name": "Report_Date",
-            "type": "esriFieldTypeDate",
-            "alias": "Report_Date",
-            "sqlType": "sqlTypeTimestamp2",
-            "length": 8,
-            "domain": null,
-            "defaultValue": null
-        },
-        {
-            "name": "Mainland_China",
-            "type": "esriFieldTypeInteger",
-            "alias": "China",
-            "sqlType": "sqlTypeInteger",
-            "domain": null,
-            "defaultValue": null
-        },
-        {
-            "name": "Other_Locations",
-            "type": "esriFieldTypeInteger",
-            "alias": "Other Locations",
-            "sqlType": "sqlTypeInteger",
-            "domain": null,
-            "defaultValue": null
-        },
-        {
-            "name": "Total_Confirmed",
-            "type": "esriFieldTypeInteger",
-            "alias": "Total Confirmed",
-            "sqlType": "sqlTypeInteger",
-            "domain": null,
-            "defaultValue": null
-        },
-        {
-            "name": "Total_Recovered",
-            "type": "esriFieldTypeInteger",
-            "alias": "Total Recovered",
-            "sqlType": "sqlTypeInteger",
-            "domain": null,
-            "defaultValue": null
-        },
-        {
-            "name": "Report_Date_String",
-            "type": "esriFieldTypeString",
-            "alias": "Report Date String",
-            "sqlType": "sqlTypeNVarchar",
-            "length": 256,
-            "domain": null,
-            "defaultValue": null
-        },
-        {
-            "name": "Delta_Confirmed",
-            "type": "esriFieldTypeInteger",
-            "alias": "Delta Confirmed",
-            "sqlType": "sqlTypeInteger",
-            "domain": null,
-            "defaultValue": null
-        },
-        {
-            "name": "Delta_Recovered",
-            "type": "esriFieldTypeInteger",
-            "alias": "Delta Recovered",
-            "sqlType": "sqlTypeInteger",
-            "domain": null,
-            "defaultValue": null
-        },
-        {
-            "name": "ObjectId",
-            "type": "esriFieldTypeOID",
-            "alias": "ObjectId",
-            "sqlType": "sqlTypeInteger",
-            "domain": null,
-            "defaultValue": null
-        }
-    ],
     "features": [
         {
             "attributes": {
-                "Report_Date": 1579496400000,
-                "Mainland_China": 278,
-                "Other_Locations": 4,
-                "Total_Confirmed": 282,
-                "Total_Recovered": null,
-                "Report_Date_String": "2020/01/20",
-                "Delta_Confirmed": 282,
-                "Delta_Recovered": null,
-                "ObjectId": 1
+                "Report_Date": 1579651200000.0,
+                "Report_Date_String": "1/22/2020",
+                "Other_Locations": 7,
+                "Mainland_China": 548,
+                "Total_Confirmed": 555
             }
         },
         {
             "attributes": {
-                "Report_Date": 1579582800000,
-                "Mainland_China": 326,
-                "Other_Locations": 6,
-                "Total_Confirmed": 332,
-                "Total_Recovered": 25,
-                "Report_Date_String": "2020/01/21",
-                "Delta_Confirmed": 50,
-                "Delta_Recovered": 25,
-                "ObjectId": 2
+                "Report_Date": 1579737600000.0,
+                "Report_Date_String": "1/23/2020",
+                "Other_Locations": 11,
+                "Mainland_China": 643,
+                "Total_Confirmed": 654
             }
         },
         {
             "attributes": {
-                "Report_Date": 1579669200000,
-                "Mainland_China": 547,
-                "Other_Locations": 8,
-                "Total_Confirmed": 555,
-                "Total_Recovered": 28,
-                "Report_Date_String": "2020/01/22",
-                "Delta_Confirmed": 223,
-                "Delta_Recovered": 3,
-                "ObjectId": 3
+                "Report_Date": 1579824000000.0,
+                "Report_Date_String": "1/24/2020",
+                "Other_Locations": 21,
+                "Mainland_China": 920,
+                "Total_Confirmed": 941
             }
         },
         {
             "attributes": {
-                "Report_Date": 1579755600000,
-                "Mainland_China": 639,
-                "Other_Locations": 14,
-                "Total_Confirmed": 653,
-                "Total_Recovered": 30,
-                "Report_Date_String": "2020/01/23",
-                "Delta_Confirmed": 98,
-                "Delta_Recovered": 2,
-                "ObjectId": 4
+                "Report_Date": 1579910400000.0,
+                "Report_Date_String": "1/25/2020",
+                "Other_Locations": 28,
+                "Mainland_China": 1406,
+                "Total_Confirmed": 1434
             }
         },
         {
             "attributes": {
-                "Report_Date": 1579842000000,
-                "Mainland_China": 916,
-                "Other_Locations": 25,
-                "Total_Confirmed": 941,
-                "Total_Recovered": 36,
-                "Report_Date_String": "2020/01/24",
-                "Delta_Confirmed": 288,
-                "Delta_Recovered": 6,
-                "ObjectId": 5
+                "Report_Date": 1579996800000.0,
+                "Report_Date_String": "1/26/2020",
+                "Other_Locations": 43,
+                "Mainland_China": 2075,
+                "Total_Confirmed": 2118
             }
         },
         {
             "attributes": {
-                "Report_Date": 1579928400000,
-                "Mainland_China": 1979,
-                "Other_Locations": 40,
-                "Total_Confirmed": 2019,
-                "Total_Recovered": 49,
-                "Report_Date_String": "2020/01/25",
-                "Delta_Confirmed": 1078,
-                "Delta_Recovered": 13,
-                "ObjectId": 6
+                "Report_Date": 1580083200000.0,
+                "Report_Date_String": "1/27/2020",
+                "Other_Locations": 50,
+                "Mainland_China": 2877,
+                "Total_Confirmed": 2927
             }
         },
         {
             "attributes": {
-                "Report_Date": 1580014800000,
-                "Mainland_China": 2737,
-                "Other_Locations": 57,
-                "Total_Confirmed": 2794,
-                "Total_Recovered": 54,
-                "Report_Date_String": "2020/01/26",
-                "Delta_Confirmed": 775,
-                "Delta_Recovered": 5,
-                "ObjectId": 7
+                "Report_Date": 1580169600000.0,
+                "Report_Date_String": "1/28/2020",
+                "Other_Locations": 69,
+                "Mainland_China": 5509,
+                "Total_Confirmed": 5578
             }
         },
         {
             "attributes": {
-                "Report_Date": 1580101200000,
-                "Mainland_China": 4409,
-                "Other_Locations": 64,
-                "Total_Confirmed": 4474,
-                "Total_Recovered": 63,
-                "Report_Date_String": "2020/01/27",
-                "Delta_Confirmed": 1680,
-                "Delta_Recovered": 9,
-                "ObjectId": 8
+                "Report_Date": 1580256000000.0,
+                "Report_Date_String": "1/29/2020",
+                "Other_Locations": 79,
+                "Mainland_China": 6087,
+                "Total_Confirmed": 6166
             }
         },
         {
             "attributes": {
-                "Report_Date": 1580187600000,
-                "Mainland_China": 5970,
-                "Other_Locations": 87,
-                "Total_Confirmed": 6057,
-                "Total_Recovered": 110,
-                "Report_Date_String": "2020/01/28",
-                "Delta_Confirmed": 1583,
-                "Delta_Recovered": 47,
-                "ObjectId": 9
+                "Report_Date": 1580342400000.0,
+                "Report_Date_String": "1/30/2020",
+                "Other_Locations": 93,
+                "Mainland_China": 8141,
+                "Total_Confirmed": 8234
             }
         },
         {
             "attributes": {
-                "Report_Date": 1580274000000,
-                "Mainland_China": 7678,
-                "Other_Locations": 105,
-                "Total_Confirmed": 7783,
-                "Total_Recovered": 133,
-                "Report_Date_String": "2020/01/29",
-                "Delta_Confirmed": 1726,
-                "Delta_Recovered": 23,
-                "ObjectId": 10
+                "Report_Date": 1580428800000.0,
+                "Report_Date_String": "1/31/2020",
+                "Other_Locations": 125,
+                "Mainland_China": 9802,
+                "Total_Confirmed": 9927
             }
         },
         {
             "attributes": {
-                "Report_Date": 1580360400000,
-                "Mainland_China": 9658,
-                "Other_Locations": 118,
-                "Total_Confirmed": 9776,
-                "Total_Recovered": 141,
-                "Report_Date_String": "2020/01/30",
-                "Delta_Confirmed": 1993,
-                "Delta_Recovered": 8,
-                "ObjectId": 11
+                "Report_Date": 1580515200000.0,
+                "Report_Date_String": "2/1/2020",
+                "Other_Locations": 147,
+                "Mainland_China": 11891,
+                "Total_Confirmed": 12038
             }
         },
         {
             "attributes": {
-                "Report_Date": 1580446800000,
-                "Mainland_China": 11221,
-                "Other_Locations": 153,
-                "Total_Confirmed": 11374,
-                "Total_Recovered": 220,
-                "Report_Date_String": "2020/01/31",
-                "Delta_Confirmed": 1598,
-                "Delta_Recovered": 79,
-                "ObjectId": 12
+                "Report_Date": 1580601600000.0,
+                "Report_Date_String": "2/2/2020",
+                "Other_Locations": 157,
+                "Mainland_China": 16630,
+                "Total_Confirmed": 16787
             }
         },
         {
             "attributes": {
-                "Report_Date": 1580533200000,
-                "Mainland_China": 14341,
-                "Other_Locations": 173,
-                "Total_Confirmed": 14514,
-                "Total_Recovered": 284,
-                "Report_Date_String": "2020/02/01",
-                "Delta_Confirmed": 3140,
-                "Delta_Recovered": 64,
-                "ObjectId": 13
+                "Report_Date": 1580688000000.0,
+                "Report_Date_String": "2/3/2020",
+                "Other_Locations": 165,
+                "Mainland_China": 19716,
+                "Total_Confirmed": 19881
             }
         },
         {
             "attributes": {
-                "Report_Date": 1580619600000,
-                "Mainland_China": 17187,
-                "Other_Locations": 183,
-                "Total_Confirmed": 17370,
-                "Total_Recovered": 487,
-                "Report_Date_String": "2020/02/02",
-                "Delta_Confirmed": 2856,
-                "Delta_Recovered": 203,
-                "ObjectId": 14
+                "Report_Date": 1580774400000.0,
+                "Report_Date_String": "2/4/2020",
+                "Other_Locations": 185,
+                "Mainland_China": 23707,
+                "Total_Confirmed": 23892
             }
         },
         {
             "attributes": {
-                "Report_Date": 1580706000000,
-                "Mainland_China": 19693,
-                "Other_Locations": 188,
-                "Total_Confirmed": 19881,
-                "Total_Recovered": 621,
-                "Report_Date_String": "2020/02/03",
-                "Delta_Confirmed": 2511,
-                "Delta_Recovered": 134,
-                "ObjectId": 15
+                "Report_Date": 1580860800000.0,
+                "Report_Date_String": "2/5/2020",
+                "Other_Locations": 195,
+                "Mainland_China": 27440,
+                "Total_Confirmed": 27635
             }
         },
         {
             "attributes": {
-                "Report_Date": 1580792400000,
-                "Mainland_China": 23680,
-                "Other_Locations": 212,
-                "Total_Confirmed": 23892,
-                "Total_Recovered": 899,
-                "Report_Date_String": "2020/02/04",
-                "Delta_Confirmed": 4011,
-                "Delta_Recovered": 278,
-                "ObjectId": 16
+                "Report_Date": 1580947200000.0,
+                "Report_Date_String": "2/6/2020",
+                "Other_Locations": 207,
+                "Mainland_China": 30587,
+                "Total_Confirmed": 30794
             }
         },
         {
             "attributes": {
-                "Report_Date": 1580878800000,
-                "Mainland_China": 27409,
-                "Other_Locations": 227,
-                "Total_Confirmed": 27636,
-                "Total_Recovered": 1146,
-                "Report_Date_String": "2020/02/05",
-                "Delta_Confirmed": 3744,
-                "Delta_Recovered": 247,
-                "ObjectId": 17
+                "Report_Date": 1581033600000.0,
+                "Report_Date_String": "2/7/2020",
+                "Other_Locations": 281,
+                "Mainland_China": 34110,
+                "Total_Confirmed": 34391
             }
         },
         {
             "attributes": {
-                "Report_Date": 1580965200000,
-                "Mainland_China": 30553,
-                "Other_Locations": 265,
-                "Total_Confirmed": 30818,
-                "Total_Recovered": 1487,
-                "Report_Date_String": "2020/02/06",
-                "Delta_Confirmed": 3182,
-                "Delta_Recovered": 341,
-                "ObjectId": 18
+                "Report_Date": 1581120000000.0,
+                "Report_Date_String": "2/8/2020",
+                "Other_Locations": 306,
+                "Mainland_China": 36814,
+                "Total_Confirmed": 37120
             }
         },
         {
             "attributes": {
-                "Report_Date": 1581051600000,
-                "Mainland_China": 34075,
-                "Other_Locations": 317,
-                "Total_Confirmed": 34392,
-                "Total_Recovered": 2011,
-                "Report_Date_String": "2020/02/07",
-                "Delta_Confirmed": 3574,
-                "Delta_Recovered": 524,
-                "ObjectId": 19
+                "Report_Date": 1581206400000.0,
+                "Report_Date_String": "2/9/2020",
+                "Other_Locations": 321,
+                "Mainland_China": 39829,
+                "Total_Confirmed": 40150
             }
         },
         {
             "attributes": {
-                "Report_Date": 1581138000000,
-                "Mainland_China": 36778,
-                "Other_Locations": 343,
-                "Total_Confirmed": 37121,
-                "Total_Recovered": 2616,
-                "Report_Date_String": "2020/02/08",
-                "Delta_Confirmed": 2729,
-                "Delta_Recovered": 605,
-                "ObjectId": 20
+                "Report_Date": 1581292800000.0,
+                "Report_Date_String": "2/10/2020",
+                "Other_Locations": 408,
+                "Mainland_China": 42354,
+                "Total_Confirmed": 42762
             }
         },
         {
             "attributes": {
-                "Report_Date": 1581224400000,
-                "Mainland_China": 39790,
-                "Other_Locations": 361,
-                "Total_Confirmed": 40151,
-                "Total_Recovered": 3244,
-                "Report_Date_String": "2020/02/09",
-                "Delta_Confirmed": 3030,
-                "Delta_Recovered": 628,
-                "ObjectId": 21
+                "Report_Date": 1581379200000.0,
+                "Report_Date_String": "2/11/2020",
+                "Other_Locations": 416,
+                "Mainland_China": 44386,
+                "Total_Confirmed": 44802
             }
         },
         {
             "attributes": {
-                "Report_Date": 1581310800000,
-                "Mainland_China": 42306,
-                "Other_Locations": 457,
-                "Total_Confirmed": 42763,
-                "Total_Recovered": 3946,
-                "Report_Date_String": "2020/02/10",
-                "Delta_Confirmed": 2612,
-                "Delta_Recovered": 702,
-                "ObjectId": 22
+                "Report_Date": 1581465600000.0,
+                "Report_Date_String": "2/12/2020",
+                "Other_Locations": 462,
+                "Mainland_China": 44759,
+                "Total_Confirmed": 45221
             }
         },
         {
             "attributes": {
-                "Report_Date": 1581397200000,
-                "Mainland_China": 44327,
-                "Other_Locations": 476,
-                "Total_Confirmed": 44803,
-                "Total_Recovered": 4683,
-                "Report_Date_String": "2020/02/11",
-                "Delta_Confirmed": 2040,
-                "Delta_Recovered": 737,
-                "ObjectId": 23
+                "Report_Date": 1581552000000.0,
+                "Report_Date_String": "2/13/2020",
+                "Other_Locations": 473,
+                "Mainland_China": 59895,
+                "Total_Confirmed": 60368
             }
         },
         {
             "attributes": {
-                "Report_Date": 1581483600000,
-                "Mainland_China": 44699,
-                "Other_Locations": 523,
-                "Total_Confirmed": 45222,
-                "Total_Recovered": 5150,
-                "Report_Date_String": "2020/02/12",
-                "Delta_Confirmed": 419,
-                "Delta_Recovered": 467,
-                "ObjectId": 24
+                "Report_Date": 1581638400000.0,
+                "Report_Date_String": "2/14/2020",
+                "Other_Locations": 527,
+                "Mainland_China": 66358,
+                "Total_Confirmed": 66885
             }
         },
         {
             "attributes": {
-                "Report_Date": 1581570000000,
-                "Mainland_China": 59832,
-                "Other_Locations": 538,
-                "Total_Confirmed": 60370,
-                "Total_Recovered": 6295,
-                "Report_Date_String": "2020/02/13",
-                "Delta_Confirmed": 15148,
-                "Delta_Recovered": 1145,
-                "ObjectId": 25
+                "Report_Date": 1581724800000.0,
+                "Report_Date_String": "2/15/2020",
+                "Other_Locations": 617,
+                "Mainland_China": 68413,
+                "Total_Confirmed": 69030
             }
         },
         {
             "attributes": {
-                "Report_Date": 1581656400000,
-                "Mainland_China": 66292,
-                "Other_Locations": 595,
-                "Total_Confirmed": 66887,
-                "Total_Recovered": 8058,
-                "Report_Date_String": "2020/02/14",
-                "Delta_Confirmed": 6517,
-                "Delta_Recovered": 1763,
-                "ObjectId": 26
+                "Report_Date": 1581811200000.0,
+                "Report_Date_String": "2/16/2020",
+                "Other_Locations": 711,
+                "Mainland_China": 70513,
+                "Total_Confirmed": 71224
             }
         },
         {
             "attributes": {
-                "Report_Date": 1581742800000,
-                "Mainland_China": 68347,
-                "Other_Locations": 685,
-                "Total_Confirmed": 69032,
-                "Total_Recovered": 9395,
-                "Report_Date_String": "2020/02/15",
-                "Delta_Confirmed": 2145,
-                "Delta_Recovered": 1337,
-                "ObjectId": 27
+                "Report_Date": 1581897600000.0,
+                "Report_Date_String": "2/17/2020",
+                "Other_Locations": 824,
+                "Mainland_China": 72434,
+                "Total_Confirmed": 73258
             }
         },
         {
             "attributes": {
-                "Report_Date": 1581829200000,
-                "Mainland_China": 70446,
-                "Other_Locations": 780,
-                "Total_Confirmed": 71226,
-                "Total_Recovered": 10865,
-                "Report_Date_String": "2020/02/16",
-                "Delta_Confirmed": 2194,
-                "Delta_Recovered": 1470,
-                "ObjectId": 28
+                "Report_Date": 1581984000000.0,
+                "Report_Date_String": "2/18/2020",
+                "Other_Locations": 925,
+                "Mainland_China": 74211,
+                "Total_Confirmed": 75136
             }
         },
         {
             "attributes": {
-                "Report_Date": 1581915600000,
-                "Mainland_China": 72364,
-                "Other_Locations": 896,
-                "Total_Confirmed": 73260,
-                "Total_Recovered": 12583,
-                "Report_Date_String": "2020/02/17",
-                "Delta_Confirmed": 2034,
-                "Delta_Recovered": 1718,
-                "ObjectId": 29
+                "Report_Date": 1582070400000.0,
+                "Report_Date_String": "2/19/2020",
+                "Other_Locations": 1020,
+                "Mainland_China": 74619,
+                "Total_Confirmed": 75639
             }
         },
         {
             "attributes": {
-                "Report_Date": 1582002000000,
-                "Mainland_China": 74139,
-                "Other_Locations": 1013,
-                "Total_Confirmed": 75152,
-                "Total_Recovered": 14352,
-                "Report_Date_String": "2020/02/18",
-                "Delta_Confirmed": 1892,
-                "Delta_Recovered": 1769,
-                "ObjectId": 30
+                "Report_Date": 1582156800000.0,
+                "Report_Date_String": "2/20/2020",
+                "Other_Locations": 1120,
+                "Mainland_China": 75077,
+                "Total_Confirmed": 76197
             }
         },
         {
             "attributes": {
-                "Report_Date": 1582088400000,
-                "Mainland_China": 74546,
-                "Other_Locations": 1095,
-                "Total_Confirmed": 75641,
-                "Total_Recovered": 16121,
-                "Report_Date_String": "2020/02/19",
-                "Delta_Confirmed": 489,
-                "Delta_Recovered": 1769,
-                "ObjectId": 31
+                "Report_Date": 1582243200000.0,
+                "Report_Date_String": "2/21/2020",
+                "Other_Locations": 1269,
+                "Mainland_China": 75550,
+                "Total_Confirmed": 76819
             }
         },
         {
             "attributes": {
-                "Report_Date": 1582174800000,
-                "Mainland_China": 74999,
-                "Other_Locations": 1200,
-                "Total_Confirmed": 76199,
-                "Total_Recovered": 18177,
-                "Report_Date_String": "2020/02/20",
-                "Delta_Confirmed": 558,
-                "Delta_Recovered": 2056,
-                "ObjectId": 32
+                "Report_Date": 1582329600000.0,
+                "Report_Date_String": "2/22/2020",
+                "Other_Locations": 1571,
+                "Mainland_China": 77001,
+                "Total_Confirmed": 78572
             }
         },
         {
             "attributes": {
-                "Report_Date": 1582261200000,
-                "Mainland_China": 75472,
-                "Other_Locations": 1371,
-                "Total_Confirmed": 76843,
-                "Total_Recovered": 18890,
-                "Report_Date_String": "2020/02/21",
-                "Delta_Confirmed": 644,
-                "Delta_Recovered": 713,
-                "ObjectId": 33
+                "Report_Date": 1582416000000.0,
+                "Report_Date_String": "2/23/2020",
+                "Other_Locations": 1936,
+                "Mainland_China": 77022,
+                "Total_Confirmed": 78958
             }
         },
         {
             "attributes": {
-                "Report_Date": 1582347600000,
-                "Mainland_China": 76922,
-                "Other_Locations": 1677,
-                "Total_Confirmed": 78599,
-                "Total_Recovered": 22886,
-                "Report_Date_String": "2020/02/22",
-                "Delta_Confirmed": 1756,
-                "Delta_Recovered": 3996,
-                "ObjectId": 34
+                "Report_Date": 1582502400000.0,
+                "Report_Date_String": "2/24/2020",
+                "Other_Locations": 2320,
+                "Mainland_China": 77241,
+                "Total_Confirmed": 79561
             }
         },
         {
             "attributes": {
-                "Report_Date": 1582434000000,
-                "Mainland_China": 76938,
-                "Other_Locations": 2047,
-                "Total_Confirmed": 78985,
-                "Total_Recovered": 23394,
-                "Report_Date_String": "2020/02/23",
-                "Delta_Confirmed": 386,
-                "Delta_Recovered": 508,
-                "ObjectId": 35
+                "Report_Date": 1582588800000.0,
+                "Report_Date_String": "2/25/2020",
+                "Other_Locations": 2652,
+                "Mainland_China": 77754,
+                "Total_Confirmed": 80406
             }
         },
         {
             "attributes": {
-                "Report_Date": 1582520400000,
-                "Mainland_China": 77152,
-                "Other_Locations": 2418,
-                "Total_Confirmed": 79570,
-                "Total_Recovered": 25227,
-                "Report_Date_String": "2020/02/24",
-                "Delta_Confirmed": 585,
-                "Delta_Recovered": 1833,
-                "ObjectId": 36
+                "Report_Date": 1582675200000.0,
+                "Report_Date_String": "2/26/2020",
+                "Other_Locations": 3222,
+                "Mainland_China": 78166,
+                "Total_Confirmed": 81388
             }
         },
         {
             "attributes": {
-                "Report_Date": 1582606800000,
-                "Mainland_China": 77660,
-                "Other_Locations": 2755,
-                "Total_Confirmed": 80415,
-                "Total_Recovered": 27905,
-                "Report_Date_String": "2020/02/25",
-                "Delta_Confirmed": 845,
-                "Delta_Recovered": 2678,
-                "ObjectId": 37
+                "Report_Date": 1582761600000.0,
+                "Report_Date_String": "2/27/2020",
+                "Other_Locations": 4146,
+                "Mainland_China": 78600,
+                "Total_Confirmed": 82746
             }
         },
         {
             "attributes": {
-                "Report_Date": 1582693200000,
-                "Mainland_China": 78065,
-                "Other_Locations": 3332,
-                "Total_Confirmed": 81397,
-                "Total_Recovered": 30384,
-                "Report_Date_String": "2020/02/26",
-                "Delta_Confirmed": 982,
-                "Delta_Recovered": 2479,
-                "ObjectId": 38
+                "Report_Date": 1582848000000.0,
+                "Report_Date_String": "2/28/2020",
+                "Other_Locations": 5184,
+                "Mainland_China": 78928,
+                "Total_Confirmed": 84112
             }
         },
         {
             "attributes": {
-                "Report_Date": 1582779600000,
-                "Mainland_China": 78498,
-                "Other_Locations": 4258,
-                "Total_Confirmed": 82756,
-                "Total_Recovered": 33277,
-                "Report_Date_String": "2020/02/27",
-                "Delta_Confirmed": 1359,
-                "Delta_Recovered": 2893,
-                "ObjectId": 39
+                "Report_Date": 1582934400000.0,
+                "Report_Date_String": "2/29/2020",
+                "Other_Locations": 6655,
+                "Mainland_China": 79356,
+                "Total_Confirmed": 86011
             }
         },
         {
             "attributes": {
-                "Report_Date": 1582866000000,
-                "Mainland_China": 78824,
-                "Other_Locations": 5300,
-                "Total_Confirmed": 84124,
-                "Total_Recovered": 36711,
-                "Report_Date_String": "2020/02/28",
-                "Delta_Confirmed": 1368,
-                "Delta_Recovered": 3434,
-                "ObjectId": 40
+                "Report_Date": 1583020800000.0,
+                "Report_Date_String": "3/1/2020",
+                "Other_Locations": 8437,
+                "Mainland_China": 79932,
+                "Total_Confirmed": 88369
             }
         },
         {
             "attributes": {
-                "Report_Date": 1582952400000,
-                "Mainland_China": 79251,
-                "Other_Locations": 6762,
-                "Total_Confirmed": 86013,
-                "Total_Recovered": 39782,
-                "Report_Date_String": "2020/02/29",
-                "Delta_Confirmed": 1889,
-                "Delta_Recovered": 3071,
-                "ObjectId": 41
+                "Report_Date": 1583107200000.0,
+                "Report_Date_String": "3/2/2020",
+                "Other_Locations": 10170,
+                "Mainland_China": 80136,
+                "Total_Confirmed": 90306
             }
         },
         {
             "attributes": {
-                "Report_Date": 1583038800000,
-                "Mainland_China": 79826,
-                "Other_Locations": 8545,
-                "Total_Confirmed": 88371,
-                "Total_Recovered": 42716,
-                "Report_Date_String": "2020/03/01",
-                "Delta_Confirmed": 2358,
-                "Delta_Recovered": 2934,
-                "ObjectId": 42
+                "Report_Date": 1583193600000.0,
+                "Report_Date_String": "3/3/2020",
+                "Other_Locations": 12579,
+                "Mainland_China": 80261,
+                "Total_Confirmed": 92840
             }
         },
         {
             "attributes": {
-                "Report_Date": 1583125200000,
-                "Mainland_China": 80026,
-                "Other_Locations": 10283,
-                "Total_Confirmed": 90309,
-                "Total_Recovered": 45602,
-                "Report_Date_String": "2020/03/02",
-                "Delta_Confirmed": 1938,
-                "Delta_Recovered": 2886,
-                "ObjectId": 43
+                "Report_Date": 1583280000000.0,
+                "Report_Date_String": "3/4/2020",
+                "Other_Locations": 14734,
+                "Mainland_China": 80386,
+                "Total_Confirmed": 95120
             }
         },
         {
             "attributes": {
-                "Report_Date": 1583211600000,
-                "Mainland_China": 80151,
-                "Other_Locations": 12693,
-                "Total_Confirmed": 92844,
-                "Total_Recovered": 48229,
-                "Report_Date_String": "2020/03/03",
-                "Delta_Confirmed": 2535,
-                "Delta_Recovered": 2627,
-                "ObjectId": 44
+                "Report_Date": 1583366400000.0,
+                "Report_Date_String": "3/5/2020",
+                "Other_Locations": 17349,
+                "Mainland_China": 80537,
+                "Total_Confirmed": 97886
             }
         },
         {
             "attributes": {
-                "Report_Date": 1583298000000,
-                "Mainland_China": 80271,
-                "Other_Locations": 14853,
-                "Total_Confirmed": 95124,
-                "Total_Recovered": 51171,
-                "Report_Date_String": "2020/03/04",
-                "Delta_Confirmed": 2280,
-                "Delta_Recovered": 2942,
-                "ObjectId": 45
+                "Report_Date": 1583452800000.0,
+                "Report_Date_String": "3/6/2020",
+                "Other_Locations": 21111,
+                "Mainland_China": 80690,
+                "Total_Confirmed": 101801
             }
         },
         {
             "attributes": {
-                "Report_Date": 1583384400000,
-                "Mainland_China": 80422,
-                "Other_Locations": 17464,
-                "Total_Confirmed": 97886,
-                "Total_Recovered": 53797,
-                "Report_Date_String": "2020/03/05",
-                "Delta_Confirmed": 2762,
-                "Delta_Recovered": 2626,
-                "ObjectId": 46
+                "Report_Date": 1583539200000.0,
+                "Report_Date_String": "3/7/2020",
+                "Other_Locations": 25077,
+                "Mainland_China": 80770,
+                "Total_Confirmed": 105847
             }
         },
         {
             "attributes": {
-                "Report_Date": 1583470800000,
-                "Mainland_China": 80573,
-                "Other_Locations": 21227,
-                "Total_Confirmed": 101800,
-                "Total_Recovered": 55866,
-                "Report_Date_String": "2020/03/06",
-                "Delta_Confirmed": 3914,
-                "Delta_Recovered": 2069,
-                "ObjectId": 47
+                "Report_Date": 1583625600000.0,
+                "Report_Date_String": "3/8/2020",
+                "Other_Locations": 28998,
+                "Mainland_China": 80823,
+                "Total_Confirmed": 109821
             }
         },
         {
             "attributes": {
-                "Report_Date": 1583557200000,
-                "Mainland_China": 80652,
-                "Other_Locations": 25184,
-                "Total_Confirmed": 105836,
-                "Total_Recovered": 58359,
-                "Report_Date_String": "2020/03/07",
-                "Delta_Confirmed": 4036,
-                "Delta_Recovered": 2493,
-                "ObjectId": 48
+                "Report_Date": 1583712000000.0,
+                "Report_Date_String": "3/9/2020",
+                "Other_Locations": 32730,
+                "Mainland_China": 80860,
+                "Total_Confirmed": 113590
             }
         },
         {
             "attributes": {
-                "Report_Date": 1583643600000,
-                "Mainland_China": 80699,
-                "Other_Locations": 29136,
-                "Total_Confirmed": 109835,
-                "Total_Recovered": 60695,
-                "Report_Date_String": "2020/03/08",
-                "Delta_Confirmed": 3999,
-                "Delta_Recovered": 2336,
-                "ObjectId": 49
+                "Report_Date": 1583798400000.0,
+                "Report_Date_String": "3/10/2020",
+                "Other_Locations": 37733,
+                "Mainland_China": 80887,
+                "Total_Confirmed": 118620
             }
         },
         {
             "attributes": {
-                "Report_Date": 1583726400000,
-                "Mainland_China": 80735,
-                "Other_Locations": 32847,
-                "Total_Confirmed": 113582,
-                "Total_Recovered": 62512,
-                "Report_Date_String": "2020/03/09",
-                "Delta_Confirmed": 3747,
-                "Delta_Recovered": 1817,
-                "ObjectId": 50
-            }
-        },
-        {
-            "attributes": {
-                "Report_Date": 1583812800000,
-                "Mainland_China": 80757,
-                "Other_Locations": 37825,
-                "Total_Confirmed": 118582,
-                "Total_Recovered": 64404,
-                "Report_Date_String": "2020/03/10",
-                "Delta_Confirmed": 5000,
-                "Delta_Recovered": 1892,
-                "ObjectId": 51
-            }
-        },
-        {
-            "attributes": {
-                "Report_Date": 1583899200000,
+                "Report_Date": 1583884800000.0,
+                "Report_Date_String": "3/11/2020",
+                "Other_Locations": 44954,
                 "Mainland_China": 80921,
-                "Other_Locations": 44944,
-                "Total_Confirmed": 125865,
-                "Total_Recovered": 67003,
-                "Report_Date_String": "2020/03/11",
-                "Delta_Confirmed": 7283,
-                "Delta_Recovered": 2599,
-                "ObjectId": 52
+                "Total_Confirmed": 125875
             }
         },
         {
             "attributes": {
-                "Report_Date": 1583985600000,
+                "Report_Date": 1583971200000.0,
+                "Report_Date_String": "3/12/2020",
+                "Other_Locations": 47420,
                 "Mainland_China": 80932,
-                "Other_Locations": 47411,
-                "Total_Confirmed": 128343,
-                "Total_Recovered": 68324,
-                "Report_Date_String": "2020/03/12",
-                "Delta_Confirmed": 2478,
-                "Delta_Recovered": 1321,
-                "ObjectId": 53
+                "Total_Confirmed": 128352
             }
         },
         {
             "attributes": {
-                "Report_Date": 1584072000000,
+                "Report_Date": 1584057600000.0,
+                "Report_Date_String": "3/13/2020",
+                "Other_Locations": 64260,
                 "Mainland_China": 80945,
-                "Other_Locations": 63569,
-                "Total_Confirmed": 144514,
-                "Total_Recovered": 70217,
-                "Report_Date_String": "2020/03/13",
-                "Delta_Confirmed": 16171,
-                "Delta_Recovered": 1893,
-                "ObjectId": 54
+                "Total_Confirmed": 145205
             }
         },
         {
             "attributes": {
-                "Report_Date": 1584158400000,
+                "Report_Date": 1584144000000.0,
+                "Report_Date_String": "3/14/2020",
+                "Other_Locations": 75124,
                 "Mainland_China": 80977,
-                "Other_Locations": 75122,
-                "Total_Confirmed": 156099,
-                "Total_Recovered": 72624,
-                "Report_Date_String": "2020/03/14",
-                "Delta_Confirmed": 11585,
-                "Delta_Recovered": 2407,
-                "ObjectId": 55
+                "Total_Confirmed": 156101
             }
         },
         {
             "attributes": {
-                "Report_Date": 1584244800000,
+                "Report_Date": 1584230400000.0,
+                "Report_Date_String": "3/15/2020",
+                "Other_Locations": 86451,
                 "Mainland_China": 81003,
-                "Other_Locations": 81716,
-                "Total_Confirmed": 162719,
-                "Total_Recovered": 75620,
-                "Report_Date_String": "2020/03/15",
-                "Delta_Confirmed": 6620,
-                "Delta_Recovered": 2996,
-                "ObjectId": 56
+                "Total_Confirmed": 167454
             }
         },
         {
             "attributes": {
-                "Report_Date": 1584331200000,
+                "Report_Date": 1584316800000.0,
+                "Report_Date_String": "3/16/2020",
+                "Other_Locations": 100541,
                 "Mainland_China": 81033,
-                "Other_Locations": 100513,
-                "Total_Confirmed": 181546,
-                "Total_Recovered": 78088,
-                "Report_Date_String": "2020/03/16",
-                "Delta_Confirmed": 18827,
-                "Delta_Recovered": 2468,
-                "ObjectId": 57
+                "Total_Confirmed": 181574
             }
         },
         {
             "attributes": {
-                "Report_Date": 1584417600000,
+                "Report_Date": 1584403200000.0,
+                "Report_Date_String": "3/17/2020",
+                "Other_Locations": 116044,
                 "Mainland_China": 81058,
-                "Other_Locations": 116110,
-                "Total_Confirmed": 197168,
-                "Total_Recovered": 80840,
-                "Report_Date_String": "2020/03/17",
-                "Delta_Confirmed": 15622,
-                "Delta_Recovered": 2752,
-                "ObjectId": 58
+                "Total_Confirmed": 197102
             }
         },
         {
             "attributes": {
-                "Report_Date": 1584504000000,
+                "Report_Date": 1584489600000.0,
+                "Report_Date_String": "3/18/2020",
+                "Other_Locations": 133719,
                 "Mainland_China": 81102,
-                "Other_Locations": 133813,
-                "Total_Confirmed": 214915,
-                "Total_Recovered": 83313,
-                "Report_Date_String": "2020/03/18",
-                "Delta_Confirmed": 17747,
-                "Delta_Recovered": 2473,
-                "ObjectId": 59
+                "Total_Confirmed": 214821
             }
         },
         {
             "attributes": {
-                "Report_Date": 1584590400000,
+                "Report_Date": 1584576000000.0,
+                "Report_Date_String": "3/19/2020",
+                "Other_Locations": 161344,
                 "Mainland_China": 81156,
-                "Other_Locations": 161557,
-                "Total_Confirmed": 242713,
-                "Total_Recovered": 84962,
-                "Report_Date_String": "2020/03/19",
-                "Delta_Confirmed": 27798,
-                "Delta_Recovered": 1649,
-                "ObjectId": 60
+                "Total_Confirmed": 242500
             }
         },
         {
             "attributes": {
-                "Report_Date": 1584676800000,
+                "Report_Date": 1584662400000.0,
+                "Report_Date_String": "3/20/2020",
+                "Other_Locations": 190785,
                 "Mainland_China": 81250,
-                "Other_Locations": 190917,
-                "Total_Confirmed": 272167,
-                "Total_Recovered": 87403,
-                "Report_Date_String": "2020/03/20",
-                "Delta_Confirmed": 29454,
-                "Delta_Recovered": 2441,
-                "ObjectId": 61
+                "Total_Confirmed": 272035
             }
         },
         {
             "attributes": {
-                "Report_Date": 1584763200000,
+                "Report_Date": 1584748800000.0,
+                "Report_Date_String": "3/21/2020",
+                "Other_Locations": 223091,
                 "Mainland_China": 81305,
-                "Other_Locations": 223223,
-                "Total_Confirmed": 304528,
-                "Total_Recovered": 91676,
-                "Report_Date_String": "2020/03/21",
-                "Delta_Confirmed": 32361,
-                "Delta_Recovered": 4273,
-                "ObjectId": 62
+                "Total_Confirmed": 304396
             }
         },
         {
             "attributes": {
-                "Report_Date": 1584849600000,
-                "Mainland_China": 81397,
-                "Other_Locations": 254560,
-                "Total_Confirmed": 335957,
-                "Total_Recovered": 97882,
-                "Report_Date_String": "2020/03/22",
-                "Delta_Confirmed": 31429,
-                "Delta_Recovered": 6206,
-                "ObjectId": 63
+                "Report_Date": 1584835200000.0,
+                "Report_Date_String": "3/22/2020",
+                "Other_Locations": 255518,
+                "Mainland_China": 81435,
+                "Total_Confirmed": 336953
             }
         },
         {
             "attributes": {
-                "Report_Date": 1584936000000,
-                "Mainland_China": 81439,
-                "Other_Locations": 254565,
-                "Total_Confirmed": 336004,
-                "Total_Recovered": 98334,
-                "Report_Date_String": "2020/03/23",
-                "Delta_Confirmed": 47,
-                "Delta_Recovered": 452,
-                "ObjectId": 64
+                "Report_Date": 1584921600000.0,
+                "Report_Date_String": "3/23/2020",
+                "Other_Locations": 296737,
+                "Mainland_China": 81498,
+                "Total_Confirmed": 378235
+            }
+        },
+        {
+            "attributes": {
+                "Report_Date": 1585008000000.0,
+                "Report_Date_String": "3/24/2020",
+                "Other_Locations": 336454,
+                "Mainland_China": 81591,
+                "Total_Confirmed": 418045
             }
         }
     ]
