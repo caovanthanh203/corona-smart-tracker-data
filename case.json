@@ -1203,6 +1203,14 @@
         {
             "attributes": {
                 "Confirmed": 7,
+                "Country_Region": "Bermuda",
+                "Recovered": 0,
+                "Deaths": 0
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 7,
                 "Country_Region": "Dominica",
                 "Recovered": 0,
                 "Deaths": 0
@@ -1244,14 +1252,6 @@
             "attributes": {
                 "Confirmed": 6,
                 "Country_Region": "Benin",
-                "Recovered": 0,
-                "Deaths": 0
-            }
-        },
-        {
-            "attributes": {
-                "Confirmed": 6,
-                "Country_Region": "Bermuda",
                 "Recovered": 0,
                 "Deaths": 0
             }
