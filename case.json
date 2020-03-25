@@ -554,6 +554,14 @@
         },
         {
             "attributes": {
+                "Confirmed": 217,
+                "Country_Region": "Uruguay",
+                "Recovered": 0,
+                "Deaths": 0
+            }
+        },
+        {
+            "attributes": {
                 "Confirmed": 216,
                 "Country_Region": "Slovakia",
                 "Recovered": 7,
@@ -589,14 +597,6 @@
                 "Confirmed": 195,
                 "Country_Region": "Kuwait",
                 "Recovered": 43,
-                "Deaths": 0
-            }
-        },
-        {
-            "attributes": {
-                "Confirmed": 189,
-                "Country_Region": "Uruguay",
-                "Recovered": 0,
                 "Deaths": 0
             }
         },
@@ -1236,7 +1236,7 @@
             "attributes": {
                 "Confirmed": 6,
                 "Country_Region": "Curaçao",
-                "Recovered": 0,
+                "Recovered": 2,
                 "Deaths": 1
             }
         },
