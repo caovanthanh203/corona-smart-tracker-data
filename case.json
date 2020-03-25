@@ -90,7 +90,7 @@
         },
         {
             "attributes": {
-                "Confirmed": 5560,
+                "Confirmed": 5588,
                 "Country_Region": "Austria",
                 "Recovered": 9,
                 "Deaths": 30
@@ -442,6 +442,14 @@
         },
         {
             "attributes": {
+                "Confirmed": 384,
+                "Country_Region": "Serbia",
+                "Recovered": 15,
+                "Deaths": 4
+            }
+        },
+        {
+            "attributes": {
                 "Confirmed": 378,
                 "Country_Region": "Colombia",
                 "Recovered": 6,
@@ -478,14 +486,6 @@
                 "Country_Region": "Dominican Republic",
                 "Recovered": 3,
                 "Deaths": 6
-            }
-        },
-        {
-            "attributes": {
-                "Confirmed": 303,
-                "Country_Region": "Serbia",
-                "Recovered": 15,
-                "Deaths": 4
             }
         },
         {
@@ -684,7 +684,7 @@
             "attributes": {
                 "Confirmed": 119,
                 "Country_Region": "Tunisia",
-                "Recovered": 1,
+                "Recovered": 2,
                 "Deaths": 4
             }
         },
