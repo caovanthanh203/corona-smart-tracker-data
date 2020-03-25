@@ -21,7 +21,7 @@
                 "Confirmed": 64765,
                 "Country_Region": "USA",
                 "Recovered": 393,
-                "Deaths": 909
+                "Deaths": 910
             }
         },
         {
@@ -133,7 +133,7 @@
                 "Confirmed": 2526,
                 "Country_Region": "Sweden",
                 "Recovered": 16,
-                "Deaths": 44
+                "Deaths": 62
             }
         },
         {
@@ -834,6 +834,14 @@
         },
         {
             "attributes": {
+                "Confirmed": 66,
+                "Country_Region": "Martinique",
+                "Recovered": 0,
+                "Deaths": 1
+            }
+        },
+        {
+            "attributes": {
                 "Confirmed": 64,
                 "Country_Region": "Palestine",
                 "Recovered": 16,
@@ -861,14 +869,6 @@
                 "Confirmed": 57,
                 "Country_Region": "Cuba",
                 "Recovered": 1,
-                "Deaths": 1
-            }
-        },
-        {
-            "attributes": {
-                "Confirmed": 57,
-                "Country_Region": "Martinique",
-                "Recovered": 0,
                 "Deaths": 1
             }
         },
