@@ -101,7 +101,7 @@
                 "Confirmed": 4937,
                 "Country_Region": "Belgium",
                 "Recovered": 547,
-                "Deaths": 173
+                "Deaths": 178
             }
         },
         {
@@ -1114,6 +1114,14 @@
         },
         {
             "attributes": {
+                "Confirmed": 12,
+                "Country_Region": "Zambia",
+                "Recovered": 0,
+                "Deaths": 0
+            }
+        },
+        {
+            "attributes": {
                 "Confirmed": 10,
                 "Country_Region": "Mongolia",
                 "Recovered": 0,
@@ -1420,14 +1428,6 @@
             "attributes": {
                 "Confirmed": 3,
                 "Country_Region": "Saint Lucia",
-                "Recovered": 0,
-                "Deaths": 0
-            }
-        },
-        {
-            "attributes": {
-                "Confirmed": 3,
-                "Country_Region": "Zambia",
                 "Recovered": 0,
                 "Deaths": 0
             }
