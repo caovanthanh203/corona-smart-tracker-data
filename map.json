@@ -4711,17 +4711,6 @@
         },
         {
             "attributes": {
-                "Confirmed": 4,
-                "Long_": "105.682983",
-                "Deaths": 0,
-                "Province_State": "Đồng Tháp",
-                "Country_Region": "Đồng Tháp, Việt Nam",
-                "Lat": "10.575572",
-                "Recovered": 0
-            }
-        },
-        {
-            "attributes": {
                 "Confirmed": 6,
                 "Long_": "108.220556",
                 "Deaths": 0,
@@ -4744,34 +4733,56 @@
         },
         {
             "attributes": {
-                "Confirmed": 2,
-                "Long_": "106.119003",
-                "Deaths": 0,
-                "Province_State": "Tây Ninh",
-                "Country_Region": "Tây Ninh, Việt Nam",
-                "Lat": "11.367795",
-                "Recovered": 0
-            }
-        },
-        {
-            "attributes": {
-                "Confirmed": 2,
-                "Long_": "105.309448",
-                "Deaths": 0,
-                "Province_State": "Thanh Hóa",
-                "Country_Region": "Thanh Hóa, Việt Nam",
-                "Lat": "20.141049",
-                "Recovered": 1
-            }
-        },
-        {
-            "attributes": {
                 "Confirmed": 9,
                 "Long_": "108.141174",
                 "Deaths": 0,
                 "Province_State": "Bình Thuận",
                 "Country_Region": "Bình Thuận, Việt Nam",
                 "Lat": "11.100252",
+                "Recovered": 0
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 11,
+                "Long_": "105.548401",
+                "Deaths": 0,
+                "Province_State": "Vĩnh Phúc",
+                "Country_Region": "Vĩnh Phúc, Việt Nam",
+                "Lat": "21.363571",
+                "Recovered": 11
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 4,
+                "Long_": "105.682983",
+                "Deaths": 0,
+                "Province_State": "Đồng Tháp",
+                "Country_Region": "Đồng Tháp, Việt Nam",
+                "Lat": "10.575572",
+                "Recovered": 0
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 2,
+                "Long_": "107.58482",
+                "Deaths": 0,
+                "Province_State": "Thừa Thiên Huế",
+                "Country_Region": "Thừa Thiên Huế, Việt Nam",
+                "Lat": "16.463744",
+                "Recovered": 0
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 2,
+                "Long_": "108.99028",
+                "Deaths": 0,
+                "Province_State": "Ninh Thuận",
+                "Country_Region": "Ninh Thuận, Việt Nam",
+                "Lat": "11.56556",
                 "Recovered": 0
             }
         },
@@ -4789,22 +4800,11 @@
         {
             "attributes": {
                 "Confirmed": 2,
-                "Long_": "108.99028",
+                "Long_": "106.119003",
                 "Deaths": 0,
-                "Province_State": "Ninh Thuận",
-                "Country_Region": "Ninh Thuận, Việt Nam",
-                "Lat": "11.56556",
-                "Recovered": 0
-            }
-        },
-        {
-            "attributes": {
-                "Confirmed": 2,
-                "Long_": "107.58482",
-                "Deaths": 0,
-                "Province_State": "Thừa Thiên Huế",
-                "Country_Region": "Thừa Thiên Huế, Việt Nam",
-                "Lat": "16.463744",
+                "Province_State": "Tây Ninh",
+                "Country_Region": "Tây Ninh, Việt Nam",
+                "Lat": "11.367795",
                 "Recovered": 0
             }
         },
@@ -4828,17 +4828,6 @@
                 "Country_Region": "Trà Vinh, Việt Nam",
                 "Lat": "9.813946",
                 "Recovered": 0
-            }
-        },
-        {
-            "attributes": {
-                "Confirmed": 11,
-                "Long_": "105.548401",
-                "Deaths": 0,
-                "Province_State": "Vĩnh Phúc",
-                "Country_Region": "Vĩnh Phúc, Việt Nam",
-                "Lat": "21.363571",
-                "Recovered": 11
             }
         },
         {
@@ -4877,28 +4866,6 @@
         {
             "attributes": {
                 "Confirmed": 1,
-                "Long_": "103.265991",
-                "Deaths": 0,
-                "Province_State": "Lai Châu",
-                "Country_Region": "Lai Châu, Việt Nam",
-                "Lat": "22.362776",
-                "Recovered": 0
-            }
-        },
-        {
-            "attributes": {
-                "Confirmed": 52,
-                "Long_": "105.853333",
-                "Deaths": 0,
-                "Province_State": "Hà Nội",
-                "Country_Region": "Hà Nội, Việt Nam",
-                "Lat": "21.028333",
-                "Recovered": 0
-            }
-        },
-        {
-            "attributes": {
-                "Confirmed": 1,
                 "Long_": "105.907345",
                 "Deaths": 0,
                 "Province_State": "Hà Tĩnh",
@@ -4931,13 +4898,35 @@
         },
         {
             "attributes": {
-                "Confirmed": 1,
-                "Long_": "106.073406",
+                "Confirmed": 52,
+                "Long_": "105.853333",
                 "Deaths": 0,
-                "Province_State": "Bắc Ninh",
-                "Country_Region": "Bắc Ninh, Việt Nam",
-                "Lat": "21.187548",
+                "Province_State": "Hà Nội",
+                "Country_Region": "Hà Nội, Việt Nam",
+                "Lat": "21.028333",
                 "Recovered": 0
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 1,
+                "Long_": "103.265991",
+                "Deaths": 0,
+                "Province_State": "Lai Châu",
+                "Country_Region": "Lai Châu, Việt Nam",
+                "Lat": "22.362776",
+                "Recovered": 0
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 2,
+                "Long_": "105.309448",
+                "Deaths": 0,
+                "Province_State": "Thanh Hóa",
+                "Country_Region": "Thanh Hóa, Việt Nam",
+                "Lat": "20.141049",
+                "Recovered": 1
             }
         },
         {
@@ -4948,6 +4937,17 @@
                 "Province_State": "Hải Dương",
                 "Country_Region": "Hải Dương, Việt Nam",
                 "Lat": "20.933330",
+                "Recovered": 0
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 1,
+                "Long_": "106.073406",
+                "Deaths": 0,
+                "Province_State": "Bắc Ninh",
+                "Country_Region": "Bắc Ninh, Việt Nam",
+                "Lat": "21.187548",
                 "Recovered": 0
             }
         },
@@ -7098,6 +7098,17 @@
         },
         {
             "attributes": {
+                "Confirmed": 1,
+                "Long_": 92.77,
+                "Deaths": 0,
+                "Province_State": "Andaman and Nicobar Islands",
+                "Country_Region": "Andaman and Nicobar Islands, India",
+                "Lat": 11.68,
+                "Recovered": 0
+            }
+        },
+        {
+            "attributes": {
                 "Confirmed": 11,
                 "Long_": 80.64,
                 "Deaths": 0,
@@ -7109,7 +7120,7 @@
         },
         {
             "attributes": {
-                "Confirmed": 3,
+                "Confirmed": 6,
                 "Long_": 85.1,
                 "Deaths": 1,
                 "Province_State": "Bihar",
@@ -7120,7 +7131,18 @@
         },
         {
             "attributes": {
-                "Confirmed": 3,
+                "Confirmed": 7,
+                "Long_": 76.47,
+                "Deaths": 0,
+                "Province_State": "Chandigarh",
+                "Country_Region": "Chandigarh, India",
+                "Lat": 30.45,
+                "Recovered": 0
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 6,
                 "Long_": 81.6,
                 "Deaths": 0,
                 "Province_State": "Chhattisgarh",
@@ -7131,7 +7153,7 @@
         },
         {
             "attributes": {
-                "Confirmed": 35,
+                "Confirmed": 36,
                 "Long_": 77.1348,
                 "Deaths": 1,
                 "Province_State": "Delhi",
@@ -7153,9 +7175,9 @@
         },
         {
             "attributes": {
-                "Confirmed": 38,
+                "Confirmed": 43,
                 "Long_": 72.41,
-                "Deaths": 2,
+                "Deaths": 3,
                 "Province_State": "Gujarat",
                 "Country_Region": "Gujarat, India",
                 "Lat": 23.13,
@@ -7186,9 +7208,20 @@
         },
         {
             "attributes": {
-                "Confirmed": 41,
+                "Confirmed": 13,
+                "Long_": 76.5762,
+                "Deaths": 0,
+                "Province_State": "Jammu and Kashmir",
+                "Country_Region": "Jammu and Kashmir, India",
+                "Lat": 33.7782,
+                "Recovered": 1
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 55,
                 "Long_": 77.5,
-                "Deaths": 1,
+                "Deaths": 2,
                 "Province_State": "Karnataka",
                 "Country_Region": "Karnataka, India",
                 "Lat": 12.97,
@@ -7203,12 +7236,23 @@
                 "Province_State": "Kerala",
                 "Country_Region": "Kerala, India",
                 "Lat": 8.5,
-                "Recovered": 4
+                "Recovered": 6
             }
         },
         {
             "attributes": {
-                "Confirmed": 15,
+                "Confirmed": 13,
+                "Long_": 77.3448,
+                "Deaths": 0,
+                "Province_State": "Ladakh",
+                "Country_Region": "Ladakh, India",
+                "Lat": 34.1012,
+                "Recovered": 0
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 20,
                 "Long_": 77.417,
                 "Deaths": 1,
                 "Province_State": "Madhya Pradesh",
@@ -7285,7 +7329,7 @@
         },
         {
             "attributes": {
-                "Confirmed": 38,
+                "Confirmed": 41,
                 "Long_": 73.8,
                 "Deaths": 0,
                 "Province_State": "Rajasthan",
@@ -7307,57 +7351,13 @@
         },
         {
             "attributes": {
-                "Confirmed": 41,
+                "Confirmed": 44,
                 "Long_": 78.475,
                 "Deaths": 0,
                 "Province_State": "Telengana",
                 "Country_Region": "Telengana, India",
                 "Lat": 17.366,
                 "Recovered": 1
-            }
-        },
-        {
-            "attributes": {
-                "Confirmed": 7,
-                "Long_": 76.47,
-                "Deaths": 0,
-                "Province_State": "Chandigarh",
-                "Country_Region": "Chandigarh, India",
-                "Lat": 30.45,
-                "Recovered": 0
-            }
-        },
-        {
-            "attributes": {
-                "Confirmed": 11,
-                "Long_": 76.5762,
-                "Deaths": 0,
-                "Province_State": "Jammu and Kashmir",
-                "Country_Region": "Jammu and Kashmir, India",
-                "Lat": 33.7782,
-                "Recovered": 1
-            }
-        },
-        {
-            "attributes": {
-                "Confirmed": 13,
-                "Long_": 77.3448,
-                "Deaths": 0,
-                "Province_State": "Ladakh",
-                "Country_Region": "Ladakh, India",
-                "Lat": 34.1012,
-                "Recovered": 0
-            }
-        },
-        {
-            "attributes": {
-                "Confirmed": 37,
-                "Long_": 80.91,
-                "Deaths": 0,
-                "Province_State": "Uttar Pradesh",
-                "Country_Region": "Uttar Pradesh, India",
-                "Lat": 26.85,
-                "Recovered": 11
             }
         },
         {
@@ -7373,7 +7373,18 @@
         },
         {
             "attributes": {
-                "Confirmed": 9,
+                "Confirmed": 41,
+                "Long_": 80.91,
+                "Deaths": 0,
+                "Province_State": "Uttar Pradesh",
+                "Country_Region": "Uttar Pradesh, India",
+                "Lat": 26.85,
+                "Recovered": 11
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 10,
                 "Long_": 88.366667,
                 "Deaths": 1,
                 "Province_State": "West Bengal",
