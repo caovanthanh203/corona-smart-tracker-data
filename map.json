@@ -4744,6 +4744,17 @@
         },
         {
             "attributes": {
+                "Confirmed": 2,
+                "Long_": "106.119003",
+                "Deaths": 0,
+                "Province_State": "Tây Ninh",
+                "Country_Region": "Tây Ninh, Việt Nam",
+                "Lat": "11.367795",
+                "Recovered": 0
+            }
+        },
+        {
+            "attributes": {
                 "Confirmed": 11,
                 "Long_": "105.548401",
                 "Deaths": 0,
@@ -4767,11 +4778,11 @@
         {
             "attributes": {
                 "Confirmed": 2,
-                "Long_": "106.119003",
+                "Long_": "104.15786",
                 "Deaths": 0,
-                "Province_State": "Tây Ninh",
-                "Country_Region": "Tây Ninh, Việt Nam",
-                "Lat": "11.367795",
+                "Province_State": "Lào Cai",
+                "Country_Region": "Lào Cai, Việt Nam",
+                "Lat": "22.379997",
                 "Recovered": 0
             }
         },
@@ -4783,6 +4794,17 @@
                 "Province_State": "Ninh Thuận",
                 "Country_Region": "Ninh Thuận, Việt Nam",
                 "Lat": "11.56556",
+                "Recovered": 0
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 3,
+                "Long_": "106.298904",
+                "Deaths": 0,
+                "Province_State": "Trà Vinh",
+                "Country_Region": "Trà Vinh, Việt Nam",
+                "Lat": "9.813946",
                 "Recovered": 0
             }
         },
@@ -4810,23 +4832,12 @@
         },
         {
             "attributes": {
-                "Confirmed": 3,
-                "Long_": "106.298904",
+                "Confirmed": 1,
+                "Long_": "105.907345",
                 "Deaths": 0,
-                "Province_State": "Trà Vinh",
-                "Country_Region": "Trà Vinh, Việt Nam",
-                "Lat": "9.813946",
-                "Recovered": 0
-            }
-        },
-        {
-            "attributes": {
-                "Confirmed": 2,
-                "Long_": "104.15786",
-                "Deaths": 0,
-                "Province_State": "Lào Cai",
-                "Country_Region": "Lào Cai, Việt Nam",
-                "Lat": "22.379997",
+                "Province_State": "Hà Tĩnh",
+                "Country_Region": "Hà Tĩnh, Việt Nam",
+                "Lat": "18.341002",
                 "Recovered": 0
             }
         },
@@ -4844,6 +4855,17 @@
         {
             "attributes": {
                 "Confirmed": 1,
+                "Long_": "109.047768",
+                "Deaths": 0,
+                "Province_State": "Khánh Hòa",
+                "Country_Region": "Khánh Hòa, Việt Nam",
+                "Lat": "12.073058",
+                "Recovered": 1
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 1,
                 "Long_": "105.974808",
                 "Deaths": 0,
                 "Province_State": "Ninh Bình",
@@ -4855,33 +4877,11 @@
         {
             "attributes": {
                 "Confirmed": 1,
-                "Long_": "105.784092",
+                "Long_": "103.265991",
                 "Deaths": 0,
-                "Province_State": "Cần Thơ",
-                "Country_Region": "Cần Thơ, Việt Nam",
-                "Lat": "10.032415",
-                "Recovered": 0
-            }
-        },
-        {
-            "attributes": {
-                "Confirmed": 1,
-                "Long_": "105.907345",
-                "Deaths": 0,
-                "Province_State": "Hà Tĩnh",
-                "Country_Region": "Hà Tĩnh, Việt Nam",
-                "Lat": "18.341002",
-                "Recovered": 0
-            }
-        },
-        {
-            "attributes": {
-                "Confirmed": 1,
-                "Long_": "106.376152",
-                "Deaths": 0,
-                "Province_State": "Bến Tre",
-                "Country_Region": "Bến Tre, Việt Nam",
-                "Lat": "10.248371",
+                "Province_State": "Lai Châu",
+                "Country_Region": "Lai Châu, Việt Nam",
+                "Lat": "22.362776",
                 "Recovered": 0
             }
         },
@@ -4899,23 +4899,12 @@
         {
             "attributes": {
                 "Confirmed": 1,
-                "Long_": "103.265991",
+                "Long_": "105.784092",
                 "Deaths": 0,
-                "Province_State": "Lai Châu",
-                "Country_Region": "Lai Châu, Việt Nam",
-                "Lat": "22.362776",
+                "Province_State": "Cần Thơ",
+                "Country_Region": "Cần Thơ, Việt Nam",
+                "Lat": "10.032415",
                 "Recovered": 0
-            }
-        },
-        {
-            "attributes": {
-                "Confirmed": 1,
-                "Long_": "109.047768",
-                "Deaths": 0,
-                "Province_State": "Khánh Hòa",
-                "Country_Region": "Khánh Hòa, Việt Nam",
-                "Lat": "12.073058",
-                "Recovered": 1
             }
         },
         {
@@ -4938,6 +4927,17 @@
                 "Country_Region": "Thanh Hóa, Việt Nam",
                 "Lat": "20.141049",
                 "Recovered": 1
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 1,
+                "Long_": "106.376152",
+                "Deaths": 0,
+                "Province_State": "Bến Tre",
+                "Country_Region": "Bến Tre, Việt Nam",
+                "Lat": "10.248371",
+                "Recovered": 0
             }
         },
         {
@@ -5092,9 +5092,9 @@
                 "x": -413571.0355458779
             },
             "attributes": {
-                "Confirmed": 14597,
+                "Confirmed": 17166,
                 "Long_": -3.715171823,
-                "Deaths": 1825,
+                "Deaths": 2090,
                 "Province_State": "Madrid",
                 "Country_Region": "Madrid, Spain",
                 "Lat": 40.49622965,
@@ -5107,9 +5107,9 @@
                 "x": 170516.76088327533
             },
             "attributes": {
-                "Confirmed": 9937,
+                "Confirmed": 11592,
                 "Long_": 1.531778125,
-                "Deaths": 516,
+                "Deaths": 672,
                 "Province_State": "Catalonia",
                 "Country_Region": "Catalonia, Spain",
                 "Lat": 41.80435155,
@@ -7210,7 +7210,7 @@
             "attributes": {
                 "Confirmed": 13,
                 "Long_": 76.5762,
-                "Deaths": 0,
+                "Deaths": 1,
                 "Province_State": "Jammu and Kashmir",
                 "Country_Region": "Jammu and Kashmir, India",
                 "Lat": 33.7782,
