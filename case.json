@@ -261,7 +261,7 @@
                 "Confirmed": 915,
                 "Country_Region": "Finland",
                 "Recovered": 10,
-                "Deaths": 3
+                "Deaths": 4
             }
         },
         {
@@ -338,7 +338,7 @@
         },
         {
             "attributes": {
-                "Confirmed": 693,
+                "Confirmed": 694,
                 "Country_Region": "India",
                 "Recovered": 45,
                 "Deaths": 13
@@ -1266,6 +1266,14 @@
         },
         {
             "attributes": {
+                "Confirmed": 6,
+                "Country_Region": "Laos",
+                "Recovered": 0,
+                "Deaths": 0
+            }
+        },
+        {
+            "attributes": {
                 "Confirmed": 5,
                 "Country_Region": "Guyana",
                 "Recovered": 0,
@@ -1412,14 +1420,6 @@
             "attributes": {
                 "Confirmed": 3,
                 "Country_Region": "Chad",
-                "Recovered": 0,
-                "Deaths": 0
-            }
-        },
-        {
-            "attributes": {
-                "Confirmed": 3,
-                "Country_Region": "Laos",
                 "Recovered": 0,
                 "Deaths": 0
             }
