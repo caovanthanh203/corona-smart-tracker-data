@@ -1515,6 +1515,14 @@
         {
             "attributes": {
                 "Confirmed": 2,
+                "Country_Region": "Montserrat",
+                "Recovered": 0,
+                "Deaths": 0
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 2,
                 "Country_Region": "Nicaragua",
                 "Recovered": 0,
                 "Deaths": 0
@@ -1548,14 +1556,6 @@
             "attributes": {
                 "Confirmed": 1,
                 "Country_Region": "Libya",
-                "Recovered": 0,
-                "Deaths": 0
-            }
-        },
-        {
-            "attributes": {
-                "Confirmed": 1,
-                "Country_Region": "Montserrat",
                 "Recovered": 0,
                 "Deaths": 0
             }
