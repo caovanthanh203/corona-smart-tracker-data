@@ -282,6 +282,14 @@
         },
         {
             "attributes": {
+                "Confirmed": 900,
+                "Country_Region": "South Africa",
+                "Recovered": 12,
+                "Deaths": 0
+            }
+        },
+        {
+            "attributes": {
                 "Confirmed": 893,
                 "Country_Region": "Indonesia",
                 "Recovered": 35,
@@ -326,14 +334,6 @@
                 "Country_Region": "Diamond Princess",
                 "Recovered": 597,
                 "Deaths": 10
-            }
-        },
-        {
-            "attributes": {
-                "Confirmed": 709,
-                "Country_Region": "South Africa",
-                "Recovered": 12,
-                "Deaths": 0
             }
         },
         {
@@ -738,7 +738,7 @@
         },
         {
             "attributes": {
-                "Confirmed": 109,
+                "Confirmed": 111,
                 "Country_Region": "Kazakhstan",
                 "Recovered": 2,
                 "Deaths": 1
