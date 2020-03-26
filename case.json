@@ -404,8 +404,8 @@
             "attributes": {
                 "Confirmed": 495,
                 "Country_Region": "Egypt",
-                "Recovered": 95,
-                "Deaths": 21
+                "Recovered": 102,
+                "Deaths": 24
             }
         },
         {
@@ -634,6 +634,14 @@
         },
         {
             "attributes": {
+                "Confirmed": 196,
+                "Country_Region": "Ukraine",
+                "Recovered": 1,
+                "Deaths": 5
+            }
+        },
+        {
+            "attributes": {
                 "Confirmed": 189,
                 "Country_Region": "Bosnia and Herzegovina",
                 "Recovered": 2,
@@ -654,14 +662,6 @@
                 "Country_Region": "Albania",
                 "Recovered": 17,
                 "Deaths": 6
-            }
-        },
-        {
-            "attributes": {
-                "Confirmed": 162,
-                "Country_Region": "Ukraine",
-                "Recovered": 1,
-                "Deaths": 5
             }
         },
         {
@@ -946,6 +946,14 @@
         },
         {
             "attributes": {
+                "Confirmed": 43,
+                "Country_Region": "Bolivia",
+                "Recovered": 0,
+                "Deaths": 0
+            }
+        },
+        {
+            "attributes": {
                 "Confirmed": 41,
                 "Country_Region": "Paraguay",
                 "Recovered": 0,
@@ -956,14 +964,6 @@
             "attributes": {
                 "Confirmed": 41,
                 "Country_Region": "Rwanda",
-                "Recovered": 0,
-                "Deaths": 0
-            }
-        },
-        {
-            "attributes": {
-                "Confirmed": 40,
-                "Country_Region": "Bolivia",
                 "Recovered": 0,
                 "Deaths": 0
             }
