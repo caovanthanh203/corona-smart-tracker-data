@@ -4797,6 +4797,21 @@
         },
         {
             "geometry": {
+                "y": 4963779.204124267,
+                "x": -806235.0934058444
+            },
+            "attributes": {
+                "Confirmed": 21,
+                "Long_": -7.24253307,
+                "Deaths": 0,
+                "Province_State": "Guarda",
+                "Country_Region": "Guarda, Portugal",
+                "Lat": 40.66994063,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
                 "y": 4895773.201893851,
                 "x": -927480.7427067511
             },
@@ -4852,21 +4867,6 @@
                 "Province_State": "Faro",
                 "Country_Region": "Faro, Portugal",
                 "Lat": 37.24689287,
-                "Recovered": -1
-            }
-        },
-        {
-            "geometry": {
-                "y": 4963779.204124267,
-                "x": -806235.0934058444
-            },
-            "attributes": {
-                "Confirmed": 21,
-                "Long_": -7.24253307,
-                "Deaths": 0,
-                "Province_State": "Guarda",
-                "Country_Region": "Guarda, Portugal",
-                "Lat": 40.66994063,
                 "Recovered": -1
             }
         },
@@ -7152,6 +7152,81 @@
         },
         {
             "geometry": {
+                "y": 8748427.944080427,
+                "x": 2466273.9999704016
+            },
+            "attributes": {
+                "Confirmed": 10,
+                "Long_": 22.15491629,
+                "Deaths": 0,
+                "Province_State": "Satakunta",
+                "Country_Region": "Satakunta, Finland",
+                "Lat": 61.52948713,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 9115148.532321831,
+                "x": 2467235.192566436
+            },
+            "attributes": {
+                "Confirmed": 9,
+                "Long_": 22.16355083,
+                "Deaths": 0,
+                "Province_State": "Pohjanmaa",
+                "Country_Region": "Pohjanmaa, Finland",
+                "Lat": 63.06069329,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 8674335.548958102,
+                "x": 3153740.456255067
+            },
+            "attributes": {
+                "Confirmed": 7,
+                "Long_": 28.33053254,
+                "Deaths": 0,
+                "Province_State": "Etela-Karjala",
+                "Country_Region": "Etela-Karjala, Finland",
+                "Lat": 61.21057538,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 8835625.767207382,
+                "x": 3101294.2251457106
+            },
+            "attributes": {
+                "Confirmed": 6,
+                "Long_": 27.85940003,
+                "Deaths": 0,
+                "Province_State": "Etela-Savo",
+                "Country_Region": "Etela-Savo, Finland",
+                "Lat": 61.90065923,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 9033368.235323807,
+                "x": 2563626.1118024033
+            },
+            "attributes": {
+                "Confirmed": 5,
+                "Long_": 23.02944519,
+                "Deaths": 0,
+                "Province_State": "Etela-Pohjanmaa",
+                "Country_Region": "Etela-Pohjanmaa, Finland",
+                "Lat": 62.72595747,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
                 "y": 9486402.383342328,
                 "x": 3177722.443849897
             },
@@ -7162,21 +7237,6 @@
                 "Province_State": "Kainuu",
                 "Country_Region": "Kainuu, Finland",
                 "Lat": 64.53292023,
-                "Recovered": -1
-            }
-        },
-        {
-            "geometry": {
-                "y": 8790571.582554111,
-                "x": 2640983.150281506
-            },
-            "attributes": {
-                "Confirmed": 61,
-                "Long_": 23.72435529,
-                "Deaths": 0,
-                "Province_State": "Pirkanmaa",
-                "Country_Region": "Pirkanmaa, Finland",
-                "Lat": 61.70943654,
                 "Recovered": -1
             }
         },
@@ -7222,111 +7282,6 @@
                 "Province_State": "Varsinais-Suomi",
                 "Country_Region": "Varsinais-Suomi, Finland",
                 "Lat": 60.62677659,
-                "Recovered": -1
-            }
-        },
-        {
-            "geometry": {
-                "y": 8835625.767207382,
-                "x": 3101294.2251457106
-            },
-            "attributes": {
-                "Confirmed": 6,
-                "Long_": 27.85940003,
-                "Deaths": 0,
-                "Province_State": "Etela-Savo",
-                "Country_Region": "Etela-Savo, Finland",
-                "Lat": 61.90065923,
-                "Recovered": -1
-            }
-        },
-        {
-            "geometry": {
-                "y": 9033368.235323807,
-                "x": 2563626.1118024033
-            },
-            "attributes": {
-                "Confirmed": 5,
-                "Long_": 23.02944519,
-                "Deaths": 0,
-                "Province_State": "Etela-Pohjanmaa",
-                "Country_Region": "Etela-Pohjanmaa, Finland",
-                "Lat": 62.72595747,
-                "Recovered": -1
-            }
-        },
-        {
-            "geometry": {
-                "y": 8608226.830832228,
-                "x": 2710945.5077199643
-            },
-            "attributes": {
-                "Confirmed": 16,
-                "Long_": 24.35283784,
-                "Deaths": 0,
-                "Province_State": "Kanta-Hame",
-                "Country_Region": "Kanta-Hame, Finland",
-                "Lat": 60.92327321,
-                "Recovered": -1
-            }
-        },
-        {
-            "geometry": {
-                "y": 8677133.299310513,
-                "x": 2863328.2528651385
-            },
-            "attributes": {
-                "Confirmed": 15,
-                "Long_": 25.72171533,
-                "Deaths": 0,
-                "Province_State": "P?ij?t-H?me",
-                "Country_Region": "P?ij?t-H?me, Finland",
-                "Lat": 61.22267672,
-                "Recovered": -1
-            }
-        },
-        {
-            "geometry": {
-                "y": 8748427.944080427,
-                "x": 2466273.9999704016
-            },
-            "attributes": {
-                "Confirmed": 10,
-                "Long_": 22.15491629,
-                "Deaths": 0,
-                "Province_State": "Satakunta",
-                "Country_Region": "Satakunta, Finland",
-                "Lat": 61.52948713,
-                "Recovered": -1
-            }
-        },
-        {
-            "geometry": {
-                "y": 9115148.532321831,
-                "x": 2467235.192566436
-            },
-            "attributes": {
-                "Confirmed": 9,
-                "Long_": 22.16355083,
-                "Deaths": 0,
-                "Province_State": "Pohjanmaa",
-                "Country_Region": "Pohjanmaa, Finland",
-                "Lat": 63.06069329,
-                "Recovered": -1
-            }
-        },
-        {
-            "geometry": {
-                "y": 8674335.548958102,
-                "x": 3153740.456255067
-            },
-            "attributes": {
-                "Confirmed": 7,
-                "Long_": 28.33053254,
-                "Deaths": 0,
-                "Province_State": "Etela-Karjala",
-                "Country_Region": "Etela-Karjala, Finland",
-                "Lat": 61.21057538,
                 "Recovered": -1
             }
         },
@@ -7392,6 +7347,66 @@
         },
         {
             "geometry": {
+                "y": 8790571.582554111,
+                "x": 2640983.150281506
+            },
+            "attributes": {
+                "Confirmed": 61,
+                "Long_": 23.72435529,
+                "Deaths": 0,
+                "Province_State": "Pirkanmaa",
+                "Country_Region": "Pirkanmaa, Finland",
+                "Lat": 61.70943654,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 8608226.830832228,
+                "x": 2710945.5077199643
+            },
+            "attributes": {
+                "Confirmed": 16,
+                "Long_": 24.35283784,
+                "Deaths": 0,
+                "Province_State": "Kanta-Hame",
+                "Country_Region": "Kanta-Hame, Finland",
+                "Lat": 60.92327321,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 8677133.299310513,
+                "x": 2863328.2528651385
+            },
+            "attributes": {
+                "Confirmed": 15,
+                "Long_": 25.72171533,
+                "Deaths": 0,
+                "Province_State": "P?ij?t-H?me",
+                "Country_Region": "P?ij?t-H?me, Finland",
+                "Lat": 61.22267672,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 8586978.438085806,
+                "x": 2993227.1158399275
+            },
+            "attributes": {
+                "Confirmed": 1,
+                "Long_": 26.88861667,
+                "Deaths": 0,
+                "Province_State": "Kymenlaakso",
+                "Country_Region": "Kymenlaakso, Finland",
+                "Lat": 60.83037532,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
                 "y": 8448945.594951449,
                 "x": 2223617.340495155
             },
@@ -7432,21 +7447,6 @@
                 "Province_State": "Ahvenanmaan maakunta",
                 "Country_Region": "Ahvenanmaan maakunta, Finland",
                 "Lat": 60.2119755,
-                "Recovered": -1
-            }
-        },
-        {
-            "geometry": {
-                "y": 8586978.438085806,
-                "x": 2993227.1158399275
-            },
-            "attributes": {
-                "Confirmed": 1,
-                "Long_": 26.88861667,
-                "Deaths": 0,
-                "Province_State": "Kymenlaakso",
-                "Country_Region": "Kymenlaakso, Finland",
-                "Lat": 60.83037532,
                 "Recovered": -1
             }
         },
