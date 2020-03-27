@@ -645,7 +645,7 @@
                 "Confirmed": 191,
                 "Country_Region": "Bosnia and Herzegovina",
                 "Recovered": 2,
-                "Deaths": 3
+                "Deaths": 5
             }
         },
         {
@@ -1339,6 +1339,14 @@
         {
             "attributes": {
                 "Confirmed": 5,
+                "Country_Region": "Zimbabwe",
+                "Recovered": 0,
+                "Deaths": 1
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 5,
                 "Country_Region": "Fiji",
                 "Recovered": 0,
                 "Deaths": 0
@@ -1420,14 +1428,6 @@
             "attributes": {
                 "Confirmed": 3,
                 "Country_Region": "Sudan",
-                "Recovered": 0,
-                "Deaths": 1
-            }
-        },
-        {
-            "attributes": {
-                "Confirmed": 3,
-                "Country_Region": "Zimbabwe",
                 "Recovered": 0,
                 "Deaths": 1
             }
