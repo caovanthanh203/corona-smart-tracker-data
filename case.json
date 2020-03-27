@@ -157,7 +157,7 @@
                 "Confirmed": 3069,
                 "Country_Region": "Sweden",
                 "Recovered": 16,
-                "Deaths": 92
+                "Deaths": 105
             }
         },
         {
@@ -260,7 +260,7 @@
             "attributes": {
                 "Confirmed": 1170,
                 "Country_Region": "South Africa",
-                "Recovered": 12,
+                "Recovered": 31,
                 "Deaths": 1
             }
         },
@@ -530,6 +530,14 @@
         },
         {
             "attributes": {
+                "Confirmed": 310,
+                "Country_Region": "Ukraine",
+                "Recovered": 5,
+                "Deaths": 5
+            }
+        },
+        {
+            "attributes": {
                 "Confirmed": 300,
                 "Country_Region": "Hungary",
                 "Recovered": 34,
@@ -614,14 +622,6 @@
                 "Country_Region": "Tunisia",
                 "Recovered": 2,
                 "Deaths": 6
-            }
-        },
-        {
-            "attributes": {
-                "Confirmed": 226,
-                "Country_Region": "Ukraine",
-                "Recovered": 5,
-                "Deaths": 5
             }
         },
         {
