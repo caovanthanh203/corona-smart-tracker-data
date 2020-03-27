@@ -693,7 +693,7 @@
                 "Confirmed": 146,
                 "Country_Region": "Cyprus",
                 "Recovered": 4,
-                "Deaths": 3
+                "Deaths": 5
             }
         },
         {
@@ -1387,6 +1387,14 @@
         {
             "attributes": {
                 "Confirmed": 5,
+                "Country_Region": "St. Barth",
+                "Recovered": 0,
+                "Deaths": 0
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 5,
                 "Country_Region": "Syria",
                 "Recovered": 0,
                 "Deaths": 0
@@ -1476,14 +1484,6 @@
             "attributes": {
                 "Confirmed": 3,
                 "Country_Region": "Mauritania",
-                "Recovered": 0,
-                "Deaths": 0
-            }
-        },
-        {
-            "attributes": {
-                "Confirmed": 3,
-                "Country_Region": "St. Barth",
                 "Recovered": 0,
                 "Deaths": 0
             }
