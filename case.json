@@ -1091,6 +1091,14 @@
         {
             "attributes": {
                 "Confirmed": 16,
+                "Country_Region": "Ethiopia",
+                "Recovered": 0,
+                "Deaths": 0
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 16,
                 "Country_Region": "Zambia",
                 "Recovered": 0,
                 "Deaths": 0
@@ -1140,14 +1148,6 @@
             "attributes": {
                 "Confirmed": 12,
                 "Country_Region": "Equatorial Guinea",
-                "Recovered": 0,
-                "Deaths": 0
-            }
-        },
-        {
-            "attributes": {
-                "Confirmed": 12,
-                "Country_Region": "Ethiopia",
                 "Recovered": 0,
                 "Deaths": 0
             }
