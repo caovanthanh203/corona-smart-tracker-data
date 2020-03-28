@@ -4746,22 +4746,22 @@
         {
             "attributes": {
                 "Confirmed": 0,
-                "Long_": "106.681944",
+                "Long_": "105.85417",
                 "Deaths": 0,
-                "Province_State": "Thành phố Hồ Chí Minh",
-                "Country_Region": "Thành phố Hồ Chí Minh, Việt Nam",
-                "Lat": "10.769444",
+                "Province_State": "Việt Nam",
+                "Country_Region": "Việt Nam, Việt Nam",
+                "Lat": "21.02833",
                 "Recovered": 0
             }
         },
         {
             "attributes": {
                 "Confirmed": 0,
-                "Long_": "105.85417",
+                "Long_": "106.681944",
                 "Deaths": 0,
-                "Province_State": "Việt Nam",
-                "Country_Region": "Việt Nam, Việt Nam",
-                "Lat": "21.02833",
+                "Province_State": "Thành phố Hồ Chí Minh",
+                "Country_Region": "Thành phố Hồ Chí Minh, Việt Nam",
+                "Lat": "10.769444",
                 "Recovered": 0
             }
         },
@@ -5067,21 +5067,6 @@
         },
         {
             "geometry": {
-                "y": 4203481.994144422,
-                "x": -328457.60571601527
-            },
-            "attributes": {
-                "Confirmed": 42,
-                "Long_": -2.950584874,
-                "Deaths": 1,
-                "Province_State": "Melilla",
-                "Country_Region": "Melilla, Spain",
-                "Lat": 35.29088603,
-                "Recovered": -1
-            }
-        },
-        {
-            "geometry": {
                 "y": 5356640.869383856,
                 "x": -667109.0904207148
             },
@@ -5092,21 +5077,6 @@
                 "Province_State": "Asturias",
                 "Country_Region": "Asturias, Spain",
                 "Lat": 43.2927683,
-                "Recovered": -1
-            }
-        },
-        {
-            "geometry": {
-                "y": 4285986.742936448,
-                "x": -594628.6291049336
-            },
-            "attributes": {
-                "Confirmed": 17,
-                "Long_": -5.341639859,
-                "Deaths": 0,
-                "Province_State": "Ceuta",
-                "Country_Region": "Ceuta, Spain",
-                "Lat": 35.8935708,
                 "Recovered": -1
             }
         },
@@ -5152,6 +5122,36 @@
                 "Province_State": "Murcia",
                 "Country_Region": "Murcia, Spain",
                 "Lat": 38.00416327,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 4285986.742936448,
+                "x": -594628.6291049336
+            },
+            "attributes": {
+                "Confirmed": 17,
+                "Long_": -5.341639859,
+                "Deaths": 0,
+                "Province_State": "Ceuta",
+                "Country_Region": "Ceuta, Spain",
+                "Lat": 35.8935708,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 4203481.994144422,
+                "x": -328457.60571601527
+            },
+            "attributes": {
+                "Confirmed": 42,
+                "Long_": -2.950584874,
+                "Deaths": 1,
+                "Province_State": "Melilla",
+                "Country_Region": "Melilla, Spain",
+                "Lat": 35.29088603,
                 "Recovered": -1
             }
         },
