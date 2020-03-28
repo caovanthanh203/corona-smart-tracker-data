@@ -4746,22 +4746,22 @@
         {
             "attributes": {
                 "Confirmed": 0,
-                "Long_": "106.681944",
+                "Long_": "105.85417",
                 "Deaths": 0,
-                "Province_State": "Thành phố Hồ Chí Minh",
-                "Country_Region": "Thành phố Hồ Chí Minh, Việt Nam",
-                "Lat": "10.769444",
+                "Province_State": "Việt Nam",
+                "Country_Region": "Việt Nam, Việt Nam",
+                "Lat": "21.02833",
                 "Recovered": 0
             }
         },
         {
             "attributes": {
                 "Confirmed": 0,
-                "Long_": "105.85417",
+                "Long_": "106.681944",
                 "Deaths": 0,
-                "Province_State": "Việt Nam",
-                "Country_Region": "Việt Nam, Việt Nam",
-                "Lat": "21.02833",
+                "Province_State": "Thành phố Hồ Chí Minh",
+                "Country_Region": "Thành phố Hồ Chí Minh, Việt Nam",
+                "Lat": "10.769444",
                 "Recovered": 0
             }
         },
@@ -6027,6 +6027,51 @@
         },
         {
             "geometry": {
+                "y": 4261515.729525297,
+                "x": 14154512.034672488
+            },
+            "attributes": {
+                "Confirmed": 10,
+                "Long_": 127.152145,
+                "Deaths": 0,
+                "Province_State": "Jeonbuk",
+                "Country_Region": "Jeonbuk, South Korea",
+                "Lat": 35.71528728,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 4154667.6461854544,
+                "x": 14134502.456389938
+            },
+            "attributes": {
+                "Confirmed": 8,
+                "Long_": 126.9723959,
+                "Deaths": 0,
+                "Province_State": "Jeonnam",
+                "Country_Region": "Jeonnam, South Korea",
+                "Lat": 34.93217377,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 3946436.334987099,
+                "x": 14087930.177436667
+            },
+            "attributes": {
+                "Confirmed": 7,
+                "Long_": 126.55403,
+                "Deaths": 0,
+                "Province_State": "Jeju",
+                "Country_Region": "Jeju, South Korea",
+                "Lat": 33.38438381,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
                 "y": 4277905.80205676,
                 "x": 14312261.82754047
             },
@@ -6052,6 +6097,21 @@
                 "Province_State": "Gyeongbuk",
                 "Country_Region": "Gyeongbuk, South Korea",
                 "Lat": 36.34569137,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 4516658.480856331,
+                "x": 14136519.910653533
+            },
+            "attributes": {
+                "Confirmed": 372,
+                "Long_": 126.990519,
+                "Deaths": 0,
+                "Province_State": "Seoul",
+                "Country_Region": "Seoul, South Korea",
+                "Lat": 37.55433705,
                 "Recovered": -1
             }
         },
@@ -6102,61 +6162,16 @@
         },
         {
             "geometry": {
-                "y": 4501455.298122403,
-                "x": 14094911.490246175
+                "y": 4181074.765805291,
+                "x": 14121499.015163342
             },
             "attributes": {
-                "Confirmed": 46,
-                "Long_": 126.6167442,
+                "Confirmed": 20,
+                "Long_": 126.855584,
                 "Deaths": 0,
-                "Province_State": "Incheon",
-                "Country_Region": "Incheon, South Korea",
-                "Lat": 37.44598706,
-                "Recovered": -1
-            }
-        },
-        {
-            "geometry": {
-                "y": 4380863.405860075,
-                "x": 14163624.091591367
-            },
-            "attributes": {
-                "Confirmed": 44,
-                "Long_": 127.234,
-                "Deaths": 0,
-                "Province_State": "Sejong",
-                "Country_Region": "Sejong, South Korea",
-                "Lat": 36.581,
-                "Recovered": -1
-            }
-        },
-        {
-            "geometry": {
-                "y": 4243466.1429146435,
-                "x": 14390257.20537563
-            },
-            "attributes": {
-                "Confirmed": 39,
-                "Long_": 129.2698799,
-                "Deaths": 0,
-                "Province_State": "Ulsan",
-                "Country_Region": "Ulsan, South Korea",
-                "Lat": 35.58353084,
-                "Recovered": -1
-            }
-        },
-        {
-            "geometry": {
-                "y": 4516658.480856331,
-                "x": 14136519.910653533
-            },
-            "attributes": {
-                "Confirmed": 372,
-                "Long_": 126.990519,
-                "Deaths": 0,
-                "Province_State": "Seoul",
-                "Country_Region": "Seoul, South Korea",
-                "Lat": 37.55433705,
+                "Province_State": "Gwangju",
+                "Country_Region": "Gwangju, South Korea",
+                "Lat": 35.12642257,
                 "Recovered": -1
             }
         },
@@ -6222,66 +6237,6 @@
         },
         {
             "geometry": {
-                "y": 4181074.765805291,
-                "x": 14121499.015163342
-            },
-            "attributes": {
-                "Confirmed": 20,
-                "Long_": 126.855584,
-                "Deaths": 0,
-                "Province_State": "Gwangju",
-                "Country_Region": "Gwangju, South Korea",
-                "Lat": 35.12642257,
-                "Recovered": -1
-            }
-        },
-        {
-            "geometry": {
-                "y": 4261515.729525297,
-                "x": 14154512.034672488
-            },
-            "attributes": {
-                "Confirmed": 10,
-                "Long_": 127.152145,
-                "Deaths": 0,
-                "Province_State": "Jeonbuk",
-                "Country_Region": "Jeonbuk, South Korea",
-                "Lat": 35.71528728,
-                "Recovered": -1
-            }
-        },
-        {
-            "geometry": {
-                "y": 4154667.6461854544,
-                "x": 14134502.456389938
-            },
-            "attributes": {
-                "Confirmed": 8,
-                "Long_": 126.9723959,
-                "Deaths": 0,
-                "Province_State": "Jeonnam",
-                "Country_Region": "Jeonnam, South Korea",
-                "Lat": 34.93217377,
-                "Recovered": -1
-            }
-        },
-        {
-            "geometry": {
-                "y": 3946436.334987099,
-                "x": 14087930.177436667
-            },
-            "attributes": {
-                "Confirmed": 7,
-                "Long_": 126.55403,
-                "Deaths": 0,
-                "Province_State": "Jeju",
-                "Country_Region": "Jeju, South Korea",
-                "Lat": 33.38438381,
-                "Recovered": -1
-            }
-        },
-        {
-            "geometry": {
                 "y": 4514314.444118654,
                 "x": 14157644.598539256
             },
@@ -6292,6 +6247,51 @@
                 "Province_State": "Gyeonggido",
                 "Country_Region": "Gyeonggido, South Korea",
                 "Lat": 37.53764183,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 4501455.298122403,
+                "x": 14094911.490246175
+            },
+            "attributes": {
+                "Confirmed": 46,
+                "Long_": 126.6167442,
+                "Deaths": 0,
+                "Province_State": "Incheon",
+                "Country_Region": "Incheon, South Korea",
+                "Lat": 37.44598706,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 4380863.405860075,
+                "x": 14163624.091591367
+            },
+            "attributes": {
+                "Confirmed": 44,
+                "Long_": 127.234,
+                "Deaths": 0,
+                "Province_State": "Sejong",
+                "Country_Region": "Sejong, South Korea",
+                "Lat": 36.581,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 4243466.1429146435,
+                "x": 14390257.20537563
+            },
+            "attributes": {
+                "Confirmed": 39,
+                "Long_": 129.2698799,
+                "Deaths": 0,
+                "Province_State": "Ulsan",
+                "Country_Region": "Ulsan, South Korea",
+                "Lat": 35.58353084,
                 "Recovered": -1
             }
         },
