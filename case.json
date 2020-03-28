@@ -2,14 +2,6 @@
     "features": [
         {
             "attributes": {
-                "Confirmed": 81394,
-                "Country_Region": "China",
-                "Recovered": 74971,
-                "Deaths": 3295
-            }
-        },
-        {
-            "attributes": {
                 "Confirmed": 104256,
                 "Country_Region": "USA",
                 "Recovered": 2525,
@@ -1606,6 +1598,14 @@
                 "Country_Region": "Timor-Leste",
                 "Recovered": 0,
                 "Deaths": 0
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 81394,
+                "Country_Region": "China",
+                "Recovered": 74971,
+                "Deaths": 3295
             }
         }
     ]
