@@ -2090,18 +2090,6 @@
         },
         {
             "attributes": {
-                "Confirmed": 2311,
-                "Long_": 121.774017,
-                "Province_State_Child": null,
-                "Deaths": 96,
-                "Province_State": null,
-                "Country_Region": "Philippines",
-                "Lat": 12.879721,
-                "Recovered": 50
-            }
-        },
-        {
-            "attributes": {
                 "Confirmed": 835,
                 "Long_": 51.1839,
                 "Province_State_Child": null,
@@ -37814,6 +37802,17 @@
         },
         {
             "attributes": {
+                "Confirmed": 19,
+                "Long_": "50.933",
+                "Deaths": 0,
+                "Province_State": "Tatarstan",
+                "Country_Region": "Tatarstan, Russia",
+                "Lat": "55.550",
+                "Recovered": 2
+            }
+        },
+        {
+            "attributes": {
                 "Confirmed": 20,
                 "Long_": "91.667",
                 "Deaths": 0,
@@ -37836,13 +37835,24 @@
         },
         {
             "attributes": {
-                "Confirmed": 15,
-                "Long_": "129.167",
+                "Confirmed": 17,
+                "Long_": "37.583",
                 "Deaths": 0,
-                "Province_State": "Yakutia",
-                "Country_Region": "Yakutia, Russia",
-                "Lat": "66.400",
-                "Recovered": 1
+                "Province_State": "Tula Oblast",
+                "Country_Region": "Tula Oblast, Russia",
+                "Lat": "53.917",
+                "Recovered": 3
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 15,
+                "Long_": "50.450",
+                "Deaths": 0,
+                "Province_State": "Samara Oblast",
+                "Country_Region": "Samara Oblast, Russia",
+                "Lat": "53.450",
+                "Recovered": 2
             }
         },
         {
@@ -37858,12 +37868,12 @@
         },
         {
             "attributes": {
-                "Confirmed": 21,
-                "Long_": "60.333",
-                "Deaths": 0,
-                "Province_State": "Chelyabinsk Oblast",
-                "Country_Region": "Chelyabinsk Oblast, Russia",
-                "Lat": "54.533",
+                "Confirmed": 16,
+                "Long_": "44.567",
+                "Deaths": 1,
+                "Province_State": "Penza Oblast",
+                "Country_Region": "Penza Oblast, Russia",
+                "Lat": "53.250",
                 "Recovered": 0
             }
         },
@@ -37880,56 +37890,23 @@
         },
         {
             "attributes": {
-                "Confirmed": 19,
-                "Long_": "50.933",
-                "Deaths": 0,
-                "Province_State": "Tatarstan",
-                "Country_Region": "Tatarstan, Russia",
-                "Lat": "55.550",
-                "Recovered": 2
-            }
-        },
-        {
-            "attributes": {
-                "Confirmed": 16,
-                "Long_": "44.567",
-                "Deaths": 1,
-                "Province_State": "Penza Oblast",
-                "Country_Region": "Penza Oblast, Russia",
-                "Lat": "53.250",
-                "Recovered": 0
-            }
-        },
-        {
-            "attributes": {
-                "Confirmed": 17,
-                "Long_": "37.583",
-                "Deaths": 0,
-                "Province_State": "Tula Oblast",
-                "Country_Region": "Tula Oblast, Russia",
-                "Lat": "53.917",
-                "Recovered": 3
-            }
-        },
-        {
-            "attributes": {
-                "Confirmed": 22,
-                "Long_": "39.433",
-                "Deaths": 0,
-                "Province_State": "Krasnodar Krai",
-                "Country_Region": "Krasnodar Krai, Russia",
-                "Lat": "45.367",
-                "Recovered": 3
-            }
-        },
-        {
-            "attributes": {
                 "Confirmed": 33,
                 "Long_": "61.333",
                 "Deaths": 0,
                 "Province_State": "Sverdlovsk Oblast",
                 "Country_Region": "Sverdlovsk Oblast, Russia",
                 "Lat": "58.700",
+                "Recovered": 1
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 15,
+                "Long_": "129.167",
+                "Deaths": 0,
+                "Province_State": "Yakutia",
+                "Country_Region": "Yakutia, Russia",
+                "Lat": "66.400",
                 "Recovered": 1
             }
         },
@@ -37946,24 +37923,24 @@
         },
         {
             "attributes": {
-                "Confirmed": 3,
-                "Long_": "87.233",
+                "Confirmed": 21,
+                "Long_": "60.333",
                 "Deaths": 0,
-                "Province_State": "Kemerovo Oblast",
-                "Country_Region": "Kemerovo Oblast, Russia",
-                "Lat": "54.933",
-                "Recovered": 2
+                "Province_State": "Chelyabinsk Oblast",
+                "Country_Region": "Chelyabinsk Oblast, Russia",
+                "Lat": "54.533",
+                "Recovered": 0
             }
         },
         {
             "attributes": {
-                "Confirmed": 1,
-                "Long_": "64.750",
+                "Confirmed": 22,
+                "Long_": "39.433",
                 "Deaths": 0,
-                "Province_State": "Kurgan Oblast",
-                "Country_Region": "Kurgan Oblast, Russia",
-                "Lat": "55.567",
-                "Recovered": 1
+                "Province_State": "Krasnodar Krai",
+                "Country_Region": "Krasnodar Krai, Russia",
+                "Lat": "45.367",
+                "Recovered": 3
             }
         },
         {
@@ -37974,17 +37951,6 @@
                 "Province_State": "Buryatia",
                 "Country_Region": "Buryatia, Russia",
                 "Lat": "53.800",
-                "Recovered": 0
-            }
-        },
-        {
-            "attributes": {
-                "Confirmed": 1,
-                "Long_": "33.000",
-                "Deaths": 0,
-                "Province_State": "Smolensk Oblast",
-                "Country_Region": "Smolensk Oblast, Russia",
-                "Lat": "55.000",
                 "Recovered": 0
             }
         },
@@ -38012,12 +37978,34 @@
         },
         {
             "attributes": {
+                "Confirmed": 1,
+                "Long_": "64.750",
+                "Deaths": 0,
+                "Province_State": "Kurgan Oblast",
+                "Country_Region": "Kurgan Oblast, Russia",
+                "Lat": "55.567",
+                "Recovered": 1
+            }
+        },
+        {
+            "attributes": {
                 "Confirmed": 54,
                 "Long_": "54.467",
                 "Deaths": 0,
                 "Province_State": "Komi Republic",
                 "Country_Region": "Komi Republic, Russia",
                 "Lat": "64.283",
+                "Recovered": 0
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 1,
+                "Long_": "127.833",
+                "Deaths": 0,
+                "Province_State": "Amur Oblast",
+                "Country_Region": "Amur Oblast, Russia",
+                "Lat": "53.550",
                 "Recovered": 0
             }
         },
@@ -38034,67 +38022,12 @@
         },
         {
             "attributes": {
-                "Confirmed": 125,
-                "Long_": "30.30861",
-                "Deaths": 2,
-                "Province_State": "Saint Petersburg",
-                "Country_Region": "Saint Petersburg, Russia",
-                "Lat": "59.93750",
-                "Recovered": 7
-            }
-        },
-        {
-            "attributes": {
-                "Confirmed": 3,
-                "Long_": "82.133",
-                "Deaths": 0,
-                "Province_State": "Tomsk Oblast",
-                "Country_Region": "Tomsk Oblast, Russia",
-                "Lat": "58.750",
-                "Recovered": 1
-            }
-        },
-        {
-            "attributes": {
-                "Confirmed": 2,
-                "Long_": "45.317",
-                "Deaths": 0,
-                "Province_State": "Kalmykia",
-                "Country_Region": "Kalmykia, Russia",
-                "Lat": "46.567",
-                "Recovered": 0
-            }
-        },
-        {
-            "attributes": {
-                "Confirmed": 3,
-                "Long_": "39.200",
-                "Deaths": 0,
-                "Province_State": "Yaroslavl Oblast",
-                "Country_Region": "Yaroslavl Oblast, Russia",
-                "Lat": "57.867",
-                "Recovered": 1
-            }
-        },
-        {
-            "attributes": {
-                "Confirmed": 3,
-                "Long_": "40.617",
-                "Deaths": 1,
-                "Province_State": "Vladimir Oblast",
-                "Country_Region": "Vladimir Oblast, Russia",
-                "Lat": "56.083",
-                "Recovered": 0
-            }
-        },
-        {
-            "attributes": {
                 "Confirmed": 1,
-                "Long_": "127.833",
+                "Long_": "33.000",
                 "Deaths": 0,
-                "Province_State": "Amur Oblast",
-                "Country_Region": "Amur Oblast, Russia",
-                "Lat": "53.550",
+                "Province_State": "Smolensk Oblast",
+                "Country_Region": "Smolensk Oblast, Russia",
+                "Lat": "55.000",
                 "Recovered": 0
             }
         },
@@ -38112,34 +38045,34 @@
         {
             "attributes": {
                 "Confirmed": 3,
-                "Long_": "32.383",
-                "Deaths": 0,
-                "Province_State": "Novgorod Oblast",
-                "Country_Region": "Novgorod Oblast, Russia",
-                "Lat": "58.433",
+                "Long_": "40.617",
+                "Deaths": 1,
+                "Province_State": "Vladimir Oblast",
+                "Country_Region": "Vladimir Oblast, Russia",
+                "Lat": "56.083",
                 "Recovered": 0
             }
         },
         {
             "attributes": {
                 "Confirmed": 3,
-                "Long_": "36.433",
+                "Long_": "87.233",
                 "Deaths": 0,
-                "Province_State": "Oryol Oblast",
-                "Country_Region": "Oryol Oblast, Russia",
-                "Lat": "52.850",
-                "Recovered": 0
+                "Province_State": "Kemerovo Oblast",
+                "Country_Region": "Kemerovo Oblast, Russia",
+                "Lat": "54.933",
+                "Recovered": 2
             }
         },
         {
             "attributes": {
-                "Confirmed": 4,
-                "Long_": "52.750",
+                "Confirmed": 3,
+                "Long_": "39.200",
                 "Deaths": 0,
-                "Province_State": "Udmurtia",
-                "Country_Region": "Udmurtia, Russia",
-                "Lat": "57.283",
-                "Recovered": 3
+                "Province_State": "Yaroslavl Oblast",
+                "Country_Region": "Yaroslavl Oblast, Russia",
+                "Lat": "57.867",
+                "Recovered": 1
             }
         },
         {
@@ -38156,11 +38089,44 @@
         {
             "attributes": {
                 "Confirmed": 3,
-                "Long_": "35.433",
+                "Long_": "82.133",
                 "Deaths": 0,
-                "Province_State": "Kaluga Oblast",
-                "Country_Region": "Kaluga Oblast, Russia",
-                "Lat": "54.433",
+                "Province_State": "Tomsk Oblast",
+                "Country_Region": "Tomsk Oblast, Russia",
+                "Lat": "58.750",
+                "Recovered": 1
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 3,
+                "Long_": "36.433",
+                "Deaths": 0,
+                "Province_State": "Oryol Oblast",
+                "Country_Region": "Oryol Oblast, Russia",
+                "Lat": "52.850",
+                "Recovered": 0
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 3,
+                "Long_": "32.383",
+                "Deaths": 0,
+                "Province_State": "Novgorod Oblast",
+                "Country_Region": "Novgorod Oblast, Russia",
+                "Lat": "58.433",
+                "Recovered": 0
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 2,
+                "Long_": "45.317",
+                "Deaths": 0,
+                "Province_State": "Kalmykia",
+                "Country_Region": "Kalmykia, Russia",
+                "Lat": "46.567",
                 "Recovered": 0
             }
         },
@@ -38188,6 +38154,39 @@
         },
         {
             "attributes": {
+                "Confirmed": 5,
+                "Long_": "34.617",
+                "Deaths": 0,
+                "Province_State": "Tver Oblast",
+                "Country_Region": "Tver Oblast, Russia",
+                "Lat": "57.150",
+                "Recovered": 2
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 3,
+                "Long_": "90.000",
+                "Deaths": 0,
+                "Province_State": "Khakassia",
+                "Country_Region": "Khakassia, Russia",
+                "Lat": "53.500",
+                "Recovered": 0
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 4,
+                "Long_": "52.750",
+                "Deaths": 0,
+                "Province_State": "Udmurtia",
+                "Country_Region": "Udmurtia, Russia",
+                "Lat": "57.283",
+                "Recovered": 3
+            }
+        },
+        {
+            "attributes": {
                 "Confirmed": 4,
                 "Long_": "44.450",
                 "Deaths": 0,
@@ -38211,23 +38210,12 @@
         {
             "attributes": {
                 "Confirmed": 3,
-                "Long_": "90.000",
+                "Long_": "35.433",
                 "Deaths": 0,
-                "Province_State": "Khakassia",
-                "Country_Region": "Khakassia, Russia",
-                "Lat": "53.500",
+                "Province_State": "Kaluga Oblast",
+                "Country_Region": "Kaluga Oblast, Russia",
+                "Lat": "54.433",
                 "Recovered": 0
-            }
-        },
-        {
-            "attributes": {
-                "Confirmed": 5,
-                "Long_": "34.617",
-                "Deaths": 0,
-                "Province_State": "Tver Oblast",
-                "Country_Region": "Tver Oblast, Russia",
-                "Lat": "57.150",
-                "Recovered": 2
             }
         },
         {
@@ -38250,6 +38238,17 @@
                 "Country_Region": "Primorsky Krai, Russia",
                 "Lat": "45.333",
                 "Recovered": 1
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 6,
+                "Long_": "69.000",
+                "Deaths": 0,
+                "Province_State": "Tyumen Oblast",
+                "Country_Region": "Tyumen Oblast, Russia",
+                "Lat": "57.833",
+                "Recovered": 2
             }
         },
         {
@@ -38298,13 +38297,13 @@
         },
         {
             "attributes": {
-                "Confirmed": 6,
-                "Long_": "69.000",
+                "Confirmed": 5,
+                "Long_": "37.450",
                 "Deaths": 0,
-                "Province_State": "Tyumen Oblast",
-                "Country_Region": "Tyumen Oblast, Russia",
-                "Lat": "57.833",
-                "Recovered": 2
+                "Province_State": "Belgorod Oblast",
+                "Country_Region": "Belgorod Oblast, Russia",
+                "Lat": "50.767",
+                "Recovered": 0
             }
         },
         {
@@ -38348,17 +38347,6 @@
                 "Province_State": "Omsk Oblast",
                 "Country_Region": "Omsk Oblast, Russia",
                 "Lat": "56.217",
-                "Recovered": 0
-            }
-        },
-        {
-            "attributes": {
-                "Confirmed": 5,
-                "Long_": "37.450",
-                "Deaths": 0,
-                "Province_State": "Belgorod Oblast",
-                "Country_Region": "Belgorod Oblast, Russia",
-                "Lat": "50.767",
                 "Recovered": 0
             }
         },
@@ -38441,17 +38429,6 @@
         },
         {
             "attributes": {
-                "Confirmed": 10,
-                "Long_": "79.550",
-                "Deaths": 0,
-                "Province_State": "Novosibirsk Oblast",
-                "Country_Region": "Novosibirsk Oblast, Russia",
-                "Lat": "55.450",
-                "Recovered": 2
-            }
-        },
-        {
-            "attributes": {
                 "Confirmed": 9,
                 "Long_": "136.833",
                 "Deaths": 0,
@@ -38459,6 +38436,17 @@
                 "Country_Region": "Khabarovsk Krai, Russia",
                 "Lat": "54.800",
                 "Recovered": 0
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 10,
+                "Long_": "79.550",
+                "Deaths": 0,
+                "Province_State": "Novosibirsk Oblast",
+                "Country_Region": "Novosibirsk Oblast, Russia",
+                "Lat": "55.450",
+                "Recovered": 2
             }
         },
         {
@@ -38507,17 +38495,6 @@
         },
         {
             "attributes": {
-                "Confirmed": 12,
-                "Long_": "49.833",
-                "Deaths": 0,
-                "Province_State": "Kirov Oblast",
-                "Country_Region": "Kirov Oblast, Russia",
-                "Lat": "58.767",
-                "Recovered": 3
-            }
-        },
-        {
-            "attributes": {
                 "Confirmed": 10,
                 "Long_": "45.717",
                 "Deaths": 0,
@@ -38530,12 +38507,12 @@
         {
             "attributes": {
                 "Confirmed": 12,
-                "Long_": "44.533",
+                "Long_": "49.833",
                 "Deaths": 0,
-                "Province_State": "Nizhny Novgorod Oblast",
-                "Country_Region": "Nizhny Novgorod Oblast, Russia",
-                "Lat": "56.483",
-                "Recovered": 1
+                "Province_State": "Kirov Oblast",
+                "Country_Region": "Kirov Oblast, Russia",
+                "Lat": "58.767",
+                "Recovered": 3
             }
         },
         {
@@ -38551,6 +38528,17 @@
         },
         {
             "attributes": {
+                "Confirmed": 12,
+                "Long_": "44.533",
+                "Deaths": 0,
+                "Province_State": "Nizhny Novgorod Oblast",
+                "Country_Region": "Nizhny Novgorod Oblast, Russia",
+                "Lat": "56.483",
+                "Recovered": 1
+            }
+        },
+        {
+            "attributes": {
                 "Confirmed": 13,
                 "Long_": "56.133",
                 "Deaths": 0,
@@ -38562,17 +38550,6 @@
         },
         {
             "attributes": {
-                "Confirmed": 15,
-                "Long_": "50.450",
-                "Deaths": 0,
-                "Province_State": "Samara Oblast",
-                "Country_Region": "Samara Oblast, Russia",
-                "Lat": "53.450",
-                "Recovered": 2
-            }
-        },
-        {
-            "attributes": {
                 "Confirmed": 134,
                 "Long_": "36.967",
                 "Deaths": 1,
@@ -38580,6 +38557,17 @@
                 "Country_Region": "Moscow Oblast, Russia",
                 "Lat": "55.700",
                 "Recovered": 17
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 125,
+                "Long_": "30.30861",
+                "Deaths": 2,
+                "Province_State": "Saint Petersburg",
+                "Country_Region": "Saint Petersburg, Russia",
+                "Lat": "59.93750",
+                "Recovered": 7
             }
         },
         {
@@ -47175,12 +47163,12 @@
         },
         {
             "attributes": {
-                "Confirmed": 4,
-                "Long_": "105.682983",
+                "Confirmed": 2,
+                "Long_": "104.15786",
                 "Deaths": 0,
-                "Province_State": "Đồng Tháp",
-                "Country_Region": "Đồng Tháp, Việt Nam",
-                "Lat": "10.575572",
+                "Province_State": "Lào Cai",
+                "Country_Region": "Lào Cai, Việt Nam",
+                "Lat": "22.379997",
                 "Recovered": 0
             }
         },
@@ -47197,17 +47185,6 @@
         },
         {
             "attributes": {
-                "Confirmed": 3,
-                "Long_": "106.298904",
-                "Deaths": 0,
-                "Province_State": "Trà Vinh",
-                "Country_Region": "Trà Vinh, Việt Nam",
-                "Lat": "9.813946",
-                "Recovered": 0
-            }
-        },
-        {
-            "attributes": {
                 "Confirmed": 2,
                 "Long_": "107.58482",
                 "Deaths": 0,
@@ -47219,12 +47196,23 @@
         },
         {
             "attributes": {
-                "Confirmed": 2,
-                "Long_": "104.15786",
+                "Confirmed": 3,
+                "Long_": "106.298904",
                 "Deaths": 0,
-                "Province_State": "Lào Cai",
-                "Country_Region": "Lào Cai, Việt Nam",
-                "Lat": "22.379997",
+                "Province_State": "Trà Vinh",
+                "Country_Region": "Trà Vinh, Việt Nam",
+                "Lat": "9.813946",
+                "Recovered": 0
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 4,
+                "Long_": "105.682983",
+                "Deaths": 0,
+                "Province_State": "Đồng Tháp",
+                "Country_Region": "Đồng Tháp, Việt Nam",
+                "Lat": "10.575572",
                 "Recovered": 0
             }
         },
@@ -47252,13 +47240,13 @@
         },
         {
             "attributes": {
-                "Confirmed": 49,
-                "Long_": "106.681944",
+                "Confirmed": 6,
+                "Long_": "108.220556",
                 "Deaths": 0,
-                "Province_State": "TP. Hồ Chí Minh",
-                "Country_Region": "TP. Hồ Chí Minh, Việt Nam",
-                "Lat": "10.769444",
-                "Recovered": 15
+                "Province_State": "Đà Nẵng",
+                "Country_Region": "Đà Nẵng, Việt Nam",
+                "Lat": "16.031944",
+                "Recovered": 3
             }
         },
         {
@@ -47270,6 +47258,17 @@
                 "Country_Region": "Lai Châu, Việt Nam",
                 "Lat": "22.362776",
                 "Recovered": 0
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 49,
+                "Long_": "106.681944",
+                "Deaths": 0,
+                "Province_State": "TP. Hồ Chí Minh",
+                "Country_Region": "TP. Hồ Chí Minh, Việt Nam",
+                "Lat": "10.769444",
+                "Recovered": 15
             }
         },
         {
@@ -47296,13 +47295,13 @@
         },
         {
             "attributes": {
-                "Confirmed": 6,
-                "Long_": "108.220556",
+                "Confirmed": 1,
+                "Long_": "106.316670",
                 "Deaths": 0,
-                "Province_State": "Đà Nẵng",
-                "Country_Region": "Đà Nẵng, Việt Nam",
-                "Lat": "16.031944",
-                "Recovered": 3
+                "Province_State": "Hải Dương",
+                "Country_Region": "Hải Dương, Việt Nam",
+                "Lat": "20.933330",
+                "Recovered": 1
             }
         },
         {
@@ -47314,17 +47313,6 @@
                 "Country_Region": "Thái Nguyên, Việt Nam",
                 "Lat": "21.564225",
                 "Recovered": 0
-            }
-        },
-        {
-            "attributes": {
-                "Confirmed": 1,
-                "Long_": "106.316670",
-                "Deaths": 0,
-                "Province_State": "Hải Dương",
-                "Country_Region": "Hải Dương, Việt Nam",
-                "Lat": "20.933330",
-                "Recovered": 1
             }
         },
         {
@@ -47352,23 +47340,23 @@
         {
             "attributes": {
                 "Confirmed": 2,
+                "Long_": "105.784092",
+                "Deaths": 0,
+                "Province_State": "Cần Thơ",
+                "Country_Region": "Cần Thơ, Việt Nam",
+                "Lat": "10.032415",
+                "Recovered": 0
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 2,
                 "Long_": "108.99028",
                 "Deaths": 0,
                 "Province_State": "Ninh Thuận",
                 "Country_Region": "Ninh Thuận, Việt Nam",
                 "Lat": "11.56556",
                 "Recovered": 2
-            }
-        },
-        {
-            "attributes": {
-                "Confirmed": 1,
-                "Long_": "106.073406",
-                "Deaths": 0,
-                "Province_State": "Bắc Ninh",
-                "Country_Region": "Bắc Ninh, Việt Nam",
-                "Lat": "21.187548",
-                "Recovered": 0
             }
         },
         {
@@ -47384,12 +47372,12 @@
         },
         {
             "attributes": {
-                "Confirmed": 2,
-                "Long_": "105.784092",
+                "Confirmed": 1,
+                "Long_": "106.073406",
                 "Deaths": 0,
-                "Province_State": "Cần Thơ",
-                "Country_Region": "Cần Thơ, Việt Nam",
-                "Lat": "10.032415",
+                "Province_State": "Bắc Ninh",
+                "Country_Region": "Bắc Ninh, Việt Nam",
+                "Lat": "21.187548",
                 "Recovered": 0
             }
         },
@@ -48015,6 +48003,1306 @@
                 "Lat": "28.45",
                 "Recovered": -1
             }
+        },
+        {
+            "attributes": {
+                "Confirmed": 397,
+                "Long_": 121.060474,
+                "Province_State_Child": "NCR, Second District",
+                "Deaths": -1,
+                "Province_State": "Ncr, second district, Quezon city",
+                "Country_Region": "Ncr, second district, Quezon city, Philippines",
+                "FID": 1355,
+                "Lat": 14.680499,
+                "Recovered": -1
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 150,
+                "Long_": 120.985458,
+                "Province_State_Child": "NCR, First District",
+                "Deaths": -1,
+                "Province_State": "Ncr, first district, Manila",
+                "Country_Region": "Ncr, first district, Manila, Philippines",
+                "FID": 1351,
+                "Lat": 14.600625,
+                "Recovered": -1
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 124,
+                "Long_": 121.032258,
+                "Province_State_Child": "NCR, Fourth District",
+                "Deaths": -1,
+                "Province_State": "Ncr, fourth district, City of makati",
+                "Country_Region": "Ncr, fourth district, City of makati, Philippines",
+                "FID": 1362,
+                "Lat": 14.553438,
+                "Recovered": -1
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 111,
+                "Long_": 121.0367,
+                "Province_State_Child": "NCR, Second District",
+                "Deaths": -1,
+                "Province_State": "Ncr, second district, City of san juan",
+                "Country_Region": "Ncr, second district, City of san juan, Philippines",
+                "FID": 1356,
+                "Lat": 14.602473,
+                "Recovered": -1
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 101,
+                "Long_": 121.085479,
+                "Province_State_Child": "NCR, Second District",
+                "Deaths": -1,
+                "Province_State": "Ncr, second district, City of pasig",
+                "Country_Region": "Ncr, second district, City of pasig, Philippines",
+                "FID": 1354,
+                "Lat": 14.578867,
+                "Recovered": -1
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 86,
+                "Long_": 121.015008,
+                "Province_State_Child": "NCR, Fourth District",
+                "Deaths": -1,
+                "Province_State": "Ncr, fourth district, City of paranaque",
+                "Country_Region": "Ncr, fourth district, City of paranaque, Philippines",
+                "FID": 1364,
+                "Lat": 14.483526,
+                "Recovered": -1
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 76,
+                "Long_": 121.041395,
+                "Province_State_Child": "NCR, Second District",
+                "Deaths": -1,
+                "Province_State": "Ncr, second district, City of mandaluyong",
+                "Country_Region": "Ncr, second district, City of mandaluyong, Philippines",
+                "FID": 1352,
+                "Lat": 14.583087,
+                "Recovered": -1
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 57,
+                "Long_": 121.062471,
+                "Province_State_Child": "NCR, Fourth District",
+                "Deaths": -1,
+                "Province_State": "Ncr, fourth district, Taguig city",
+                "Country_Region": "Ncr, fourth district, Taguig city, Philippines",
+                "FID": 1367,
+                "Lat": 14.516647,
+                "Recovered": -1
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 50,
+                "Long_": 125.418898,
+                "Province_State_Child": "Davao del Sur",
+                "Deaths": -1,
+                "Province_State": "Davao del sur, Davao city",
+                "Country_Region": "Davao del sur, Davao city, Philippines",
+                "FID": 1264,
+                "Lat": 7.26444,
+                "Recovered": -1
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 41,
+                "Long_": 121.033601,
+                "Province_State_Child": "NCR, Fourth District",
+                "Deaths": -1,
+                "Province_State": "Ncr, fourth district, City of muntinlupa",
+                "Country_Region": "Ncr, fourth district, City of muntinlupa, Philippines",
+                "FID": 1363,
+                "Lat": 14.402301,
+                "Recovered": -1
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 40,
+                "Long_": 121.104971,
+                "Province_State_Child": "NCR, Second District",
+                "Deaths": -1,
+                "Province_State": "Ncr, second district, City of marikina",
+                "Country_Region": "Ncr, second district, City of marikina, Philippines",
+                "FID": 1353,
+                "Lat": 14.647311,
+                "Recovered": -1
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 37,
+                "Long_": 121.029544,
+                "Province_State_Child": "NCR, Third District",
+                "Deaths": -1,
+                "Province_State": "Ncr, third district, Caloocan city",
+                "Country_Region": "Ncr, third district, Caloocan city, Philippines",
+                "FID": 1357,
+                "Lat": 14.730091,
+                "Recovered": -1
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 36,
+                "Long_": 120.995211,
+                "Province_State_Child": "NCR, Fourth District",
+                "Deaths": -1,
+                "Province_State": "Ncr, fourth district, City of las pinas",
+                "Country_Region": "Ncr, fourth district, City of las pinas, Philippines",
+                "FID": 1361,
+                "Lat": 14.441391,
+                "Recovered": -1
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 36,
+                "Long_": 121.004,
+                "Province_State_Child": "NCR, Fourth District",
+                "Deaths": -1,
+                "Province_State": "Ncr, fourth district, Pasay city",
+                "Country_Region": "Ncr, fourth district, Pasay city, Philippines",
+                "FID": 1365,
+                "Lat": 14.531409,
+                "Recovered": -1
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 27,
+                "Long_": 121.11684,
+                "Province_State_Child": "Rizal",
+                "Deaths": -1,
+                "Province_State": "Rizal, Cainta",
+                "Country_Region": "Rizal, Cainta, Philippines",
+                "FID": 481,
+                "Lat": 14.587371,
+                "Recovered": -1
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 25,
+                "Long_": 121.236305,
+                "Province_State_Child": "Rizal",
+                "Deaths": -1,
+                "Province_State": "Rizal, City of antipolo",
+                "Country_Region": "Rizal, City of antipolo, Philippines",
+                "FID": 478,
+                "Lat": 14.655886,
+                "Recovered": -1
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 20,
+                "Long_": 123.859997,
+                "Province_State_Child": "Cebu",
+                "Deaths": -1,
+                "Province_State": "Cebu, Cebu city",
+                "Country_Region": "Cebu, Cebu city, Philippines",
+                "FID": 902,
+                "Lat": 10.379239,
+                "Recovered": -1
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 13,
+                "Long_": 120.971871,
+                "Province_State_Child": "Cavite",
+                "Deaths": -1,
+                "Province_State": "Cavite, Bacoor city",
+                "Country_Region": "Cavite, Bacoor city, Philippines",
+                "FID": 385,
+                "Lat": 14.415148,
+                "Recovered": -1
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 12,
+                "Long_": 120.979164,
+                "Province_State_Child": "NCR, Third District",
+                "Deaths": -1,
+                "Province_State": "Ncr, third district, City of valenzuela",
+                "Country_Region": "Ncr, third district, City of valenzuela, Philippines",
+                "FID": 1360,
+                "Lat": 14.709993,
+                "Recovered": -1
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 10,
+                "Long_": 120.596166,
+                "Province_State_Child": "Benguet",
+                "Deaths": -1,
+                "Province_State": "Benguet, Baguio city",
+                "Country_Region": "Benguet, Baguio city, Philippines",
+                "FID": 1396,
+                "Lat": 16.399947,
+                "Recovered": -1
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 9,
+                "Long_": 121.161005,
+                "Province_State_Child": "Rizal",
+                "Deaths": -1,
+                "Province_State": "Rizal, San mateo",
+                "Country_Region": "Rizal, San mateo, Philippines",
+                "FID": 487,
+                "Lat": 14.682771,
+                "Recovered": -1
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 9,
+                "Long_": 121.13449,
+                "Province_State_Child": "Rizal",
+                "Deaths": -1,
+                "Province_State": "Rizal, Taytay",
+                "Country_Region": "Rizal, Taytay, Philippines",
+                "FID": 489,
+                "Lat": 14.555014,
+                "Recovered": -1
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 9,
+                "Long_": 120.958556,
+                "Province_State_Child": "NCR, Third District",
+                "Deaths": -1,
+                "Province_State": "Ncr, third district, City of malabon",
+                "Country_Region": "Ncr, third district, City of malabon, Philippines",
+                "FID": 1358,
+                "Lat": 14.674119,
+                "Recovered": -1
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 8,
+                "Long_": 121.102618,
+                "Province_State_Child": "Batangas",
+                "Deaths": -1,
+                "Province_State": "Batangas, Batangas city",
+                "Country_Region": "Batangas, Batangas city, Philippines",
+                "FID": 353,
+                "Lat": 13.710154,
+                "Recovered": -1
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 7,
+                "Long_": 121.749287,
+                "Province_State_Child": "Cagayan",
+                "Deaths": -1,
+                "Province_State": "Cagayan, Tuguegarao city",
+                "Country_Region": "Cagayan, Tuguegarao city, Philippines",
+                "FID": 159,
+                "Lat": 17.61034,
+                "Recovered": -1
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 6,
+                "Long_": 121.091706,
+                "Province_State_Child": "Laguna",
+                "Deaths": -1,
+                "Province_State": "Laguna, City of santa rosa",
+                "Country_Region": "Laguna, City of santa rosa, Philippines",
+                "FID": 433,
+                "Lat": 14.271948,
+                "Recovered": -1
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 6,
+                "Long_": 121.069479,
+                "Province_State_Child": "NCR, Fourth District",
+                "Deaths": -1,
+                "Province_State": "Ncr, fourth district, Pateros",
+                "Country_Region": "Ncr, fourth district, Pateros, Philippines",
+                "FID": 1366,
+                "Lat": 14.545097,
+                "Recovered": -1
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 5,
+                "Long_": 121.007496,
+                "Province_State_Child": "Nueva Ecija",
+                "Deaths": -1,
+                "Province_State": "Nueva ecija, City of gapan",
+                "Country_Region": "Nueva ecija, City of gapan, Philippines",
+                "FID": 262,
+                "Lat": 15.285332,
+                "Recovered": -1
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 5,
+                "Long_": 120.964624,
+                "Province_State_Child": "Cavite",
+                "Deaths": -1,
+                "Province_State": "Cavite, City of dasmarinas",
+                "Country_Region": "Cavite, City of dasmarinas, Philippines",
+                "FID": 388,
+                "Lat": 14.313355,
+                "Recovered": -1
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 5,
+                "Long_": 121.040352,
+                "Province_State_Child": "Laguna",
+                "Deaths": -1,
+                "Province_State": "Laguna, City of san pedro",
+                "Country_Region": "Laguna, City of san pedro, Philippines",
+                "FID": 430,
+                "Lat": 14.34918,
+                "Recovered": -1
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 5,
+                "Long_": 122.98505,
+                "Province_State_Child": "Negros Occidental",
+                "Deaths": -1,
+                "Province_State": "Negros occidental, Bacolod city",
+                "Country_Region": "Negros occidental, Bacolod city, Philippines",
+                "FID": 577,
+                "Lat": 10.64875,
+                "Recovered": -1
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 5,
+                "Long_": 125.795793,
+                "Province_State_Child": "Davao del Norte",
+                "Deaths": -1,
+                "Province_State": "Davao del norte, City of tagum",
+                "Country_Region": "Davao del norte, City of tagum, Philippines",
+                "FID": 1259,
+                "Lat": 7.431254,
+                "Recovered": -1
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 5,
+                "Long_": 124.296624,
+                "Province_State_Child": "Lanao del Sur",
+                "Deaths": -1,
+                "Province_State": "Lanao del sur, Marawi city",
+                "Country_Region": "Lanao del sur, Marawi city, Philippines",
+                "FID": 1472,
+                "Lat": 8.021223,
+                "Recovered": -1
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 4,
+                "Long_": 120.824107,
+                "Province_State_Child": "Bulacan",
+                "Deaths": -1,
+                "Province_State": "Bulacan, City of malolos",
+                "Country_Region": "Bulacan, City of malolos, Philippines",
+                "FID": 240,
+                "Lat": 14.832804,
+                "Recovered": -1
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 4,
+                "Long_": 121.083586,
+                "Province_State_Child": "Bulacan",
+                "Deaths": -1,
+                "Province_State": "Bulacan, City of san jose del monte",
+                "Country_Region": "Bulacan, City of san jose del monte, Philippines",
+                "FID": 250,
+                "Lat": 14.815957,
+                "Recovered": -1
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 4,
+                "Long_": 120.900799,
+                "Province_State_Child": "Cavite",
+                "Deaths": -1,
+                "Province_State": "Cavite, City of general trias",
+                "Country_Region": "Cavite, City of general trias, Philippines",
+                "FID": 390,
+                "Lat": 14.322366,
+                "Recovered": -1
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 4,
+                "Long_": 121.069209,
+                "Province_State_Child": "Laguna",
+                "Deaths": -1,
+                "Province_State": "Laguna, City of binan",
+                "Country_Region": "Laguna, City of binan, Philippines",
+                "FID": 408,
+                "Lat": 14.307132,
+                "Recovered": -1
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 3,
+                "Long_": 121.674833,
+                "Province_State_Child": "Isabela",
+                "Deaths": -1,
+                "Province_State": "Isabela, Alicia",
+                "Country_Region": "Isabela, Alicia, Philippines",
+                "FID": 160,
+                "Lat": 16.815184,
+                "Recovered": -1
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 3,
+                "Long_": 120.870971,
+                "Province_State_Child": "Bulacan",
+                "Deaths": -1,
+                "Province_State": "Bulacan, Bulacan",
+                "Country_Region": "Bulacan, Bulacan, Philippines",
+                "FID": 235,
+                "Lat": 14.768029,
+                "Recovered": -1
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 3,
+                "Long_": 120.596146,
+                "Province_State_Child": "Tarlac",
+                "Deaths": -1,
+                "Province_State": "Tarlac, City of tarlac",
+                "Country_Region": "Tarlac, City of tarlac, Philippines",
+                "FID": 324,
+                "Lat": 15.481466,
+                "Recovered": -1
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 3,
+                "Long_": 121.218482,
+                "Province_State_Child": "Rizal",
+                "Deaths": -1,
+                "Province_State": "Rizal, Rodriguez",
+                "Country_Region": "Rizal, Rodriguez, Philippines",
+                "FID": 484,
+                "Lat": 14.77272,
+                "Recovered": -1
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 3,
+                "Long_": 126.222694,
+                "Province_State_Child": "Davao Oriental",
+                "Deaths": -1,
+                "Province_State": "Davao oriental, City of mati",
+                "Country_Region": "Davao oriental, City of mati, Philippines",
+                "FID": 1282,
+                "Lat": 6.83132,
+                "Recovered": -1
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 2,
+                "Long_": 120.377026,
+                "Province_State_Child": "La Union",
+                "Deaths": -1,
+                "Province_State": "La union, Caba",
+                "Country_Region": "La union, Caba, Philippines",
+                "FID": 65,
+                "Lat": 16.439951,
+                "Recovered": -1
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 2,
+                "Long_": 120.443268,
+                "Province_State_Child": "Pangasinan",
+                "Deaths": -1,
+                "Province_State": "Pangasinan, Bayambang",
+                "Country_Region": "Pangasinan, Bayambang, Philippines",
+                "FID": 87,
+                "Lat": 15.78871,
+                "Recovered": -1
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 2,
+                "Long_": 121.500789,
+                "Province_State_Child": "Cagayan",
+                "Deaths": -1,
+                "Province_State": "Cagayan, Tuao",
+                "Country_Region": "Cagayan, Tuao, Philippines",
+                "FID": 158,
+                "Lat": 17.679442,
+                "Recovered": -1
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 2,
+                "Long_": 120.882549,
+                "Province_State_Child": "Bulacan",
+                "Deaths": -1,
+                "Province_State": "Bulacan, Baliuag",
+                "Country_Region": "Bulacan, Baliuag, Philippines",
+                "FID": 233,
+                "Lat": 14.961457,
+                "Recovered": -1
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 2,
+                "Long_": 120.967938,
+                "Province_State_Child": "Bulacan",
+                "Deaths": -1,
+                "Province_State": "Bulacan, City of meycauayan",
+                "Country_Region": "Bulacan, City of meycauayan, Philippines",
+                "FID": 242,
+                "Lat": 14.752384,
+                "Recovered": -1
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 2,
+                "Long_": 120.998151,
+                "Province_State_Child": "Bulacan",
+                "Deaths": -1,
+                "Province_State": "Bulacan, San ildefonso",
+                "Country_Region": "Bulacan, San ildefonso, Philippines",
+                "FID": 249,
+                "Lat": 15.062306,
+                "Recovered": -1
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 2,
+                "Long_": 120.990155,
+                "Province_State_Child": "Nueva Ecija",
+                "Deaths": -1,
+                "Province_State": "Nueva ecija, Cabanatuan city",
+                "Country_Region": "Nueva ecija, Cabanatuan city, Philippines",
+                "FID": 257,
+                "Lat": 15.492491,
+                "Recovered": -1
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 2,
+                "Long_": 120.966537,
+                "Province_State_Child": "Nueva Ecija",
+                "Deaths": -1,
+                "Province_State": "Nueva ecija, Santa rosa",
+                "Country_Region": "Nueva ecija, Santa rosa, Philippines",
+                "FID": 282,
+                "Lat": 15.43235,
+                "Recovered": -1
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 2,
+                "Long_": 120.411246,
+                "Province_State_Child": "Tarlac",
+                "Deaths": -1,
+                "Province_State": "Tarlac, Camiling",
+                "Country_Region": "Tarlac, Camiling, Philippines",
+                "FID": 311,
+                "Lat": 15.682868,
+                "Recovered": -1
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 2,
+                "Long_": 120.306473,
+                "Province_State_Child": "Zambales",
+                "Deaths": -1,
+                "Province_State": "Zambales, Olongapo city",
+                "Country_Region": "Zambales, Olongapo city, Philippines",
+                "FID": 333,
+                "Lat": 14.826789,
+                "Recovered": -1
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 2,
+                "Long_": 121.098777,
+                "Province_State_Child": "Batangas",
+                "Deaths": -1,
+                "Province_State": "Batangas, City of tanauan",
+                "Country_Region": "Batangas, City of tanauan, Philippines",
+                "FID": 379,
+                "Lat": 14.094421,
+                "Recovered": -1
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 2,
+                "Long_": 120.93514,
+                "Province_State_Child": "Cavite",
+                "Deaths": -1,
+                "Province_State": "Cavite, Imus city",
+                "Country_Region": "Cavite, Imus city, Philippines",
+                "FID": 391,
+                "Lat": 14.396487,
+                "Recovered": -1
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 2,
+                "Long_": 120.794711,
+                "Province_State_Child": "Cavite",
+                "Deaths": -1,
+                "Province_State": "Cavite, Naic",
+                "Country_Region": "Cavite, Naic, Philippines",
+                "FID": 397,
+                "Lat": 14.292917,
+                "Recovered": -1
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 2,
+                "Long_": 120.837048,
+                "Province_State_Child": "Cavite",
+                "Deaths": -1,
+                "Province_State": "Cavite, Tanza",
+                "Country_Region": "Cavite, Tanza, Philippines",
+                "FID": 402,
+                "Lat": 14.348106,
+                "Recovered": -1
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 2,
+                "Long_": 121.111409,
+                "Province_State_Child": "Laguna",
+                "Deaths": -1,
+                "Province_State": "Laguna, Cabuyao city",
+                "Country_Region": "Laguna, Cabuyao city, Philippines",
+                "FID": 409,
+                "Lat": 14.239052,
+                "Recovered": -1
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 2,
+                "Long_": 121.12031,
+                "Province_State_Child": "Laguna",
+                "Deaths": -1,
+                "Province_State": "Laguna, City of calamba",
+                "Country_Region": "Laguna, City of calamba, Philippines",
+                "FID": 410,
+                "Lat": 14.187204,
+                "Recovered": -1
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 2,
+                "Long_": 121.615486,
+                "Province_State_Child": "Quezon",
+                "Deaths": -1,
+                "Province_State": "Quezon, Lucena city",
+                "Country_Region": "Quezon, Lucena city, Philippines",
+                "FID": 453,
+                "Lat": 13.936754,
+                "Recovered": -1
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 2,
+                "Long_": 121.202317,
+                "Province_State_Child": "Rizal",
+                "Deaths": -1,
+                "Province_State": "Rizal, Binangonan",
+                "Country_Region": "Rizal, Binangonan, Philippines",
+                "FID": 480,
+                "Lat": 14.457106,
+                "Recovered": -1
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 2,
+                "Long_": 123.121757,
+                "Province_State_Child": "Negros Oriental",
+                "Deaths": -1,
+                "Province_State": "Negros oriental, Jimalalud",
+                "Country_Region": "Negros oriental, Jimalalud, Philippines",
+                "FID": 619,
+                "Lat": 10.011019,
+                "Recovered": -1
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 2,
+                "Long_": 122.555205,
+                "Province_State_Child": "Iloilo",
+                "Deaths": -1,
+                "Province_State": "Iloilo, Iloilo city",
+                "Country_Region": "Iloilo, Iloilo city, Philippines",
+                "FID": 809,
+                "Lat": 10.723489,
+                "Recovered": -1
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 2,
+                "Long_": 123.992412,
+                "Province_State_Child": "Cebu",
+                "Deaths": -1,
+                "Province_State": "Cebu, Lapu-lapu city",
+                "Country_Region": "Cebu, Lapu-lapu city, Philippines",
+                "FID": 911,
+                "Lat": 10.286819,
+                "Recovered": -1
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 2,
+                "Long_": 122.145241,
+                "Province_State_Child": "Zamboanga del Sur",
+                "Deaths": -1,
+                "Province_State": "Zamboanga del sur, Zamboanga city",
+                "Country_Region": "Zamboanga del sur, Zamboanga city, Philippines",
+                "FID": 1134,
+                "Lat": 7.15592,
+                "Recovered": -1
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 2,
+                "Long_": 124.372787,
+                "Province_State_Child": "Lanao del Norte",
+                "Deaths": -1,
+                "Province_State": "Lanao del norte, Iligan city",
+                "Country_Region": "Lanao del norte, Iligan city, Philippines",
+                "FID": 1189,
+                "Lat": 8.231113,
+                "Recovered": -1
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 2,
+                "Long_": 124.229103,
+                "Province_State_Child": "Lanao del Sur",
+                "Deaths": -1,
+                "Province_State": "Lanao del sur, Marantao",
+                "Country_Region": "Lanao del sur, Marantao, Philippines",
+                "FID": 1471,
+                "Lat": 7.962383,
+                "Recovered": -1
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 1,
+                "Long_": 120.352458,
+                "Province_State_Child": "Pangasinan",
+                "Deaths": -1,
+                "Province_State": "Pangasinan, Urbiztondo",
+                "Country_Region": "Pangasinan, Urbiztondo, Philippines",
+                "FID": 121,
+                "Lat": 15.825261,
+                "Recovered": -1
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 1,
+                "Long_": 121.880253,
+                "Province_State_Child": "Cagayan",
+                "Deaths": -1,
+                "Province_State": "Cagayan, Gattaran",
+                "Country_Region": "Cagayan, Gattaran, Philippines",
+                "FID": 143,
+                "Lat": 18.052421,
+                "Recovered": -1
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 1,
+                "Long_": 121.881424,
+                "Province_State_Child": "Isabela",
+                "Deaths": -1,
+                "Province_State": "Isabela, Cabagan",
+                "Country_Region": "Isabela, Cabagan, Philippines",
+                "FID": 165,
+                "Lat": 17.386457,
+                "Recovered": -1
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 1,
+                "Long_": 121.773807,
+                "Province_State_Child": "Isabela",
+                "Deaths": -1,
+                "Province_State": "Isabela, Echague",
+                "Country_Region": "Isabela, Echague, Philippines",
+                "FID": 171,
+                "Lat": 16.642683,
+                "Recovered": -1
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 1,
+                "Long_": 121.142718,
+                "Province_State_Child": "Nueva Vizcaya",
+                "Deaths": -1,
+                "Province_State": "Nueva vizcaya, Bayombong",
+                "Country_Region": "Nueva vizcaya, Bayombong, Philippines",
+                "FID": 202,
+                "Lat": 16.476502,
+                "Recovered": -1
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 1,
+                "Long_": 121.176676,
+                "Province_State_Child": "Nueva Vizcaya",
+                "Deaths": -1,
+                "Province_State": "Nueva vizcaya, Solano",
+                "Country_Region": "Nueva vizcaya, Solano, Philippines",
+                "FID": 210,
+                "Lat": 16.545294,
+                "Recovered": -1
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 1,
+                "Long_": 121.328172,
+                "Province_State_Child": "Nueva Vizcaya",
+                "Deaths": -1,
+                "Province_State": "Nueva vizcaya, Alfonso castaneda",
+                "Country_Region": "Nueva vizcaya, Alfonso castaneda, Philippines",
+                "FID": 212,
+                "Lat": 15.909342,
+                "Recovered": -1
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 1,
+                "Long_": 120.486259,
+                "Province_State_Child": "Bataan",
+                "Deaths": -1,
+                "Province_State": "Bataan, City of balanga",
+                "Country_Region": "Bataan, City of balanga, Philippines",
+                "FID": 221,
+                "Lat": 14.667699,
+                "Recovered": -1
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 1,
+                "Long_": 120.563057,
+                "Province_State_Child": "Bataan",
+                "Deaths": -1,
+                "Province_State": "Bataan, Limay",
+                "Country_Region": "Bataan, Limay, Philippines",
+                "FID": 224,
+                "Lat": 14.53759,
+                "Recovered": -1
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 1,
+                "Long_": 120.485721,
+                "Province_State_Child": "Bataan",
+                "Deaths": -1,
+                "Province_State": "Bataan, Orani",
+                "Country_Region": "Bataan, Orani, Philippines",
+                "FID": 227,
+                "Lat": 14.790488,
+                "Recovered": -1
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 1,
+                "Long_": 120.932576,
+                "Province_State_Child": "Bulacan",
+                "Deaths": -1,
+                "Province_State": "Bulacan, Bocaue",
+                "Country_Region": "Bulacan, Bocaue, Philippines",
+                "FID": 234,
+                "Lat": 14.798714,
+                "Recovered": -1
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 1,
+                "Long_": 120.928945,
+                "Province_State_Child": "Bulacan",
+                "Deaths": -1,
+                "Province_State": "Bulacan, Bustos",
+                "Country_Region": "Bulacan, Bustos, Philippines",
+                "FID": 236,
+                "Lat": 14.93072,
+                "Recovered": -1
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 1,
+                "Long_": 120.879511,
+                "Province_State_Child": "Bulacan",
+                "Deaths": -1,
+                "Province_State": "Bulacan, Guiguinto",
+                "Country_Region": "Bulacan, Guiguinto, Philippines",
+                "FID": 238,
+                "Lat": 14.844398,
+                "Recovered": -1
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 1,
+                "Long_": 120.837849,
+                "Province_State_Child": "Bulacan",
+                "Deaths": -1,
+                "Province_State": "Bulacan, Pulilan",
+                "Country_Region": "Bulacan, Pulilan, Philippines",
+                "FID": 248,
+                "Lat": 14.921803,
+                "Recovered": -1
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 1,
+                "Long_": 121.011395,
+                "Province_State_Child": "Bulacan",
+                "Deaths": -1,
+                "Province_State": "Bulacan, San miguel",
+                "Country_Region": "Bulacan, San miguel, Philippines",
+                "FID": 251,
+                "Lat": 15.179527,
+                "Recovered": -1
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 1,
+                "Long_": 120.989235,
+                "Province_State_Child": "Bulacan",
+                "Deaths": -1,
+                "Province_State": "Bulacan, Santa maria",
+                "Country_Region": "Bulacan, Santa maria, Philippines",
+                "FID": 253,
+                "Lat": 14.839063,
+                "Recovered": -1
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 1,
+                "Long_": 121.053758,
+                "Province_State_Child": "Nueva Ecija",
+                "Deaths": -1,
+                "Province_State": "Nueva ecija, General mamerto natividad",
+                "Country_Region": "Nueva ecija, General mamerto natividad, Philippines",
+                "FID": 263,
+                "Lat": 15.590536,
+                "Recovered": -1
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 1,
+                "Long_": 120.769477,
+                "Province_State_Child": "Nueva Ecija",
+                "Deaths": -1,
+                "Province_State": "Nueva ecija, Licab",
+                "Country_Region": "Nueva ecija, Licab, Philippines",
+                "FID": 268,
+                "Lat": 15.531563,
+                "Recovered": -1
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 1,
+                "Long_": 120.804643,
+                "Province_State_Child": "Nueva Ecija",
+                "Deaths": -1,
+                "Province_State": "Nueva ecija, San antonio",
+                "Country_Region": "Nueva ecija, San antonio, Philippines",
+                "FID": 278,
+                "Lat": 15.327754,
+                "Recovered": -1
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 1,
+                "Long_": 120.910051,
+                "Province_State_Child": "Nueva Ecija",
+                "Deaths": -1,
+                "Province_State": "Nueva ecija, San isidro",
+                "Country_Region": "Nueva ecija, San isidro, Philippines",
+                "FID": 279,
+                "Lat": 15.271033,
+                "Recovered": -1
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 1,
+                "Long_": 120.629204,
+                "Province_State_Child": "Pampanga",
+                "Deaths": -1,
+                "Province_State": "Pampanga, Bacolor",
+                "Country_Region": "Pampanga, Bacolor, Philippines",
+                "FID": 290,
+                "Lat": 15.036663,
+                "Recovered": -1
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 1,
+                "Long_": 120.487431,
+                "Province_State_Child": "Pampanga",
+                "Deaths": -1,
+                "Province_State": "Pampanga, Floridablanca",
+                "Country_Region": "Pampanga, Floridablanca, Philippines",
+                "FID": 292,
+                "Lat": 14.97755,
+                "Recovered": -1
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 1,
+                "Long_": 120.472972,
+                "Province_State_Child": "Pampanga",
+                "Deaths": -1,
+                "Province_State": "Pampanga, Porac",
+                "Country_Region": "Pampanga, Porac, Philippines",
+                "FID": 301,
+                "Lat": 15.098628,
+                "Recovered": -1
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 1,
+                "Long_": 120.658311,
+                "Province_State_Child": "Pampanga",
+                "Deaths": -1,
+                "Province_State": "Pampanga, City of san fernando",
+                "Country_Region": "Pampanga, City of san fernando, Philippines",
+                "FID": 302,
+                "Lat": 15.067681,
+                "Recovered": -1
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 1,
+                "Long_": 120.790021,
+                "Province_State_Child": "Pampanga",
+                "Deaths": -1,
+                "Province_State": "Pampanga, San simon",
+                "Country_Region": "Pampanga, San simon, Philippines",
+                "FID": 304,
+                "Lat": 15.001703,
+                "Recovered": -1
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 1,
+                "Long_": 120.440184,
+                "Province_State_Child": "Tarlac",
+                "Deaths": -1,
+                "Province_State": "Tarlac, Capas",
+                "Country_Region": "Tarlac, Capas, Philippines",
+                "FID": 312,
+                "Lat": 15.334131,
+                "Recovered": -1
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 1,
+                "Long_": 120.564551,
+                "Province_State_Child": "Tarlac",
+                "Deaths": -1,
+                "Province_State": "Tarlac, Gerona",
+                "Country_Region": "Tarlac, Gerona, Philippines",
+                "FID": 314,
+                "Lat": 15.59493,
+                "Recovered": -1
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 1,
+                "Long_": 120.542954,
+                "Province_State_Child": "Tarlac",
+                "Deaths": -1,
+                "Province_State": "Tarlac, Paniqui",
+                "Country_Region": "Tarlac, Paniqui, Philippines",
+                "FID": 318,
+                "Lat": 15.663871,
+                "Recovered": -1
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 1,
+                "Long_": 120.114866,
+                "Province_State_Child": "Zambales",
+                "Deaths": -1,
+                "Province_State": "Zambales, Cabangan",
+                "Country_Region": "Zambales, Cabangan, Philippines",
+                "FID": 328,
+                "Lat": 15.16107,
+                "Recovered": -1
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 1,
+                "Long_": 120.884242,
+                "Province_State_Child": "Batangas",
+                "Deaths": -1,
+                "Province_State": "Batangas, Lemery",
+                "Country_Region": "Batangas, Lemery, Philippines",
+                "FID": 360,
+                "Lat": 13.954752,
+                "Recovered": -1
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 1,
+                "Long_": 121.170665,
+                "Province_State_Child": "Batangas",
+                "Deaths": -1,
+                "Province_State": "Batangas, Lipa city",
+                "Country_Region": "Batangas, Lipa city, Philippines",
+                "FID": 362,
+                "Lat": 13.939654,
+                "Recovered": -1
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 1,
+                "Long_": 121.262564,
+                "Province_State_Child": "Batangas",
+                "Deaths": -1,
+                "Province_State": "Batangas, Lobo",
+                "Country_Region": "Batangas, Lobo, Philippines",
+                "FID": 363,
+                "Lat": 13.665518,
+                "Recovered": -1
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 1,
+                "Long_": 120.687645,
+                "Province_State_Child": "Batangas",
+                "Deaths": -1,
+                "Province_State": "Batangas, Nasugbu",
+                "Country_Region": "Batangas, Nasugbu, Philippines",
+                "FID": 367,
+                "Lat": 14.118941,
+                "Recovered": -1
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 1,
+                "Long_": 121.03145,
+                "Province_State_Child": "Batangas",
+                "Deaths": -1,
+                "Province_State": "Batangas, San pascual",
+                "Country_Region": "Batangas, San pascual, Philippines",
+                "FID": 374,
+                "Lat": 13.817578,
+                "Recovered": -1
+            }
         }
     ],
     "uniqueIdField": {
@@ -48095,6 +49383,6 @@
         "latestWkid": 4326
     },
     "geometryType": "esriGeometryPoint",
-    "globalIdFieldName": "",
-    "objectIdFieldName": "OBJECTID"
+    "objectIdFieldName": "OBJECTID",
+    "globalIdFieldName": ""
 }
