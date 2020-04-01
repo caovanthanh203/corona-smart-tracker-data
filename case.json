@@ -4,10 +4,10 @@
     "features": [
         {
             "attributes": {
-                "Confirmed": 210714,
-                "Deaths": 4697,
-                "Time_Of_Last_Change": 1585771803.0,
-                "Second_From_Last_Change": 541.0,
+                "Confirmed": 211143,
+                "Deaths": 4713,
+                "Time_Of_Last_Change": 1585772644.0,
+                "Second_From_Last_Change": 0,
                 "Country_Region": "USA",
                 "Recovered": 8805
             }
@@ -17,7 +17,7 @@
                 "Confirmed": 110574,
                 "Deaths": 13155,
                 "Time_Of_Last_Change": 1585766464.0,
-                "Second_From_Last_Change": 5880.0,
+                "Second_From_Last_Change": 6180.0,
                 "Country_Region": "Italy",
                 "Recovered": 16847
             }
@@ -27,7 +27,7 @@
                 "Confirmed": 102179,
                 "Deaths": 9131,
                 "Time_Of_Last_Change": 1585769463.0,
-                "Second_From_Last_Change": 2881.0,
+                "Second_From_Last_Change": 3181.0,
                 "Country_Region": "Spain",
                 "Recovered": 22647
             }
@@ -37,7 +37,7 @@
                 "Confirmed": 81554,
                 "Deaths": 3312,
                 "Time_Of_Last_Change": 1585719964.0,
-                "Second_From_Last_Change": 52380.0,
+                "Second_From_Last_Change": 52680.0,
                 "Country_Region": "China",
                 "Recovered": 76238
             }
@@ -47,7 +47,7 @@
                 "Confirmed": 77779,
                 "Deaths": 909,
                 "Time_Of_Last_Change": 1585771203.0,
-                "Second_From_Last_Change": 1141.0,
+                "Second_From_Last_Change": 1441.0,
                 "Country_Region": "Germany",
                 "Recovered": 18700
             }
@@ -57,7 +57,7 @@
                 "Confirmed": 56989,
                 "Deaths": 4032,
                 "Time_Of_Last_Change": 1585766464.0,
-                "Second_From_Last_Change": 5880.0,
+                "Second_From_Last_Change": 6180.0,
                 "Country_Region": "France",
                 "Recovered": 10934
             }
@@ -67,7 +67,7 @@
                 "Confirmed": 47593,
                 "Deaths": 3036,
                 "Time_Of_Last_Change": 1585735143.0,
-                "Second_From_Last_Change": 37201.0,
+                "Second_From_Last_Change": 37501.0,
                 "Country_Region": "Iran",
                 "Recovered": 15473
             }
@@ -77,7 +77,7 @@
                 "Confirmed": 29474,
                 "Deaths": 2352,
                 "Time_Of_Last_Change": 1585766464.0,
-                "Second_From_Last_Change": 5880.0,
+                "Second_From_Last_Change": 6180.0,
                 "Country_Region": "UK",
                 "Recovered": 135
             }
@@ -87,7 +87,7 @@
                 "Confirmed": 17768,
                 "Deaths": 488,
                 "Time_Of_Last_Change": 1585770123.0,
-                "Second_From_Last_Change": 2221.0,
+                "Second_From_Last_Change": 2521.0,
                 "Country_Region": "Switzerland",
                 "Recovered": 2967
             }
@@ -97,7 +97,7 @@
                 "Confirmed": 15679,
                 "Deaths": 277,
                 "Time_Of_Last_Change": 1585766464.0,
-                "Second_From_Last_Change": 5880.0,
+                "Second_From_Last_Change": 6180.0,
                 "Country_Region": "Turkey",
                 "Recovered": 333
             }
@@ -107,7 +107,7 @@
                 "Confirmed": 13964,
                 "Deaths": 828,
                 "Time_Of_Last_Change": 1585732623.0,
-                "Second_From_Last_Change": 39721.0,
+                "Second_From_Last_Change": 40021.0,
                 "Country_Region": "Belgium",
                 "Recovered": 2132
             }
@@ -117,7 +117,7 @@
                 "Confirmed": 13614,
                 "Deaths": 1173,
                 "Time_Of_Last_Change": 1585740604.0,
-                "Second_From_Last_Change": 31740.0,
+                "Second_From_Last_Change": 32040.0,
                 "Country_Region": "Netherlands",
                 "Recovered": 250
             }
@@ -127,7 +127,7 @@
                 "Confirmed": 10668,
                 "Deaths": 146,
                 "Time_Of_Last_Change": 1585770544.0,
-                "Second_From_Last_Change": 1800.0,
+                "Second_From_Last_Change": 2100.0,
                 "Country_Region": "Austria",
                 "Recovered": 1436
             }
@@ -137,7 +137,7 @@
                 "Confirmed": 9887,
                 "Deaths": 165,
                 "Time_Of_Last_Change": 1585706703.0,
-                "Second_From_Last_Change": 65641.0,
+                "Second_From_Last_Change": 65941.0,
                 "Country_Region": "S. Korea",
                 "Recovered": 5567
             }
@@ -147,7 +147,7 @@
                 "Confirmed": 9489,
                 "Deaths": 108,
                 "Time_Of_Last_Change": 1585766464.0,
-                "Second_From_Last_Change": 5880.0,
+                "Second_From_Last_Change": 6180.0,
                 "Country_Region": "Canada",
                 "Recovered": 1445
             }
@@ -157,9 +157,19 @@
                 "Confirmed": 8251,
                 "Deaths": 187,
                 "Time_Of_Last_Change": 1585741984.0,
-                "Second_From_Last_Change": 30360.0,
+                "Second_From_Last_Change": 30660.0,
                 "Country_Region": "Portugal",
                 "Recovered": 43
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 6836,
+                "Deaths": 240,
+                "Time_Of_Last_Change": 1585772464.0,
+                "Second_From_Last_Change": 180.0,
+                "Country_Region": "Brazil",
+                "Recovered": 127
             }
         },
         {
@@ -167,19 +177,9 @@
                 "Confirmed": 6092,
                 "Deaths": 25,
                 "Time_Of_Last_Change": 1585767364.0,
-                "Second_From_Last_Change": 4980.0,
+                "Second_From_Last_Change": 5280.0,
                 "Country_Region": "Israel",
                 "Recovered": 226
-            }
-        },
-        {
-            "attributes": {
-                "Confirmed": 5923,
-                "Deaths": 206,
-                "Time_Of_Last_Change": 1585766464.0,
-                "Second_From_Last_Change": 5880.0,
-                "Country_Region": "Brazil",
-                "Recovered": 127
             }
         },
         {
@@ -187,7 +187,7 @@
                 "Confirmed": 4947,
                 "Deaths": 239,
                 "Time_Of_Last_Change": 1585742703.0,
-                "Second_From_Last_Change": 29641.0,
+                "Second_From_Last_Change": 29941.0,
                 "Country_Region": "Sweden",
                 "Recovered": 16
             }
@@ -197,7 +197,7 @@
                 "Confirmed": 4864,
                 "Deaths": 21,
                 "Time_Of_Last_Change": 1585738924.0,
-                "Second_From_Last_Change": 33420.0,
+                "Second_From_Last_Change": 33720.0,
                 "Country_Region": "Australia",
                 "Recovered": 345
             }
@@ -207,7 +207,7 @@
                 "Confirmed": 4863,
                 "Deaths": 44,
                 "Time_Of_Last_Change": 1585767843.0,
-                "Second_From_Last_Change": 4501.0,
+                "Second_From_Last_Change": 4801.0,
                 "Country_Region": "Norway",
                 "Recovered": 13
             }
@@ -217,7 +217,7 @@
                 "Confirmed": 3508,
                 "Deaths": 39,
                 "Time_Of_Last_Change": 1585766464.0,
-                "Second_From_Last_Change": 5880.0,
+                "Second_From_Last_Change": 6180.0,
                 "Country_Region": "Czechia",
                 "Recovered": 61
             }
@@ -227,7 +227,7 @@
                 "Confirmed": 3447,
                 "Deaths": 85,
                 "Time_Of_Last_Change": 1585766464.0,
-                "Second_From_Last_Change": 5880.0,
+                "Second_From_Last_Change": 6180.0,
                 "Country_Region": "Ireland",
                 "Recovered": 5
             }
@@ -237,7 +237,7 @@
                 "Confirmed": 3107,
                 "Deaths": 104,
                 "Time_Of_Last_Change": 1585766644.0,
-                "Second_From_Last_Change": 5700.0,
+                "Second_From_Last_Change": 6000.0,
                 "Country_Region": "Denmark",
                 "Recovered": 894
             }
@@ -247,7 +247,7 @@
                 "Confirmed": 3031,
                 "Deaths": 16,
                 "Time_Of_Last_Change": 1585766464.0,
-                "Second_From_Last_Change": 5880.0,
+                "Second_From_Last_Change": 6180.0,
                 "Country_Region": "Chile",
                 "Recovered": 234
             }
@@ -257,7 +257,7 @@
                 "Confirmed": 2908,
                 "Deaths": 45,
                 "Time_Of_Last_Change": 1585732144.0,
-                "Second_From_Last_Change": 40200.0,
+                "Second_From_Last_Change": 40500.0,
                 "Country_Region": "Malaysia",
                 "Recovered": 645
             }
@@ -267,7 +267,7 @@
                 "Confirmed": 2777,
                 "Deaths": 24,
                 "Time_Of_Last_Change": 1585728182.0,
-                "Second_From_Last_Change": 44162.0,
+                "Second_From_Last_Change": 44462.0,
                 "Country_Region": "Russia",
                 "Recovered": 190
             }
@@ -277,7 +277,7 @@
                 "Confirmed": 2748,
                 "Deaths": 93,
                 "Time_Of_Last_Change": 1585766464.0,
-                "Second_From_Last_Change": 5880.0,
+                "Second_From_Last_Change": 6180.0,
                 "Country_Region": "Ecuador",
                 "Recovered": 58
             }
@@ -287,7 +287,7 @@
                 "Confirmed": 2554,
                 "Deaths": 43,
                 "Time_Of_Last_Change": 1585769824.0,
-                "Second_From_Last_Change": 2520.0,
+                "Second_From_Last_Change": 2820.0,
                 "Country_Region": "Poland",
                 "Recovered": 7
             }
@@ -297,7 +297,7 @@
                 "Confirmed": 2460,
                 "Deaths": 92,
                 "Time_Of_Last_Change": 1585766644.0,
-                "Second_From_Last_Change": 5700.0,
+                "Second_From_Last_Change": 6000.0,
                 "Country_Region": "Romania",
                 "Recovered": 252
             }
@@ -307,7 +307,7 @@
                 "Confirmed": 2319,
                 "Deaths": 29,
                 "Time_Of_Last_Change": 1585766464.0,
-                "Second_From_Last_Change": 5880.0,
+                "Second_From_Last_Change": 6180.0,
                 "Country_Region": "Luxembourg",
                 "Recovered": 80
             }
@@ -317,7 +317,7 @@
                 "Confirmed": 2311,
                 "Deaths": 96,
                 "Time_Of_Last_Change": 1585729204.0,
-                "Second_From_Last_Change": 43140.0,
+                "Second_From_Last_Change": 43440.0,
                 "Country_Region": "Philippines",
                 "Recovered": 50
             }
@@ -327,7 +327,7 @@
                 "Confirmed": 2178,
                 "Deaths": 57,
                 "Time_Of_Last_Change": 1585736884.0,
-                "Second_From_Last_Change": 35460.0,
+                "Second_From_Last_Change": 35760.0,
                 "Country_Region": "Japan",
                 "Recovered": 472
             }
@@ -337,7 +337,7 @@
                 "Confirmed": 2118,
                 "Deaths": 27,
                 "Time_Of_Last_Change": 1585766464.0,
-                "Second_From_Last_Change": 5880.0,
+                "Second_From_Last_Change": 6180.0,
                 "Country_Region": "Pakistan",
                 "Recovered": 94
             }
@@ -347,7 +347,7 @@
                 "Confirmed": 1998,
                 "Deaths": 58,
                 "Time_Of_Last_Change": 1585770963.0,
-                "Second_From_Last_Change": 1381.0,
+                "Second_From_Last_Change": 1681.0,
                 "Country_Region": "India",
                 "Recovered": 148
             }
@@ -357,7 +357,7 @@
                 "Confirmed": 1771,
                 "Deaths": 12,
                 "Time_Of_Last_Change": 1585766464.0,
-                "Second_From_Last_Change": 5880.0,
+                "Second_From_Last_Change": 6180.0,
                 "Country_Region": "Thailand",
                 "Recovered": 505
             }
@@ -367,7 +367,7 @@
                 "Confirmed": 1720,
                 "Deaths": 16,
                 "Time_Of_Last_Change": 1585745283.0,
-                "Second_From_Last_Change": 27061.0,
+                "Second_From_Last_Change": 27361.0,
                 "Country_Region": "Saudi Arabia",
                 "Recovered": 264
             }
@@ -377,7 +377,7 @@
                 "Confirmed": 1677,
                 "Deaths": 157,
                 "Time_Of_Last_Change": 1585731124.0,
-                "Second_From_Last_Change": 41220.0,
+                "Second_From_Last_Change": 41520.0,
                 "Country_Region": "Indonesia",
                 "Recovered": 103
             }
@@ -387,7 +387,7 @@
                 "Confirmed": 1446,
                 "Deaths": 17,
                 "Time_Of_Last_Change": 1585736704.0,
-                "Second_From_Last_Change": 35640.0,
+                "Second_From_Last_Change": 35940.0,
                 "Country_Region": "Finland",
                 "Recovered": 10
             }
@@ -397,7 +397,7 @@
                 "Confirmed": 1415,
                 "Deaths": 50,
                 "Time_Of_Last_Change": 1585766464.0,
-                "Second_From_Last_Change": 5880.0,
+                "Second_From_Last_Change": 6180.0,
                 "Country_Region": "Greece",
                 "Recovered": 52
             }
@@ -407,7 +407,7 @@
                 "Confirmed": 1380,
                 "Deaths": 5,
                 "Time_Of_Last_Change": 1585766464.0,
-                "Second_From_Last_Change": 5880.0,
+                "Second_From_Last_Change": 6180.0,
                 "Country_Region": "South Africa",
                 "Recovered": 50
             }
@@ -417,7 +417,7 @@
                 "Confirmed": 1323,
                 "Deaths": 38,
                 "Time_Of_Last_Change": 1585770244.0,
-                "Second_From_Last_Change": 2100.0,
+                "Second_From_Last_Change": 2400.0,
                 "Country_Region": "Peru",
                 "Recovered": 394
             }
@@ -427,7 +427,7 @@
                 "Confirmed": 1284,
                 "Deaths": 57,
                 "Time_Of_Last_Change": 1585766464.0,
-                "Second_From_Last_Change": 5880.0,
+                "Second_From_Last_Change": 6180.0,
                 "Country_Region": "Dominican Republic",
                 "Recovered": 9
             }
@@ -437,7 +437,7 @@
                 "Confirmed": 1220,
                 "Deaths": 2,
                 "Time_Of_Last_Change": 1585766464.0,
-                "Second_From_Last_Change": 5880.0,
+                "Second_From_Last_Change": 6180.0,
                 "Country_Region": "Iceland",
                 "Recovered": 225
             }
@@ -447,7 +447,7 @@
                 "Confirmed": 1215,
                 "Deaths": 29,
                 "Time_Of_Last_Change": 1585706824.0,
-                "Second_From_Last_Change": 65520.0,
+                "Second_From_Last_Change": 65820.0,
                 "Country_Region": "Mexico",
                 "Recovered": 35
             }
@@ -457,7 +457,7 @@
                 "Confirmed": 1181,
                 "Deaths": 30,
                 "Time_Of_Last_Change": 1585697764.0,
-                "Second_From_Last_Change": 74580.0,
+                "Second_From_Last_Change": 74880.0,
                 "Country_Region": "Panama",
                 "Recovered": 9
             }
@@ -467,7 +467,7 @@
                 "Confirmed": 1065,
                 "Deaths": 17,
                 "Time_Of_Last_Change": 1585766464.0,
-                "Second_From_Last_Change": 5880.0,
+                "Second_From_Last_Change": 6180.0,
                 "Country_Region": "Colombia",
                 "Recovered": 39
             }
@@ -477,7 +477,7 @@
                 "Confirmed": 1060,
                 "Deaths": 28,
                 "Time_Of_Last_Change": 1585766464.0,
-                "Second_From_Last_Change": 5880.0,
+                "Second_From_Last_Change": 6180.0,
                 "Country_Region": "Serbia",
                 "Recovered": 42
             }
@@ -487,7 +487,7 @@
                 "Confirmed": 1054,
                 "Deaths": 28,
                 "Time_Of_Last_Change": 1585766464.0,
-                "Second_From_Last_Change": 5880.0,
+                "Second_From_Last_Change": 6180.0,
                 "Country_Region": "Argentina",
                 "Recovered": 248
             }
@@ -497,7 +497,7 @@
                 "Confirmed": 1000,
                 "Deaths": 3,
                 "Time_Of_Last_Change": 1585766464.0,
-                "Second_From_Last_Change": 5880.0,
+                "Second_From_Last_Change": 6180.0,
                 "Country_Region": "Singapore",
                 "Recovered": 245
             }
@@ -507,7 +507,7 @@
                 "Confirmed": 963,
                 "Deaths": 6,
                 "Time_Of_Last_Change": 1585743244.0,
-                "Second_From_Last_Change": 29100.0,
+                "Second_From_Last_Change": 29400.0,
                 "Country_Region": "Croatia",
                 "Recovered": 73
             }
@@ -517,7 +517,7 @@
                 "Confirmed": 847,
                 "Deaths": 58,
                 "Time_Of_Last_Change": 1585766464.0,
-                "Second_From_Last_Change": 5880.0,
+                "Second_From_Last_Change": 6180.0,
                 "Country_Region": "Algeria",
                 "Recovered": 61
             }
@@ -527,7 +527,7 @@
                 "Confirmed": 841,
                 "Deaths": 15,
                 "Time_Of_Last_Change": 1585733763.0,
-                "Second_From_Last_Change": 38581.0,
+                "Second_From_Last_Change": 38881.0,
                 "Country_Region": "Slovenia",
                 "Recovered": 10
             }
@@ -537,7 +537,7 @@
                 "Confirmed": 835,
                 "Deaths": 2,
                 "Time_Of_Last_Change": 1585766464.0,
-                "Second_From_Last_Change": 5880.0,
+                "Second_From_Last_Change": 6180.0,
                 "Country_Region": "Qatar",
                 "Recovered": 71
             }
@@ -547,7 +547,7 @@
                 "Confirmed": 814,
                 "Deaths": 8,
                 "Time_Of_Last_Change": 1585767004.0,
-                "Second_From_Last_Change": 5340.0,
+                "Second_From_Last_Change": 5640.0,
                 "Country_Region": "UAE",
                 "Recovered": 61
             }
@@ -557,7 +557,7 @@
                 "Confirmed": 794,
                 "Deaths": 20,
                 "Time_Of_Last_Change": 1585769283.0,
-                "Second_From_Last_Change": 3061.0,
+                "Second_From_Last_Change": 3361.0,
                 "Country_Region": "Ukraine",
                 "Recovered": 13
             }
@@ -567,7 +567,7 @@
                 "Confirmed": 779,
                 "Deaths": 52,
                 "Time_Of_Last_Change": 1585769403.0,
-                "Second_From_Last_Change": 2941.0,
+                "Second_From_Last_Change": 3241.0,
                 "Country_Region": "Egypt",
                 "Recovered": 179
             }
@@ -577,7 +577,7 @@
                 "Confirmed": 779,
                 "Deaths": 5,
                 "Time_Of_Last_Change": 1585736404.0,
-                "Second_From_Last_Change": 35940.0,
+                "Second_From_Last_Change": 36240.0,
                 "Country_Region": "Estonia",
                 "Recovered": 33
             }
@@ -587,7 +587,7 @@
                 "Confirmed": 765,
                 "Deaths": 4,
                 "Time_Of_Last_Change": 1585733163.0,
-                "Second_From_Last_Change": 39181.0,
+                "Second_From_Last_Change": 39481.0,
                 "Country_Region": "Hong Kong",
                 "Recovered": 147
             }
@@ -597,7 +597,7 @@
                 "Confirmed": 728,
                 "Deaths": 52,
                 "Time_Of_Last_Change": 1585769584.0,
-                "Second_From_Last_Change": 2760.0,
+                "Second_From_Last_Change": 3060.0,
                 "Country_Region": "Iraq",
                 "Recovered": 182
             }
@@ -607,7 +607,7 @@
                 "Confirmed": 712,
                 "Deaths": 11,
                 "Time_Of_Last_Change": 1585711383.0,
-                "Second_From_Last_Change": 60961.0,
+                "Second_From_Last_Change": 61261.0,
                 "Country_Region": "Diamond Princess",
                 "Recovered": 603
             }
@@ -617,7 +617,7 @@
                 "Confirmed": 708,
                 "Deaths": 1,
                 "Time_Of_Last_Change": 1585706644.0,
-                "Second_From_Last_Change": 65700.0,
+                "Second_From_Last_Change": 66000.0,
                 "Country_Region": "New Zealand",
                 "Recovered": 83
             }
@@ -627,7 +627,7 @@
                 "Confirmed": 642,
                 "Deaths": 37,
                 "Time_Of_Last_Change": 1585766464.0,
-                "Second_From_Last_Change": 5880.0,
+                "Second_From_Last_Change": 6180.0,
                 "Country_Region": "Morocco",
                 "Recovered": 26
             }
@@ -637,7 +637,7 @@
                 "Confirmed": 581,
                 "Deaths": 8,
                 "Time_Of_Last_Change": 1585721583.0,
-                "Second_From_Last_Change": 50761.0,
+                "Second_From_Last_Change": 51061.0,
                 "Country_Region": "Lithuania",
                 "Recovered": 7
             }
@@ -647,7 +647,7 @@
                 "Confirmed": 571,
                 "Deaths": 4,
                 "Time_Of_Last_Change": 1585766464.0,
-                "Second_From_Last_Change": 5880.0,
+                "Second_From_Last_Change": 6180.0,
                 "Country_Region": "Armenia",
                 "Recovered": 31
             }
@@ -657,7 +657,7 @@
                 "Confirmed": 569,
                 "Deaths": 4,
                 "Time_Of_Last_Change": 1585766464.0,
-                "Second_From_Last_Change": 5880.0,
+                "Second_From_Last_Change": 6180.0,
                 "Country_Region": "Bahrain",
                 "Recovered": 337
             }
@@ -667,7 +667,7 @@
                 "Confirmed": 525,
                 "Deaths": 20,
                 "Time_Of_Last_Change": 1585720384.0,
-                "Second_From_Last_Change": 51960.0,
+                "Second_From_Last_Change": 52260.0,
                 "Country_Region": "Hungary",
                 "Recovered": 40
             }
@@ -677,7 +677,7 @@
                 "Confirmed": 479,
                 "Deaths": 14,
                 "Time_Of_Last_Change": 1585766464.0,
-                "Second_From_Last_Change": 5880.0,
+                "Second_From_Last_Change": 6180.0,
                 "Country_Region": "Lebanon",
                 "Recovered": 43
             }
@@ -687,7 +687,7 @@
                 "Confirmed": 459,
                 "Deaths": 13,
                 "Time_Of_Last_Change": 1585771864.0,
-                "Second_From_Last_Change": 480.0,
+                "Second_From_Last_Change": 780.0,
                 "Country_Region": "Bosnia and Herzegovina",
                 "Recovered": 19
             }
@@ -697,7 +697,7 @@
                 "Confirmed": 446,
                 "Deaths": 0,
                 "Time_Of_Last_Change": 1585723443.0,
-                "Second_From_Last_Change": 48901.0,
+                "Second_From_Last_Change": 49201.0,
                 "Country_Region": "Latvia",
                 "Recovered": 1
             }
@@ -707,7 +707,7 @@
                 "Confirmed": 423,
                 "Deaths": 12,
                 "Time_Of_Last_Change": 1585766464.0,
-                "Second_From_Last_Change": 5880.0,
+                "Second_From_Last_Change": 6180.0,
                 "Country_Region": "Tunisia",
                 "Recovered": 5
             }
@@ -717,7 +717,7 @@
                 "Confirmed": 423,
                 "Deaths": 5,
                 "Time_Of_Last_Change": 1585766464.0,
-                "Second_From_Last_Change": 5880.0,
+                "Second_From_Last_Change": 6180.0,
                 "Country_Region": "Moldova",
                 "Recovered": 23
             }
@@ -727,7 +727,7 @@
                 "Confirmed": 422,
                 "Deaths": 10,
                 "Time_Of_Last_Change": 1585766464.0,
-                "Second_From_Last_Change": 5880.0,
+                "Second_From_Last_Change": 6180.0,
                 "Country_Region": "Bulgaria",
                 "Recovered": 20
             }
@@ -737,7 +737,7 @@
                 "Confirmed": 400,
                 "Deaths": 1,
                 "Time_Of_Last_Change": 1585766464.0,
-                "Second_From_Last_Change": 5880.0,
+                "Second_From_Last_Change": 6180.0,
                 "Country_Region": "Slovakia",
                 "Recovered": 3
             }
@@ -747,7 +747,7 @@
                 "Confirmed": 390,
                 "Deaths": 14,
                 "Time_Of_Last_Change": 1585766464.0,
-                "Second_From_Last_Change": 5880.0,
+                "Second_From_Last_Change": 6180.0,
                 "Country_Region": "Andorra",
                 "Recovered": 10
             }
@@ -757,7 +757,7 @@
                 "Confirmed": 380,
                 "Deaths": 3,
                 "Time_Of_Last_Change": 1585766464.0,
-                "Second_From_Last_Change": 5880.0,
+                "Second_From_Last_Change": 6180.0,
                 "Country_Region": "Kazakhstan",
                 "Recovered": 26
             }
@@ -767,7 +767,7 @@
                 "Confirmed": 375,
                 "Deaths": 2,
                 "Time_Of_Last_Change": 1585767903.0,
-                "Second_From_Last_Change": 4441.0,
+                "Second_From_Last_Change": 4741.0,
                 "Country_Region": "Costa Rica",
                 "Recovered": 4
             }
@@ -777,7 +777,7 @@
                 "Confirmed": 359,
                 "Deaths": 5,
                 "Time_Of_Last_Change": 1585737123.0,
-                "Second_From_Last_Change": 35221.0,
+                "Second_From_Last_Change": 35521.0,
                 "Country_Region": "Azerbaijan",
                 "Recovered": 26
             }
@@ -787,7 +787,7 @@
                 "Confirmed": 354,
                 "Deaths": 11,
                 "Time_Of_Last_Change": 1585766464.0,
-                "Second_From_Last_Change": 5880.0,
+                "Second_From_Last_Change": 6180.0,
                 "Country_Region": "North Macedonia",
                 "Recovered": 17
             }
@@ -797,7 +797,7 @@
                 "Confirmed": 338,
                 "Deaths": 2,
                 "Time_Of_Last_Change": 1585766464.0,
-                "Second_From_Last_Change": 5880.0,
+                "Second_From_Last_Change": 6180.0,
                 "Country_Region": "Uruguay",
                 "Recovered": 41
             }
@@ -807,7 +807,7 @@
                 "Confirmed": 329,
                 "Deaths": 5,
                 "Time_Of_Last_Change": 1585723983.0,
-                "Second_From_Last_Change": 48361.0,
+                "Second_From_Last_Change": 48661.0,
                 "Country_Region": "Taiwan",
                 "Recovered": 45
             }
@@ -817,7 +817,7 @@
                 "Confirmed": 320,
                 "Deaths": 9,
                 "Time_Of_Last_Change": 1585766464.0,
-                "Second_From_Last_Change": 5880.0,
+                "Second_From_Last_Change": 6180.0,
                 "Country_Region": "Cyprus",
                 "Recovered": 28
             }
@@ -827,7 +827,7 @@
                 "Confirmed": 317,
                 "Deaths": 0,
                 "Time_Of_Last_Change": 1585733103.0,
-                "Second_From_Last_Change": 39241.0,
+                "Second_From_Last_Change": 39541.0,
                 "Country_Region": "Kuwait",
                 "Recovered": 80
             }
@@ -837,7 +837,7 @@
                 "Confirmed": 282,
                 "Deaths": 16,
                 "Time_Of_Last_Change": 1585766464.0,
-                "Second_From_Last_Change": 5880.0,
+                "Second_From_Last_Change": 6180.0,
                 "Country_Region": "Burkina Faso",
                 "Recovered": 46
             }
@@ -847,7 +847,7 @@
                 "Confirmed": 281,
                 "Deaths": 0,
                 "Time_Of_Last_Change": 1585766464.0,
-                "Second_From_Last_Change": 5880.0,
+                "Second_From_Last_Change": 6180.0,
                 "Country_Region": "Réunion",
                 "Recovered": 40
             }
@@ -857,7 +857,7 @@
                 "Confirmed": 278,
                 "Deaths": 5,
                 "Time_Of_Last_Change": 1585766464.0,
-                "Second_From_Last_Change": 5880.0,
+                "Second_From_Last_Change": 6180.0,
                 "Country_Region": "Jordan",
                 "Recovered": 36
             }
@@ -867,7 +867,7 @@
                 "Confirmed": 259,
                 "Deaths": 15,
                 "Time_Of_Last_Change": 1585740783.0,
-                "Second_From_Last_Change": 31561.0,
+                "Second_From_Last_Change": 31861.0,
                 "Country_Region": "Albania",
                 "Recovered": 67
             }
@@ -877,7 +877,7 @@
                 "Confirmed": 236,
                 "Deaths": 26,
                 "Time_Of_Last_Change": 1585691163.0,
-                "Second_From_Last_Change": 81181.0,
+                "Second_From_Last_Change": 81481.0,
                 "Country_Region": "San Marino",
                 "Recovered": 13
             }
@@ -887,7 +887,7 @@
                 "Confirmed": 233,
                 "Deaths": 6,
                 "Time_Of_Last_Change": 1585736643.0,
-                "Second_From_Last_Change": 35701.0,
+                "Second_From_Last_Change": 36001.0,
                 "Country_Region": "Cameroon",
                 "Recovered": 10
             }
@@ -897,7 +897,7 @@
                 "Confirmed": 218,
                 "Deaths": 0,
                 "Time_Of_Last_Change": 1585745945.0,
-                "Second_From_Last_Change": 26399.0,
+                "Second_From_Last_Change": 26699.0,
                 "Country_Region": "Vietnam",
                 "Recovered": 63
             }
@@ -907,7 +907,7 @@
                 "Confirmed": 212,
                 "Deaths": 6,
                 "Time_Of_Last_Change": 1585766464.0,
-                "Second_From_Last_Change": 5880.0,
+                "Second_From_Last_Change": 6180.0,
                 "Country_Region": "Cuba",
                 "Recovered": 12
             }
@@ -917,7 +917,7 @@
                 "Confirmed": 210,
                 "Deaths": 1,
                 "Time_Of_Last_Change": 1585724524.0,
-                "Second_From_Last_Change": 47820.0,
+                "Second_From_Last_Change": 48120.0,
                 "Country_Region": "Oman",
                 "Recovered": 34
             }
@@ -927,7 +927,7 @@
                 "Confirmed": 196,
                 "Deaths": 4,
                 "Time_Of_Last_Change": 1585766764.0,
-                "Second_From_Last_Change": 5580.0,
+                "Second_From_Last_Change": 5880.0,
                 "Country_Region": "Afghanistan",
                 "Recovered": 5
             }
@@ -937,7 +937,7 @@
                 "Confirmed": 195,
                 "Deaths": 5,
                 "Time_Of_Last_Change": 1585735504.0,
-                "Second_From_Last_Change": 36840.0,
+                "Second_From_Last_Change": 37140.0,
                 "Country_Region": "Ghana",
                 "Recovered": 31
             }
@@ -947,7 +947,7 @@
                 "Confirmed": 190,
                 "Deaths": 1,
                 "Time_Of_Last_Change": 1585736524.0,
-                "Second_From_Last_Change": 35820.0,
+                "Second_From_Last_Change": 36120.0,
                 "Country_Region": "Senegal",
                 "Recovered": 45
             }
@@ -957,7 +957,7 @@
                 "Confirmed": 188,
                 "Deaths": 0,
                 "Time_Of_Last_Change": 1585737484.0,
-                "Second_From_Last_Change": 34860.0,
+                "Second_From_Last_Change": 35160.0,
                 "Country_Region": "Malta",
                 "Recovered": 2
             }
@@ -967,7 +967,7 @@
                 "Confirmed": 181,
                 "Deaths": 2,
                 "Time_Of_Last_Change": 1585766464.0,
-                "Second_From_Last_Change": 5880.0,
+                "Second_From_Last_Change": 6180.0,
                 "Country_Region": "Uzbekistan",
                 "Recovered": 12
             }
@@ -977,7 +977,7 @@
                 "Confirmed": 179,
                 "Deaths": 1,
                 "Time_Of_Last_Change": 1585697944.0,
-                "Second_From_Last_Change": 74400.0,
+                "Second_From_Last_Change": 74700.0,
                 "Country_Region": "Ivory Coast",
                 "Recovered": 7
             }
@@ -987,7 +987,7 @@
                 "Confirmed": 174,
                 "Deaths": 2,
                 "Time_Of_Last_Change": 1585769343.0,
-                "Second_From_Last_Change": 3001.0,
+                "Second_From_Last_Change": 3301.0,
                 "Country_Region": "Nigeria",
                 "Recovered": 9
             }
@@ -997,7 +997,7 @@
                 "Confirmed": 173,
                 "Deaths": 0,
                 "Time_Of_Last_Change": 1585723923.0,
-                "Second_From_Last_Change": 48421.0,
+                "Second_From_Last_Change": 48721.0,
                 "Country_Region": "Faeroe Islands",
                 "Recovered": 75
             }
@@ -1007,7 +1007,7 @@
                 "Confirmed": 172,
                 "Deaths": 10,
                 "Time_Of_Last_Change": 1585711024.0,
-                "Second_From_Last_Change": 61320.0,
+                "Second_From_Last_Change": 61620.0,
                 "Country_Region": "Honduras",
                 "Recovered": 3
             }
@@ -1017,7 +1017,7 @@
                 "Confirmed": 172,
                 "Deaths": 3,
                 "Time_Of_Last_Change": 1585744743.0,
-                "Second_From_Last_Change": 27601.0,
+                "Second_From_Last_Change": 27901.0,
                 "Country_Region": "Channel Islands",
                 "Recovered": 0
             }
@@ -1027,7 +1027,7 @@
                 "Confirmed": 163,
                 "Deaths": 2,
                 "Time_Of_Last_Change": 1585735203.0,
-                "Second_From_Last_Change": 37141.0,
+                "Second_From_Last_Change": 37441.0,
                 "Country_Region": "Belarus",
                 "Recovered": 53
             }
@@ -1037,7 +1037,7 @@
                 "Confirmed": 161,
                 "Deaths": 6,
                 "Time_Of_Last_Change": 1585767183.0,
-                "Second_From_Last_Change": 5161.0,
+                "Second_From_Last_Change": 5461.0,
                 "Country_Region": "Mauritius",
                 "Recovered": 0
             }
@@ -1047,7 +1047,7 @@
                 "Confirmed": 146,
                 "Deaths": 3,
                 "Time_Of_Last_Change": 1585766764.0,
-                "Second_From_Last_Change": 5580.0,
+                "Second_From_Last_Change": 5880.0,
                 "Country_Region": "Sri Lanka",
                 "Recovered": 21
             }
@@ -1057,7 +1057,7 @@
                 "Confirmed": 143,
                 "Deaths": 3,
                 "Time_Of_Last_Change": 1585721583.0,
-                "Second_From_Last_Change": 50761.0,
+                "Second_From_Last_Change": 51061.0,
                 "Country_Region": "Venezuela",
                 "Recovered": 41
             }
@@ -1067,7 +1067,7 @@
                 "Confirmed": 135,
                 "Deaths": 3,
                 "Time_Of_Last_Change": 1585768144.0,
-                "Second_From_Last_Change": 4200.0,
+                "Second_From_Last_Change": 4500.0,
                 "Country_Region": "Martinique",
                 "Recovered": 27
             }
@@ -1077,7 +1077,7 @@
                 "Confirmed": 134,
                 "Deaths": 1,
                 "Time_Of_Last_Change": 1585730344.0,
-                "Second_From_Last_Change": 42000.0,
+                "Second_From_Last_Change": 42300.0,
                 "Country_Region": "Palestine",
                 "Recovered": 18
             }
@@ -1087,7 +1087,7 @@
                 "Confirmed": 131,
                 "Deaths": 1,
                 "Time_Of_Last_Change": 1585737063.0,
-                "Second_From_Last_Change": 35281.0,
+                "Second_From_Last_Change": 35581.0,
                 "Country_Region": "Brunei",
                 "Recovered": 52
             }
@@ -1097,7 +1097,7 @@
                 "Confirmed": 125,
                 "Deaths": 6,
                 "Time_Of_Last_Change": 1585768264.0,
-                "Second_From_Last_Change": 4080.0,
+                "Second_From_Last_Change": 4380.0,
                 "Country_Region": "Guadeloupe",
                 "Recovered": 24
             }
@@ -1107,7 +1107,7 @@
                 "Confirmed": 123,
                 "Deaths": 2,
                 "Time_Of_Last_Change": 1585766464.0,
-                "Second_From_Last_Change": 5880.0,
+                "Second_From_Last_Change": 6180.0,
                 "Country_Region": "Montenegro",
                 "Recovered": 0
             }
@@ -1117,7 +1117,7 @@
                 "Confirmed": 117,
                 "Deaths": 0,
                 "Time_Of_Last_Change": 1585766464.0,
-                "Second_From_Last_Change": 5880.0,
+                "Second_From_Last_Change": 6180.0,
                 "Country_Region": "Georgia",
                 "Recovered": 23
             }
@@ -1127,7 +1127,7 @@
                 "Confirmed": 115,
                 "Deaths": 7,
                 "Time_Of_Last_Change": 1585711443.0,
-                "Second_From_Last_Change": 60901.0,
+                "Second_From_Last_Change": 61201.0,
                 "Country_Region": "Bolivia",
                 "Recovered": 1
             }
@@ -1137,7 +1137,7 @@
                 "Confirmed": 111,
                 "Deaths": 0,
                 "Time_Of_Last_Change": 1585723384.0,
-                "Second_From_Last_Change": 48960.0,
+                "Second_From_Last_Change": 49260.0,
                 "Country_Region": "Kyrgyzstan",
                 "Recovered": 3
             }
@@ -1147,7 +1147,7 @@
                 "Confirmed": 109,
                 "Deaths": 9,
                 "Time_Of_Last_Change": 1585744863.0,
-                "Second_From_Last_Change": 27481.0,
+                "Second_From_Last_Change": 27781.0,
                 "Country_Region": "DRC",
                 "Recovered": 3
             }
@@ -1157,7 +1157,7 @@
                 "Confirmed": 109,
                 "Deaths": 0,
                 "Time_Of_Last_Change": 1585720563.0,
-                "Second_From_Last_Change": 51781.0,
+                "Second_From_Last_Change": 52081.0,
                 "Country_Region": "Cambodia",
                 "Recovered": 25
             }
@@ -1167,17 +1167,17 @@
                 "Confirmed": 94,
                 "Deaths": 1,
                 "Time_Of_Last_Change": 1585657563.0,
-                "Second_From_Last_Change": 114781.0,
+                "Second_From_Last_Change": 115081.0,
                 "Country_Region": "Mayotte",
                 "Recovered": 10
             }
         },
         {
             "attributes": {
-                "Confirmed": 89,
+                "Confirmed": 90,
                 "Deaths": 5,
-                "Time_Of_Last_Change": 1585766464.0,
-                "Second_From_Last_Change": 5880.0,
+                "Time_Of_Last_Change": 1585772464.0,
+                "Second_From_Last_Change": 180.0,
                 "Country_Region": "Trinidad and Tobago",
                 "Recovered": 1
             }
@@ -1187,7 +1187,7 @@
                 "Confirmed": 82,
                 "Deaths": 0,
                 "Time_Of_Last_Change": 1585766464.0,
-                "Second_From_Last_Change": 5880.0,
+                "Second_From_Last_Change": 6180.0,
                 "Country_Region": "Rwanda",
                 "Recovered": 0
             }
@@ -1197,7 +1197,7 @@
                 "Confirmed": 81,
                 "Deaths": 1,
                 "Time_Of_Last_Change": 1585744444.0,
-                "Second_From_Last_Change": 27900.0,
+                "Second_From_Last_Change": 28200.0,
                 "Country_Region": "Kenya",
                 "Recovered": 3
             }
@@ -1207,7 +1207,7 @@
                 "Confirmed": 81,
                 "Deaths": 0,
                 "Time_Of_Last_Change": 1585766464.0,
-                "Second_From_Last_Change": 5880.0,
+                "Second_From_Last_Change": 6180.0,
                 "Country_Region": "Gibraltar",
                 "Recovered": 34
             }
@@ -1217,7 +1217,7 @@
                 "Confirmed": 69,
                 "Deaths": 3,
                 "Time_Of_Last_Change": 1585728182.0,
-                "Second_From_Last_Change": 44162.0,
+                "Second_From_Last_Change": 44462.0,
                 "Country_Region": "Paraguay",
                 "Recovered": 1
             }
@@ -1227,7 +1227,7 @@
                 "Confirmed": 68,
                 "Deaths": 1,
                 "Time_Of_Last_Change": 1585766464.0,
-                "Second_From_Last_Change": 5880.0,
+                "Second_From_Last_Change": 6180.0,
                 "Country_Region": "Isle of Man",
                 "Recovered": 0
             }
@@ -1237,7 +1237,7 @@
                 "Confirmed": 68,
                 "Deaths": 0,
                 "Time_Of_Last_Change": 1585671364.0,
-                "Second_From_Last_Change": 100980.0,
+                "Second_From_Last_Change": 101280.0,
                 "Country_Region": "Liechtenstein",
                 "Recovered": 0
             }
@@ -1247,7 +1247,7 @@
                 "Confirmed": 57,
                 "Deaths": 0,
                 "Time_Of_Last_Change": 1585680244.0,
-                "Second_From_Last_Change": 92100.0,
+                "Second_From_Last_Change": 92400.0,
                 "Country_Region": "Madagascar",
                 "Recovered": 0
             }
@@ -1257,7 +1257,7 @@
                 "Confirmed": 55,
                 "Deaths": 1,
                 "Time_Of_Last_Change": 1585766464.0,
-                "Second_From_Last_Change": 5880.0,
+                "Second_From_Last_Change": 6180.0,
                 "Country_Region": "Monaco",
                 "Recovered": 2
             }
@@ -1267,7 +1267,7 @@
                 "Confirmed": 55,
                 "Deaths": 0,
                 "Time_Of_Last_Change": 1585676584.0,
-                "Second_From_Last_Change": 95760.0,
+                "Second_From_Last_Change": 96060.0,
                 "Country_Region": "Aruba",
                 "Recovered": 1
             }
@@ -1277,7 +1277,7 @@
                 "Confirmed": 54,
                 "Deaths": 6,
                 "Time_Of_Last_Change": 1585723024.0,
-                "Second_From_Last_Change": 49320.0,
+                "Second_From_Last_Change": 49620.0,
                 "Country_Region": "Bangladesh",
                 "Recovered": 25
             }
@@ -1287,7 +1287,7 @@
                 "Confirmed": 51,
                 "Deaths": 0,
                 "Time_Of_Last_Change": 1585698604.0,
-                "Second_From_Last_Change": 73740.0,
+                "Second_From_Last_Change": 74040.0,
                 "Country_Region": "French Guiana",
                 "Recovered": 15
             }
@@ -1297,7 +1297,7 @@
                 "Confirmed": 44,
                 "Deaths": 0,
                 "Time_Of_Last_Change": 1585678383.0,
-                "Second_From_Last_Change": 93961.0,
+                "Second_From_Last_Change": 94261.0,
                 "Country_Region": "Uganda",
                 "Recovered": 0
             }
@@ -1307,7 +1307,7 @@
                 "Confirmed": 41,
                 "Deaths": 0,
                 "Time_Of_Last_Change": 1585663084.0,
-                "Second_From_Last_Change": 109260.0,
+                "Second_From_Last_Change": 109560.0,
                 "Country_Region": "Macao",
                 "Recovered": 10
             }
@@ -1317,7 +1317,7 @@
                 "Confirmed": 39,
                 "Deaths": 1,
                 "Time_Of_Last_Change": 1585733404.0,
-                "Second_From_Last_Change": 38940.0,
+                "Second_From_Last_Change": 39240.0,
                 "Country_Region": "Guatemala",
                 "Recovered": 12
             }
@@ -1327,7 +1327,7 @@
                 "Confirmed": 38,
                 "Deaths": 2,
                 "Time_Of_Last_Change": 1585698725.0,
-                "Second_From_Last_Change": 73619.0,
+                "Second_From_Last_Change": 73919.0,
                 "Country_Region": "Jamaica",
                 "Recovered": 2
             }
@@ -1337,7 +1337,7 @@
                 "Confirmed": 37,
                 "Deaths": 0,
                 "Time_Of_Last_Change": 1585698844.0,
-                "Second_From_Last_Change": 73500.0,
+                "Second_From_Last_Change": 73800.0,
                 "Country_Region": "French Polynesia",
                 "Recovered": 0
             }
@@ -1347,7 +1347,7 @@
                 "Confirmed": 36,
                 "Deaths": 2,
                 "Time_Of_Last_Change": 1585742103.0,
-                "Second_From_Last_Change": 30241.0,
+                "Second_From_Last_Change": 30541.0,
                 "Country_Region": "Togo",
                 "Recovered": 10
             }
@@ -1357,7 +1357,7 @@
                 "Confirmed": 36,
                 "Deaths": 0,
                 "Time_Of_Last_Change": 1585698783.0,
-                "Second_From_Last_Change": 73561.0,
+                "Second_From_Last_Change": 73861.0,
                 "Country_Region": "Zambia",
                 "Recovered": 0
             }
@@ -1367,7 +1367,7 @@
                 "Confirmed": 34,
                 "Deaths": 3,
                 "Time_Of_Last_Change": 1585698964.0,
-                "Second_From_Last_Change": 73380.0,
+                "Second_From_Last_Change": 73680.0,
                 "Country_Region": "Niger",
                 "Recovered": 0
             }
@@ -1377,7 +1377,7 @@
                 "Confirmed": 34,
                 "Deaths": 0,
                 "Time_Of_Last_Change": 1585618683.0,
-                "Second_From_Last_Change": 153661.0,
+                "Second_From_Last_Change": 153961.0,
                 "Country_Region": "Barbados",
                 "Recovered": 0
             }
@@ -1387,7 +1387,7 @@
                 "Confirmed": 33,
                 "Deaths": 0,
                 "Time_Of_Last_Change": 1585766464.0,
-                "Second_From_Last_Change": 5880.0,
+                "Second_From_Last_Change": 6180.0,
                 "Country_Region": "Djibouti",
                 "Recovered": 0
             }
@@ -1397,7 +1397,7 @@
                 "Confirmed": 32,
                 "Deaths": 1,
                 "Time_Of_Last_Change": 1585697105.0,
-                "Second_From_Last_Change": 75239.0,
+                "Second_From_Last_Change": 75539.0,
                 "Country_Region": "El Salvador",
                 "Recovered": 0
             }
@@ -1407,7 +1407,7 @@
                 "Confirmed": 32,
                 "Deaths": 0,
                 "Time_Of_Last_Change": 1585691044.0,
-                "Second_From_Last_Change": 81300.0,
+                "Second_From_Last_Change": 81600.0,
                 "Country_Region": "Bermuda",
                 "Recovered": 10
             }
@@ -1417,7 +1417,7 @@
                 "Confirmed": 31,
                 "Deaths": 3,
                 "Time_Of_Last_Change": 1585743485.0,
-                "Second_From_Last_Change": 28859.0,
+                "Second_From_Last_Change": 29159.0,
                 "Country_Region": "Mali",
                 "Recovered": 0
             }
@@ -1427,7 +1427,7 @@
                 "Confirmed": 30,
                 "Deaths": 0,
                 "Time_Of_Last_Change": 1585741384.0,
-                "Second_From_Last_Change": 30960.0,
+                "Second_From_Last_Change": 31260.0,
                 "Country_Region": "Guinea",
                 "Recovered": 0
             }
@@ -1437,7 +1437,7 @@
                 "Confirmed": 29,
                 "Deaths": 0,
                 "Time_Of_Last_Change": 1585729144.0,
-                "Second_From_Last_Change": 43200.0,
+                "Second_From_Last_Change": 43500.0,
                 "Country_Region": "Ethiopia",
                 "Recovered": 2
             }
@@ -1447,7 +1447,7 @@
                 "Confirmed": 20,
                 "Deaths": 1,
                 "Time_Of_Last_Change": 1585745884.0,
-                "Second_From_Last_Change": 26460.0,
+                "Second_From_Last_Change": 26760.0,
                 "Country_Region": "Tanzania",
                 "Recovered": 1
             }
@@ -1457,7 +1457,7 @@
                 "Confirmed": 19,
                 "Deaths": 0,
                 "Time_Of_Last_Change": 1585485484.0,
-                "Second_From_Last_Change": 286860.0,
+                "Second_From_Last_Change": 287160.0,
                 "Country_Region": "Congo",
                 "Recovered": 0
             }
@@ -1467,7 +1467,7 @@
                 "Confirmed": 19,
                 "Deaths": 0,
                 "Time_Of_Last_Change": 1585740183.0,
-                "Second_From_Last_Change": 32161.0,
+                "Second_From_Last_Change": 32461.0,
                 "Country_Region": "Maldives",
                 "Recovered": 13
             }
@@ -1477,7 +1477,7 @@
                 "Confirmed": 18,
                 "Deaths": 1,
                 "Time_Of_Last_Change": 1585721643.0,
-                "Second_From_Last_Change": 50701.0,
+                "Second_From_Last_Change": 51001.0,
                 "Country_Region": "Gabon",
                 "Recovered": 0
             }
@@ -1487,7 +1487,7 @@
                 "Confirmed": 16,
                 "Deaths": 1,
                 "Time_Of_Last_Change": 1585737724.0,
-                "Second_From_Last_Change": 34620.0,
+                "Second_From_Last_Change": 34920.0,
                 "Country_Region": "Sint Maarten",
                 "Recovered": 6
             }
@@ -1497,7 +1497,7 @@
                 "Confirmed": 16,
                 "Deaths": 0,
                 "Time_Of_Last_Change": 1585716784.0,
-                "Second_From_Last_Change": 55560.0,
+                "Second_From_Last_Change": 55860.0,
                 "Country_Region": "Haiti",
                 "Recovered": 1
             }
@@ -1507,7 +1507,7 @@
                 "Confirmed": 16,
                 "Deaths": 0,
                 "Time_Of_Last_Change": 1585647844.0,
-                "Second_From_Last_Change": 124500.0,
+                "Second_From_Last_Change": 124800.0,
                 "Country_Region": "New Caledonia",
                 "Recovered": 0
             }
@@ -1517,7 +1517,7 @@
                 "Confirmed": 15,
                 "Deaths": 1,
                 "Time_Of_Last_Change": 1585668304.0,
-                "Second_From_Last_Change": 104040.0,
+                "Second_From_Last_Change": 104340.0,
                 "Country_Region": "Myanmar",
                 "Recovered": 0
             }
@@ -1527,7 +1527,7 @@
                 "Confirmed": 15,
                 "Deaths": 1,
                 "Time_Of_Last_Change": 1585729443.0,
-                "Second_From_Last_Change": 42901.0,
+                "Second_From_Last_Change": 43201.0,
                 "Country_Region": "Saint Martin",
                 "Recovered": 2
             }
@@ -1537,7 +1537,7 @@
                 "Confirmed": 15,
                 "Deaths": 0,
                 "Time_Of_Last_Change": 1585711143.0,
-                "Second_From_Last_Change": 61201.0,
+                "Second_From_Last_Change": 61501.0,
                 "Country_Region": "Bahamas",
                 "Recovered": 1
             }
@@ -1547,7 +1547,7 @@
                 "Confirmed": 15,
                 "Deaths": 0,
                 "Time_Of_Last_Change": 1585698244.0,
-                "Second_From_Last_Change": 74100.0,
+                "Second_From_Last_Change": 74400.0,
                 "Country_Region": "Equatorial Guinea",
                 "Recovered": 1
             }
@@ -1557,7 +1557,7 @@
                 "Confirmed": 15,
                 "Deaths": 0,
                 "Time_Of_Last_Change": 1585612684.0,
-                "Second_From_Last_Change": 159660.0,
+                "Second_From_Last_Change": 159960.0,
                 "Country_Region": "Eritrea",
                 "Recovered": 0
             }
@@ -1567,7 +1567,7 @@
                 "Confirmed": 14,
                 "Deaths": 1,
                 "Time_Of_Last_Change": 1585695544.0,
-                "Second_From_Last_Change": 76800.0,
+                "Second_From_Last_Change": 77100.0,
                 "Country_Region": "Cayman Islands",
                 "Recovered": 0
             }
@@ -1577,7 +1577,7 @@
                 "Confirmed": 14,
                 "Deaths": 0,
                 "Time_Of_Last_Change": 1585720384.0,
-                "Second_From_Last_Change": 51960.0,
+                "Second_From_Last_Change": 52260.0,
                 "Country_Region": "Mongolia",
                 "Recovered": 2
             }
@@ -1587,7 +1587,7 @@
                 "Confirmed": 14,
                 "Deaths": 0,
                 "Time_Of_Last_Change": 1585744503.0,
-                "Second_From_Last_Change": 27841.0,
+                "Second_From_Last_Change": 28141.0,
                 "Country_Region": "Namibia",
                 "Recovered": 2
             }
@@ -1597,7 +1597,7 @@
                 "Confirmed": 13,
                 "Deaths": 0,
                 "Time_Of_Last_Change": 1585771924.0,
-                "Second_From_Last_Change": 420.0,
+                "Second_From_Last_Change": 720.0,
                 "Country_Region": "Benin",
                 "Recovered": 1
             }
@@ -1607,7 +1607,7 @@
                 "Confirmed": 13,
                 "Deaths": 0,
                 "Time_Of_Last_Change": 1585697704.0,
-                "Second_From_Last_Change": 74640.0,
+                "Second_From_Last_Change": 74940.0,
                 "Country_Region": "Saint Lucia",
                 "Recovered": 1
             }
@@ -1617,7 +1617,7 @@
                 "Confirmed": 12,
                 "Deaths": 2,
                 "Time_Of_Last_Change": 1585676104.0,
-                "Second_From_Last_Change": 96240.0,
+                "Second_From_Last_Change": 96540.0,
                 "Country_Region": "Guyana",
                 "Recovered": 0
             }
@@ -1627,7 +1627,7 @@
                 "Confirmed": 12,
                 "Deaths": 0,
                 "Time_Of_Last_Change": 1585611484.0,
-                "Second_From_Last_Change": 160860.0,
+                "Second_From_Last_Change": 161160.0,
                 "Country_Region": "Dominica",
                 "Recovered": 0
             }
@@ -1637,7 +1637,7 @@
                 "Confirmed": 11,
                 "Deaths": 1,
                 "Time_Of_Last_Change": 1585743543.0,
-                "Second_From_Last_Change": 28801.0,
+                "Second_From_Last_Change": 29101.0,
                 "Country_Region": "Curaçao",
                 "Recovered": 3
             }
@@ -1647,7 +1647,7 @@
                 "Confirmed": 10,
                 "Deaths": 2,
                 "Time_Of_Last_Change": 1585605124.0,
-                "Second_From_Last_Change": 167220.0,
+                "Second_From_Last_Change": 167520.0,
                 "Country_Region": "Syria",
                 "Recovered": 0
             }
@@ -1657,7 +1657,7 @@
                 "Confirmed": 10,
                 "Deaths": 0,
                 "Time_Of_Last_Change": 1585384628.0,
-                "Second_From_Last_Change": 387716.0,
+                "Second_From_Last_Change": 388016.0,
                 "Country_Region": "Greenland",
                 "Recovered": 2
             }
@@ -1667,7 +1667,7 @@
                 "Confirmed": 10,
                 "Deaths": 0,
                 "Time_Of_Last_Change": 1585731784.0,
-                "Second_From_Last_Change": 40560.0,
+                "Second_From_Last_Change": 40860.0,
                 "Country_Region": "Laos",
                 "Recovered": 0
             }
@@ -1677,7 +1677,7 @@
                 "Confirmed": 10,
                 "Deaths": 0,
                 "Time_Of_Last_Change": 1585696504.0,
-                "Second_From_Last_Change": 75840.0,
+                "Second_From_Last_Change": 76140.0,
                 "Country_Region": "Libya",
                 "Recovered": 0
             }
@@ -1687,7 +1687,7 @@
                 "Confirmed": 10,
                 "Deaths": 0,
                 "Time_Of_Last_Change": 1585766464.0,
-                "Second_From_Last_Change": 5880.0,
+                "Second_From_Last_Change": 6180.0,
                 "Country_Region": "Mozambique",
                 "Recovered": 0
             }
@@ -1697,7 +1697,7 @@
                 "Confirmed": 10,
                 "Deaths": 0,
                 "Time_Of_Last_Change": 1585627563.0,
-                "Second_From_Last_Change": 144781.0,
+                "Second_From_Last_Change": 145081.0,
                 "Country_Region": "Seychelles",
                 "Recovered": 0
             }
@@ -1707,7 +1707,7 @@
                 "Confirmed": 10,
                 "Deaths": 0,
                 "Time_Of_Last_Change": 1585706583.0,
-                "Second_From_Last_Change": 65761.0,
+                "Second_From_Last_Change": 66061.0,
                 "Country_Region": "Suriname",
                 "Recovered": 0
             }
@@ -1717,7 +1717,7 @@
                 "Confirmed": 9,
                 "Deaths": 0,
                 "Time_Of_Last_Change": 1585456804.0,
-                "Second_From_Last_Change": 315540.0,
+                "Second_From_Last_Change": 315840.0,
                 "Country_Region": "Grenada",
                 "Recovered": 0
             }
@@ -1727,7 +1727,7 @@
                 "Confirmed": 9,
                 "Deaths": 0,
                 "Time_Of_Last_Change": 1585384628.0,
-                "Second_From_Last_Change": 387716.0,
+                "Second_From_Last_Change": 388016.0,
                 "Country_Region": "Eswatini",
                 "Recovered": 0
             }
@@ -1737,7 +1737,7 @@
                 "Confirmed": 8,
                 "Deaths": 1,
                 "Time_Of_Last_Change": 1585637584.0,
-                "Second_From_Last_Change": 134760.0,
+                "Second_From_Last_Change": 135060.0,
                 "Country_Region": "Zimbabwe",
                 "Recovered": 0
             }
@@ -1747,7 +1747,7 @@
                 "Confirmed": 8,
                 "Deaths": 0,
                 "Time_Of_Last_Change": 1585578603.0,
-                "Second_From_Last_Change": 193741.0,
+                "Second_From_Last_Change": 194041.0,
                 "Country_Region": "Guinea-Bissau",
                 "Recovered": 0
             }
@@ -1757,7 +1757,7 @@
                 "Confirmed": 8,
                 "Deaths": 0,
                 "Time_Of_Last_Change": 1585655403.0,
-                "Second_From_Last_Change": 116941.0,
+                "Second_From_Last_Change": 117241.0,
                 "Country_Region": "Saint Kitts and Nevis",
                 "Recovered": 0
             }
@@ -1767,7 +1767,7 @@
                 "Confirmed": 7,
                 "Deaths": 2,
                 "Time_Of_Last_Change": 1585608844.0,
-                "Second_From_Last_Change": 163500.0,
+                "Second_From_Last_Change": 163800.0,
                 "Country_Region": "Angola",
                 "Recovered": 1
             }
@@ -1777,7 +1777,7 @@
                 "Confirmed": 7,
                 "Deaths": 2,
                 "Time_Of_Last_Change": 1585766464.0,
-                "Second_From_Last_Change": 5880.0,
+                "Second_From_Last_Change": 6180.0,
                 "Country_Region": "Sudan",
                 "Recovered": 2
             }
@@ -1787,7 +1787,7 @@
                 "Confirmed": 7,
                 "Deaths": 0,
                 "Time_Of_Last_Change": 1585384628.0,
-                "Second_From_Last_Change": 387716.0,
+                "Second_From_Last_Change": 388016.0,
                 "Country_Region": "Antigua and Barbuda",
                 "Recovered": 0
             }
@@ -1797,7 +1797,7 @@
                 "Confirmed": 7,
                 "Deaths": 0,
                 "Time_Of_Last_Change": 1585642024.0,
-                "Second_From_Last_Change": 130320.0,
+                "Second_From_Last_Change": 130620.0,
                 "Country_Region": "Chad",
                 "Recovered": 0
             }
@@ -1807,7 +1807,7 @@
                 "Confirmed": 6,
                 "Deaths": 1,
                 "Time_Of_Last_Change": 1585440606.0,
-                "Second_From_Last_Change": 331738.0,
+                "Second_From_Last_Change": 332038.0,
                 "Country_Region": "Cabo Verde",
                 "Recovered": 0
             }
@@ -1817,7 +1817,7 @@
                 "Confirmed": 6,
                 "Deaths": 1,
                 "Time_Of_Last_Change": 1585609324.0,
-                "Second_From_Last_Change": 163020.0,
+                "Second_From_Last_Change": 163320.0,
                 "Country_Region": "Mauritania",
                 "Recovered": 2
             }
@@ -1827,7 +1827,7 @@
                 "Confirmed": 6,
                 "Deaths": 0,
                 "Time_Of_Last_Change": 1585414805.0,
-                "Second_From_Last_Change": 357539.0,
+                "Second_From_Last_Change": 357839.0,
                 "Country_Region": "Vatican City",
                 "Recovered": 0
             }
@@ -1837,7 +1837,7 @@
                 "Confirmed": 6,
                 "Deaths": 0,
                 "Time_Of_Last_Change": 1585734184.0,
-                "Second_From_Last_Change": 38160.0,
+                "Second_From_Last_Change": 38460.0,
                 "Country_Region": "Liberia",
                 "Recovered": 0
             }
@@ -1847,7 +1847,7 @@
                 "Confirmed": 6,
                 "Deaths": 0,
                 "Time_Of_Last_Change": 1585582923.0,
-                "Second_From_Last_Change": 189421.0,
+                "Second_From_Last_Change": 189721.0,
                 "Country_Region": "St. Barth",
                 "Recovered": 1
             }
@@ -1857,7 +1857,7 @@
                 "Confirmed": 6,
                 "Deaths": 0,
                 "Time_Of_Last_Change": 1585766464.0,
-                "Second_From_Last_Change": 5880.0,
+                "Second_From_Last_Change": 6180.0,
                 "Country_Region": "Turks and Caicos",
                 "Recovered": 0
             }
@@ -1867,7 +1867,7 @@
                 "Confirmed": 5,
                 "Deaths": 1,
                 "Time_Of_Last_Change": 1585696444.0,
-                "Second_From_Last_Change": 75900.0,
+                "Second_From_Last_Change": 76200.0,
                 "Country_Region": "Nicaragua",
                 "Recovered": 0
             }
@@ -1877,7 +1877,7 @@
                 "Confirmed": 5,
                 "Deaths": 0,
                 "Time_Of_Last_Change": 1585392844.0,
-                "Second_From_Last_Change": 379500.0,
+                "Second_From_Last_Change": 379800.0,
                 "Country_Region": "Nepal",
                 "Recovered": 1
             }
@@ -1887,7 +1887,7 @@
                 "Confirmed": 5,
                 "Deaths": 0,
                 "Time_Of_Last_Change": 1585384628.0,
-                "Second_From_Last_Change": 387716.0,
+                "Second_From_Last_Change": 388016.0,
                 "Country_Region": "Fiji",
                 "Recovered": 0
             }
@@ -1897,7 +1897,7 @@
                 "Confirmed": 5,
                 "Deaths": 0,
                 "Time_Of_Last_Change": 1585384628.0,
-                "Second_From_Last_Change": 387716.0,
+                "Second_From_Last_Change": 388016.0,
                 "Country_Region": "Montserrat",
                 "Recovered": 0
             }
@@ -1907,7 +1907,7 @@
                 "Confirmed": 5,
                 "Deaths": 0,
                 "Time_Of_Last_Change": 1585677483.0,
-                "Second_From_Last_Change": 94861.0,
+                "Second_From_Last_Change": 95161.0,
                 "Country_Region": "Somalia",
                 "Recovered": 1
             }
@@ -1917,7 +1917,7 @@
                 "Confirmed": 4,
                 "Deaths": 1,
                 "Time_Of_Last_Change": 1585695844.0,
-                "Second_From_Last_Change": 76500.0,
+                "Second_From_Last_Change": 76800.0,
                 "Country_Region": "Botswana",
                 "Recovered": 0
             }
@@ -1927,7 +1927,7 @@
                 "Confirmed": 4,
                 "Deaths": 1,
                 "Time_Of_Last_Change": 1585512124.0,
-                "Second_From_Last_Change": 260220.0,
+                "Second_From_Last_Change": 260520.0,
                 "Country_Region": "Gambia",
                 "Recovered": 0
             }
@@ -1937,7 +1937,7 @@
                 "Confirmed": 4,
                 "Deaths": 0,
                 "Time_Of_Last_Change": 1585456025.0,
-                "Second_From_Last_Change": 316319.0,
+                "Second_From_Last_Change": 316619.0,
                 "Country_Region": "Bhutan",
                 "Recovered": 0
             }
@@ -1947,7 +1947,7 @@
                 "Confirmed": 3,
                 "Deaths": 0,
                 "Time_Of_Last_Change": 1585583824.0,
-                "Second_From_Last_Change": 188520.0,
+                "Second_From_Last_Change": 188820.0,
                 "Country_Region": "Belize",
                 "Recovered": 0
             }
@@ -1957,7 +1957,7 @@
                 "Confirmed": 3,
                 "Deaths": 0,
                 "Time_Of_Last_Change": 1585621143.0,
-                "Second_From_Last_Change": 151201.0,
+                "Second_From_Last_Change": 151501.0,
                 "Country_Region": "British Virgin Islands",
                 "Recovered": 0
             }
@@ -1967,7 +1967,7 @@
                 "Confirmed": 3,
                 "Deaths": 0,
                 "Time_Of_Last_Change": 1585384628.0,
-                "Second_From_Last_Change": 387716.0,
+                "Second_From_Last_Change": 388016.0,
                 "Country_Region": "CAR",
                 "Recovered": 0
             }
@@ -1977,7 +1977,7 @@
                 "Confirmed": 2,
                 "Deaths": 0,
                 "Time_Of_Last_Change": 1585384628.0,
-                "Second_From_Last_Change": 387716.0,
+                "Second_From_Last_Change": 388016.0,
                 "Country_Region": "MS Zaandam",
                 "Recovered": 0
             }
@@ -1987,7 +1987,7 @@
                 "Confirmed": 2,
                 "Deaths": 0,
                 "Time_Of_Last_Change": 1585384628.0,
-                "Second_From_Last_Change": 387716.0,
+                "Second_From_Last_Change": 388016.0,
                 "Country_Region": "Anguilla",
                 "Recovered": 0
             }
@@ -1997,7 +1997,7 @@
                 "Confirmed": 2,
                 "Deaths": 0,
                 "Time_Of_Last_Change": 1585677063.0,
-                "Second_From_Last_Change": 95281.0,
+                "Second_From_Last_Change": 95581.0,
                 "Country_Region": "Burundi",
                 "Recovered": 0
             }
@@ -2007,7 +2007,7 @@
                 "Confirmed": 2,
                 "Deaths": 0,
                 "Time_Of_Last_Change": 1585711204.0,
-                "Second_From_Last_Change": 61140.0,
+                "Second_From_Last_Change": 61440.0,
                 "Country_Region": "Caribbean Netherlands",
                 "Recovered": 0
             }
@@ -2017,7 +2017,7 @@
                 "Confirmed": 2,
                 "Deaths": 0,
                 "Time_Of_Last_Change": 1585767124.0,
-                "Second_From_Last_Change": 5220.0,
+                "Second_From_Last_Change": 5520.0,
                 "Country_Region": "Sierra Leone",
                 "Recovered": 0
             }
@@ -2027,7 +2027,7 @@
                 "Confirmed": 1,
                 "Deaths": 0,
                 "Time_Of_Last_Change": 1585384628.0,
-                "Second_From_Last_Change": 387716.0,
+                "Second_From_Last_Change": 388016.0,
                 "Country_Region": "Papua New Guinea",
                 "Recovered": 0
             }
@@ -2037,7 +2037,7 @@
                 "Confirmed": 1,
                 "Deaths": 0,
                 "Time_Of_Last_Change": 1585384628.0,
-                "Second_From_Last_Change": 387716.0,
+                "Second_From_Last_Change": 388016.0,
                 "Country_Region": "St. Vincent Grenadines",
                 "Recovered": 1
             }
@@ -2047,7 +2047,7 @@
                 "Confirmed": 1,
                 "Deaths": 0,
                 "Time_Of_Last_Change": 1585384628.0,
-                "Second_From_Last_Change": 387716.0,
+                "Second_From_Last_Change": 388016.0,
                 "Country_Region": "Timor-Leste",
                 "Recovered": 0
             }
