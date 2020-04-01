@@ -38,18 +38,6 @@
         },
         {
             "attributes": {
-                "Confirmed": 55,
-                "Long_": -69.9683,
-                "Province_State_Child": null,
-                "Deaths": 0,
-                "Province_State": "Aruba",
-                "Country_Region": "Aruba, Netherlands",
-                "Lat": 12.5211,
-                "Recovered": 1
-            }
-        },
-        {
-            "attributes": {
                 "Confirmed": 80,
                 "Long_": 149.0124,
                 "Province_State_Child": null,
@@ -142,18 +130,6 @@
                 "Country_Region": "Chongqing, China",
                 "Lat": 30.0572,
                 "Recovered": 570
-            }
-        },
-        {
-            "attributes": {
-                "Confirmed": 11,
-                "Long_": -68.99,
-                "Province_State_Child": null,
-                "Deaths": 1,
-                "Province_State": "Curacao",
-                "Country_Region": "Curacao, Netherlands",
-                "Lat": 12.1696,
-                "Recovered": 2
             }
         },
         {
@@ -694,18 +670,6 @@
                 "Country_Region": "Sichuan, China",
                 "Lat": 30.6171,
                 "Recovered": 536
-            }
-        },
-        {
-            "attributes": {
-                "Confirmed": 6,
-                "Long_": -63.0548,
-                "Province_State_Child": null,
-                "Deaths": 0,
-                "Province_State": "Sint Maarten",
-                "Country_Region": "Sint Maarten, Netherlands",
-                "Lat": 18.0425,
-                "Recovered": 0
             }
         },
         {
@@ -2114,18 +2078,6 @@
         },
         {
             "attributes": {
-                "Confirmed": 12595,
-                "Long_": 5.2913,
-                "Province_State_Child": null,
-                "Deaths": 1039,
-                "Province_State": null,
-                "Country_Region": "Netherlands",
-                "Lat": 52.1326,
-                "Recovered": 250
-            }
-        },
-        {
-            "attributes": {
                 "Confirmed": 647,
                 "Long_": 174.886,
                 "Province_State_Child": null,
@@ -3086,6 +3038,17 @@
         },
         {
             "attributes": {
+                "Confirmed": 6,
+                "Long_": "108.220556",
+                "Deaths": 0,
+                "Province_State": "Đà Nẵng",
+                "Country_Region": "Đà Nẵng, Việt Nam",
+                "Lat": "16.031944",
+                "Recovered": 3
+            }
+        },
+        {
+            "attributes": {
                 "Confirmed": 7,
                 "Long_": "107.193604",
                 "Deaths": 0,
@@ -3120,11 +3083,66 @@
         {
             "attributes": {
                 "Confirmed": 2,
+                "Long_": "108.99028",
+                "Deaths": 0,
+                "Province_State": "Ninh Thuận",
+                "Country_Region": "Ninh Thuận, Việt Nam",
+                "Lat": "11.56556",
+                "Recovered": 0
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 3,
+                "Long_": "106.298904",
+                "Deaths": 0,
+                "Province_State": "Trà Vinh",
+                "Country_Region": "Trà Vinh, Việt Nam",
+                "Lat": "9.813946",
+                "Recovered": 0
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 2,
+                "Long_": "107.58482",
+                "Deaths": 0,
+                "Province_State": "Thừa Thiên Huế",
+                "Country_Region": "Thừa Thiên Huế, Việt Nam",
+                "Lat": "16.463744",
+                "Recovered": 2
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 2,
                 "Long_": "104.15786",
                 "Deaths": 0,
                 "Province_State": "Lào Cai",
                 "Country_Region": "Lào Cai, Việt Nam",
                 "Lat": "22.379997",
+                "Recovered": 0
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 3,
+                "Long_": "105.309448",
+                "Deaths": 0,
+                "Province_State": "Thanh Hóa",
+                "Country_Region": "Thanh Hóa, Việt Nam",
+                "Lat": "20.141049",
+                "Recovered": 1
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 4,
+                "Long_": "105.682983",
+                "Deaths": 0,
+                "Province_State": "Đồng Tháp",
+                "Country_Region": "Đồng Tháp, Việt Nam",
+                "Lat": "10.575572",
                 "Recovered": 0
             }
         },
@@ -3142,56 +3160,12 @@
         {
             "attributes": {
                 "Confirmed": 3,
-                "Long_": "106.298904",
-                "Deaths": 0,
-                "Province_State": "Trà Vinh",
-                "Country_Region": "Trà Vinh, Việt Nam",
-                "Lat": "9.813946",
-                "Recovered": 0
-            }
-        },
-        {
-            "attributes": {
-                "Confirmed": 3,
                 "Long_": "108.03680",
                 "Deaths": 0,
                 "Province_State": "Quảng Nam",
                 "Country_Region": "Quảng Nam, Việt Nam",
                 "Lat": "15.556898",
                 "Recovered": 0
-            }
-        },
-        {
-            "attributes": {
-                "Confirmed": 2,
-                "Long_": "107.58482",
-                "Deaths": 0,
-                "Province_State": "Thừa Thiên Huế",
-                "Country_Region": "Thừa Thiên Huế, Việt Nam",
-                "Lat": "16.463744",
-                "Recovered": 2
-            }
-        },
-        {
-            "attributes": {
-                "Confirmed": 4,
-                "Long_": "105.682983",
-                "Deaths": 0,
-                "Province_State": "Đồng Tháp",
-                "Country_Region": "Đồng Tháp, Việt Nam",
-                "Lat": "10.575572",
-                "Recovered": 0
-            }
-        },
-        {
-            "attributes": {
-                "Confirmed": 3,
-                "Long_": "105.309448",
-                "Deaths": 0,
-                "Province_State": "Thanh Hóa",
-                "Country_Region": "Thanh Hóa, Việt Nam",
-                "Lat": "20.141049",
-                "Recovered": 1
             }
         },
         {
@@ -3207,24 +3181,13 @@
         },
         {
             "attributes": {
-                "Confirmed": 6,
-                "Long_": "108.220556",
+                "Confirmed": 1,
+                "Long_": "106.376152",
                 "Deaths": 0,
-                "Province_State": "Đà Nẵng",
-                "Country_Region": "Đà Nẵng, Việt Nam",
-                "Lat": "16.031944",
-                "Recovered": 3
-            }
-        },
-        {
-            "attributes": {
-                "Confirmed": 88,
-                "Long_": "105.853333",
-                "Deaths": 0,
-                "Province_State": "Hà Nội",
-                "Country_Region": "Hà Nội, Việt Nam",
-                "Lat": "21.028333",
-                "Recovered": 27
+                "Province_State": "Bến Tre",
+                "Country_Region": "Bến Tre, Việt Nam",
+                "Lat": "10.248371",
+                "Recovered": 0
             }
         },
         {
@@ -3241,23 +3204,23 @@
         {
             "attributes": {
                 "Confirmed": 1,
-                "Long_": "109.047768",
-                "Deaths": 0,
-                "Province_State": "Khánh Hòa",
-                "Country_Region": "Khánh Hòa, Việt Nam",
-                "Lat": "12.073058",
-                "Recovered": 1
-            }
-        },
-        {
-            "attributes": {
-                "Confirmed": 1,
                 "Long_": "106.316670",
                 "Deaths": 0,
                 "Province_State": "Hải Dương",
                 "Country_Region": "Hải Dương, Việt Nam",
                 "Lat": "20.933330",
                 "Recovered": 0
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 1,
+                "Long_": "109.047768",
+                "Deaths": 0,
+                "Province_State": "Khánh Hòa",
+                "Country_Region": "Khánh Hòa, Việt Nam",
+                "Lat": "12.073058",
+                "Recovered": 1
             }
         },
         {
@@ -3274,6 +3237,28 @@
         {
             "attributes": {
                 "Confirmed": 2,
+                "Long_": "105.784092",
+                "Deaths": 0,
+                "Province_State": "Cần Thơ",
+                "Country_Region": "Cần Thơ, Việt Nam",
+                "Lat": "10.032415",
+                "Recovered": 0
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 88,
+                "Long_": "105.853333",
+                "Deaths": 0,
+                "Province_State": "Hà Nội",
+                "Country_Region": "Hà Nội, Việt Nam",
+                "Lat": "21.028333",
+                "Recovered": 27
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 2,
                 "Long_": "105.493469",
                 "Deaths": 0,
                 "Province_State": "Bạc Liêu",
@@ -3285,33 +3270,11 @@
         {
             "attributes": {
                 "Confirmed": 2,
-                "Long_": "105.784092",
-                "Deaths": 0,
-                "Province_State": "Cần Thơ",
-                "Country_Region": "Cần Thơ, Việt Nam",
-                "Lat": "10.032415",
-                "Recovered": 0
-            }
-        },
-        {
-            "attributes": {
-                "Confirmed": 2,
                 "Long_": "106.119003",
                 "Deaths": 0,
                 "Province_State": "Tây Ninh",
                 "Country_Region": "Tây Ninh, Việt Nam",
                 "Lat": "11.367795",
-                "Recovered": 0
-            }
-        },
-        {
-            "attributes": {
-                "Confirmed": 1,
-                "Long_": "106.376152",
-                "Deaths": 0,
-                "Province_State": "Bến Tre",
-                "Country_Region": "Bến Tre, Việt Nam",
-                "Lat": "10.248371",
                 "Recovered": 0
             }
         },
@@ -3334,17 +3297,6 @@
                 "Province_State": "Thái Nguyên",
                 "Country_Region": "Thái Nguyên, Việt Nam",
                 "Lat": "21.564225",
-                "Recovered": 0
-            }
-        },
-        {
-            "attributes": {
-                "Confirmed": 2,
-                "Long_": "108.99028",
-                "Deaths": 0,
-                "Province_State": "Ninh Thuận",
-                "Country_Region": "Ninh Thuận, Việt Nam",
-                "Lat": "11.56556",
                 "Recovered": 0
             }
         },
@@ -6901,6 +6853,5271 @@
             }
         },
         {
+            "geometry": {
+                "y": 52.373442769792,
+                "x": 4.9045431181182
+            },
+            "attributes": {
+                "Confirmed": 571,
+                "Long_": 4.9045431181182,
+                "Deaths": -1,
+                "Province_State": "Amsterdam",
+                "Country_Region": "Amsterdam, Netherlands",
+                "Lat": 52.373442769792,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 51.69714379562402,
+                "x": 4.881582513266674
+            },
+            "attributes": {
+                "Confirmed": 15,
+                "Long_": 4.881582513266674,
+                "Deaths": -1,
+                "Province_State": "Geertruidenberg",
+                "Country_Region": "Geertruidenberg, Netherlands",
+                "Lat": 51.69714379562402,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 52.512492604825226,
+                "x": 4.640448477016809
+            },
+            "attributes": {
+                "Confirmed": 27,
+                "Long_": 4.640448477016809,
+                "Deaths": -1,
+                "Province_State": "Heemskerk",
+                "Country_Region": "Heemskerk, Netherlands",
+                "Lat": 52.512492604825226,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 51.71680915094274,
+                "x": 5.35192546294509
+            },
+            "attributes": {
+                "Confirmed": 150,
+                "Long_": 5.35192546294509,
+                "Deaths": -1,
+                "Province_State": "'s-hertogenbosch",
+                "Country_Region": "'s-hertogenbosch, Netherlands",
+                "Lat": 51.71680915094274,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 51.336301663012605,
+                "x": 5.994847732853951
+            },
+            "attributes": {
+                "Confirmed": 140,
+                "Long_": 5.994847732853951,
+                "Deaths": -1,
+                "Province_State": "Peel en maas",
+                "Country_Region": "Peel en maas, Netherlands",
+                "Lat": 51.336301663012605,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 52.18555326729631,
+                "x": 4.471210112590231
+            },
+            "attributes": {
+                "Confirmed": 15,
+                "Long_": 4.471210112590231,
+                "Deaths": -1,
+                "Province_State": "Oegstgeest",
+                "Country_Region": "Oegstgeest, Netherlands",
+                "Lat": 52.18555326729631,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 52.21212712886156,
+                "x": 5.4843633624475405
+            },
+            "attributes": {
+                "Confirmed": 18,
+                "Long_": 5.4843633624475405,
+                "Deaths": -1,
+                "Province_State": "Nijkerk",
+                "Country_Region": "Nijkerk, Netherlands",
+                "Lat": 52.21212712886156,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 52.065413381659475,
+                "x": 4.766091163283259
+            },
+            "attributes": {
+                "Confirmed": 12,
+                "Long_": 4.766091163283259,
+                "Deaths": -1,
+                "Province_State": "Bodegraven-reeuwijk",
+                "Country_Region": "Bodegraven-reeuwijk, Netherlands",
+                "Lat": 52.065413381659475,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 51.36086303854719,
+                "x": 5.567237241644921
+            },
+            "attributes": {
+                "Confirmed": 16,
+                "Long_": 5.567237241644921,
+                "Deaths": -1,
+                "Province_State": "Heeze-leende",
+                "Country_Region": "Heeze-leende, Netherlands",
+                "Lat": 51.36086303854719,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 51.62605077401105,
+                "x": 5.218107963427195
+            },
+            "attributes": {
+                "Confirmed": 23,
+                "Long_": 5.218107963427195,
+                "Deaths": -1,
+                "Province_State": "Haaren",
+                "Country_Region": "Haaren, Netherlands",
+                "Lat": 51.62605077401105,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 53.21859343000935,
+                "x": 6.62063540088836
+            },
+            "attributes": {
+                "Confirmed": 88,
+                "Long_": 6.62063540088836,
+                "Deaths": -1,
+                "Province_State": "Groningen",
+                "Country_Region": "Groningen, Netherlands",
+                "Lat": 53.21859343000935,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 51.69231977271152,
+                "x": 5.011821189283406
+            },
+            "attributes": {
+                "Confirmed": 59,
+                "Long_": 5.011821189283406,
+                "Deaths": -1,
+                "Province_State": "Waalwijk",
+                "Country_Region": "Waalwijk, Netherlands",
+                "Lat": 51.69231977271152,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 51.43622006068485,
+                "x": 5.826975012088004
+            },
+            "attributes": {
+                "Confirmed": 58,
+                "Long_": 5.826975012088004,
+                "Deaths": -1,
+                "Province_State": "Deurne",
+                "Country_Region": "Deurne, Netherlands",
+                "Lat": 51.43622006068485,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 51.93598385813492,
+                "x": 5.056754912328776
+            },
+            "attributes": {
+                "Confirmed": 47,
+                "Long_": 5.056754912328776,
+                "Deaths": -1,
+                "Province_State": "Vijfheerenlanden",
+                "Country_Region": "Vijfheerenlanden, Netherlands",
+                "Lat": 51.93598385813492,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 53.231546632232615,
+                "x": 5.613048351022437
+            },
+            "attributes": {
+                "Confirmed": 6,
+                "Long_": 5.613048351022437,
+                "Deaths": -1,
+                "Province_State": "Waadhoeke",
+                "Country_Region": "Waadhoeke, Netherlands",
+                "Lat": 53.231546632232615,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 51.47860150095106,
+                "x": 5.5494630311595206
+            },
+            "attributes": {
+                "Confirmed": 16,
+                "Long_": 5.5494630311595206,
+                "Deaths": -1,
+                "Province_State": "Nuenen, gerwen en nederwetten",
+                "Country_Region": "Nuenen, gerwen en nederwetten, Netherlands",
+                "Lat": 51.47860150095106,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 52.14173276002198,
+                "x": 5.174312093451769
+            },
+            "attributes": {
+                "Confirmed": 42,
+                "Long_": 5.174312093451769,
+                "Deaths": -1,
+                "Province_State": "De bilt",
+                "Country_Region": "De bilt, Netherlands",
+                "Lat": 52.14173276002198,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 52.17078697882781,
+                "x": 4.7794689862647495
+            },
+            "attributes": {
+                "Confirmed": 10,
+                "Long_": 4.7794689862647495,
+                "Deaths": -1,
+                "Province_State": "Nieuwkoop",
+                "Country_Region": "Nieuwkoop, Netherlands",
+                "Lat": 52.17078697882781,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 51.684682425237646,
+                "x": 5.520663335832836
+            },
+            "attributes": {
+                "Confirmed": 117,
+                "Long_": 5.520663335832836,
+                "Deaths": -1,
+                "Province_State": "Bernheze",
+                "Country_Region": "Bernheze, Netherlands",
+                "Lat": 51.684682425237646,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 51.91469660469016,
+                "x": 4.602102467946246
+            },
+            "attributes": {
+                "Confirmed": 15,
+                "Long_": 4.602102467946246,
+                "Deaths": -1,
+                "Province_State": "Krimpen aan den ijssel",
+                "Country_Region": "Krimpen aan den ijssel, Netherlands",
+                "Lat": 51.91469660469016,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 51.94654821510825,
+                "x": 6.018171585902036
+            },
+            "attributes": {
+                "Confirmed": 7,
+                "Long_": 6.018171585902036,
+                "Deaths": -1,
+                "Province_State": "Duiven",
+                "Country_Region": "Duiven, Netherlands",
+                "Lat": 51.94654821510825,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 51.145697046670406,
+                "x": 6.041087911955243
+            },
+            "attributes": {
+                "Confirmed": 18,
+                "Long_": 6.041087911955243,
+                "Deaths": -1,
+                "Province_State": "Roerdalen",
+                "Country_Region": "Roerdalen, Netherlands",
+                "Lat": 51.145697046670406,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 52.45383102926269,
+                "x": 5.036235013631369
+            },
+            "attributes": {
+                "Confirmed": 14,
+                "Long_": 5.036235013631369,
+                "Deaths": -1,
+                "Province_State": "Waterland",
+                "Country_Region": "Waterland, Netherlands",
+                "Lat": 52.45383102926269,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 52.67600613799148,
+                "x": 4.844584101792333
+            },
+            "attributes": {
+                "Confirmed": 31,
+                "Long_": 4.844584101792333,
+                "Deaths": -1,
+                "Province_State": "Heerhugowaard",
+                "Country_Region": "Heerhugowaard, Netherlands",
+                "Lat": 52.67600613799148,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 51.43204618461764,
+                "x": 3.825048353704649
+            },
+            "attributes": {
+                "Confirmed": 7,
+                "Long_": 3.825048353704649,
+                "Deaths": -1,
+                "Province_State": "Borsele",
+                "Country_Region": "Borsele, Netherlands",
+                "Lat": 51.43204618461764,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 52.03042265044472,
+                "x": 5.169311782268824
+            },
+            "attributes": {
+                "Confirmed": 58,
+                "Long_": 5.169311782268824,
+                "Deaths": -1,
+                "Province_State": "Houten",
+                "Country_Region": "Houten, Netherlands",
+                "Lat": 52.03042265044472,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 52.12222432871991,
+                "x": 5.4164453195793465
+            },
+            "attributes": {
+                "Confirmed": 19,
+                "Long_": 5.4164453195793465,
+                "Deaths": -1,
+                "Province_State": "Leusden",
+                "Country_Region": "Leusden, Netherlands",
+                "Lat": 52.12222432871991,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 53.08066766954644,
+                "x": 4.809547946401886
+            },
+            "attributes": {
+                "Confirmed": 3,
+                "Long_": 4.809547946401886,
+                "Deaths": -1,
+                "Province_State": "Texel",
+                "Country_Region": "Texel, Netherlands",
+                "Lat": 53.08066766954644,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 51.516375368776046,
+                "x": 5.482463763070632
+            },
+            "attributes": {
+                "Confirmed": 24,
+                "Long_": 5.482463763070632,
+                "Deaths": -1,
+                "Province_State": "Son en breugel",
+                "Country_Region": "Son en breugel, Netherlands",
+                "Lat": 51.516375368776046,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 52.905882492694566,
+                "x": 6.871982611783078
+            },
+            "attributes": {
+                "Confirmed": 2,
+                "Long_": 6.871982611783078,
+                "Deaths": -1,
+                "Province_State": "Borger-odoorn",
+                "Country_Region": "Borger-odoorn, Netherlands",
+                "Lat": 52.905882492694566,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 52.70166730326368,
+                "x": 6.373495565834045
+            },
+            "attributes": {
+                "Confirmed": 7,
+                "Long_": 6.373495565834045,
+                "Deaths": -1,
+                "Province_State": "De wolden",
+                "Country_Region": "De wolden, Netherlands",
+                "Lat": 52.70166730326368,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 52.78732590160839,
+                "x": 4.742216259114387
+            },
+            "attributes": {
+                "Confirmed": 19,
+                "Long_": 4.742216259114387,
+                "Deaths": -1,
+                "Province_State": "Schagen",
+                "Country_Region": "Schagen, Netherlands",
+                "Lat": 52.78732590160839,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 52.585641512686,
+                "x": 6.574136453023486
+            },
+            "attributes": {
+                "Confirmed": 21,
+                "Long_": 6.574136453023486,
+                "Deaths": -1,
+                "Province_State": "Hardenberg",
+                "Country_Region": "Hardenberg, Netherlands",
+                "Lat": 52.585641512686,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 52.4529351321892,
+                "x": 4.613524916685804
+            },
+            "attributes": {
+                "Confirmed": 40,
+                "Long_": 4.613524916685804,
+                "Deaths": -1,
+                "Province_State": "Velsen",
+                "Country_Region": "Velsen, Netherlands",
+                "Lat": 52.4529351321892,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 51.65548933996011,
+                "x": 5.65184429181085
+            },
+            "attributes": {
+                "Confirmed": 154,
+                "Long_": 5.65184429181085,
+                "Deaths": -1,
+                "Province_State": "Uden",
+                "Country_Region": "Uden, Netherlands",
+                "Lat": 51.65548933996011,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 50.802342536057374,
+                "x": 5.9001425271284536
+            },
+            "attributes": {
+                "Confirmed": 11,
+                "Long_": 5.9001425271284536,
+                "Deaths": -1,
+                "Province_State": "Gulpen-wittem",
+                "Country_Region": "Gulpen-wittem, Netherlands",
+                "Lat": 50.802342536057374,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 50.85296702874484,
+                "x": 5.699528355238878
+            },
+            "attributes": {
+                "Confirmed": 185,
+                "Long_": 5.699528355238878,
+                "Deaths": -1,
+                "Province_State": "Maastricht",
+                "Country_Region": "Maastricht, Netherlands",
+                "Lat": 50.85296702874484,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 51.99845679421801,
+                "x": 4.36310564663688
+            },
+            "attributes": {
+                "Confirmed": 34,
+                "Long_": 4.36310564663688,
+                "Deaths": -1,
+                "Province_State": "Delft",
+                "Country_Region": "Delft, Netherlands",
+                "Lat": 51.99845679421801,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 52.10897309756195,
+                "x": 6.118504387544638
+            },
+            "attributes": {
+                "Confirmed": 8,
+                "Long_": 6.118504387544638,
+                "Deaths": -1,
+                "Province_State": "Brummen",
+                "Country_Region": "Brummen, Netherlands",
+                "Lat": 52.10897309756195,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 51.83171469276227,
+                "x": 4.282054959367934
+            },
+            "attributes": {
+                "Confirmed": 40,
+                "Long_": 4.282054959367934,
+                "Deaths": -1,
+                "Province_State": "Nissewaard",
+                "Country_Region": "Nissewaard, Netherlands",
+                "Lat": 51.83171469276227,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 52.373010916355035,
+                "x": 6.9141402734755815
+            },
+            "attributes": {
+                "Confirmed": 34,
+                "Long_": 6.9141402734755815,
+                "Deaths": -1,
+                "Province_State": "Dinkelland",
+                "Country_Region": "Dinkelland, Netherlands",
+                "Lat": 52.373010916355035,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 51.387291481406464,
+                "x": 5.464868991190485
+            },
+            "attributes": {
+                "Confirmed": 8,
+                "Long_": 5.464868991190485,
+                "Deaths": -1,
+                "Province_State": "Waalre",
+                "Country_Region": "Waalre, Netherlands",
+                "Lat": 51.387291481406464,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 52.156652237557864,
+                "x": 4.542012032490583
+            },
+            "attributes": {
+                "Confirmed": 7,
+                "Long_": 4.542012032490583,
+                "Deaths": -1,
+                "Province_State": "Leiderdorp",
+                "Country_Region": "Leiderdorp, Netherlands",
+                "Lat": 52.156652237557864,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 51.747364829891694,
+                "x": 5.899664063824493
+            },
+            "attributes": {
+                "Confirmed": 8,
+                "Long_": 5.899664063824493,
+                "Deaths": -1,
+                "Province_State": "Mook en middelaar",
+                "Country_Region": "Mook en middelaar, Netherlands",
+                "Lat": 51.747364829891694,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 52.71593154563658,
+                "x": 6.193841028817446
+            },
+            "attributes": {
+                "Confirmed": 8,
+                "Long_": 6.193841028817446,
+                "Deaths": -1,
+                "Province_State": "Meppel",
+                "Country_Region": "Meppel, Netherlands",
+                "Lat": 52.71593154563658,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 51.51365306380364,
+                "x": 5.396465790109257
+            },
+            "attributes": {
+                "Confirmed": 27,
+                "Long_": 5.396465790109257,
+                "Deaths": -1,
+                "Province_State": "Best",
+                "Country_Region": "Best, Netherlands",
+                "Lat": 51.51365306380364,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 51.461890701596566,
+                "x": 3.5959581311682114
+            },
+            "attributes": {
+                "Confirmed": 13,
+                "Long_": 3.5959581311682114,
+                "Deaths": -1,
+                "Province_State": "Vlissingen",
+                "Country_Region": "Vlissingen, Netherlands",
+                "Lat": 51.461890701596566,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 52.251894638398504,
+                "x": 5.282678308826003
+            },
+            "attributes": {
+                "Confirmed": 2,
+                "Long_": 5.282678308826003,
+                "Deaths": -1,
+                "Province_State": "Eemnes",
+                "Country_Region": "Eemnes, Netherlands",
+                "Lat": 52.251894638398504,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 51.84179464489934,
+                "x": 4.638790784468608
+            },
+            "attributes": {
+                "Confirmed": 6,
+                "Long_": 4.638790784468608,
+                "Deaths": -1,
+                "Province_State": "Hendrik-ido-ambacht",
+                "Country_Region": "Hendrik-ido-ambacht, Netherlands",
+                "Lat": 51.84179464489934,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 51.821844060092765,
+                "x": 4.605802340015956
+            },
+            "attributes": {
+                "Confirmed": 18,
+                "Long_": 4.605802340015956,
+                "Deaths": -1,
+                "Province_State": "Zwijndrecht",
+                "Country_Region": "Zwijndrecht, Netherlands",
+                "Lat": 51.821844060092765,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 51.92174087900072,
+                "x": 6.560587265231518
+            },
+            "attributes": {
+                "Confirmed": 5,
+                "Long_": 6.560587265231518,
+                "Deaths": -1,
+                "Province_State": "Aalten",
+                "Country_Region": "Aalten, Netherlands",
+                "Lat": 51.92174087900072,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 51.42924544130407,
+                "x": 4.099580365388986
+            },
+            "attributes": {
+                "Confirmed": 7,
+                "Long_": 4.099580365388986,
+                "Deaths": -1,
+                "Province_State": "Reimerswaal",
+                "Country_Region": "Reimerswaal, Netherlands",
+                "Lat": 51.42924544130407,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 52.2682357463753,
+                "x": 6.235809543399612
+            },
+            "attributes": {
+                "Confirmed": 53,
+                "Long_": 6.235809543399612,
+                "Deaths": -1,
+                "Province_State": "Deventer",
+                "Country_Region": "Deventer, Netherlands",
+                "Lat": 52.2682357463753,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 51.776250701449186,
+                "x": 5.296924244638815
+            },
+            "attributes": {
+                "Confirmed": 12,
+                "Long_": 5.296924244638815,
+                "Deaths": -1,
+                "Province_State": "Maasdriel",
+                "Country_Region": "Maasdriel, Netherlands",
+                "Lat": 51.776250701449186,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 52.08115676314804,
+                "x": 5.426638966142088
+            },
+            "attributes": {
+                "Confirmed": 8,
+                "Long_": 5.426638966142088,
+                "Deaths": -1,
+                "Province_State": "Woudenberg",
+                "Country_Region": "Woudenberg, Netherlands",
+                "Lat": 52.08115676314804,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 50.90642863972082,
+                "x": 6.03298438942512
+            },
+            "attributes": {
+                "Confirmed": 32,
+                "Long_": 6.03298438942512,
+                "Deaths": -1,
+                "Province_State": "Landgraaf",
+                "Country_Region": "Landgraaf, Netherlands",
+                "Lat": 50.90642863972082,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 52.28824827496167,
+                "x": 5.666164645605468
+            },
+            "attributes": {
+                "Confirmed": 23,
+                "Long_": 5.666164645605468,
+                "Deaths": -1,
+                "Province_State": "Ermelo",
+                "Country_Region": "Ermelo, Netherlands",
+                "Lat": 52.28824827496167,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 53.04915129423754,
+                "x": 6.1127568708760665
+            },
+            "attributes": {
+                "Confirmed": 7,
+                "Long_": 6.1127568708760665,
+                "Deaths": -1,
+                "Province_State": "Opsterland",
+                "Country_Region": "Opsterland, Netherlands",
+                "Lat": 53.04915129423754,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 51.3334142986625,
+                "x": 3.523105723507704
+            },
+            "attributes": {
+                "Confirmed": 6,
+                "Long_": 3.523105723507704,
+                "Deaths": -1,
+                "Province_State": "Sluis",
+                "Country_Region": "Sluis, Netherlands",
+                "Lat": 51.3334142986625,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 52.11332194951473,
+                "x": 4.640959276515659
+            },
+            "attributes": {
+                "Confirmed": 44,
+                "Long_": 4.640959276515659,
+                "Deaths": -1,
+                "Province_State": "Alphen aan den rijn",
+                "Country_Region": "Alphen aan den rijn, Netherlands",
+                "Lat": 52.11332194951473,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 52.72309423546492,
+                "x": 6.513593585874256
+            },
+            "attributes": {
+                "Confirmed": 13,
+                "Long_": 6.513593585874256,
+                "Deaths": -1,
+                "Province_State": "Hoogeveen",
+                "Country_Region": "Hoogeveen, Netherlands",
+                "Lat": 52.72309423546492,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 51.696761633671926,
+                "x": 5.160190716109357
+            },
+            "attributes": {
+                "Confirmed": 46,
+                "Long_": 5.160190716109357,
+                "Deaths": -1,
+                "Province_State": "Heusden",
+                "Country_Region": "Heusden, Netherlands",
+                "Lat": 51.696761633671926,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 53.08898652288636,
+                "x": 6.880092112916256
+            },
+            "attributes": {
+                "Confirmed": 2,
+                "Long_": 6.880092112916256,
+                "Deaths": -1,
+                "Province_State": "Veendam",
+                "Country_Region": "Veendam, Netherlands",
+                "Lat": 53.08898652288636,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 51.2862782745403,
+                "x": 5.596177094705612
+            },
+            "attributes": {
+                "Confirmed": 58,
+                "Long_": 5.596177094705612,
+                "Deaths": -1,
+                "Province_State": "Cranendonck",
+                "Country_Region": "Cranendonck, Netherlands",
+                "Lat": 51.2862782745403,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 51.37825527137121,
+                "x": 5.147752804001076
+            },
+            "attributes": {
+                "Confirmed": 7,
+                "Long_": 5.147752804001076,
+                "Deaths": -1,
+                "Province_State": "Reusel-de mierden",
+                "Country_Region": "Reusel-de mierden, Netherlands",
+                "Lat": 51.37825527137121,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 51.41185625349273,
+                "x": 5.383213072963209
+            },
+            "attributes": {
+                "Confirmed": 28,
+                "Long_": 5.383213072963209,
+                "Deaths": -1,
+                "Province_State": "Veldhoven",
+                "Country_Region": "Veldhoven, Netherlands",
+                "Lat": 51.41185625349273,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 51.58002661032206,
+                "x": 5.068323761881753
+            },
+            "attributes": {
+                "Confirmed": 330,
+                "Long_": 5.068323761881753,
+                "Deaths": -1,
+                "Province_State": "Tilburg",
+                "Country_Region": "Tilburg, Netherlands",
+                "Lat": 51.58002661032206,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 52.15498299237638,
+                "x": 4.485115422586182
+            },
+            "attributes": {
+                "Confirmed": 39,
+                "Long_": 4.485115422586182,
+                "Deaths": -1,
+                "Province_State": "Leiden",
+                "Country_Region": "Leiden, Netherlands",
+                "Lat": 52.15498299237638,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 51.59223632889147,
+                "x": 5.506395678781527
+            },
+            "attributes": {
+                "Confirmed": 243,
+                "Long_": 5.506395678781527,
+                "Deaths": -1,
+                "Province_State": "Meierijstad",
+                "Country_Region": "Meierijstad, Netherlands",
+                "Lat": 51.59223632889147,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 51.23360431982425,
+                "x": 5.691694880993963
+            },
+            "attributes": {
+                "Confirmed": 43,
+                "Long_": 5.691694880993963,
+                "Deaths": -1,
+                "Province_State": "Weert",
+                "Country_Region": "Weert, Netherlands",
+                "Lat": 51.23360431982425,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 52.29821497547036,
+                "x": 5.148870407560927
+            },
+            "attributes": {
+                "Confirmed": 26,
+                "Long_": 5.148870407560927,
+                "Deaths": -1,
+                "Province_State": "Gooise meren",
+                "Country_Region": "Gooise meren, Netherlands",
+                "Lat": 52.29821497547036,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 51.57831522449709,
+                "x": 4.644966222362082
+            },
+            "attributes": {
+                "Confirmed": 54,
+                "Long_": 4.644966222362082,
+                "Deaths": -1,
+                "Province_State": "Etten-leur",
+                "Country_Region": "Etten-leur, Netherlands",
+                "Lat": 51.57831522449709,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 51.98076732854577,
+                "x": 5.560529692639395
+            },
+            "attributes": {
+                "Confirmed": 6,
+                "Long_": 5.560529692639395,
+                "Deaths": -1,
+                "Province_State": "Rhenen",
+                "Country_Region": "Rhenen, Netherlands",
+                "Lat": 51.98076732854577,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 52.715280412352335,
+                "x": 4.953472663373921
+            },
+            "attributes": {
+                "Confirmed": 3,
+                "Long_": 4.953472663373921,
+                "Deaths": -1,
+                "Province_State": "Opmeer",
+                "Country_Region": "Opmeer, Netherlands",
+                "Lat": 52.715280412352335,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 52.09033086770584,
+                "x": 4.4222941521572
+            },
+            "attributes": {
+                "Confirmed": 24,
+                "Long_": 4.4222941521572,
+                "Deaths": -1,
+                "Province_State": "Leidschendam-voorburg",
+                "Country_Region": "Leidschendam-voorburg, Netherlands",
+                "Lat": 52.09033086770584,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 53.16995850915257,
+                "x": 5.797583368677402
+            },
+            "attributes": {
+                "Confirmed": 23,
+                "Long_": 5.797583368677402,
+                "Deaths": -1,
+                "Province_State": "Leeuwarden",
+                "Country_Region": "Leeuwarden, Netherlands",
+                "Lat": 53.16995850915257,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 52.312330418863326,
+                "x": 6.743564980698
+            },
+            "attributes": {
+                "Confirmed": 21,
+                "Long_": 6.743564980698,
+                "Deaths": -1,
+                "Province_State": "Borne",
+                "Country_Region": "Borne, Netherlands",
+                "Lat": 52.312330418863326,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 52.51613029201433,
+                "x": 6.434761835525567
+            },
+            "attributes": {
+                "Confirmed": 10,
+                "Long_": 6.434761835525567,
+                "Deaths": -1,
+                "Province_State": "Ommen",
+                "Country_Region": "Ommen, Netherlands",
+                "Lat": 52.51613029201433,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 51.606673963878045,
+                "x": 5.693724937475554
+            },
+            "attributes": {
+                "Confirmed": 61,
+                "Long_": 5.693724937475554,
+                "Deaths": -1,
+                "Province_State": "Boekel",
+                "Country_Region": "Boekel, Netherlands",
+                "Lat": 51.606673963878045,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 51.55958573709132,
+                "x": 4.918574382539203
+            },
+            "attributes": {
+                "Confirmed": 29,
+                "Long_": 4.918574382539203,
+                "Deaths": -1,
+                "Province_State": "Gilze en rijen",
+                "Country_Region": "Gilze en rijen, Netherlands",
+                "Lat": 51.55958573709132,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 52.74025584282398,
+                "x": 6.735912044319987
+            },
+            "attributes": {
+                "Confirmed": 20,
+                "Long_": 6.735912044319987,
+                "Deaths": -1,
+                "Province_State": "Coevorden",
+                "Country_Region": "Coevorden, Netherlands",
+                "Lat": 52.74025584282398,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 50.82880314909777,
+                "x": 5.986643526736798
+            },
+            "attributes": {
+                "Confirmed": 14,
+                "Long_": 5.986643526736798,
+                "Deaths": -1,
+                "Province_State": "Simpelveld",
+                "Country_Region": "Simpelveld, Netherlands",
+                "Lat": 50.82880314909777,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 52.41058210422812,
+                "x": 6.7766719741863835
+            },
+            "attributes": {
+                "Confirmed": 14,
+                "Long_": 6.7766719741863835,
+                "Deaths": -1,
+                "Province_State": "Tubbergen",
+                "Country_Region": "Tubbergen, Netherlands",
+                "Lat": 52.41058210422812,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 52.959093062685945,
+                "x": 5.932143715128581
+            },
+            "attributes": {
+                "Confirmed": 9,
+                "Long_": 5.932143715128581,
+                "Deaths": -1,
+                "Province_State": "Heerenveen",
+                "Country_Region": "Heerenveen, Netherlands",
+                "Lat": 52.959093062685945,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 52.17365049300241,
+                "x": 5.384696468728866
+            },
+            "attributes": {
+                "Confirmed": 69,
+                "Long_": 5.384696468728866,
+                "Deaths": -1,
+                "Province_State": "Amersfoort",
+                "Country_Region": "Amersfoort, Netherlands",
+                "Lat": 52.17365049300241,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 52.223261898474625,
+                "x": 5.167947957742194
+            },
+            "attributes": {
+                "Confirmed": 25,
+                "Long_": 5.167947957742194,
+                "Deaths": -1,
+                "Province_State": "Hilversum",
+                "Country_Region": "Hilversum, Netherlands",
+                "Lat": 52.223261898474625,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 51.76566282139151,
+                "x": 4.945930394442009
+            },
+            "attributes": {
+                "Confirmed": 44,
+                "Long_": 4.945930394442009,
+                "Deaths": -1,
+                "Province_State": "Altena",
+                "Country_Region": "Altena, Netherlands",
+                "Lat": 51.76566282139151,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 51.53092195458923,
+                "x": 5.611771256761055
+            },
+            "attributes": {
+                "Confirmed": 45,
+                "Long_": 5.611771256761055,
+                "Deaths": -1,
+                "Province_State": "Laarbeek",
+                "Country_Region": "Laarbeek, Netherlands",
+                "Lat": 51.53092195458923,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 52.59985401787049,
+                "x": 4.7085719187810735
+            },
+            "attributes": {
+                "Confirmed": 17,
+                "Long_": 4.7085719187810735,
+                "Deaths": -1,
+                "Province_State": "Heiloo",
+                "Country_Region": "Heiloo, Netherlands",
+                "Lat": 52.59985401787049,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 52.45694099663105,
+                "x": 5.937143689085412
+            },
+            "attributes": {
+                "Confirmed": 30,
+                "Long_": 5.937143689085412,
+                "Deaths": -1,
+                "Province_State": "Oldebroek",
+                "Country_Region": "Oldebroek, Netherlands",
+                "Lat": 52.45694099663105,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 51.47615083587948,
+                "x": 5.656969051284621
+            },
+            "attributes": {
+                "Confirmed": 105,
+                "Long_": 5.656969051284621,
+                "Deaths": -1,
+                "Province_State": "Helmond",
+                "Country_Region": "Helmond, Netherlands",
+                "Lat": 51.47615083587948,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 53.01400273417519,
+                "x": 7.120186468143247
+            },
+            "attributes": {
+                "Confirmed": 4,
+                "Long_": 7.120186468143247,
+                "Deaths": -1,
+                "Province_State": "Westerwolde",
+                "Country_Region": "Westerwolde, Netherlands",
+                "Lat": 53.01400273417519,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 52.54383252603125,
+                "x": 5.0311979633759245
+            },
+            "attributes": {
+                "Confirmed": 16,
+                "Long_": 5.0311979633759245,
+                "Deaths": -1,
+                "Province_State": "Edam-volendam",
+                "Country_Region": "Edam-volendam, Netherlands",
+                "Lat": 52.54383252603125,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 52.70006830981657,
+                "x": 5.2268509291973055
+            },
+            "attributes": {
+                "Confirmed": 20,
+                "Long_": 5.2268509291973055,
+                "Deaths": -1,
+                "Province_State": "Stede broec",
+                "Country_Region": "Stede broec, Netherlands",
+                "Lat": 52.70006830981657,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 52.45221611808854,
+                "x": 6.643353064341808
+            },
+            "attributes": {
+                "Confirmed": 8,
+                "Long_": 6.643353064341808,
+                "Deaths": -1,
+                "Province_State": "Twenterand",
+                "Country_Region": "Twenterand, Netherlands",
+                "Lat": 52.45221611808854,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 51.540748017873625,
+                "x": 5.7542896599996105
+            },
+            "attributes": {
+                "Confirmed": 94,
+                "Long_": 5.7542896599996105,
+                "Deaths": -1,
+                "Province_State": "Gemert-bakel",
+                "Country_Region": "Gemert-bakel, Netherlands",
+                "Lat": 51.540748017873625,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 52.06091053871569,
+                "x": 4.489773419930813
+            },
+            "attributes": {
+                "Confirmed": 28,
+                "Long_": 4.489773419930813,
+                "Deaths": -1,
+                "Province_State": "Zoetermeer",
+                "Country_Region": "Zoetermeer, Netherlands",
+                "Lat": 52.06091053871569,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 51.08504167241004,
+                "x": 5.908198496168206
+            },
+            "attributes": {
+                "Confirmed": 32,
+                "Long_": 5.908198496168206,
+                "Deaths": -1,
+                "Province_State": "Echt-susteren",
+                "Country_Region": "Echt-susteren, Netherlands",
+                "Lat": 51.08504167241004,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 53.17132278359068,
+                "x": 5.435137494097759
+            },
+            "attributes": {
+                "Confirmed": 4,
+                "Long_": 5.435137494097759,
+                "Deaths": -1,
+                "Province_State": "Harlingen",
+                "Country_Region": "Harlingen, Netherlands",
+                "Lat": 53.17132278359068,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 52.51001041667008,
+                "x": 5.695354307483455
+            },
+            "attributes": {
+                "Confirmed": 13,
+                "Long_": 5.695354307483455,
+                "Deaths": -1,
+                "Province_State": "Dronten",
+                "Country_Region": "Dronten, Netherlands",
+                "Lat": 52.51001041667008,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 51.92599537019139,
+                "x": 4.479290768177833
+            },
+            "attributes": {
+                "Confirmed": 375,
+                "Long_": 4.479290768177833,
+                "Deaths": -1,
+                "Province_State": "Rotterdam",
+                "Country_Region": "Rotterdam, Netherlands",
+                "Lat": 51.92599537019139,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 51.444865115406756,
+                "x": 6.041637453245979
+            },
+            "attributes": {
+                "Confirmed": 34,
+                "Long_": 6.041637453245979,
+                "Deaths": -1,
+                "Province_State": "Horst aan de maas",
+                "Country_Region": "Horst aan de maas, Netherlands",
+                "Lat": 51.444865115406756,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 51.71664932787484,
+                "x": 5.658959968858293
+            },
+            "attributes": {
+                "Confirmed": 50,
+                "Long_": 5.658959968858293,
+                "Deaths": -1,
+                "Province_State": "Landerd",
+                "Country_Region": "Landerd, Netherlands",
+                "Lat": 51.71664932787484,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 52.04091581088902,
+                "x": 5.216943459932011
+            },
+            "attributes": {
+                "Confirmed": 10,
+                "Long_": 5.216943459932011,
+                "Deaths": -1,
+                "Province_State": "Bunnik",
+                "Country_Region": "Bunnik, Netherlands",
+                "Lat": 52.04091581088902,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 52.027455335498594,
+                "x": 4.8642398107713545
+            },
+            "attributes": {
+                "Confirmed": 25,
+                "Long_": 4.8642398107713545,
+                "Deaths": -1,
+                "Province_State": "Oudewater",
+                "Country_Region": "Oudewater, Netherlands",
+                "Lat": 52.027455335498594,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 52.633507332151616,
+                "x": 6.207081962797056
+            },
+            "attributes": {
+                "Confirmed": 6,
+                "Long_": 6.207081962797056,
+                "Deaths": -1,
+                "Province_State": "Staphorst",
+                "Country_Region": "Staphorst, Netherlands",
+                "Lat": 52.633507332151616,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 52.514521462596406,
+                "x": 5.486882993820762
+            },
+            "attributes": {
+                "Confirmed": 34,
+                "Long_": 5.486882993820762,
+                "Deaths": -1,
+                "Province_State": "Lelystad",
+                "Country_Region": "Lelystad, Netherlands",
+                "Lat": 52.514521462596406,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 51.62978130015222,
+                "x": 5.075731413729851
+            },
+            "attributes": {
+                "Confirmed": 31,
+                "Long_": 5.075731413729851,
+                "Deaths": -1,
+                "Province_State": "Loon op zand",
+                "Country_Region": "Loon op zand, Netherlands",
+                "Lat": 51.62978130015222,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 52.16829989667185,
+                "x": 5.641854658419888
+            },
+            "attributes": {
+                "Confirmed": 22,
+                "Long_": 5.641854658419888,
+                "Deaths": -1,
+                "Province_State": "Barneveld",
+                "Country_Region": "Barneveld, Netherlands",
+                "Lat": 52.16829989667185,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 52.38340812336273,
+                "x": 4.647529932281659
+            },
+            "attributes": {
+                "Confirmed": 86,
+                "Long_": 4.647529932281659,
+                "Deaths": -1,
+                "Province_State": "Haarlem",
+                "Country_Region": "Haarlem, Netherlands",
+                "Lat": 52.38340812336273,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 52.344779868489724,
+                "x": 4.615359922234006
+            },
+            "attributes": {
+                "Confirmed": 32,
+                "Long_": 4.615359922234006,
+                "Deaths": -1,
+                "Province_State": "Heemstede",
+                "Country_Region": "Heemstede, Netherlands",
+                "Lat": 52.344779868489724,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 52.17694870716641,
+                "x": 5.012587116968821
+            },
+            "attributes": {
+                "Confirmed": 34,
+                "Long_": 5.012587116968821,
+                "Deaths": -1,
+                "Province_State": "Stichtse vecht",
+                "Country_Region": "Stichtse vecht, Netherlands",
+                "Lat": 52.17694870716641,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 51.833237962093484,
+                "x": 4.703343932391688
+            },
+            "attributes": {
+                "Confirmed": 7,
+                "Long_": 4.703343932391688,
+                "Deaths": -1,
+                "Province_State": "Papendrecht",
+                "Country_Region": "Papendrecht, Netherlands",
+                "Lat": 51.833237962093484,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 52.14106167407828,
+                "x": 4.367051668409576
+            },
+            "attributes": {
+                "Confirmed": 6,
+                "Long_": 4.367051668409576,
+                "Deaths": -1,
+                "Province_State": "Wassenaar",
+                "Country_Region": "Wassenaar, Netherlands",
+                "Lat": 52.14106167407828,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 53.21234871442759,
+                "x": 7.07466674324223
+            },
+            "attributes": {
+                "Confirmed": 2,
+                "Long_": 7.07466674324223,
+                "Deaths": -1,
+                "Province_State": "Oldambt",
+                "Country_Region": "Oldambt, Netherlands",
+                "Lat": 53.21234871442759,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 51.7815682357718,
+                "x": 5.526400857467948
+            },
+            "attributes": {
+                "Confirmed": 174,
+                "Long_": 5.526400857467948,
+                "Deaths": -1,
+                "Province_State": "Oss",
+                "Country_Region": "Oss, Netherlands",
+                "Lat": 51.7815682357718,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 51.372288142087996,
+                "x": 5.238734435918181
+            },
+            "attributes": {
+                "Confirmed": 21,
+                "Long_": 5.238734435918181,
+                "Deaths": -1,
+                "Province_State": "Bladel",
+                "Country_Region": "Bladel, Netherlands",
+                "Lat": 51.372288142087996,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 53.218506706093684,
+                "x": 6.33802978340437
+            },
+            "attributes": {
+                "Confirmed": 20,
+                "Long_": 6.33802978340437,
+                "Deaths": -1,
+                "Province_State": "Westerkwartier",
+                "Country_Region": "Westerkwartier, Netherlands",
+                "Lat": 53.218506706093684,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 52.203834707121004,
+                "x": 5.264141615730013
+            },
+            "attributes": {
+                "Confirmed": 7,
+                "Long_": 5.264141615730013,
+                "Deaths": -1,
+                "Province_State": "Baarn",
+                "Country_Region": "Baarn, Netherlands",
+                "Lat": 52.203834707121004,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 52.691236377576324,
+                "x": 4.789429244610191
+            },
+            "attributes": {
+                "Confirmed": 16,
+                "Long_": 4.789429244610191,
+                "Deaths": -1,
+                "Province_State": "Langedijk",
+                "Country_Region": "Langedijk, Netherlands",
+                "Lat": 52.691236377576324,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 51.4949799620798,
+                "x": 3.970451947105562
+            },
+            "attributes": {
+                "Confirmed": 2,
+                "Long_": 3.970451947105562,
+                "Deaths": -1,
+                "Province_State": "Kapelle",
+                "Country_Region": "Kapelle, Netherlands",
+                "Lat": 51.4949799620798,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 52.32551016710156,
+                "x": 5.954968387628502
+            },
+            "attributes": {
+                "Confirmed": 33,
+                "Long_": 5.954968387628502,
+                "Deaths": -1,
+                "Province_State": "Epe",
+                "Country_Region": "Epe, Netherlands",
+                "Lat": 52.32551016710156,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 51.964753178312506,
+                "x": 4.306142571399873
+            },
+            "attributes": {
+                "Confirmed": 4,
+                "Long_": 4.306142571399873,
+                "Deaths": -1,
+                "Province_State": "Midden-delfland",
+                "Country_Region": "Midden-delfland, Netherlands",
+                "Lat": 51.964753178312506,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 53.002154082416396,
+                "x": 7.010328839550216
+            },
+            "attributes": {
+                "Confirmed": 1,
+                "Long_": 7.010328839550216,
+                "Deaths": -1,
+                "Province_State": "Stadskanaal",
+                "Country_Region": "Stadskanaal, Netherlands",
+                "Lat": 53.002154082416396,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 50.93672576658934,
+                "x": 5.897119214540788
+            },
+            "attributes": {
+                "Confirmed": 43,
+                "Long_": 5.897119214540788,
+                "Deaths": -1,
+                "Province_State": "Beekdaelen",
+                "Country_Region": "Beekdaelen, Netherlands",
+                "Lat": 50.93672576658934,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 52.75554590328601,
+                "x": 6.0299919355749285
+            },
+            "attributes": {
+                "Confirmed": 10,
+                "Long_": 6.0299919355749285,
+                "Deaths": -1,
+                "Province_State": "Steenwijkerland",
+                "Country_Region": "Steenwijkerland, Netherlands",
+                "Lat": 52.75554590328601,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 52.29142960159623,
+                "x": 6.433968622990088
+            },
+            "attributes": {
+                "Confirmed": 21,
+                "Long_": 6.433968622990088,
+                "Deaths": -1,
+                "Province_State": "Rijssen-holten",
+                "Country_Region": "Rijssen-holten, Netherlands",
+                "Lat": 52.29142960159623,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 52.35998554685061,
+                "x": 4.5357370236976156
+            },
+            "attributes": {
+                "Confirmed": 10,
+                "Long_": 4.5357370236976156,
+                "Deaths": -1,
+                "Province_State": "Zandvoort",
+                "Country_Region": "Zandvoort, Netherlands",
+                "Lat": 52.35998554685061,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 53.31714419110651,
+                "x": 6.849567465334418
+            },
+            "attributes": {
+                "Confirmed": 1,
+                "Long_": 6.849567465334418,
+                "Deaths": -1,
+                "Province_State": "Appingedam",
+                "Country_Region": "Appingedam, Netherlands",
+                "Lat": 53.31714419110651,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 52.30320545524123,
+                "x": 5.058042510594212
+            },
+            "attributes": {
+                "Confirmed": 10,
+                "Long_": 5.058042510594212,
+                "Deaths": -1,
+                "Province_State": "Weesp",
+                "Country_Region": "Weesp, Netherlands",
+                "Lat": 52.30320545524123,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 52.99299852362716,
+                "x": 6.727262414029068
+            },
+            "attributes": {
+                "Confirmed": 5,
+                "Long_": 6.727262414029068,
+                "Deaths": -1,
+                "Province_State": "Aa en hunze",
+                "Country_Region": "Aa en hunze, Netherlands",
+                "Lat": 52.99299852362716,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 51.81673498108275,
+                "x": 5.701912801691881
+            },
+            "attributes": {
+                "Confirmed": 43,
+                "Long_": 5.701912801691881,
+                "Deaths": -1,
+                "Province_State": "Wijchen",
+                "Country_Region": "Wijchen, Netherlands",
+                "Lat": 51.81673498108275,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 51.23944224386227,
+                "x": 5.884815315341314
+            },
+            "attributes": {
+                "Confirmed": 52,
+                "Long_": 5.884815315341314,
+                "Deaths": -1,
+                "Province_State": "Leudal",
+                "Country_Region": "Leudal, Netherlands",
+                "Lat": 51.23944224386227,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 52.34132316485365,
+                "x": 5.644152903553344
+            },
+            "attributes": {
+                "Confirmed": 25,
+                "Long_": 5.644152903553344,
+                "Deaths": -1,
+                "Province_State": "Harderwijk",
+                "Country_Region": "Harderwijk, Netherlands",
+                "Lat": 52.34132316485365,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 51.16157081315952,
+                "x": 5.882383322182832
+            },
+            "attributes": {
+                "Confirmed": 13,
+                "Long_": 5.882383322182832,
+                "Deaths": -1,
+                "Province_State": "Maasgouw",
+                "Country_Region": "Maasgouw, Netherlands",
+                "Lat": 51.16157081315952,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 51.91588370888869,
+                "x": 5.586867046189507
+            },
+            "attributes": {
+                "Confirmed": 33,
+                "Long_": 5.586867046189507,
+                "Deaths": -1,
+                "Province_State": "Neder-betuwe",
+                "Country_Region": "Neder-betuwe, Netherlands",
+                "Lat": 51.91588370888869,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 52.656536444739274,
+                "x": 5.073156196785141
+            },
+            "attributes": {
+                "Confirmed": 23,
+                "Long_": 5.073156196785141,
+                "Deaths": -1,
+                "Province_State": "Hoorn",
+                "Country_Region": "Hoorn, Netherlands",
+                "Lat": 52.656536444739274,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 51.63588438623605,
+                "x": 4.955448866301299
+            },
+            "attributes": {
+                "Confirmed": 21,
+                "Long_": 4.955448866301299,
+                "Deaths": -1,
+                "Province_State": "Dongen",
+                "Country_Region": "Dongen, Netherlands",
+                "Lat": 51.63588438623605,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 51.833766268275,
+                "x": 4.139867885776099
+            },
+            "attributes": {
+                "Confirmed": 15,
+                "Long_": 4.139867885776099,
+                "Deaths": -1,
+                "Province_State": "Hellevoetsluis",
+                "Country_Region": "Hellevoetsluis, Netherlands",
+                "Lat": 51.833766268275,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 52.83819265444726,
+                "x": 6.295526688053046
+            },
+            "attributes": {
+                "Confirmed": 6,
+                "Long_": 6.295526688053046,
+                "Deaths": -1,
+                "Province_State": "Westerveld",
+                "Country_Region": "Westerveld, Netherlands",
+                "Lat": 52.83819265444726,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 52.298647248558794,
+                "x": 5.242063681032641
+            },
+            "attributes": {
+                "Confirmed": 13,
+                "Long_": 5.242063681032641,
+                "Deaths": -1,
+                "Province_State": "Huizen",
+                "Country_Region": "Huizen, Netherlands",
+                "Lat": 52.298647248558794,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 52.8673602078612,
+                "x": 6.542759544666378
+            },
+            "attributes": {
+                "Confirmed": 5,
+                "Long_": 6.542759544666378,
+                "Deaths": -1,
+                "Province_State": "Midden-drenthe",
+                "Country_Region": "Midden-drenthe, Netherlands",
+                "Lat": 52.8673602078612,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 51.31014087422849,
+                "x": 5.340000526835058
+            },
+            "attributes": {
+                "Confirmed": 14,
+                "Long_": 5.340000526835058,
+                "Deaths": -1,
+                "Province_State": "Bergeijk",
+                "Country_Region": "Bergeijk, Netherlands",
+                "Lat": 51.31014087422849,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 52.22556808624738,
+                "x": 6.0991169906610665
+            },
+            "attributes": {
+                "Confirmed": 20,
+                "Long_": 6.0991169906610665,
+                "Deaths": -1,
+                "Province_State": "Voorst",
+                "Country_Region": "Voorst, Netherlands",
+                "Lat": 52.22556808624738,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 52.09437681735703,
+                "x": 5.121701427227338
+            },
+            "attributes": {
+                "Confirmed": 307,
+                "Long_": 5.121701427227338,
+                "Deaths": -1,
+                "Province_State": "Utrecht",
+                "Country_Region": "Utrecht, Netherlands",
+                "Lat": 52.09437681735703,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 52.406058523537105,
+                "x": 6.050330691495893
+            },
+            "attributes": {
+                "Confirmed": 40,
+                "Long_": 6.050330691495893,
+                "Deaths": -1,
+                "Province_State": "Heerde",
+                "Country_Region": "Heerde, Netherlands",
+                "Lat": 52.406058523537105,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 51.70014982876131,
+                "x": 4.758751630982006
+            },
+            "attributes": {
+                "Confirmed": 30,
+                "Long_": 4.758751630982006,
+                "Deaths": -1,
+                "Province_State": "Drimmelen",
+                "Country_Region": "Drimmelen, Netherlands",
+                "Lat": 51.70014982876131,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 51.808090721305696,
+                "x": 5.92063817369574
+            },
+            "attributes": {
+                "Confirmed": 69,
+                "Long_": 5.92063817369574,
+                "Deaths": -1,
+                "Province_State": "Berg en dal",
+                "Country_Region": "Berg en dal, Netherlands",
+                "Lat": 51.808090721305696,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 52.92540326628179,
+                "x": 5.745281091736707
+            },
+            "attributes": {
+                "Confirmed": 22,
+                "Long_": 5.745281091736707,
+                "Deaths": -1,
+                "Province_State": "De fryske marren",
+                "Country_Region": "De fryske marren, Netherlands",
+                "Lat": 52.92540326628179,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 53.35193056949269,
+                "x": 6.004142130314229
+            },
+            "attributes": {
+                "Confirmed": 6,
+                "Long_": 6.004142130314229,
+                "Deaths": -1,
+                "Province_State": "Noardeast-fryslân",
+                "Country_Region": "Noardeast-fryslân, Netherlands",
+                "Lat": 53.35193056949269,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 52.366782641205404,
+                "x": 6.153346614577664
+            },
+            "attributes": {
+                "Confirmed": 9,
+                "Long_": 6.153346614577664,
+                "Deaths": -1,
+                "Province_State": "Olst-wijhe",
+                "Country_Region": "Olst-wijhe, Netherlands",
+                "Lat": 52.366782641205404,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 52.30280943191163,
+                "x": 7.002749664383593
+            },
+            "attributes": {
+                "Confirmed": 3,
+                "Long_": 7.002749664383593,
+                "Deaths": -1,
+                "Province_State": "Losser",
+                "Country_Region": "Losser, Netherlands",
+                "Lat": 52.30280943191163,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 51.30164542932142,
+                "x": 3.8362364960837008
+            },
+            "attributes": {
+                "Confirmed": 20,
+                "Long_": 3.8362364960837008,
+                "Deaths": -1,
+                "Province_State": "Terneuzen",
+                "Country_Region": "Terneuzen, Netherlands",
+                "Lat": 51.30164542932142,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 51.57324475867966,
+                "x": 3.79644223546919
+            },
+            "attributes": {
+                "Confirmed": 2,
+                "Long_": 3.79644223546919,
+                "Deaths": -1,
+                "Province_State": "Noord-beveland",
+                "Country_Region": "Noord-beveland, Netherlands",
+                "Lat": 51.57324475867966,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 52.34789078300152,
+                "x": 6.658196128055379
+            },
+            "attributes": {
+                "Confirmed": 20,
+                "Long_": 6.658196128055379,
+                "Deaths": -1,
+                "Province_State": "Almelo",
+                "Country_Region": "Almelo, Netherlands",
+                "Lat": 52.34789078300152,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 51.925198842444,
+                "x": 4.248866359613492
+            },
+            "attributes": {
+                "Confirmed": 15,
+                "Long_": 4.248866359613492,
+                "Deaths": -1,
+                "Province_State": "Maassluis",
+                "Country_Region": "Maassluis, Netherlands",
+                "Lat": 51.925198842444,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 52.38636771843951,
+                "x": 6.450860417335076
+            },
+            "attributes": {
+                "Confirmed": 14,
+                "Long_": 6.450860417335076,
+                "Deaths": -1,
+                "Province_State": "Hellendoorn",
+                "Country_Region": "Hellendoorn, Netherlands",
+                "Lat": 52.38636771843951,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 52.072071566520584,
+                "x": 4.293009612623209
+            },
+            "attributes": {
+                "Confirmed": 182,
+                "Long_": 4.293009612623209,
+                "Deaths": -1,
+                "Province_State": "'s-gravenhage",
+                "Country_Region": "'s-gravenhage, Netherlands",
+                "Lat": 52.072071566520584,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 51.85106556186705,
+                "x": 4.525438391674741
+            },
+            "attributes": {
+                "Confirmed": 30,
+                "Long_": 4.525438391674741,
+                "Deaths": -1,
+                "Province_State": "Barendrecht",
+                "Country_Region": "Barendrecht, Netherlands",
+                "Lat": 51.85106556186705,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 52.017530096366876,
+                "x": 4.421953397112316
+            },
+            "attributes": {
+                "Confirmed": 29,
+                "Long_": 4.421953397112316,
+                "Deaths": -1,
+                "Province_State": "Pijnacker-nootdorp",
+                "Country_Region": "Pijnacker-nootdorp, Netherlands",
+                "Lat": 52.017530096366876,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 51.201189569618144,
+                "x": 6.011474623271368
+            },
+            "attributes": {
+                "Confirmed": 38,
+                "Long_": 6.011474623271368,
+                "Deaths": -1,
+                "Province_State": "Roermond",
+                "Country_Region": "Roermond, Netherlands",
+                "Lat": 51.201189569618144,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 52.24718105139773,
+                "x": 5.217074063721092
+            },
+            "attributes": {
+                "Confirmed": 8,
+                "Long_": 5.217074063721092,
+                "Deaths": -1,
+                "Province_State": "Laren",
+                "Country_Region": "Laren, Netherlands",
+                "Lat": 52.24718105139773,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 51.269165837642745,
+                "x": 6.068955108237413
+            },
+            "attributes": {
+                "Confirmed": 15,
+                "Long_": 6.068955108237413,
+                "Deaths": -1,
+                "Province_State": "Beesel",
+                "Country_Region": "Beesel, Netherlands",
+                "Lat": 51.269165837642745,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 53.09710922488987,
+                "x": 6.604371626115252
+            },
+            "attributes": {
+                "Confirmed": 17,
+                "Long_": 6.604371626115252,
+                "Deaths": -1,
+                "Province_State": "Tynaarlo",
+                "Country_Region": "Tynaarlo, Netherlands",
+                "Lat": 53.09710922488987,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 52.0347146812558,
+                "x": 5.388320999390698
+            },
+            "attributes": {
+                "Confirmed": 32,
+                "Long_": 5.388320999390698,
+                "Deaths": -1,
+                "Province_State": "Utrechtse heuvelrug",
+                "Country_Region": "Utrechtse heuvelrug, Netherlands",
+                "Lat": 52.0347146812558,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 51.51227441581198,
+                "x": 5.033069324304215
+            },
+            "attributes": {
+                "Confirmed": 34,
+                "Long_": 5.033069324304215,
+                "Deaths": -1,
+                "Province_State": "Goirle",
+                "Country_Region": "Goirle, Netherlands",
+                "Lat": 51.51227441581198,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 52.46290915944374,
+                "x": 4.773012108395927
+            },
+            "attributes": {
+                "Confirmed": 75,
+                "Long_": 4.773012108395927,
+                "Deaths": -1,
+                "Province_State": "Zaanstad",
+                "Country_Region": "Zaanstad, Netherlands",
+                "Lat": 52.46290915944374,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 51.93492888508275,
+                "x": 4.580137948904914
+            },
+            "attributes": {
+                "Confirmed": 44,
+                "Long_": 4.580137948904914,
+                "Deaths": -1,
+                "Province_State": "Capelle aan den ijssel",
+                "Country_Region": "Capelle aan den ijssel, Netherlands",
+                "Lat": 51.93492888508275,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 52.03081763667551,
+                "x": 5.094671282016882
+            },
+            "attributes": {
+                "Confirmed": 33,
+                "Long_": 5.094671282016882,
+                "Deaths": -1,
+                "Province_State": "Nieuwegein",
+                "Country_Region": "Nieuwegein, Netherlands",
+                "Lat": 52.03081763667551,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 52.10092406833162,
+                "x": 6.570725381090956
+            },
+            "attributes": {
+                "Confirmed": 5,
+                "Long_": 6.570725381090956,
+                "Deaths": -1,
+                "Province_State": "Berkelland",
+                "Country_Region": "Berkelland, Netherlands",
+                "Lat": 52.10092406833162,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 52.664801700666665,
+                "x": 5.616089475086255
+            },
+            "attributes": {
+                "Confirmed": 14,
+                "Long_": 5.616089475086255,
+                "Deaths": -1,
+                "Province_State": "Urk",
+                "Country_Region": "Urk, Netherlands",
+                "Lat": 52.664801700666665,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 52.04523175258823,
+                "x": 6.302955427437034
+            },
+            "attributes": {
+                "Confirmed": 11,
+                "Long_": 6.302955427437034,
+                "Deaths": -1,
+                "Province_State": "Bronckhorst",
+                "Country_Region": "Bronckhorst, Netherlands",
+                "Lat": 52.04523175258823,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 53.21666963026335,
+                "x": 6.143134152694665
+            },
+            "attributes": {
+                "Confirmed": 2,
+                "Long_": 6.143134152694665,
+                "Deaths": -1,
+                "Province_State": "Achtkarspelen",
+                "Country_Region": "Achtkarspelen, Netherlands",
+                "Lat": 53.21666963026335,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 53.19533441545972,
+                "x": 6.807444593340331
+            },
+            "attributes": {
+                "Confirmed": 8,
+                "Long_": 6.807444593340331,
+                "Deaths": -1,
+                "Province_State": "Midden-groningen",
+                "Country_Region": "Midden-groningen, Netherlands",
+                "Lat": 53.19533441545972,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 52.83522773959173,
+                "x": 4.952886891957053
+            },
+            "attributes": {
+                "Confirmed": 25,
+                "Long_": 4.952886891957053,
+                "Deaths": -1,
+                "Province_State": "Hollands kroon",
+                "Country_Region": "Hollands kroon, Netherlands",
+                "Lat": 52.83522773959173,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 52.644455985988245,
+                "x": 4.948845303104945
+            },
+            "attributes": {
+                "Confirmed": 10,
+                "Long_": 4.948845303104945,
+                "Deaths": -1,
+                "Province_State": "Koggenland",
+                "Country_Region": "Koggenland, Netherlands",
+                "Lat": 52.644455985988245,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 52.0764303825201,
+                "x": 5.727999353490182
+            },
+            "attributes": {
+                "Confirmed": 50,
+                "Long_": 5.727999353490182,
+                "Deaths": -1,
+                "Province_State": "Ede",
+                "Country_Region": "Ede, Netherlands",
+                "Lat": 52.0764303825201,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 52.19230180725988,
+                "x": 4.416290436987485
+            },
+            "attributes": {
+                "Confirmed": 24,
+                "Long_": 4.416290436987485,
+                "Deaths": -1,
+                "Province_State": "Katwijk",
+                "Country_Region": "Katwijk, Netherlands",
+                "Lat": 52.19230180725988,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 52.04253761831309,
+                "x": 5.967892969058518
+            },
+            "attributes": {
+                "Confirmed": 2,
+                "Long_": 5.967892969058518,
+                "Deaths": -1,
+                "Province_State": "Rozendaal",
+                "Country_Region": "Rozendaal, Netherlands",
+                "Lat": 52.04253761831309,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 51.864653897422656,
+                "x": 4.665729278313191
+            },
+            "attributes": {
+                "Confirmed": 7,
+                "Long_": 4.665729278313191,
+                "Deaths": -1,
+                "Province_State": "Alblasserdam",
+                "Country_Region": "Alblasserdam, Netherlands",
+                "Lat": 51.864653897422656,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 51.94577785844737,
+                "x": 5.210379639171522
+            },
+            "attributes": {
+                "Confirmed": 20,
+                "Long_": 5.210379639171522,
+                "Deaths": -1,
+                "Province_State": "Culemborg",
+                "Country_Region": "Culemborg, Netherlands",
+                "Lat": 51.94577785844737,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 51.657068248736955,
+                "x": 5.378120585783425
+            },
+            "attributes": {
+                "Confirmed": 33,
+                "Long_": 5.378120585783425,
+                "Deaths": -1,
+                "Province_State": "Sint-michielsgestel",
+                "Country_Region": "Sint-michielsgestel, Netherlands",
+                "Lat": 51.657068248736955,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 52.04770870807635,
+                "x": 4.9440479316113235
+            },
+            "attributes": {
+                "Confirmed": 15,
+                "Long_": 4.9440479316113235,
+                "Deaths": -1,
+                "Province_State": "Montfoort",
+                "Country_Region": "Montfoort, Netherlands",
+                "Lat": 52.04770870807635,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 50.86936459813324,
+                "x": 5.916492638894569
+            },
+            "attributes": {
+                "Confirmed": 13,
+                "Long_": 5.916492638894569,
+                "Deaths": -1,
+                "Province_State": "Voerendaal",
+                "Country_Region": "Voerendaal, Netherlands",
+                "Lat": 50.86936459813324,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 51.37872887676015,
+                "x": 5.691425066956922
+            },
+            "attributes": {
+                "Confirmed": 29,
+                "Long_": 5.691425066956922,
+                "Deaths": -1,
+                "Province_State": "Someren",
+                "Country_Region": "Someren, Netherlands",
+                "Lat": 51.37872887676015,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 51.777888791661695,
+                "x": 5.818481658523657
+            },
+            "attributes": {
+                "Confirmed": 20,
+                "Long_": 5.818481658523657,
+                "Deaths": -1,
+                "Province_State": "Heumen",
+                "Country_Region": "Heumen, Netherlands",
+                "Lat": 51.777888791661695,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 51.29435701015639,
+                "x": 5.773319772371112
+            },
+            "attributes": {
+                "Confirmed": 27,
+                "Long_": 5.773319772371112,
+                "Deaths": -1,
+                "Province_State": "Nederweert",
+                "Country_Region": "Nederweert, Netherlands",
+                "Lat": 51.29435701015639,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 52.502000935154186,
+                "x": 4.855129262606735
+            },
+            "attributes": {
+                "Confirmed": 13,
+                "Long_": 4.855129262606735,
+                "Deaths": -1,
+                "Province_State": "Wormerland",
+                "Country_Region": "Wormerland, Netherlands",
+                "Lat": 52.502000935154186,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 50.94294193546906,
+                "x": 5.977999098618239
+            },
+            "attributes": {
+                "Confirmed": 31,
+                "Long_": 5.977999098618239,
+                "Deaths": -1,
+                "Province_State": "Brunssum",
+                "Country_Region": "Brunssum, Netherlands",
+                "Lat": 50.94294193546906,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 52.106940281385974,
+                "x": 4.898899283938207
+            },
+            "attributes": {
+                "Confirmed": 44,
+                "Long_": 4.898899283938207,
+                "Deaths": -1,
+                "Province_State": "Woerden",
+                "Country_Region": "Woerden, Netherlands",
+                "Lat": 52.106940281385974,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 52.7280112524622,
+                "x": 5.091964547028871
+            },
+            "attributes": {
+                "Confirmed": 22,
+                "Long_": 5.091964547028871,
+                "Deaths": -1,
+                "Province_State": "Medemblik",
+                "Country_Region": "Medemblik, Netherlands",
+                "Lat": 52.7280112524622,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 51.51710728363971,
+                "x": 3.8443927164637475
+            },
+            "attributes": {
+                "Confirmed": 17,
+                "Long_": 3.8443927164637475,
+                "Deaths": -1,
+                "Province_State": "Goes",
+                "Country_Region": "Goes, Netherlands",
+                "Lat": 51.51710728363971,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 53.34069653334757,
+                "x": 6.7281333202167355
+            },
+            "attributes": {
+                "Confirmed": 1,
+                "Long_": 6.7281333202167355,
+                "Deaths": -1,
+                "Province_State": "Loppersum",
+                "Country_Region": "Loppersum, Netherlands",
+                "Lat": 53.34069653334757,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 52.27114537163808,
+                "x": 4.476189406011241
+            },
+            "attributes": {
+                "Confirmed": 17,
+                "Long_": 4.476189406011241,
+                "Deaths": -1,
+                "Province_State": "Noordwijk",
+                "Country_Region": "Noordwijk, Netherlands",
+                "Lat": 52.27114537163808,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 51.97347569030918,
+                "x": 5.663510258520908
+            },
+            "attributes": {
+                "Confirmed": 8,
+                "Long_": 5.663510258520908,
+                "Deaths": -1,
+                "Province_State": "Wageningen",
+                "Country_Region": "Wageningen, Netherlands",
+                "Lat": 51.97347569030918,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 51.515367007637,
+                "x": 5.962882661843977
+            },
+            "attributes": {
+                "Confirmed": 37,
+                "Long_": 5.962882661843977,
+                "Deaths": -1,
+                "Province_State": "Venray",
+                "Country_Region": "Venray, Netherlands",
+                "Lat": 51.515367007637,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 51.85162924145327,
+                "x": 5.496592357022778
+            },
+            "attributes": {
+                "Confirmed": 19,
+                "Long_": 5.496592357022778,
+                "Deaths": -1,
+                "Province_State": "West maas en waal",
+                "Country_Region": "West maas en waal, Netherlands",
+                "Lat": 51.85162924145327,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 51.95238942512665,
+                "x": 4.7371816813655165
+            },
+            "attributes": {
+                "Confirmed": 38,
+                "Long_": 4.7371816813655165,
+                "Deaths": -1,
+                "Province_State": "Krimpenerwaard",
+                "Country_Region": "Krimpenerwaard, Netherlands",
+                "Lat": 51.95238942512665,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 51.50138140361617,
+                "x": 4.887359896941509
+            },
+            "attributes": {
+                "Confirmed": 26,
+                "Long_": 4.887359896941509,
+                "Deaths": -1,
+                "Province_State": "Alphen-chaam",
+                "Country_Region": "Alphen-chaam, Netherlands",
+                "Lat": 51.50138140361617,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 52.00069797954698,
+                "x": 4.211064016182961
+            },
+            "attributes": {
+                "Confirmed": 61,
+                "Long_": 4.211064016182961,
+                "Deaths": -1,
+                "Province_State": "Westland",
+                "Country_Region": "Westland, Netherlands",
+                "Lat": 52.00069797954698,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 51.68583879563902,
+                "x": 5.768047976117081
+            },
+            "attributes": {
+                "Confirmed": 11,
+                "Long_": 5.768047976117081,
+                "Deaths": -1,
+                "Province_State": "Mill en sint hubert",
+                "Country_Region": "Mill en sint hubert, Netherlands",
+                "Lat": 51.68583879563902,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 53.07058913682509,
+                "x": 6.972945234515267
+            },
+            "attributes": {
+                "Confirmed": 3,
+                "Long_": 6.972945234515267,
+                "Deaths": -1,
+                "Province_State": "Pekela",
+                "Country_Region": "Pekela, Netherlands",
+                "Lat": 53.07058913682509,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 51.76456678434126,
+                "x": 4.448705330389185
+            },
+            "attributes": {
+                "Confirmed": 62,
+                "Long_": 4.448705330389185,
+                "Deaths": -1,
+                "Province_State": "Hoeksche waard",
+                "Country_Region": "Hoeksche waard, Netherlands",
+                "Lat": 51.76456678434126,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 51.924302887229025,
+                "x": 5.778330026696913
+            },
+            "attributes": {
+                "Confirmed": 61,
+                "Long_": 5.778330026696913,
+                "Deaths": -1,
+                "Province_State": "Overbetuwe",
+                "Country_Region": "Overbetuwe, Netherlands",
+                "Lat": 51.924302887229025,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 52.015302017255436,
+                "x": 4.7062032913736935
+            },
+            "attributes": {
+                "Confirmed": 43,
+                "Long_": 4.7062032913736935,
+                "Deaths": -1,
+                "Province_State": "Gouda",
+                "Country_Region": "Gouda, Netherlands",
+                "Lat": 52.015302017255436,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 52.018671814951105,
+                "x": 6.146900391849377
+            },
+            "attributes": {
+                "Confirmed": 6,
+                "Long_": 6.146900391849377,
+                "Deaths": -1,
+                "Province_State": "Doesburg",
+                "Country_Region": "Doesburg, Netherlands",
+                "Lat": 52.018671814951105,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 52.101965303306635,
+                "x": 5.255185132055529
+            },
+            "attributes": {
+                "Confirmed": 47,
+                "Long_": 5.255185132055529,
+                "Deaths": -1,
+                "Province_State": "Zeist",
+                "Country_Region": "Zeist, Netherlands",
+                "Lat": 52.101965303306635,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 51.803012946423166,
+                "x": 4.670574018347805
+            },
+            "attributes": {
+                "Confirmed": 46,
+                "Long_": 4.670574018347805,
+                "Deaths": -1,
+                "Province_State": "Dordrecht",
+                "Country_Region": "Dordrecht, Netherlands",
+                "Lat": 51.803012946423166,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 52.220806564894566,
+                "x": 6.877789280525157
+            },
+            "attributes": {
+                "Confirmed": 55,
+                "Long_": 6.877789280525157,
+                "Deaths": -1,
+                "Province_State": "Enschede",
+                "Country_Region": "Enschede, Netherlands",
+                "Lat": 52.220806564894566,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 52.25555203618555,
+                "x": 4.545836741920595
+            },
+            "attributes": {
+                "Confirmed": 4,
+                "Long_": 4.545836741920595,
+                "Deaths": -1,
+                "Province_State": "Lisse",
+                "Country_Region": "Lisse, Netherlands",
+                "Lat": 52.25555203618555,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 52.98236964084646,
+                "x": 6.282968762210655
+            },
+            "attributes": {
+                "Confirmed": 1,
+                "Long_": 6.282968762210655,
+                "Deaths": -1,
+                "Province_State": "Ooststellingwerf",
+                "Country_Region": "Ooststellingwerf, Netherlands",
+                "Lat": 52.98236964084646,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 51.333249467581524,
+                "x": 4.0649729393570535
+            },
+            "attributes": {
+                "Confirmed": 6,
+                "Long_": 4.0649729393570535,
+                "Deaths": -1,
+                "Province_State": "Hulst",
+                "Country_Region": "Hulst, Netherlands",
+                "Lat": 51.333249467581524,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 50.89352512105086,
+                "x": 5.743536291844816
+            },
+            "attributes": {
+                "Confirmed": 13,
+                "Long_": 5.743536291844816,
+                "Deaths": -1,
+                "Province_State": "Meerssen",
+                "Country_Region": "Meerssen, Netherlands",
+                "Lat": 50.89352512105086,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 51.92410268345145,
+                "x": 6.08523493492395
+            },
+            "attributes": {
+                "Confirmed": 21,
+                "Long_": 6.08523493492395,
+                "Deaths": -1,
+                "Province_State": "Zevenaar",
+                "Country_Region": "Zevenaar, Netherlands",
+                "Lat": 51.92410268345145,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 51.479524553878115,
+                "x": 5.1454553430339915
+            },
+            "attributes": {
+                "Confirmed": 13,
+                "Long_": 5.1454553430339915,
+                "Deaths": -1,
+                "Province_State": "Hilvarenbeek",
+                "Country_Region": "Hilvarenbeek, Netherlands",
+                "Lat": 51.479524553878115,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 51.9988777332098,
+                "x": 4.607070882669209
+            },
+            "attributes": {
+                "Confirmed": 17,
+                "Long_": 4.607070882669209,
+                "Deaths": -1,
+                "Province_State": "Zuidplas",
+                "Country_Region": "Zuidplas, Netherlands",
+                "Lat": 51.9988777332098,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 51.86160172918913,
+                "x": 5.209350066121271
+            },
+            "attributes": {
+                "Confirmed": 36,
+                "Long_": 5.209350066121271,
+                "Deaths": -1,
+                "Province_State": "West betuwe",
+                "Country_Region": "West betuwe, Netherlands",
+                "Lat": 51.86160172918913,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 52.226335272916714,
+                "x": 4.917283485176568
+            },
+            "attributes": {
+                "Confirmed": 24,
+                "Long_": 4.917283485176568,
+                "Deaths": -1,
+                "Province_State": "De ronde venen",
+                "Country_Region": "De ronde venen, Netherlands",
+                "Lat": 52.226335272916714,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 50.860710332356106,
+                "x": 5.823869121964578
+            },
+            "attributes": {
+                "Confirmed": 15,
+                "Long_": 5.823869121964578,
+                "Deaths": -1,
+                "Province_State": "Valkenburg aan de geul",
+                "Country_Region": "Valkenburg aan de geul, Netherlands",
+                "Lat": 50.860710332356106,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 53.04895569635898,
+                "x": 5.589951146067003
+            },
+            "attributes": {
+                "Confirmed": 23,
+                "Long_": 5.589951146067003,
+                "Deaths": -1,
+                "Province_State": "Súdwest-fryslân",
+                "Country_Region": "Súdwest-fryslân, Netherlands",
+                "Lat": 53.04895569635898,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 51.59988868891091,
+                "x": 4.323626674199766
+            },
+            "attributes": {
+                "Confirmed": 17,
+                "Long_": 4.323626674199766,
+                "Deaths": -1,
+                "Province_State": "Steenbergen",
+                "Country_Region": "Steenbergen, Netherlands",
+                "Lat": 51.59988868891091,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 51.8324905122871,
+                "x": 4.825805914991271
+            },
+            "attributes": {
+                "Confirmed": 10,
+                "Long_": 4.825805914991271,
+                "Deaths": -1,
+                "Province_State": "Hardinxveld-giessendam",
+                "Country_Region": "Hardinxveld-giessendam, Netherlands",
+                "Lat": 51.8324905122871,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 52.28926630227165,
+                "x": 4.8514866958408565
+            },
+            "attributes": {
+                "Confirmed": 81,
+                "Long_": 4.8514866958408565,
+                "Deaths": -1,
+                "Province_State": "Amstelveen",
+                "Country_Region": "Amstelveen, Netherlands",
+                "Lat": 52.28926630227165,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 52.03353988012552,
+                "x": 6.051251948135589
+            },
+            "attributes": {
+                "Confirmed": 35,
+                "Long_": 6.051251948135589,
+                "Deaths": -1,
+                "Province_State": "Rheden",
+                "Country_Region": "Rheden, Netherlands",
+                "Lat": 52.03353988012552,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 51.75226845232212,
+                "x": 4.09998865595099
+            },
+            "attributes": {
+                "Confirmed": 112,
+                "Long_": 4.09998865595099,
+                "Deaths": -1,
+                "Province_State": "Goeree-overflakkee",
+                "Country_Region": "Goeree-overflakkee, Netherlands",
+                "Lat": 51.75226845232212,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 51.88868946547106,
+                "x": 4.184484729147089
+            },
+            "attributes": {
+                "Confirmed": 11,
+                "Long_": 4.184484729147089,
+                "Deaths": -1,
+                "Province_State": "Brielle",
+                "Country_Region": "Brielle, Netherlands",
+                "Lat": 51.88868946547106,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 51.86879419491932,
+                "x": 4.596109000830874
+            },
+            "attributes": {
+                "Confirmed": 34,
+                "Long_": 4.596109000830874,
+                "Deaths": -1,
+                "Province_State": "Ridderkerk",
+                "Country_Region": "Ridderkerk, Netherlands",
+                "Lat": 51.86879419491932,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 53.31796499503022,
+                "x": 6.932188402309351
+            },
+            "attributes": {
+                "Confirmed": 7,
+                "Long_": 6.932188402309351,
+                "Deaths": -1,
+                "Province_State": "Delfzijl",
+                "Country_Region": "Delfzijl, Netherlands",
+                "Lat": 53.31796499503022,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 51.83846028894814,
+                "x": 4.977081949248382
+            },
+            "attributes": {
+                "Confirmed": 25,
+                "Long_": 4.977081949248382,
+                "Deaths": -1,
+                "Province_State": "Gorinchem",
+                "Country_Region": "Gorinchem, Netherlands",
+                "Lat": 51.83846028894814,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 53.38486998079704,
+                "x": 6.533655080416175
+            },
+            "attributes": {
+                "Confirmed": 9,
+                "Long_": 6.533655080416175,
+                "Deaths": -1,
+                "Province_State": "Het hogeland",
+                "Country_Region": "Het hogeland, Netherlands",
+                "Lat": 53.38486998079704,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 51.907824968855415,
+                "x": 6.409496324317338
+            },
+            "attributes": {
+                "Confirmed": 10,
+                "Long_": 6.409496324317338,
+                "Deaths": -1,
+                "Province_State": "Oude ijsselstreek",
+                "Country_Region": "Oude ijsselstreek, Netherlands",
+                "Lat": 51.907824968855415,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 52.71600415863746,
+                "x": 5.72979254615263
+            },
+            "attributes": {
+                "Confirmed": 11,
+                "Long_": 5.72979254615263,
+                "Deaths": -1,
+                "Province_State": "Noordoostpolder",
+                "Country_Region": "Noordoostpolder, Netherlands",
+                "Lat": 52.71600415863746,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 52.18985841249064,
+                "x": 5.921909387329988
+            },
+            "attributes": {
+                "Confirmed": 60,
+                "Long_": 5.921909387329988,
+                "Deaths": -1,
+                "Province_State": "Apeldoorn",
+                "Country_Region": "Apeldoorn, Netherlands",
+                "Lat": 52.18985841249064,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 51.562600236114086,
+                "x": 3.5846394857631556
+            },
+            "attributes": {
+                "Confirmed": 9,
+                "Long_": 3.5846394857631556,
+                "Deaths": -1,
+                "Province_State": "Veere",
+                "Country_Region": "Veere, Netherlands",
+                "Lat": 51.562600236114086,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 51.89067770003673,
+                "x": 4.058622849064703
+            },
+            "attributes": {
+                "Confirmed": 12,
+                "Long_": 4.058622849064703,
+                "Deaths": -1,
+                "Province_State": "Westvoorne",
+                "Country_Region": "Westvoorne, Netherlands",
+                "Lat": 51.89067770003673,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 52.30807980507928,
+                "x": 4.686455480737068
+            },
+            "attributes": {
+                "Confirmed": 61,
+                "Long_": 4.686455480737068,
+                "Deaths": -1,
+                "Province_State": "Haarlemmermeer",
+                "Country_Region": "Haarlemmermeer, Netherlands",
+                "Lat": 52.30807980507928,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 51.63046630155095,
+                "x": 5.957568117233741
+            },
+            "attributes": {
+                "Confirmed": 25,
+                "Long_": 5.957568117233741,
+                "Deaths": -1,
+                "Province_State": "Boxmeer",
+                "Country_Region": "Boxmeer, Netherlands",
+                "Lat": 51.63046630155095,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 52.001137134255174,
+                "x": 5.892592471161352
+            },
+            "attributes": {
+                "Confirmed": 63,
+                "Long_": 5.892592471161352,
+                "Deaths": -1,
+                "Province_State": "Arnhem",
+                "Country_Region": "Arnhem, Netherlands",
+                "Lat": 52.001137134255174,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 52.484808262299865,
+                "x": 4.649105631511747
+            },
+            "attributes": {
+                "Confirmed": 22,
+                "Long_": 4.649105631511747,
+                "Deaths": -1,
+                "Province_State": "Beverwijk",
+                "Country_Region": "Beverwijk, Netherlands",
+                "Lat": 52.484808262299865,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 52.502165381880914,
+                "x": 4.9711375286310355
+            },
+            "attributes": {
+                "Confirmed": 63,
+                "Long_": 4.9711375286310355,
+                "Deaths": -1,
+                "Province_State": "Purmerend",
+                "Country_Region": "Purmerend, Netherlands",
+                "Lat": 52.502165381880914,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 52.25769723741152,
+                "x": 4.755022785616358
+            },
+            "attributes": {
+                "Confirmed": 18,
+                "Long_": 4.755022785616358,
+                "Deaths": -1,
+                "Province_State": "Aalsmeer",
+                "Country_Region": "Aalsmeer, Netherlands",
+                "Lat": 52.25769723741152,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 52.15550318653718,
+                "x": 6.7558651314990374
+            },
+            "attributes": {
+                "Confirmed": 10,
+                "Long_": 6.7558651314990374,
+                "Deaths": -1,
+                "Province_State": "Haaksbergen",
+                "Country_Region": "Haaksbergen, Netherlands",
+                "Lat": 52.15550318653718,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 53.00127410244997,
+                "x": 6.552466700944418
+            },
+            "attributes": {
+                "Confirmed": 12,
+                "Long_": 6.552466700944418,
+                "Deaths": -1,
+                "Province_State": "Assen",
+                "Country_Region": "Assen, Netherlands",
+                "Lat": 53.00127410244997,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 52.236909066799505,
+                "x": 4.790846345809242
+            },
+            "attributes": {
+                "Confirmed": 17,
+                "Long_": 4.790846345809242,
+                "Deaths": -1,
+                "Province_State": "Uithoorn",
+                "Country_Region": "Uithoorn, Netherlands",
+                "Lat": 52.236909066799505,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 52.51868602856642,
+                "x": 6.118364317720505
+            },
+            "attributes": {
+                "Confirmed": 92,
+                "Long_": 6.118364317720505,
+                "Deaths": -1,
+                "Province_State": "Zwolle",
+                "Country_Region": "Zwolle, Netherlands",
+                "Lat": 52.51868602856642,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 52.87576317699917,
+                "x": 6.017688753240952
+            },
+            "attributes": {
+                "Confirmed": 3,
+                "Long_": 6.017688753240952,
+                "Deaths": -1,
+                "Province_State": "Weststellingwerf",
+                "Country_Region": "Weststellingwerf, Netherlands",
+                "Lat": 52.87576317699917,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 52.65713540647342,
+                "x": 5.173229940262505
+            },
+            "attributes": {
+                "Confirmed": 7,
+                "Long_": 5.173229940262505,
+                "Deaths": -1,
+                "Province_State": "Drechterland",
+                "Country_Region": "Drechterland, Netherlands",
+                "Lat": 52.65713540647342,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 52.009836460344665,
+                "x": 6.575734784917039
+            },
+            "attributes": {
+                "Confirmed": 11,
+                "Long_": 6.575734784917039,
+                "Deaths": -1,
+                "Province_State": "Oost gelre",
+                "Country_Region": "Oost gelre, Netherlands",
+                "Lat": 52.009836460344665,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 50.968991883981865,
+                "x": 5.7636647831058605
+            },
+            "attributes": {
+                "Confirmed": 34,
+                "Long_": 5.7636647831058605,
+                "Deaths": -1,
+                "Province_State": "Stein",
+                "Country_Region": "Stein, Netherlands",
+                "Lat": 50.968991883981865,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 51.88467094273636,
+                "x": 4.845189609624091
+            },
+            "attributes": {
+                "Confirmed": 23,
+                "Long_": 4.845189609624091,
+                "Deaths": -1,
+                "Province_State": "Molenlanden",
+                "Country_Region": "Molenlanden, Netherlands",
+                "Lat": 51.88467094273636,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 50.93087673107293,
+                "x": 5.809101017861888
+            },
+            "attributes": {
+                "Confirmed": 15,
+                "Long_": 5.809101017861888,
+                "Deaths": -1,
+                "Province_State": "Beek",
+                "Country_Region": "Beek, Netherlands",
+                "Lat": 50.93087673107293,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 50.77433388231028,
+                "x": 5.975846274394275
+            },
+            "attributes": {
+                "Confirmed": 9,
+                "Long_": 5.975846274394275,
+                "Deaths": -1,
+                "Province_State": "Vaals",
+                "Country_Region": "Vaals, Netherlands",
+                "Lat": 50.77433388231028,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 51.43901683455166,
+                "x": 4.893144625627592
+            },
+            "attributes": {
+                "Confirmed": 3,
+                "Long_": 4.893144625627592,
+                "Deaths": -1,
+                "Province_State": "Baarle-nassau",
+                "Country_Region": "Baarle-nassau, Netherlands",
+                "Lat": 51.43901683455166,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 51.92675632251352,
+                "x": 4.3852619323324316
+            },
+            "attributes": {
+                "Confirmed": 31,
+                "Long_": 4.3852619323324316,
+                "Deaths": -1,
+                "Province_State": "Schiedam",
+                "Country_Region": "Schiedam, Netherlands",
+                "Lat": 51.92675632251352,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 51.43127434586675,
+                "x": 5.587559533280244
+            },
+            "attributes": {
+                "Confirmed": 26,
+                "Long_": 5.587559533280244,
+                "Deaths": -1,
+                "Province_State": "Geldrop-mierlo",
+                "Country_Region": "Geldrop-mierlo, Netherlands",
+                "Lat": 51.43127434586675,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 52.52342843322496,
+                "x": 4.728607214831081
+            },
+            "attributes": {
+                "Confirmed": 9,
+                "Long_": 4.728607214831081,
+                "Deaths": -1,
+                "Province_State": "Uitgeest",
+                "Country_Region": "Uitgeest, Netherlands",
+                "Lat": 52.52342843322496,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 53.113423232231185,
+                "x": 6.0389298816366495
+            },
+            "attributes": {
+                "Confirmed": 10,
+                "Long_": 6.0389298816366495,
+                "Deaths": -1,
+                "Province_State": "Smallingerland",
+                "Country_Region": "Smallingerland, Netherlands",
+                "Lat": 53.113423232231185,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 52.226179784445875,
+                "x": 5.084839894341618
+            },
+            "attributes": {
+                "Confirmed": 5,
+                "Long_": 5.084839894341618,
+                "Deaths": -1,
+                "Province_State": "Wijdemeren",
+                "Country_Region": "Wijdemeren, Netherlands",
+                "Lat": 52.226179784445875,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 52.02367786559971,
+                "x": 5.555656829201993
+            },
+            "attributes": {
+                "Confirmed": 20,
+                "Long_": 5.555656829201993,
+                "Deaths": -1,
+                "Province_State": "Veenendaal",
+                "Country_Region": "Veenendaal, Netherlands",
+                "Lat": 52.02367786559971,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 52.60275265184613,
+                "x": 6.063714897255667
+            },
+            "attributes": {
+                "Confirmed": 45,
+                "Long_": 6.063714897255667,
+                "Deaths": -1,
+                "Province_State": "Zwartewaterland",
+                "Country_Region": "Zwartewaterland, Netherlands",
+                "Lat": 52.60275265184613,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 52.55769504415364,
+                "x": 4.916881461541524
+            },
+            "attributes": {
+                "Confirmed": 6,
+                "Long_": 4.916881461541524,
+                "Deaths": -1,
+                "Province_State": "Beemster",
+                "Country_Region": "Beemster, Netherlands",
+                "Lat": 52.55769504415364,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 52.13634675465836,
+                "x": 6.233950344839518
+            },
+            "attributes": {
+                "Confirmed": 16,
+                "Long_": 6.233950344839518,
+                "Deaths": -1,
+                "Province_State": "Zutphen",
+                "Country_Region": "Zutphen, Netherlands",
+                "Lat": 52.13634675465836,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 52.339251433335775,
+                "x": 5.786247274157053
+            },
+            "attributes": {
+                "Confirmed": 52,
+                "Long_": 5.786247274157053,
+                "Deaths": -1,
+                "Province_State": "Nunspeet",
+                "Country_Region": "Nunspeet, Netherlands",
+                "Lat": 52.339251433335775,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 51.85204326537016,
+                "x": 4.435715197330676
+            },
+            "attributes": {
+                "Confirmed": 25,
+                "Long_": 4.435715197330676,
+                "Deaths": -1,
+                "Province_State": "Albrandswaard",
+                "Country_Region": "Albrandswaard, Netherlands",
+                "Lat": 51.85204326537016,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 51.91738771939856,
+                "x": 4.3278584637807
+            },
+            "attributes": {
+                "Confirmed": 43,
+                "Long_": 4.3278584637807,
+                "Deaths": -1,
+                "Province_State": "Vlaardingen",
+                "Country_Region": "Vlaardingen, Netherlands",
+                "Lat": 51.91738771939856,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 51.32375128304909,
+                "x": 5.449225619990182
+            },
+            "attributes": {
+                "Confirmed": 36,
+                "Long_": 5.449225619990182,
+                "Deaths": -1,
+                "Province_State": "Valkenswaard",
+                "Country_Region": "Valkenswaard, Netherlands",
+                "Lat": 51.32375128304909,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 52.3444392848541,
+                "x": 6.560632195672144
+            },
+            "attributes": {
+                "Confirmed": 9,
+                "Long_": 6.560632195672144,
+                "Deaths": -1,
+                "Province_State": "Wierden",
+                "Country_Region": "Wierden, Netherlands",
+                "Lat": 52.3444392848541,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 52.254905762491525,
+                "x": 6.778194930668734
+            },
+            "attributes": {
+                "Confirmed": 40,
+                "Long_": 6.778194930668734,
+                "Deaths": -1,
+                "Province_State": "Hengelo (o)",
+                "Country_Region": "Hengelo (o), Netherlands",
+                "Lat": 52.254905762491525,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 51.98961892948912,
+                "x": 5.7848454252355594
+            },
+            "attributes": {
+                "Confirmed": 21,
+                "Long_": 5.7848454252355594,
+                "Deaths": -1,
+                "Province_State": "Renkum",
+                "Country_Region": "Renkum, Netherlands",
+                "Lat": 51.98961892948912,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 51.386406458469864,
+                "x": 5.77923323389301
+            },
+            "attributes": {
+                "Confirmed": 17,
+                "Long_": 5.77923323389301,
+                "Deaths": -1,
+                "Province_State": "Asten",
+                "Country_Region": "Asten, Netherlands",
+                "Lat": 51.386406458469864,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 52.55835825389907,
+                "x": 5.923328082337303
+            },
+            "attributes": {
+                "Confirmed": 69,
+                "Long_": 5.923328082337303,
+                "Deaths": -1,
+                "Province_State": "Kampen",
+                "Country_Region": "Kampen, Netherlands",
+                "Lat": 52.55835825389907,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 51.59054042251409,
+                "x": 4.523114053008807
+            },
+            "attributes": {
+                "Confirmed": 14,
+                "Long_": 4.523114053008807,
+                "Deaths": -1,
+                "Province_State": "Halderberge",
+                "Country_Region": "Halderberge, Netherlands",
+                "Lat": 51.59054042251409,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 51.6821746060238,
+                "x": 3.88283920617758
+            },
+            "attributes": {
+                "Confirmed": 10,
+                "Long_": 3.88283920617758,
+                "Deaths": -1,
+                "Province_State": "Schouwen-duiveland",
+                "Country_Region": "Schouwen-duiveland, Netherlands",
+                "Lat": 51.6821746060238,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 52.15619137060616,
+                "x": 5.2962886609215944
+            },
+            "attributes": {
+                "Confirmed": 30,
+                "Long_": 5.2962886609215944,
+                "Deaths": -1,
+                "Province_State": "Soest",
+                "Country_Region": "Soest, Netherlands",
+                "Lat": 52.15619137060616,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 52.11480204515912,
+                "x": 4.513832142977294
+            },
+            "attributes": {
+                "Confirmed": 3,
+                "Long_": 4.513832142977294,
+                "Deaths": -1,
+                "Province_State": "Zoeterwoude",
+                "Country_Region": "Zoeterwoude, Netherlands",
+                "Lat": 52.11480204515912,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 52.45196385030845,
+                "x": 4.876109040156742
+            },
+            "attributes": {
+                "Confirmed": 8,
+                "Long_": 4.876109040156742,
+                "Deaths": -1,
+                "Province_State": "Oostzaan",
+                "Country_Region": "Oostzaan, Netherlands",
+                "Lat": 52.45196385030845,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 53.19986501237293,
+                "x": 5.962716794242634
+            },
+            "attributes": {
+                "Confirmed": 4,
+                "Long_": 5.962716794242634,
+                "Deaths": -1,
+                "Province_State": "Tytsjerksteradiel",
+                "Country_Region": "Tytsjerksteradiel, Netherlands",
+                "Lat": 53.19986501237293,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 51.901530754436,
+                "x": 5.942228139349588
+            },
+            "attributes": {
+                "Confirmed": 28,
+                "Long_": 5.942228139349588,
+                "Deaths": -1,
+                "Province_State": "Lingewaard",
+                "Country_Region": "Lingewaard, Netherlands",
+                "Lat": 51.901530754436,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 51.61731112090392,
+                "x": 5.841997671141597
+            },
+            "attributes": {
+                "Confirmed": 31,
+                "Long_": 5.841997671141597,
+                "Deaths": -1,
+                "Province_State": "Sint anthonis",
+                "Country_Region": "Sint anthonis, Netherlands",
+                "Lat": 51.61731112090392,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 53.095625625156465,
+                "x": 6.440308208320489
+            },
+            "attributes": {
+                "Confirmed": 5,
+                "Long_": 6.440308208320489,
+                "Deaths": -1,
+                "Province_State": "Noordenveld",
+                "Country_Region": "Noordenveld, Netherlands",
+                "Lat": 53.095625625156465,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 51.86281516791094,
+                "x": 5.740275197577425
+            },
+            "attributes": {
+                "Confirmed": 24,
+                "Long_": 5.740275197577425,
+                "Deaths": -1,
+                "Province_State": "Beuningen",
+                "Country_Region": "Beuningen, Netherlands",
+                "Lat": 51.86281516791094,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 51.49261388737774,
+                "x": 5.289779322152447
+            },
+            "attributes": {
+                "Confirmed": 14,
+                "Long_": 5.289779322152447,
+                "Deaths": -1,
+                "Province_State": "Oirschot",
+                "Country_Region": "Oirschot, Netherlands",
+                "Lat": 51.49261388737774,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 52.30772563978553,
+                "x": 6.911044532045705
+            },
+            "attributes": {
+                "Confirmed": 22,
+                "Long_": 6.911044532045705,
+                "Deaths": -1,
+                "Province_State": "Oldenzaal",
+                "Country_Region": "Oldenzaal, Netherlands",
+                "Lat": 52.30772563978553,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 51.71829873244172,
+                "x": 5.85137232336918
+            },
+            "attributes": {
+                "Confirmed": 14,
+                "Long_": 5.85137232336918,
+                "Deaths": -1,
+                "Province_State": "Cuijk",
+                "Country_Region": "Cuijk, Netherlands",
+                "Lat": 51.71829873244172,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 51.50315875213953,
+                "x": 3.6508377816550017
+            },
+            "attributes": {
+                "Confirmed": 14,
+                "Long_": 3.6508377816550017,
+                "Deaths": -1,
+                "Province_State": "Middelburg",
+                "Country_Region": "Middelburg, Netherlands",
+                "Lat": 51.50315875213953,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 51.98535813470262,
+                "x": 4.94552279763384
+            },
+            "attributes": {
+                "Confirmed": 17,
+                "Long_": 4.94552279763384,
+                "Deaths": -1,
+                "Province_State": "Lopik",
+                "Country_Region": "Lopik, Netherlands",
+                "Lat": 51.98535813470262,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 52.45058336288495,
+                "x": 4.924554814968995
+            },
+            "attributes": {
+                "Confirmed": 8,
+                "Long_": 4.924554814968995,
+                "Deaths": -1,
+                "Province_State": "Landsmeer",
+                "Country_Region": "Landsmeer, Netherlands",
+                "Lat": 52.45058336288495,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 51.40828980368532,
+                "x": 4.342270560662603
+            },
+            "attributes": {
+                "Confirmed": 6,
+                "Long_": 4.342270560662603,
+                "Deaths": -1,
+                "Province_State": "Woensdrecht",
+                "Country_Region": "Woensdrecht, Netherlands",
+                "Lat": 51.40828980368532,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 51.591907306937074,
+                "x": 6.089380688068759
+            },
+            "attributes": {
+                "Confirmed": 4,
+                "Long_": 6.089380688068759,
+                "Deaths": -1,
+                "Province_State": "Bergen (l)",
+                "Country_Region": "Bergen (l), Netherlands",
+                "Lat": 51.591907306937074,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 52.474780125464115,
+                "x": 6.053264205729537
+            },
+            "attributes": {
+                "Confirmed": 12,
+                "Long_": 6.053264205729537,
+                "Deaths": -1,
+                "Province_State": "Hattem",
+                "Country_Region": "Hattem, Netherlands",
+                "Lat": 52.474780125464115,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 52.027712661744054,
+                "x": 5.028790788855549
+            },
+            "attributes": {
+                "Confirmed": 38,
+                "Long_": 5.028790788855549,
+                "Deaths": -1,
+                "Province_State": "Ijsselstein",
+                "Country_Region": "Ijsselstein, Netherlands",
+                "Lat": 52.027712661744054,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 51.55210134454964,
+                "x": 5.197525682739497
+            },
+            "attributes": {
+                "Confirmed": 27,
+                "Long_": 5.197525682739497,
+                "Deaths": -1,
+                "Province_State": "Oisterwijk",
+                "Country_Region": "Oisterwijk, Netherlands",
+                "Lat": 51.55210134454964,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 51.95751803093287,
+                "x": 5.970718310656348
+            },
+            "attributes": {
+                "Confirmed": 5,
+                "Long_": 5.970718310656348,
+                "Deaths": -1,
+                "Province_State": "Westervoort",
+                "Country_Region": "Westervoort, Netherlands",
+                "Lat": 51.95751803093287,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 51.637773926823776,
+                "x": 4.8640673825620055
+            },
+            "attributes": {
+                "Confirmed": 44,
+                "Long_": 4.8640673825620055,
+                "Deaths": -1,
+                "Province_State": "Oosterhout",
+                "Country_Region": "Oosterhout, Netherlands",
+                "Lat": 51.637773926823776,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 52.282959432305724,
+                "x": 5.274231272260743
+            },
+            "attributes": {
+                "Confirmed": 6,
+                "Long_": 5.274231272260743,
+                "Deaths": -1,
+                "Province_State": "Blaricum",
+                "Country_Region": "Blaricum, Netherlands",
+                "Lat": 52.282959432305724,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 51.83068715599905,
+                "x": 4.772947173787835
+            },
+            "attributes": {
+                "Confirmed": 7,
+                "Long_": 4.772947173787835,
+                "Deaths": -1,
+                "Province_State": "Sliedrecht",
+                "Country_Region": "Sliedrecht, Netherlands",
+                "Lat": 51.83068715599905,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 51.51319125963733,
+                "x": 4.4245095877240335
+            },
+            "attributes": {
+                "Confirmed": 26,
+                "Long_": 4.4245095877240335,
+                "Deaths": -1,
+                "Province_State": "Roosendaal",
+                "Country_Region": "Roosendaal, Netherlands",
+                "Lat": 51.51319125963733,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 51.37469839660904,
+                "x": 6.165507613235686
+            },
+            "attributes": {
+                "Confirmed": 96,
+                "Long_": 6.165507613235686,
+                "Deaths": -1,
+                "Province_State": "Venlo",
+                "Country_Region": "Venlo, Netherlands",
+                "Lat": 51.37469839660904,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 52.41323969629281,
+                "x": 5.849035643164387
+            },
+            "attributes": {
+                "Confirmed": 18,
+                "Long_": 5.849035643164387,
+                "Deaths": -1,
+                "Province_State": "Elburg",
+                "Country_Region": "Elburg, Netherlands",
+                "Lat": 52.41323969629281,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 52.08932354572887,
+                "x": 5.500490767975932
+            },
+            "attributes": {
+                "Confirmed": 4,
+                "Long_": 5.500490767975932,
+                "Deaths": -1,
+                "Province_State": "Scherpenzeel",
+                "Country_Region": "Scherpenzeel, Netherlands",
+                "Lat": 52.08932354572887,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 51.91689356086314,
+                "x": 6.213779686176441
+            },
+            "attributes": {
+                "Confirmed": 10,
+                "Long_": 6.213779686176441,
+                "Deaths": -1,
+                "Province_State": "Montferland",
+                "Country_Region": "Montferland, Netherlands",
+                "Lat": 51.91689356086314,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 51.66257583578473,
+                "x": 4.535476595996787
+            },
+            "attributes": {
+                "Confirmed": 12,
+                "Long_": 4.535476595996787,
+                "Deaths": -1,
+                "Province_State": "Moerdijk",
+                "Country_Region": "Moerdijk, Netherlands",
+                "Lat": 51.66257583578473,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 52.74965353867497,
+                "x": 6.96196007517859
+            },
+            "attributes": {
+                "Confirmed": 15,
+                "Long_": 6.96196007517859,
+                "Deaths": -1,
+                "Province_State": "Emmen",
+                "Country_Region": "Emmen, Netherlands",
+                "Lat": 52.74965353867497,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 52.66317548317371,
+                "x": 4.66138529571761
+            },
+            "attributes": {
+                "Confirmed": 23,
+                "Long_": 4.66138529571761,
+                "Deaths": -1,
+                "Province_State": "Bergen (nh)",
+                "Country_Region": "Bergen (nh), Netherlands",
+                "Lat": 52.66317548317371,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 52.34436206792846,
+                "x": 5.455242411951357
+            },
+            "attributes": {
+                "Confirmed": 9,
+                "Long_": 5.455242411951357,
+                "Deaths": -1,
+                "Province_State": "Zeewolde",
+                "Country_Region": "Zeewolde, Netherlands",
+                "Lat": 52.34436206792846,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 51.57825379600605,
+                "x": 5.326580544137324
+            },
+            "attributes": {
+                "Confirmed": 26,
+                "Long_": 5.326580544137324,
+                "Deaths": -1,
+                "Province_State": "Boxtel",
+                "Country_Region": "Boxtel, Netherlands",
+                "Lat": 51.57825379600605,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 52.03617410748123,
+                "x": 4.326015670092864
+            },
+            "attributes": {
+                "Confirmed": 20,
+                "Long_": 4.326015670092864,
+                "Deaths": -1,
+                "Province_State": "Rijswijk",
+                "Country_Region": "Rijswijk, Netherlands",
+                "Lat": 52.03617410748123,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 52.19258175436826,
+                "x": 4.629193320676418
+            },
+            "attributes": {
+                "Confirmed": 8,
+                "Long_": 4.629193320676418,
+                "Deaths": -1,
+                "Province_State": "Kaag en braassem",
+                "Country_Region": "Kaag en braassem, Netherlands",
+                "Lat": 52.19258175436826,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 52.633286212107045,
+                "x": 4.747698260414622
+            },
+            "attributes": {
+                "Confirmed": 49,
+                "Long_": 4.747698260414622,
+                "Deaths": -1,
+                "Province_State": "Alkmaar",
+                "Country_Region": "Alkmaar, Netherlands",
+                "Lat": 52.633286212107045,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 51.47979908910399,
+                "x": 4.64261775864544
+            },
+            "attributes": {
+                "Confirmed": 25,
+                "Long_": 4.64261775864544,
+                "Deaths": -1,
+                "Province_State": "Zundert",
+                "Country_Region": "Zundert, Netherlands",
+                "Lat": 51.47979908910399,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 52.042394479478794,
+                "x": 4.640706655567253
+            },
+            "attributes": {
+                "Confirmed": 9,
+                "Long_": 4.640706655567253,
+                "Deaths": -1,
+                "Province_State": "Waddinxveen",
+                "Country_Region": "Waddinxveen, Netherlands",
+                "Lat": 52.042394479478794,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 51.58512064354197,
+                "x": 4.761441273447802
+            },
+            "attributes": {
+                "Confirmed": 245,
+                "Long_": 4.761441273447802,
+                "Deaths": -1,
+                "Province_State": "Breda",
+                "Country_Region": "Breda, Netherlands",
+                "Lat": 51.58512064354197,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 52.296773032714775,
+                "x": 4.576952798967478
+            },
+            "attributes": {
+                "Confirmed": 6,
+                "Long_": 4.576952798967478,
+                "Deaths": -1,
+                "Province_State": "Hillegom",
+                "Country_Region": "Hillegom, Netherlands",
+                "Lat": 52.296773032714775,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 52.385927740565,
+                "x": 4.581535084736644
+            },
+            "attributes": {
+                "Confirmed": 19,
+                "Long_": 4.581535084736644,
+                "Deaths": -1,
+                "Province_State": "Bloemendaal",
+                "Country_Region": "Bloemendaal, Netherlands",
+                "Lat": 52.385927740565,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 51.9892014073954,
+                "x": 5.325253592942854
+            },
+            "attributes": {
+                "Confirmed": 11,
+                "Long_": 5.325253592942854,
+                "Deaths": -1,
+                "Province_State": "Wijk bij duurstede",
+                "Country_Region": "Wijk bij duurstede, Netherlands",
+                "Lat": 51.9892014073954,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 52.17948237918463,
+                "x": 6.346854933786513
+            },
+            "attributes": {
+                "Confirmed": 14,
+                "Long_": 6.346854933786513,
+                "Deaths": -1,
+                "Province_State": "Lochem",
+                "Country_Region": "Lochem, Netherlands",
+                "Lat": 52.17948237918463,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 52.708378596221316,
+                "x": 5.283700973285569
+            },
+            "attributes": {
+                "Confirmed": 18,
+                "Long_": 5.283700973285569,
+                "Deaths": -1,
+                "Province_State": "Enkhuizen",
+                "Country_Region": "Enkhuizen, Netherlands",
+                "Lat": 52.708378596221316,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 52.337332588231526,
+                "x": 4.990495443075885
+            },
+            "attributes": {
+                "Confirmed": 9,
+                "Long_": 4.990495443075885,
+                "Deaths": -1,
+                "Province_State": "Diemen",
+                "Country_Region": "Diemen, Netherlands",
+                "Lat": 52.337332588231526,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 52.0689474527109,
+                "x": 5.534162572808735
+            },
+            "attributes": {
+                "Confirmed": 1,
+                "Long_": 5.534162572808735,
+                "Deaths": -1,
+                "Province_State": "Renswoude",
+                "Country_Region": "Renswoude, Netherlands",
+                "Lat": 52.0689474527109,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 51.88508219871216,
+                "x": 5.406859433527253
+            },
+            "attributes": {
+                "Confirmed": 33,
+                "Long_": 5.406859433527253,
+                "Deaths": -1,
+                "Province_State": "Tiel",
+                "Country_Region": "Tiel, Netherlands",
+                "Lat": 51.88508219871216,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 52.12482267427526,
+                "x": 4.438628006616013
+            },
+            "attributes": {
+                "Confirmed": 8,
+                "Long_": 4.438628006616013,
+                "Deaths": -1,
+                "Province_State": "Voorschoten",
+                "Country_Region": "Voorschoten, Netherlands",
+                "Lat": 52.12482267427526,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 52.93997675547823,
+                "x": 4.785224607350142
+            },
+            "attributes": {
+                "Confirmed": 11,
+                "Long_": 4.785224607350142,
+                "Deaths": -1,
+                "Province_State": "Den helder",
+                "Country_Region": "Den helder, Netherlands",
+                "Lat": 52.93997675547823,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 51.39765132780447,
+                "x": 5.3324083171412635
+            },
+            "attributes": {
+                "Confirmed": 23,
+                "Long_": 5.3324083171412635,
+                "Deaths": -1,
+                "Province_State": "Eersel",
+                "Country_Region": "Eersel, Netherlands",
+                "Lat": 51.39765132780447,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 51.52267270937945,
+                "x": 4.5585615579618
+            },
+            "attributes": {
+                "Confirmed": 10,
+                "Long_": 4.5585615579618,
+                "Deaths": -1,
+                "Province_State": "Rucphen",
+                "Country_Region": "Rucphen, Netherlands",
+                "Lat": 51.52267270937945,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 51.96985412934129,
+                "x": 6.725861347526099
+            },
+            "attributes": {
+                "Confirmed": 4,
+                "Long_": 6.725861347526099,
+                "Deaths": -1,
+                "Province_State": "Winterswijk",
+                "Country_Region": "Winterswijk, Netherlands",
+                "Lat": 51.96985412934129,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 52.28937634948756,
+                "x": 4.91351509122097
+            },
+            "attributes": {
+                "Confirmed": 10,
+                "Long_": 4.91351509122097,
+                "Deaths": -1,
+                "Province_State": "Ouder-amstel",
+                "Country_Region": "Ouder-amstel, Netherlands",
+                "Lat": 52.28937634948756,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 51.79229075401966,
+                "x": 5.158440019272138
+            },
+            "attributes": {
+                "Confirmed": 16,
+                "Long_": 5.158440019272138,
+                "Deaths": -1,
+                "Province_State": "Zaltbommel",
+                "Country_Region": "Zaltbommel, Netherlands",
+                "Lat": 51.79229075401966,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 52.55669011472328,
+                "x": 4.6753929696675405
+            },
+            "attributes": {
+                "Confirmed": 24,
+                "Long_": 4.6753929696675405,
+                "Deaths": -1,
+                "Province_State": "Castricum",
+                "Country_Region": "Castricum, Netherlands",
+                "Lat": 52.55669011472328,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 51.65558453977874,
+                "x": 5.2688118196293265
+            },
+            "attributes": {
+                "Confirmed": 38,
+                "Long_": 5.2688118196293265,
+                "Deaths": -1,
+                "Province_State": "Vught",
+                "Country_Region": "Vught, Netherlands",
+                "Lat": 51.65558453977874,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 51.96078729295976,
+                "x": 6.286702836634432
+            },
+            "attributes": {
+                "Confirmed": 24,
+                "Long_": 6.286702836634432,
+                "Deaths": -1,
+                "Province_State": "Doetinchem",
+                "Country_Region": "Doetinchem, Netherlands",
+                "Lat": 51.96078729295976,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 52.21399796086888,
+                "x": 4.5119000656772315
+            },
+            "attributes": {
+                "Confirmed": 13,
+                "Long_": 4.5119000656772315,
+                "Deaths": -1,
+                "Province_State": "Teylingen",
+                "Country_Region": "Teylingen, Netherlands",
+                "Lat": 52.21399796086888,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 51.74357242069501,
+                "x": 5.743016940619128
+            },
+            "attributes": {
+                "Confirmed": 25,
+                "Long_": 5.743016940619128,
+                "Deaths": -1,
+                "Province_State": "Grave",
+                "Country_Region": "Grave, Netherlands",
+                "Lat": 51.74357242069501,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 52.24390087223643,
+                "x": 5.582671874320032
+            },
+            "attributes": {
+                "Confirmed": 6,
+                "Long_": 5.582671874320032,
+                "Deaths": -1,
+                "Province_State": "Putten",
+                "Country_Region": "Putten, Netherlands",
+                "Lat": 52.24390087223643,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 50.8718251277247,
+                "x": 6.0509723547793755
+            },
+            "attributes": {
+                "Confirmed": 36,
+                "Long_": 6.0509723547793755,
+                "Deaths": -1,
+                "Province_State": "Kerkrade",
+                "Country_Region": "Kerkrade, Netherlands",
+                "Lat": 50.8718251277247,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 52.004008484342684,
+                "x": 4.506106742025003
+            },
+            "attributes": {
+                "Confirmed": 49,
+                "Long_": 4.506106742025003,
+                "Deaths": -1,
+                "Province_State": "Lansingerland",
+                "Country_Region": "Lansingerland, Netherlands",
+                "Lat": 52.004008484342684,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 51.00485873611417,
+                "x": 5.828202251867558
+            },
+            "attributes": {
+                "Confirmed": 114,
+                "Long_": 5.828202251867558,
+                "Deaths": -1,
+                "Province_State": "Sittard-geleen",
+                "Country_Region": "Sittard-geleen, Netherlands",
+                "Lat": 51.00485873611417,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 53.280046150649106,
+                "x": 5.9845214604576435
+            },
+            "attributes": {
+                "Confirmed": 3,
+                "Long_": 5.9845214604576435,
+                "Deaths": -1,
+                "Province_State": "Dantumadiel",
+                "Country_Region": "Dantumadiel, Netherlands",
+                "Lat": 53.280046150649106,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 51.450021864194035,
+                "x": 5.458869406577307
+            },
+            "attributes": {
+                "Confirmed": 143,
+                "Long_": 5.458869406577307,
+                "Deaths": -1,
+                "Province_State": "Eindhoven",
+                "Country_Region": "Eindhoven, Netherlands",
+                "Lat": 51.450021864194035,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 52.387826834301606,
+                "x": 6.279050173549389
+            },
+            "attributes": {
+                "Confirmed": 20,
+                "Long_": 6.279050173549389,
+                "Deaths": -1,
+                "Province_State": "Raalte",
+                "Country_Region": "Raalte, Netherlands",
+                "Lat": 52.387826834301606,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 50.893322756381245,
+                "x": 5.969432265098883
+            },
+            "attributes": {
+                "Confirmed": 87,
+                "Long_": 5.969432265098883,
+                "Deaths": -1,
+                "Province_State": "Heerlen",
+                "Country_Region": "Heerlen, Netherlands",
+                "Lat": 50.893322756381245,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 51.503458126072104,
+                "x": 4.288302874737702
+            },
+            "attributes": {
+                "Confirmed": 17,
+                "Long_": 4.288302874737702,
+                "Deaths": -1,
+                "Province_State": "Bergen op zoom",
+                "Country_Region": "Bergen op zoom, Netherlands",
+                "Lat": 51.503458126072104,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 51.8750119174601,
+                "x": 5.612147477658209
+            },
+            "attributes": {
+                "Confirmed": 18,
+                "Long_": 5.612147477658209,
+                "Deaths": -1,
+                "Province_State": "Druten",
+                "Country_Region": "Druten, Netherlands",
+                "Lat": 51.8750119174601,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 51.69927398932028,
+                "x": 5.987104717839275
+            },
+            "attributes": {
+                "Confirmed": 19,
+                "Long_": 5.987104717839275,
+                "Deaths": -1,
+                "Province_State": "Gennep",
+                "Country_Region": "Gennep, Netherlands",
+                "Lat": 51.69927398932028,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 50.80106175555101,
+                "x": 5.773685888325976
+            },
+            "attributes": {
+                "Confirmed": 53,
+                "Long_": 5.773685888325976,
+                "Deaths": -1,
+                "Province_State": "Eijsden-margraten",
+                "Country_Region": "Eijsden-margraten, Netherlands",
+                "Lat": 50.80106175555101,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 52.24230706696696,
+                "x": 5.358121104157206
+            },
+            "attributes": {
+                "Confirmed": 6,
+                "Long_": 5.358121104157206,
+                "Deaths": -1,
+                "Province_State": "Bunschoten",
+                "Country_Region": "Bunschoten, Netherlands",
+                "Lat": 52.24230706696696,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 51.570391874019926,
+                "x": 4.106354413744987
+            },
+            "attributes": {
+                "Confirmed": 34,
+                "Long_": 4.106354413744987,
+                "Deaths": -1,
+                "Province_State": "Tholen",
+                "Country_Region": "Tholen, Netherlands",
+                "Lat": 51.570391874019926,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 52.5147279894033,
+                "x": 6.276669346621206
+            },
+            "attributes": {
+                "Confirmed": 16,
+                "Long_": 6.276669346621206,
+                "Deaths": -1,
+                "Province_State": "Dalfsen",
+                "Country_Region": "Dalfsen, Netherlands",
+                "Lat": 52.5147279894033,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 52.236441207410934,
+                "x": 6.589959089101874
+            },
+            "attributes": {
+                "Confirmed": 18,
+                "Long_": 6.589959089101874,
+                "Deaths": -1,
+                "Province_State": "Hof van twente",
+                "Country_Region": "Hof van twente, Netherlands",
+                "Lat": 52.236441207410934,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 51.93833621982977,
+                "x": 5.4036268647023515
+            },
+            "attributes": {
+                "Confirmed": 9,
+                "Long_": 5.4036268647023515,
+                "Deaths": -1,
+                "Province_State": "Buren",
+                "Country_Region": "Buren, Netherlands",
+                "Lat": 51.93833621982977,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 52.40247138323605,
+                "x": 5.205649842024522
+            },
+            "attributes": {
+                "Confirmed": 60,
+                "Long_": 5.205649842024522,
+                "Deaths": -1,
+                "Province_State": "Almere",
+                "Country_Region": "Almere, Netherlands",
+                "Lat": 52.40247138323605,
+                "Recovered": -1
+            }
+        },
+        {
+            "geometry": {
+                "y": 51.83850880170947,
+                "x": 5.836792287955367
+            },
+            "attributes": {
+                "Confirmed": 197,
+                "Long_": 5.836792287955367,
+                "Deaths": -1,
+                "Province_State": "Nijmegen",
+                "Country_Region": "Nijmegen, Netherlands",
+                "Lat": 51.83850880170947,
+                "Recovered": -1
+            }
+        },
+        {
             "attributes": {
                 "Confirmed": 42,
                 "Long_": -70.44558526291785,
@@ -7319,11 +12536,55 @@
         {
             "attributes": {
                 "Confirmed": 15,
+                "Long_": "50.450",
+                "Deaths": 0,
+                "Province_State": "Samara Oblast",
+                "Country_Region": "Samara Oblast, Russia",
+                "Lat": "53.450",
+                "Recovered": 1
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 15,
                 "Long_": "129.167",
                 "Deaths": 0,
                 "Province_State": "Yakutia",
                 "Country_Region": "Yakutia, Russia",
                 "Lat": "66.400",
+                "Recovered": 0
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 12,
+                "Long_": "37.583",
+                "Deaths": 0,
+                "Province_State": "Tula Oblast",
+                "Country_Region": "Tula Oblast, Russia",
+                "Lat": "53.917",
+                "Recovered": 0
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 14,
+                "Long_": "31.750",
+                "Deaths": 0,
+                "Province_State": "Leningrad Oblast",
+                "Country_Region": "Leningrad Oblast, Russia",
+                "Lat": "60.050",
+                "Recovered": 1
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 14,
+                "Long_": "60.333",
+                "Deaths": 0,
+                "Province_State": "Chelyabinsk Oblast",
+                "Country_Region": "Chelyabinsk Oblast, Russia",
+                "Lat": "54.533",
                 "Recovered": 0
             }
         },
@@ -7351,35 +12612,13 @@
         },
         {
             "attributes": {
-                "Confirmed": 17,
-                "Long_": "39.433",
-                "Deaths": 0,
-                "Province_State": "Krasnodar Krai",
-                "Country_Region": "Krasnodar Krai, Russia",
-                "Lat": "45.367",
-                "Recovered": 2
-            }
-        },
-        {
-            "attributes": {
-                "Confirmed": 14,
-                "Long_": "31.750",
-                "Deaths": 0,
-                "Province_State": "Leningrad Oblast",
-                "Country_Region": "Leningrad Oblast, Russia",
-                "Lat": "60.050",
-                "Recovered": 1
-            }
-        },
-        {
-            "attributes": {
                 "Confirmed": 12,
-                "Long_": "37.583",
+                "Long_": "44.533",
                 "Deaths": 0,
-                "Province_State": "Tula Oblast",
-                "Country_Region": "Tula Oblast, Russia",
-                "Lat": "53.917",
-                "Recovered": 0
+                "Province_State": "Nizhny Novgorod Oblast",
+                "Country_Region": "Nizhny Novgorod Oblast, Russia",
+                "Lat": "56.483",
+                "Recovered": 1
             }
         },
         {
@@ -7395,34 +12634,12 @@
         },
         {
             "attributes": {
-                "Confirmed": 14,
-                "Long_": "60.333",
+                "Confirmed": 22,
+                "Long_": "54.467",
                 "Deaths": 0,
-                "Province_State": "Chelyabinsk Oblast",
-                "Country_Region": "Chelyabinsk Oblast, Russia",
-                "Lat": "54.533",
-                "Recovered": 0
-            }
-        },
-        {
-            "attributes": {
-                "Confirmed": 15,
-                "Long_": "50.450",
-                "Deaths": 0,
-                "Province_State": "Samara Oblast",
-                "Country_Region": "Samara Oblast, Russia",
-                "Lat": "53.450",
-                "Recovered": 1
-            }
-        },
-        {
-            "attributes": {
-                "Confirmed": 13,
-                "Long_": "46.883",
-                "Deaths": 0,
-                "Province_State": "Dagestan",
-                "Country_Region": "Dagestan, Russia",
-                "Lat": "43.100",
+                "Province_State": "Komi Republic",
+                "Country_Region": "Komi Republic, Russia",
+                "Lat": "64.283",
                 "Recovered": 0
             }
         },
@@ -7439,23 +12656,23 @@
         },
         {
             "attributes": {
-                "Confirmed": 1,
-                "Long_": "118.000",
+                "Confirmed": 17,
+                "Long_": "39.433",
                 "Deaths": 0,
-                "Province_State": "Zabaykalsky Krai",
-                "Country_Region": "Zabaykalsky Krai, Russia",
-                "Lat": "54.000",
-                "Recovered": 1
+                "Province_State": "Krasnodar Krai",
+                "Country_Region": "Krasnodar Krai, Russia",
+                "Lat": "45.367",
+                "Recovered": 2
             }
         },
         {
             "attributes": {
-                "Confirmed": 19,
-                "Long_": "109.333",
+                "Confirmed": 13,
+                "Long_": "46.883",
                 "Deaths": 0,
-                "Province_State": "Buryatia",
-                "Country_Region": "Buryatia, Russia",
-                "Lat": "53.800",
+                "Province_State": "Dagestan",
+                "Country_Region": "Dagestan, Russia",
+                "Lat": "43.100",
                 "Recovered": 0
             }
         },
@@ -7472,12 +12689,12 @@
         },
         {
             "attributes": {
-                "Confirmed": 22,
-                "Long_": "54.467",
+                "Confirmed": 19,
+                "Long_": "109.333",
                 "Deaths": 0,
-                "Province_State": "Komi Republic",
-                "Country_Region": "Komi Republic, Russia",
-                "Lat": "64.283",
+                "Province_State": "Buryatia",
+                "Country_Region": "Buryatia, Russia",
+                "Lat": "53.800",
                 "Recovered": 0
             }
         },
@@ -7494,24 +12711,13 @@
         },
         {
             "attributes": {
-                "Confirmed": 2,
-                "Long_": "106.000",
+                "Confirmed": 1,
+                "Long_": "47.100",
                 "Deaths": 0,
-                "Province_State": "Irkutsk Oblast",
-                "Country_Region": "Irkutsk Oblast, Russia",
-                "Lat": "57.367",
+                "Province_State": "Chuvashia",
+                "Country_Region": "Chuvashia, Russia",
+                "Lat": "55.550",
                 "Recovered": 0
-            }
-        },
-        {
-            "attributes": {
-                "Confirmed": 98,
-                "Long_": "30.30861",
-                "Deaths": 2,
-                "Province_State": "Saint Petersburg",
-                "Country_Region": "Saint Petersburg, Russia",
-                "Lat": "59.93750",
-                "Recovered": 7
             }
         },
         {
@@ -7528,11 +12734,22 @@
         {
             "attributes": {
                 "Confirmed": 1,
-                "Long_": "127.833",
+                "Long_": "118.000",
                 "Deaths": 0,
-                "Province_State": "Amur Oblast",
-                "Country_Region": "Amur Oblast, Russia",
-                "Lat": "53.550",
+                "Province_State": "Zabaykalsky Krai",
+                "Country_Region": "Zabaykalsky Krai, Russia",
+                "Lat": "54.000",
+                "Recovered": 1
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 2,
+                "Long_": "40.450",
+                "Deaths": 0,
+                "Province_State": "Vologda Oblast",
+                "Country_Region": "Vologda Oblast, Russia",
+                "Lat": "60.083",
                 "Recovered": 0
             }
         },
@@ -7550,6 +12767,17 @@
         {
             "attributes": {
                 "Confirmed": 2,
+                "Long_": "106.000",
+                "Deaths": 0,
+                "Province_State": "Irkutsk Oblast",
+                "Country_Region": "Irkutsk Oblast, Russia",
+                "Lat": "57.367",
+                "Recovered": 0
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 2,
                 "Long_": "82.617",
                 "Deaths": 0,
                 "Province_State": "Altai Krai",
@@ -7561,11 +12789,11 @@
         {
             "attributes": {
                 "Confirmed": 1,
-                "Long_": "47.100",
+                "Long_": "127.833",
                 "Deaths": 0,
-                "Province_State": "Chuvashia",
-                "Country_Region": "Chuvashia, Russia",
-                "Lat": "55.550",
+                "Province_State": "Amur Oblast",
+                "Country_Region": "Amur Oblast, Russia",
+                "Lat": "53.550",
                 "Recovered": 0
             }
         },
@@ -7593,34 +12821,12 @@
         },
         {
             "attributes": {
-                "Confirmed": 3,
-                "Long_": "87.233",
-                "Deaths": 0,
-                "Province_State": "Kemerovo Oblast",
-                "Country_Region": "Kemerovo Oblast, Russia",
-                "Lat": "54.933",
-                "Recovered": 2
-            }
-        },
-        {
-            "attributes": {
                 "Confirmed": 2,
-                "Long_": "40.450",
+                "Long_": "45.317",
                 "Deaths": 0,
-                "Province_State": "Vologda Oblast",
-                "Country_Region": "Vologda Oblast, Russia",
-                "Lat": "60.083",
-                "Recovered": 0
-            }
-        },
-        {
-            "attributes": {
-                "Confirmed": 3,
-                "Long_": "41.567",
-                "Deaths": 0,
-                "Province_State": "Tambov Oblast",
-                "Country_Region": "Tambov Oblast, Russia",
-                "Lat": "52.717",
+                "Province_State": "Kalmykia",
+                "Country_Region": "Kalmykia, Russia",
+                "Lat": "46.567",
                 "Recovered": 0
             }
         },
@@ -7633,6 +12839,28 @@
                 "Country_Region": "Oryol Oblast, Russia",
                 "Lat": "52.850",
                 "Recovered": 0
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 3,
+                "Long_": "73.267",
+                "Deaths": 0,
+                "Province_State": "Omsk Oblast",
+                "Country_Region": "Omsk Oblast, Russia",
+                "Lat": "56.217",
+                "Recovered": 0
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 3,
+                "Long_": "87.233",
+                "Deaths": 0,
+                "Province_State": "Kemerovo Oblast",
+                "Country_Region": "Kemerovo Oblast, Russia",
+                "Lat": "54.933",
+                "Recovered": 2
             }
         },
         {
@@ -7659,34 +12887,12 @@
         },
         {
             "attributes": {
-                "Confirmed": 2,
-                "Long_": "45.317",
-                "Deaths": 0,
-                "Province_State": "Kalmykia",
-                "Country_Region": "Kalmykia, Russia",
-                "Lat": "46.567",
-                "Recovered": 0
-            }
-        },
-        {
-            "attributes": {
                 "Confirmed": 3,
-                "Long_": "43.683",
+                "Long_": "41.567",
                 "Deaths": 0,
-                "Province_State": "Kostroma Oblast",
-                "Country_Region": "Kostroma Oblast, Russia",
-                "Lat": "58.550",
-                "Recovered": 0
-            }
-        },
-        {
-            "attributes": {
-                "Confirmed": 3,
-                "Long_": "73.267",
-                "Deaths": 0,
-                "Province_State": "Omsk Oblast",
-                "Country_Region": "Omsk Oblast, Russia",
-                "Lat": "56.217",
+                "Province_State": "Tambov Oblast",
+                "Country_Region": "Tambov Oblast, Russia",
+                "Lat": "52.717",
                 "Recovered": 0
             }
         },
@@ -7703,13 +12909,13 @@
         },
         {
             "attributes": {
-                "Confirmed": 4,
-                "Long_": "34.617",
+                "Confirmed": 3,
+                "Long_": "43.683",
                 "Deaths": 0,
-                "Province_State": "Tver Oblast",
-                "Country_Region": "Tver Oblast, Russia",
-                "Lat": "57.150",
-                "Recovered": 2
+                "Province_State": "Kostroma Oblast",
+                "Country_Region": "Kostroma Oblast, Russia",
+                "Lat": "58.550",
+                "Recovered": 0
             }
         },
         {
@@ -7787,6 +12993,17 @@
                 "Country_Region": "Saratov Oblast, Russia",
                 "Lat": "51.783",
                 "Recovered": 0
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 4,
+                "Long_": "34.617",
+                "Deaths": 0,
+                "Province_State": "Tver Oblast",
+                "Country_Region": "Tver Oblast, Russia",
+                "Lat": "57.150",
+                "Recovered": 2
             }
         },
         {
@@ -8066,17 +13283,6 @@
         },
         {
             "attributes": {
-                "Confirmed": 12,
-                "Long_": "44.533",
-                "Deaths": 0,
-                "Province_State": "Nizhny Novgorod Oblast",
-                "Country_Region": "Nizhny Novgorod Oblast, Russia",
-                "Lat": "56.483",
-                "Recovered": 1
-            }
-        },
-        {
-            "attributes": {
                 "Confirmed": 119,
                 "Long_": "36.967",
                 "Deaths": 0,
@@ -8084,6 +13290,17 @@
                 "Country_Region": "Moscow Oblast, Russia",
                 "Lat": "55.700",
                 "Recovered": 14
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 98,
+                "Long_": "30.30861",
+                "Deaths": 2,
+                "Province_State": "Saint Petersburg",
+                "Country_Region": "Saint Petersburg, Russia",
+                "Lat": "59.93750",
+                "Recovered": 7
             }
         },
         {
@@ -42229,6 +47446,6 @@
         "latestWkid": 4326
     },
     "geometryType": "esriGeometryPoint",
-    "globalIdFieldName": "",
-    "objectIdFieldName": "OBJECTID"
+    "objectIdFieldName": "OBJECTID",
+    "globalIdFieldName": ""
 }
