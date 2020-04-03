@@ -146,7 +146,7 @@
         },
         {
             "attributes": {
-                "Confirmed": 1507,
+                "Confirmed": 1514,
                 "Long_": 113.4244,
                 "Province_State_Child": null,
                 "Deaths": 8,
@@ -578,7 +578,7 @@
         },
         {
             "attributes": {
-                "Confirmed": 554,
+                "Confirmed": 555,
                 "Long_": 102.7103,
                 "Province_State_Child": null,
                 "Deaths": 3,
@@ -1365,7 +1365,7 @@
                 "Province_State": null,
                 "Country_Region": "Gabon",
                 "Lat": -0.8037,
-                "Recovered": 0
+                "Recovered": 1
             }
         },
         {
@@ -1514,14 +1514,14 @@
         },
         {
             "attributes": {
-                "Confirmed": 585,
+                "Confirmed": 623,
                 "Long_": 19.5033,
                 "Province_State_Child": null,
-                "Deaths": 21,
+                "Deaths": 26,
                 "Province_State": null,
                 "Country_Region": "Hungary",
                 "Lat": 47.1625,
-                "Recovered": 42
+                "Recovered": 43
             }
         },
         {
@@ -1622,14 +1622,14 @@
         },
         {
             "attributes": {
-                "Confirmed": 435,
+                "Confirmed": 444,
                 "Long_": 66.9237,
                 "Province_State_Child": null,
                 "Deaths": 3,
                 "Province_State": null,
                 "Country_Region": "Kazakhstan",
                 "Lat": 48.0196,
-                "Recovered": 27
+                "Recovered": 28
             }
         },
         {
@@ -1670,10 +1670,10 @@
         },
         {
             "attributes": {
-                "Confirmed": 116,
+                "Confirmed": 125,
                 "Long_": 74.766098,
                 "Province_State_Child": null,
-                "Deaths": 0,
+                "Deaths": 1,
                 "Province_State": null,
                 "Country_Region": "Kyrgyzstan",
                 "Lat": 41.20438,
@@ -1754,7 +1754,7 @@
         },
         {
             "attributes": {
-                "Confirmed": 649,
+                "Confirmed": 696,
                 "Long_": 23.8813,
                 "Province_State_Child": null,
                 "Deaths": 9,
@@ -2390,14 +2390,14 @@
         },
         {
             "attributes": {
-                "Confirmed": 1875,
+                "Confirmed": 1978,
                 "Long_": 100.992541,
                 "Province_State_Child": null,
-                "Deaths": 15,
+                "Deaths": 19,
                 "Province_State": null,
                 "Country_Region": "Thailand",
                 "Lat": 15.870032,
-                "Recovered": 505
+                "Recovered": 581
             }
         },
         {
@@ -2510,7 +2510,7 @@
         },
         {
             "attributes": {
-                "Confirmed": 205,
+                "Confirmed": 221,
                 "Long_": 64.585262,
                 "Province_State_Child": null,
                 "Deaths": 2,
@@ -2873,7 +2873,7 @@
                 "Confirmed": 255,
                 "Long_": -98.268082,
                 "Province_State_Child": null,
-                "Deaths": 5,
+                "Deaths": 6,
                 "Province_State": "Nebraska",
                 "Country_Region": "Nebraska, US",
                 "Lat": 41.12537,
@@ -4916,7 +4916,7 @@
                 "x": -76.84325808999995
             },
             "attributes": {
-                "Confirmed": 5,
+                "Confirmed": 8,
                 "Long_": -76.84325809,
                 "Province_State_Child": "Beaufort",
                 "Deaths": 0,
@@ -7175,7 +7175,7 @@
                 "Confirmed": 4,
                 "Long_": -89.33686647,
                 "Province_State_Child": "Calhoun",
-                "Deaths": 1,
+                "Deaths": 0,
                 "Province_State": "Calhoun, Mississippi",
                 "Country_Region": "Calhoun, Mississippi, US",
                 "Lat": 33.93683395,
@@ -10235,6 +10235,22 @@
                 "Province_State": "Cole, Missouri",
                 "Country_Region": "Cole, Missouri, US",
                 "Lat": 38.50455671,
+                "Recovered": 0
+            }
+        },
+        {
+            "geometry": {
+                "y": 41.57486951000004,
+                "x": -97.08685419999995
+            },
+            "attributes": {
+                "Confirmed": 1,
+                "Long_": -97.0868542,
+                "Province_State_Child": "Colfax",
+                "Deaths": 0,
+                "Province_State": "Colfax, Nebraska",
+                "Country_Region": "Colfax, Nebraska, US",
+                "Lat": 41.57486951,
                 "Recovered": 0
             }
         },
@@ -13319,7 +13335,7 @@
                 "Confirmed": 26,
                 "Long_": -96.79371841,
                 "Province_State_Child": "Ellis",
-                "Deaths": 0,
+                "Deaths": 1,
                 "Province_State": "Ellis, Texas",
                 "Country_Region": "Ellis, Texas, US",
                 "Lat": 32.34894117,
@@ -14151,7 +14167,7 @@
                 "Confirmed": 26,
                 "Long_": -89.25832496,
                 "Province_State_Child": "Forrest",
-                "Deaths": 1,
+                "Deaths": 0,
                 "Province_State": "Forrest, Mississippi",
                 "Country_Region": "Forrest, Mississippi, US",
                 "Lat": 31.18961454,
@@ -14791,7 +14807,7 @@
                 "Confirmed": 1,
                 "Long_": -96.68946704,
                 "Province_State_Child": "Gage",
-                "Deaths": 0,
+                "Deaths": 1,
                 "Province_State": "Gage, Nebraska",
                 "Country_Region": "Gage, Nebraska, US",
                 "Lat": 40.26186809,
@@ -17719,7 +17735,7 @@
                 "Confirmed": 7,
                 "Long_": -102.3431676,
                 "Province_State_Child": "Hockley",
-                "Deaths": 0,
+                "Deaths": 1,
                 "Province_State": "Hockley, Texas",
                 "Country_Region": "Hockley, Texas, US",
                 "Lat": 33.60771256,
@@ -17767,7 +17783,7 @@
                 "Confirmed": 16,
                 "Long_": -90.08923538,
                 "Province_State_Child": "Holmes",
-                "Deaths": 2,
+                "Deaths": 1,
                 "Province_State": "Holmes, Mississippi",
                 "Country_Region": "Holmes, Mississippi, US",
                 "Lat": 33.12345854,
@@ -23728,6 +23744,22 @@
         },
         {
             "geometry": {
+                "y": 38.358553940000036,
+                "x": -97.09852509999996
+            },
+            "attributes": {
+                "Confirmed": 1,
+                "Long_": -97.0985251,
+                "Province_State_Child": "Marion",
+                "Deaths": 0,
+                "Province_State": "Marion, Kansas",
+                "Country_Region": "Marion, Kansas, US",
+                "Lat": 38.35855394,
+                "Recovered": 0
+            }
+        },
+        {
+            "geometry": {
                 "y": 37.55218078000007,
                 "x": -85.26898541999998
             },
@@ -23975,7 +24007,7 @@
                 "Confirmed": 18,
                 "Long_": -89.50299462,
                 "Province_State_Child": "Marshall",
-                "Deaths": 0,
+                "Deaths": 1,
                 "Province_State": "Marshall, Mississippi",
                 "Country_Region": "Marshall, Mississippi, US",
                 "Lat": 34.76216286,
@@ -24960,6 +24992,22 @@
         },
         {
             "geometry": {
+                "y": 41.16624273000008,
+                "x": -98.03748869999998
+            },
+            "attributes": {
+                "Confirmed": 1,
+                "Long_": -98.0374887,
+                "Province_State_Child": "Merrick",
+                "Deaths": 0,
+                "Province_State": "Merrick, Nebraska",
+                "Country_Region": "Merrick, Nebraska, US",
+                "Lat": 41.16624273,
+                "Recovered": 0
+            }
+        },
+        {
+            "geometry": {
                 "y": 43.29662971000005,
                 "x": -71.68115729999994
             },
@@ -25348,7 +25396,7 @@
                 "x": -82.15824419999996
             },
             "attributes": {
-                "Confirmed": 1,
+                "Confirmed": 2,
                 "Long_": -82.1582442,
                 "Province_State_Child": "Mitchell",
                 "Deaths": 0,
@@ -25607,7 +25655,7 @@
                 "Confirmed": 11,
                 "Long_": -88.4808438,
                 "Province_State_Child": "Monroe",
-                "Deaths": 0,
+                "Deaths": 1,
                 "Province_State": "Monroe, Mississippi",
                 "Country_Region": "Monroe, Mississippi, US",
                 "Lat": 33.89236763,
@@ -27995,6 +28043,22 @@
                 "Province_State": "Osage, Oklahoma",
                 "Country_Region": "Osage, Oklahoma, US",
                 "Lat": 36.62888819,
+                "Recovered": 0
+            }
+        },
+        {
+            "geometry": {
+                "y": 39.35034370000005,
+                "x": -98.76753827999994
+            },
+            "attributes": {
+                "Confirmed": 1,
+                "Long_": -98.76753828,
+                "Province_State_Child": "Osborne",
+                "Deaths": 0,
+                "Province_State": "Osborne, Kansas",
+                "Country_Region": "Osborne, Kansas, US",
+                "Lat": 39.3503437,
                 "Recovered": 0
             }
         },
@@ -30740,7 +30804,7 @@
                 "x": -96.73420025999997
             },
             "attributes": {
-                "Confirmed": 6,
+                "Confirmed": 8,
                 "Long_": -96.73420026,
                 "Province_State_Child": "Riley",
                 "Deaths": 0,
@@ -34196,7 +34260,7 @@
                 "x": -97.47721620999994
             },
             "attributes": {
-                "Confirmed": 1,
+                "Confirmed": 2,
                 "Long_": -97.47721621,
                 "Province_State_Child": "Sumner",
                 "Deaths": 0,
@@ -36180,7 +36244,7 @@
                 "x": -96.96813005999996
             },
             "attributes": {
-                "Confirmed": 20,
+                "Confirmed": 27,
                 "Long_": -96.96813006,
                 "Province_State_Child": "Victoria",
                 "Deaths": 0,
@@ -37572,10 +37636,10 @@
                 "x": -99.33237354999994
             },
             "attributes": {
-                "Confirmed": 63,
+                "Confirmed": 65,
                 "Long_": -99.33237355,
                 "Province_State_Child": "Webb",
-                "Deaths": 4,
+                "Deaths": 5,
                 "Province_State": "Webb, Texas",
                 "Country_Region": "Webb, Texas, US",
                 "Lat": 27.7610369,
@@ -38203,6 +38267,22 @@
                 "Province_State": "Williams, North dakota",
                 "Country_Region": "Williams, North dakota, US",
                 "Lat": 48.34522353,
+                "Recovered": 0
+            }
+        },
+        {
+            "geometry": {
+                "y": 41.56052014000005,
+                "x": -84.58429551999996
+            },
+            "attributes": {
+                "Confirmed": 1,
+                "Long_": -84.58429552,
+                "Province_State_Child": "Williams",
+                "Deaths": 0,
+                "Province_State": "Williams, Ohio",
+                "Country_Region": "Williams, Ohio, US",
+                "Lat": 41.56052014,
                 "Recovered": 0
             }
         },
@@ -38999,7 +39079,7 @@
                 "Confirmed": 11,
                 "Long_": -90.39656148,
                 "Province_State_Child": "Yazoo",
-                "Deaths": 0,
+                "Deaths": 1,
                 "Province_State": "Yazoo, Mississippi",
                 "Country_Region": "Yazoo, Mississippi, US",
                 "Lat": 32.77890365,
@@ -39548,13 +39628,24 @@
         },
         {
             "attributes": {
-                "Confirmed": 19,
-                "Long_": "21.417",
+                "Confirmed": 17,
+                "Long_": "37.583",
                 "Deaths": 0,
-                "Province_State": "Kaliningrad Oblast",
-                "Country_Region": "Kaliningrad Oblast, Russia",
-                "Lat": "54.800",
-                "Recovered": 5
+                "Province_State": "Tula Oblast",
+                "Country_Region": "Tula Oblast, Russia",
+                "Lat": "53.917",
+                "Recovered": 3
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 22,
+                "Long_": "39.433",
+                "Deaths": 0,
+                "Province_State": "Krasnodar Krai",
+                "Country_Region": "Krasnodar Krai, Russia",
+                "Lat": "45.367",
+                "Recovered": 4
             }
         },
         {
@@ -39571,34 +39662,12 @@
         {
             "attributes": {
                 "Confirmed": 17,
-                "Long_": "37.583",
+                "Long_": "50.450",
                 "Deaths": 0,
-                "Province_State": "Tula Oblast",
-                "Country_Region": "Tula Oblast, Russia",
-                "Lat": "53.917",
-                "Recovered": 3
-            }
-        },
-        {
-            "attributes": {
-                "Confirmed": 25,
-                "Long_": "46.883",
-                "Deaths": 0,
-                "Province_State": "Dagestan",
-                "Country_Region": "Dagestan, Russia",
-                "Lat": "43.100",
-                "Recovered": 0
-            }
-        },
-        {
-            "attributes": {
-                "Confirmed": 22,
-                "Long_": "39.433",
-                "Deaths": 0,
-                "Province_State": "Krasnodar Krai",
-                "Country_Region": "Krasnodar Krai, Russia",
-                "Lat": "45.367",
-                "Recovered": 4
+                "Province_State": "Samara Oblast",
+                "Country_Region": "Samara Oblast, Russia",
+                "Lat": "53.450",
+                "Recovered": 2
             }
         },
         {
@@ -39614,13 +39683,35 @@
         },
         {
             "attributes": {
-                "Confirmed": 17,
-                "Long_": "50.450",
+                "Confirmed": 19,
+                "Long_": "21.417",
                 "Deaths": 0,
-                "Province_State": "Samara Oblast",
-                "Country_Region": "Samara Oblast, Russia",
-                "Lat": "53.450",
-                "Recovered": 2
+                "Province_State": "Kaliningrad Oblast",
+                "Country_Region": "Kaliningrad Oblast, Russia",
+                "Lat": "54.800",
+                "Recovered": 5
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 31,
+                "Long_": "31.750",
+                "Deaths": 0,
+                "Province_State": "Leningrad Oblast",
+                "Country_Region": "Leningrad Oblast, Russia",
+                "Lat": "60.050",
+                "Recovered": 1
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 25,
+                "Long_": "46.883",
+                "Deaths": 0,
+                "Province_State": "Dagestan",
+                "Country_Region": "Dagestan, Russia",
+                "Lat": "43.100",
+                "Recovered": 0
             }
         },
         {
@@ -39658,23 +39749,12 @@
         },
         {
             "attributes": {
-                "Confirmed": 56,
-                "Long_": "54.467",
+                "Confirmed": 1,
+                "Long_": "118.000",
                 "Deaths": 0,
-                "Province_State": "Komi Republic",
-                "Country_Region": "Komi Republic, Russia",
-                "Lat": "64.283",
-                "Recovered": 1
-            }
-        },
-        {
-            "attributes": {
-                "Confirmed": 31,
-                "Long_": "31.750",
-                "Deaths": 0,
-                "Province_State": "Leningrad Oblast",
-                "Country_Region": "Leningrad Oblast, Russia",
-                "Lat": "60.050",
+                "Province_State": "Zabaykalsky Krai",
+                "Country_Region": "Zabaykalsky Krai, Russia",
+                "Lat": "54.000",
                 "Recovered": 1
             }
         },
@@ -39692,44 +39772,55 @@
         {
             "attributes": {
                 "Confirmed": 1,
-                "Long_": "118.000",
-                "Deaths": 0,
-                "Province_State": "Zabaykalsky Krai",
-                "Country_Region": "Zabaykalsky Krai, Russia",
-                "Lat": "54.000",
-                "Recovered": 1
-            }
-        },
-        {
-            "attributes": {
-                "Confirmed": 3,
-                "Long_": "39.200",
-                "Deaths": 0,
-                "Province_State": "Yaroslavl Oblast",
-                "Country_Region": "Yaroslavl Oblast, Russia",
-                "Lat": "57.867",
-                "Recovered": 1
-            }
-        },
-        {
-            "attributes": {
-                "Confirmed": 1,
-                "Long_": "47.100",
-                "Deaths": 0,
-                "Province_State": "Chuvashia",
-                "Country_Region": "Chuvashia, Russia",
-                "Lat": "55.550",
-                "Recovered": 0
-            }
-        },
-        {
-            "attributes": {
-                "Confirmed": 1,
                 "Long_": "47.917",
                 "Deaths": 0,
                 "Province_State": "Ulyanovsk Oblast",
                 "Country_Region": "Ulyanovsk Oblast, Russia",
                 "Lat": "53.950",
+                "Recovered": 0
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 56,
+                "Long_": "54.467",
+                "Deaths": 0,
+                "Province_State": "Komi Republic",
+                "Country_Region": "Komi Republic, Russia",
+                "Lat": "64.283",
+                "Recovered": 1
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 2,
+                "Long_": "45.317",
+                "Deaths": 0,
+                "Province_State": "Kalmykia",
+                "Country_Region": "Kalmykia, Russia",
+                "Lat": "46.567",
+                "Recovered": 0
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 3,
+                "Long_": "87.233",
+                "Deaths": 0,
+                "Province_State": "Kemerovo Oblast",
+                "Country_Region": "Kemerovo Oblast, Russia",
+                "Lat": "54.933",
+                "Recovered": 2
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 1,
+                "Long_": "33.000",
+                "Deaths": 0,
+                "Province_State": "Smolensk Oblast",
+                "Country_Region": "Smolensk Oblast, Russia",
+                "Lat": "55.000",
                 "Recovered": 0
             }
         },
@@ -39747,22 +39838,22 @@
         {
             "attributes": {
                 "Confirmed": 1,
-                "Long_": "33.000",
+                "Long_": "127.833",
                 "Deaths": 0,
-                "Province_State": "Smolensk Oblast",
-                "Country_Region": "Smolensk Oblast, Russia",
-                "Lat": "55.000",
+                "Province_State": "Amur Oblast",
+                "Country_Region": "Amur Oblast, Russia",
+                "Lat": "53.550",
                 "Recovered": 0
             }
         },
         {
             "attributes": {
                 "Confirmed": 1,
-                "Long_": "127.833",
+                "Long_": "47.100",
                 "Deaths": 0,
-                "Province_State": "Amur Oblast",
-                "Country_Region": "Amur Oblast, Russia",
-                "Lat": "53.550",
+                "Province_State": "Chuvashia",
+                "Country_Region": "Chuvashia, Russia",
+                "Lat": "55.550",
                 "Recovered": 0
             }
         },
@@ -39780,22 +39871,44 @@
         {
             "attributes": {
                 "Confirmed": 3,
-                "Long_": "87.233",
+                "Long_": "82.133",
                 "Deaths": 0,
-                "Province_State": "Kemerovo Oblast",
-                "Country_Region": "Kemerovo Oblast, Russia",
-                "Lat": "54.933",
-                "Recovered": 2
+                "Province_State": "Tomsk Oblast",
+                "Country_Region": "Tomsk Oblast, Russia",
+                "Lat": "58.750",
+                "Recovered": 1
             }
         },
         {
             "attributes": {
-                "Confirmed": 2,
-                "Long_": "45.317",
+                "Confirmed": 3,
+                "Long_": "39.200",
                 "Deaths": 0,
-                "Province_State": "Kalmykia",
-                "Country_Region": "Kalmykia, Russia",
-                "Lat": "46.567",
+                "Province_State": "Yaroslavl Oblast",
+                "Country_Region": "Yaroslavl Oblast, Russia",
+                "Lat": "57.867",
+                "Recovered": 1
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 3,
+                "Long_": "43.683",
+                "Deaths": 0,
+                "Province_State": "Kostroma Oblast",
+                "Country_Region": "Kostroma Oblast, Russia",
+                "Lat": "58.550",
+                "Recovered": 0
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 3,
+                "Long_": "36.433",
+                "Deaths": 0,
+                "Province_State": "Oryol Oblast",
+                "Country_Region": "Oryol Oblast, Russia",
+                "Lat": "52.850",
                 "Recovered": 0
             }
         },
@@ -39813,39 +39926,6 @@
         {
             "attributes": {
                 "Confirmed": 3,
-                "Long_": "82.133",
-                "Deaths": 0,
-                "Province_State": "Tomsk Oblast",
-                "Country_Region": "Tomsk Oblast, Russia",
-                "Lat": "58.750",
-                "Recovered": 1
-            }
-        },
-        {
-            "attributes": {
-                "Confirmed": 3,
-                "Long_": "36.433",
-                "Deaths": 0,
-                "Province_State": "Oryol Oblast",
-                "Country_Region": "Oryol Oblast, Russia",
-                "Lat": "52.850",
-                "Recovered": 0
-            }
-        },
-        {
-            "attributes": {
-                "Confirmed": 3,
-                "Long_": "43.683",
-                "Deaths": 0,
-                "Province_State": "Kostroma Oblast",
-                "Country_Region": "Kostroma Oblast, Russia",
-                "Lat": "58.550",
-                "Recovered": 0
-            }
-        },
-        {
-            "attributes": {
-                "Confirmed": 3,
                 "Long_": "90.000",
                 "Deaths": 0,
                 "Province_State": "Khakassia",
@@ -39857,12 +39937,12 @@
         {
             "attributes": {
                 "Confirmed": 4,
-                "Long_": "44.450",
+                "Long_": "52.750",
                 "Deaths": 0,
-                "Province_State": "Mordovia",
-                "Country_Region": "Mordovia, Russia",
-                "Lat": "54.433",
-                "Recovered": 0
+                "Province_State": "Udmurtia",
+                "Country_Region": "Udmurtia, Russia",
+                "Lat": "57.283",
+                "Recovered": 3
             }
         },
         {
@@ -39873,6 +39953,17 @@
                 "Province_State": "Altai Krai",
                 "Country_Region": "Altai Krai, Russia",
                 "Lat": "52.767",
+                "Recovered": 0
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 4,
+                "Long_": "44.450",
+                "Deaths": 0,
+                "Province_State": "Mordovia",
+                "Country_Region": "Mordovia, Russia",
+                "Lat": "54.433",
                 "Recovered": 0
             }
         },
@@ -39901,17 +39992,6 @@
         {
             "attributes": {
                 "Confirmed": 5,
-                "Long_": "134.667",
-                "Deaths": 0,
-                "Province_State": "Primorsky Krai",
-                "Country_Region": "Primorsky Krai, Russia",
-                "Lat": "45.333",
-                "Recovered": 2
-            }
-        },
-        {
-            "attributes": {
-                "Confirmed": 5,
                 "Long_": "40.600",
                 "Deaths": 0,
                 "Province_State": "Ryazan Oblast",
@@ -39929,17 +40009,6 @@
                 "Country_Region": "Kaluga Oblast, Russia",
                 "Lat": "54.433",
                 "Recovered": 1
-            }
-        },
-        {
-            "attributes": {
-                "Confirmed": 4,
-                "Long_": "52.750",
-                "Deaths": 0,
-                "Province_State": "Udmurtia",
-                "Country_Region": "Udmurtia, Russia",
-                "Lat": "57.283",
-                "Recovered": 3
             }
         },
         {
@@ -39988,6 +40057,17 @@
         },
         {
             "attributes": {
+                "Confirmed": 5,
+                "Long_": "134.667",
+                "Deaths": 0,
+                "Province_State": "Primorsky Krai",
+                "Country_Region": "Primorsky Krai, Russia",
+                "Lat": "45.333",
+                "Recovered": 2
+            }
+        },
+        {
+            "attributes": {
                 "Confirmed": 6,
                 "Long_": "69.000",
                 "Deaths": 0,
@@ -40022,6 +40102,28 @@
         {
             "attributes": {
                 "Confirmed": 7,
+                "Long_": "106.000",
+                "Deaths": 0,
+                "Province_State": "Irkutsk Oblast",
+                "Country_Region": "Irkutsk Oblast, Russia",
+                "Lat": "57.367",
+                "Recovered": 0
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 8,
+                "Long_": "43.400",
+                "Deaths": 0,
+                "Province_State": "Kabardino-Balkaria",
+                "Country_Region": "Kabardino-Balkaria, Russia",
+                "Lat": "43.583",
+                "Recovered": 0
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 7,
                 "Long_": "43.000",
                 "Deaths": 0,
                 "Province_State": "Arkhangelsk Oblast",
@@ -40043,34 +40145,12 @@
         },
         {
             "attributes": {
-                "Confirmed": 7,
-                "Long_": "106.000",
-                "Deaths": 0,
-                "Province_State": "Irkutsk Oblast",
-                "Country_Region": "Irkutsk Oblast, Russia",
-                "Lat": "57.367",
-                "Recovered": 0
-            }
-        },
-        {
-            "attributes": {
                 "Confirmed": 8,
                 "Long_": "44.117",
                 "Deaths": 0,
                 "Province_State": "Volgograd Oblast",
                 "Country_Region": "Volgograd Oblast, Russia",
                 "Lat": "49.733",
-                "Recovered": 0
-            }
-        },
-        {
-            "attributes": {
-                "Confirmed": 8,
-                "Long_": "43.400",
-                "Deaths": 0,
-                "Province_State": "Kabardino-Balkaria",
-                "Country_Region": "Kabardino-Balkaria, Russia",
-                "Lat": "43.583",
                 "Recovered": 0
             }
         },
@@ -40186,23 +40266,23 @@
         },
         {
             "attributes": {
-                "Confirmed": 10,
-                "Long_": "45.717",
-                "Deaths": 1,
-                "Province_State": "Chechnya",
-                "Country_Region": "Chechnya, Russia",
-                "Lat": "43.400",
-                "Recovered": 0
-            }
-        },
-        {
-            "attributes": {
                 "Confirmed": 12,
                 "Long_": "55.600",
                 "Deaths": 1,
                 "Province_State": "Orenburg Oblast",
                 "Country_Region": "Orenburg Oblast, Russia",
                 "Lat": "52.133",
+                "Recovered": 0
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 10,
+                "Long_": "45.717",
+                "Deaths": 1,
+                "Province_State": "Chechnya",
+                "Country_Region": "Chechnya, Russia",
+                "Lat": "43.400",
                 "Recovered": 0
             }
         },
@@ -40241,6 +40321,17 @@
         },
         {
             "attributes": {
+                "Confirmed": 177,
+                "Long_": "36.967",
+                "Deaths": 2,
+                "Province_State": "Moscow Oblast",
+                "Country_Region": "Moscow Oblast, Russia",
+                "Lat": "55.700",
+                "Recovered": 17
+            }
+        },
+        {
+            "attributes": {
                 "Confirmed": 15,
                 "Long_": "46.733",
                 "Deaths": 0,
@@ -40270,17 +40361,6 @@
                 "Country_Region": "Penza Oblast, Russia",
                 "Lat": "53.250",
                 "Recovered": 0
-            }
-        },
-        {
-            "attributes": {
-                "Confirmed": 177,
-                "Long_": "36.967",
-                "Deaths": 2,
-                "Province_State": "Moscow Oblast",
-                "Country_Region": "Moscow Oblast, Russia",
-                "Lat": "55.700",
-                "Recovered": 17
             }
         },
         {
@@ -48342,7 +48422,7 @@
         },
         {
             "attributes": {
-                "Confirmed": 4,
+                "Confirmed": 12,
                 "Long_": " 79.99",
                 "Deaths": -1,
                 "Province_State": "S.P.S. Nellore, Andhra Pradesh",
@@ -48386,7 +48466,7 @@
         },
         {
             "attributes": {
-                "Confirmed": 11,
+                "Confirmed": 14,
                 "Long_": " 83.29778",
                 "Deaths": -1,
                 "Province_State": "Visakhapatnam, Andhra Pradesh",
@@ -48507,7 +48587,7 @@
         },
         {
             "attributes": {
-                "Confirmed": 31,
+                "Confirmed": 38,
                 "Long_": " 72.58",
                 "Deaths": -1,
                 "Province_State": "Ahmadabad, Gujarat",
@@ -50783,12 +50863,12 @@
         {
             "attributes": {
                 "Confirmed": 3,
-                "Long_": "106.298904",
+                "Long_": "105.309448",
                 "Deaths": 0,
-                "Province_State": "Trà Vinh",
-                "Country_Region": "Trà Vinh, Việt Nam",
-                "Lat": "9.813946",
-                "Recovered": 0
+                "Province_State": "Thanh Hóa",
+                "Country_Region": "Thanh Hóa, Việt Nam",
+                "Lat": "20.141049",
+                "Recovered": 1
             }
         },
         {
@@ -50800,6 +50880,28 @@
                 "Country_Region": "Ninh Bình, Việt Nam",
                 "Lat": "20.250924",
                 "Recovered": 1
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 3,
+                "Long_": "106.298904",
+                "Deaths": 0,
+                "Province_State": "Trà Vinh",
+                "Country_Region": "Trà Vinh, Việt Nam",
+                "Lat": "9.813946",
+                "Recovered": 0
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 4,
+                "Long_": "105.682983",
+                "Deaths": 0,
+                "Province_State": "Đồng Tháp",
+                "Country_Region": "Đồng Tháp, Việt Nam",
+                "Lat": "10.575572",
+                "Recovered": 0
             }
         },
         {
@@ -50826,13 +50928,13 @@
         },
         {
             "attributes": {
-                "Confirmed": 4,
-                "Long_": "105.682983",
+                "Confirmed": 6,
+                "Long_": "108.220556",
                 "Deaths": 0,
-                "Province_State": "Đồng Tháp",
-                "Country_Region": "Đồng Tháp, Việt Nam",
-                "Lat": "10.575572",
-                "Recovered": 0
+                "Province_State": "Đà Nẵng",
+                "Country_Region": "Đà Nẵng, Việt Nam",
+                "Lat": "16.031944",
+                "Recovered": 3
             }
         },
         {
@@ -50844,39 +50946,6 @@
                 "Country_Region": "Quảng Ninh, Việt Nam",
                 "Lat": "21.250982",
                 "Recovered": 0
-            }
-        },
-        {
-            "attributes": {
-                "Confirmed": 3,
-                "Long_": "105.309448",
-                "Deaths": 0,
-                "Province_State": "Thanh Hóa",
-                "Country_Region": "Thanh Hóa, Việt Nam",
-                "Lat": "20.141049",
-                "Recovered": 1
-            }
-        },
-        {
-            "attributes": {
-                "Confirmed": 50,
-                "Long_": "106.681944",
-                "Deaths": 0,
-                "Province_State": "TP. Hồ Chí Minh",
-                "Country_Region": "TP. Hồ Chí Minh, Việt Nam",
-                "Lat": "10.769444",
-                "Recovered": 15
-            }
-        },
-        {
-            "attributes": {
-                "Confirmed": 6,
-                "Long_": "108.220556",
-                "Deaths": 0,
-                "Province_State": "Đà Nẵng",
-                "Country_Region": "Đà Nẵng, Việt Nam",
-                "Lat": "16.031944",
-                "Recovered": 3
             }
         },
         {
@@ -50903,24 +50972,13 @@
         },
         {
             "attributes": {
-                "Confirmed": 1,
-                "Long_": "106.376152",
+                "Confirmed": 50,
+                "Long_": "106.681944",
                 "Deaths": 0,
-                "Province_State": "Bến Tre",
-                "Country_Region": "Bến Tre, Việt Nam",
-                "Lat": "10.248371",
-                "Recovered": 0
-            }
-        },
-        {
-            "attributes": {
-                "Confirmed": 1,
-                "Long_": "105.923996",
-                "Deaths": 0,
-                "Province_State": "Hà Nam",
-                "Country_Region": "Hà Nam, Việt Nam",
-                "Lat": "20.585867",
-                "Recovered": 0
+                "Province_State": "TP. Hồ Chí Minh",
+                "Country_Region": "TP. Hồ Chí Minh, Việt Nam",
+                "Lat": "10.769444",
+                "Recovered": 15
             }
         },
         {
@@ -50948,66 +51006,11 @@
         {
             "attributes": {
                 "Confirmed": 1,
-                "Long_": "106.073406",
+                "Long_": "105.923996",
                 "Deaths": 0,
-                "Province_State": "Bắc Ninh",
-                "Country_Region": "Bắc Ninh, Việt Nam",
-                "Lat": "21.187548",
-                "Recovered": 0
-            }
-        },
-        {
-            "attributes": {
-                "Confirmed": 2,
-                "Long_": "105.907345",
-                "Deaths": 0,
-                "Province_State": "Hà Tĩnh",
-                "Country_Region": "Hà Tĩnh, Việt Nam",
-                "Lat": "18.341002",
-                "Recovered": 0
-            }
-        },
-        {
-            "attributes": {
-                "Confirmed": 2,
-                "Long_": "108.99028",
-                "Deaths": 0,
-                "Province_State": "Ninh Thuận",
-                "Country_Region": "Ninh Thuận, Việt Nam",
-                "Lat": "11.56556",
-                "Recovered": 2
-            }
-        },
-        {
-            "attributes": {
-                "Confirmed": 2,
-                "Long_": "106.119003",
-                "Deaths": 0,
-                "Province_State": "Tây Ninh",
-                "Country_Region": "Tây Ninh, Việt Nam",
-                "Lat": "11.367795",
-                "Recovered": 0
-            }
-        },
-        {
-            "attributes": {
-                "Confirmed": 2,
-                "Long_": "104.15786",
-                "Deaths": 0,
-                "Province_State": "Lào Cai",
-                "Country_Region": "Lào Cai, Việt Nam",
-                "Lat": "22.379997",
-                "Recovered": 0
-            }
-        },
-        {
-            "attributes": {
-                "Confirmed": 2,
-                "Long_": "105.493469",
-                "Deaths": 0,
-                "Province_State": "Bạc Liêu",
-                "Country_Region": "Bạc Liêu, Việt Nam",
-                "Lat": "9.312214",
+                "Province_State": "Hà Nam",
+                "Country_Region": "Hà Nam, Việt Nam",
+                "Lat": "20.585867",
                 "Recovered": 0
             }
         },
@@ -51025,11 +51028,88 @@
         {
             "attributes": {
                 "Confirmed": 2,
+                "Long_": "108.99028",
+                "Deaths": 0,
+                "Province_State": "Ninh Thuận",
+                "Country_Region": "Ninh Thuận, Việt Nam",
+                "Lat": "11.56556",
+                "Recovered": 2
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 2,
+                "Long_": "105.907345",
+                "Deaths": 0,
+                "Province_State": "Hà Tĩnh",
+                "Country_Region": "Hà Tĩnh, Việt Nam",
+                "Lat": "18.341002",
+                "Recovered": 0
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 2,
+                "Long_": "105.493469",
+                "Deaths": 0,
+                "Province_State": "Bạc Liêu",
+                "Country_Region": "Bạc Liêu, Việt Nam",
+                "Lat": "9.312214",
+                "Recovered": 0
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 1,
+                "Long_": "106.376152",
+                "Deaths": 0,
+                "Province_State": "Bến Tre",
+                "Country_Region": "Bến Tre, Việt Nam",
+                "Lat": "10.248371",
+                "Recovered": 0
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 2,
                 "Long_": "105.784092",
                 "Deaths": 0,
                 "Province_State": "Cần Thơ",
                 "Country_Region": "Cần Thơ, Việt Nam",
                 "Lat": "10.032415",
+                "Recovered": 0
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 2,
+                "Long_": "106.119003",
+                "Deaths": 0,
+                "Province_State": "Tây Ninh",
+                "Country_Region": "Tây Ninh, Việt Nam",
+                "Lat": "11.367795",
+                "Recovered": 0
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 1,
+                "Long_": "106.073406",
+                "Deaths": 0,
+                "Province_State": "Bắc Ninh",
+                "Country_Region": "Bắc Ninh, Việt Nam",
+                "Lat": "21.187548",
+                "Recovered": 0
+            }
+        },
+        {
+            "attributes": {
+                "Confirmed": 2,
+                "Long_": "104.15786",
+                "Deaths": 0,
+                "Province_State": "Lào Cai",
+                "Country_Region": "Lào Cai, Việt Nam",
+                "Lat": "22.379997",
                 "Recovered": 0
             }
         },
